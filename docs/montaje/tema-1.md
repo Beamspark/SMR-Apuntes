@@ -124,7 +124,6 @@ Dispositivo que proporciona alimentación a los equipos cuando ocurre un corte d
 - **Potencia Real (W):** Potencia en vatios consumida realmente por los equipos.
 - **Potencia Aparente (VA):** Resultado de multiplicar Voltios por Amperios ($V \times A$).
 - **Factor de Potencia (FP):** Relación entre vatios y voltamperios ($\frac{W}{VA}$). Su valor se sitúa siempre **entre 0 y 1**.
---8<-- "docs/includes/glosario.md"
 
 ---
 
@@ -134,3 +133,5 @@ Un SAI profesional dispone de salidas de comunicación de control (puerto serie 
 
 1. **Primera salida (Señal de fallo de red):** Identifica cuando el SAI pasa a modo batería. Permite al sistema operativo iniciar automáticamente un script de **apagado seguro**, cerrar aplicaciones y desactivar la fuente.
 2. **Segunda salida (Señal de batería baja):** Emite una advertencia crítica indicando que la reserva de energía de la batería está a punto de agotarse.
+
+--8<-- "docs/includes/glosario.md"
