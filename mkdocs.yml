@@ -1,0 +1,18 @@
+site_name: Cuaderno Técnico SMR - Luis
+site_description: Apuntes y documentación técnica del grado de Sistemas Microinformáticos y Redes.
+site_author: Luis
+
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: pink
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+nav:
+  - Inicio: index.md
+  - Montaje y Mantenimiento:
+      - Tema 1 - Parámetros Eléctricos: montaje/tema-1.md
