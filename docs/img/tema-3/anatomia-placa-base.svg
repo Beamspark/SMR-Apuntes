@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 850" width="100%">
+  <!-- Fondo Base -->
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+  
+  <!-- Título Principal -->
+  <rect x="150" y="30" width="500" height="60" rx="8" fill="#262a36" stroke="#ab47bc" stroke-width="3"/>
+  <text x="400" y="68" fill="#ab47bc" font-size="28" font-weight="bold" font-family="sans-serif" text-anchor="middle">ANATOMÍA DE LA PLACA BASE</text>
+  <text x="400" y="115" fill="#eceff1" font-size="16" font-family="sans-serif" text-anchor="middle">Estructura y componentes clave para entender el hardware</text>
+
+  <!-- BLOQUE 1: EL NÚCLEO (Izquierda Arriba) -->
+  <rect x="30" y="150" width="355" height="280" rx="10" fill="#262a36" stroke="#29b6f6" stroke-width="2"/>
+  <text x="207" y="185" fill="#29b6f6" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle">1 - EL NÚCLEO (Procesamiento)</text>
+  
+  <!-- CPU Icon -->
+  <rect x="70" y="210" width="80" height="80" rx="6" fill="#37474f" stroke="#78909c" stroke-width="2"/>
+  <rect x="80" y="220" width="60" height="60" rx="4" fill="#eceff1"/>
+  <text x="110" y="255" fill="#37474f" font-size="16" font-weight="bold" font-family="sans-serif" text-anchor="middle">CPU</text>
+  <text x="110" y="315" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Zócalo (Socket)</text>
+  
+  <!-- Ranura Slot Icon -->
+  <rect x="250" y="220" width="30" height="70" rx="3" fill="#26a69a"/>
+  <rect x="255" y="230" width="20" height="20" fill="#1e1e24"/>
+  <text x="265" y="315" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Ranura (Slot)</text>
+  <text x="265" y="335" fill="#b0bec5" font-size="12" font-family="sans-serif" text-anchor="middle">Formato vertical histórico</text>
+  
+  <!-- Buses Icon -->
+  <path d="M 120 370 L 290 370 M 120 380 L 290 380 M 120 390 L 290 390" fill="none" stroke="#ab47bc" stroke-width="2"/>
+  <rect x="175" y="360" width="60" height="40" fill="#37474f" stroke="#ab47bc" stroke-width="2"/>
+  <text x="205" y="385" fill="#eceff1" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">BUSES</text>
+  <text x="207" y="415" fill="#b0bec5" font-size="12" font-family="sans-serif" text-anchor="middle">Autopistas de datos internos</text>
+
+  <!-- BLOQUE 2: MEMORIA Y EXPANSIÓN (Derecha Arriba) -->
+  <rect x="415" y="150" width="355" height="280" rx="10" fill="#262a36" stroke="#26a69a" stroke-width="2"/>
+  <text x="592" y="185" fill="#26a69a" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle">2 - MEMORIA Y EXPANSIÓN</text>
+  
+  <!-- RAM Icon -->
+  <rect x="450" y="220" width="120" height="15" fill="#37474f" stroke="#ffb74d"/>
+  <rect x="450" y="245" width="120" height="15" fill="#37474f" stroke="#29b6f6"/>
+  <rect x="450" y="270" width="120" height="15" fill="#37474f" stroke="#ffb74d"/>
+  <text x="510" y="315" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Ranuras RAM</text>
+  <text x="510" y="335" fill="#b0bec5" font-size="12" font-family="sans-serif" text-anchor="middle">Identificables por colores</text>
+  
+  <!-- PCIe Icon -->
+  <rect x="620" y="220" width="100" height="20" fill="#ab47bc"/>
+  <rect x="620" y="260" width="60" height="15" fill="#78909c"/>
+  <text x="670" y="315" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Expansión (PCIe)</text>
+  <text x="670" y="335" fill="#b0bec5" font-size="12" font-family="sans-serif" text-anchor="middle">Gráficas, red, sonido</text>
+  
+  <rect x="500" y="370" width="180" height="15" rx="3" fill="#37474f" stroke="#eceff1"/>
+  <text x="592" y="415" fill="#b0bec5" font-size="12" font-family="sans-serif" text-anchor="middle">Punto físico de conexión para dispositivos</text>
+
+  <!-- BLOQUE 3: CONTROL Y ARRANQUE (Izquierda Abajo) -->
+  <rect x="30" y="450" width="355" height="280" rx="10" fill="#262a36" stroke="#ffb74d" stroke-width="2"/>
+  <text x="207" y="485" fill="#ffb74d" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle">3 - EL CEREBRO INVISIBLE</text>
+  
+  <!-- BIOS Icon -->
+  <rect x="80" y="520" width="50" height="50" fill="#37474f" stroke="#ffb74d" stroke-width="2"/>
+  <text x="105" y="550" fill="#ffb74d" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">BIOS</text>
+  <text x="105" y="600" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">BIOS / UEFI</text>
+  <text x="105" y="620" fill="#b0bec5" font-size="12" font-family="sans-serif" text-anchor="middle">Software maestro</text>
+  
+  <!-- Flash Icon -->
+  <rect x="250" y="520" width="60" height="40" rx="4" fill="#37474f" stroke="#78909c" stroke-width="2"/>
+  <text x="280" y="600" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Memoria Flash</text>
+  <text x="280" y="620" fill="#b0bec5" font-size="12" font-family="sans-serif" text-anchor="middle">Instrucciones de arranque</text>
+  
+  <!-- CMOS Icon -->
+  <rect x="130" y="650" width="50" height="50" rx="4" fill="#37474f" stroke="#29b6f6"/>
+  <circle cx="210" cy="675" r="25" fill="#eceff1" stroke="#b0bec5" stroke-width="4"/>
+  <text x="210" y="679" fill="#37474f" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">CR2032</text>
+  <text x="207" y="720" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Memoria CMOS + Pila</text>
+
+  <!-- BLOQUE 4: CONECTIVIDAD (Derecha Abajo) -->
+  <rect x="415" y="450" width="355" height="280" rx="10" fill="#262a36" stroke="#ab47bc" stroke-width="2"/>
+  <text x="592" y="485" fill="#ab47bc" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle">4 - CONECTIVIDAD (Datos y Energía)</text>
+  
+  <!-- ATX / Energia Icon -->
+  <rect x="450" y="520" width="80" height="30" fill="#1e1e24" stroke="#eceff1" stroke-width="2" stroke-dasharray="8,8"/>
+  <text x="490" y="580" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Energía (ATX)</text>
+  
+  <!-- SATA / USB Icon -->
+  <rect x="630" y="515" width="40" height="15" fill="#e57373"/>
+  <rect x="630" y="540" width="50" height="15" fill="#78909c"/>
+  <text x="650" y="580" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Conectores Int.</text>
+  
+  <!-- Panel Trasero Icon -->
+  <rect x="450" y="630" width="150" height="40" rx="2" fill="#37474f" stroke="#78909c" stroke-width="2"/>
+  <circle cx="470" cy="650" r="6" fill="#ab47bc"/>
+  <circle cx="490" cy="650" r="6" fill="#66bb6a"/>
+  <rect x="510" y="640" width="20" height="10" fill="#29b6f6"/>
+  <rect x="540" y="640" width="20" height="10" fill="#e57373"/>
+  <text x="525" y="695" fill="#eceff1" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Conectores Externos (I/O)</text>
+  
+  <!-- Footer -->
+  <rect x="150" y="760" width="500" height="50" rx="8" fill="#ab47bc"/>
+  <text x="400" y="792" fill="#ffffff" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle">LA PLACA BASE: EL CORAZÓN QUE CONECTA TODO</text>
+</svg>
