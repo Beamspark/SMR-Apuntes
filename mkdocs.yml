@@ -5,8 +5,8 @@ site_author: Luis
 theme:
   name: material
   palette:
-    primary: deep purple
-    accent: pink
+    primary: indigo
+    accent: indigo
   features:
     - navigation.tabs
     - navigation.sections
@@ -16,3 +16,9 @@ nav:
   - Inicio: index.md
   - Montaje y Mantenimiento:
       - Tema 1 - Parámetros Eléctricos: montaje/tema-1.md
+  - Sistemas Operativos Monopuesto:
+      - Introducción: sistemas/index.md
+  - Digitalización Aplicada:
+      - Introducción: digitalizacion/index.md
+  - Itinerario Personal (IPE I):
+      - Introducción: ipe/index.md
