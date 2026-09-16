@@ -5,7 +5,7 @@
 - **Electricidad:** Flujo de cargas eléctricas utilizado como fuente de energía para el funcionamiento de los dispositivos que integran un sistema informático.
 - **Señales:** Representaciones eléctricas o electromagnéticas de los datos. Se clasifican en:
   - **Analógicas:** Varían de forma **continua** a lo largo del tiempo. Pueden tomar infinitos valores dentro de un rango.
-  - **Digitales:** Utilizan un número **discreto y determinado de niveles de tensión constantes** (por ejemplo, dos niveles en las señales binarias: `0` y `1`).
+  - **Digitales:** Utilizan un número **discreto y determinado de niveles de tensión constantes** (por ejemplo, dos niveles en las señales binarias: **0** y **1**).
 
 ### Métodos de Análisis de Señales
 * **Dominio del tiempo:** Analiza las variables temporales de la señal mediante los parámetros de **amplitud**, **frecuencia** y **fase**.
@@ -16,20 +16,22 @@
 ## 2. Magnitudes Eléctricas Básicas y Fórmulas
 
 * **Carga eléctrica:** Exceso o defecto de electrones que posee un objeto debido al flujo de electrones entre átomos. Los átomos se cargan eléctricamente formando **iones** al ganar o perder electrones.
-  - **Equivalencia física:** $1 \text{ culombio} = 6,3 \cdot 10^{18} \text{ electrones}$.
-* **Voltaje / Tensión eléctrica ($V$):** 
+  - **Equivalencia física:** 1 culombio = $6,3 \cdot 10^{18}$ electrones.
+* **Voltaje / Tensión eléctrica (V):** 
   - Un átomo con más electrones que protones tiene potencial eléctrico negativo (**ion negativo**).
   - Un átomo con menos electrones que protones tiene potencial eléctrico positivo (**ion positivo**).
-  - La **diferencia de potencial** entre dos cuerpos indica la diferencia de cargas entre ellos y se mide en **voltios ($V$)**. El paso de electrones entre cuerpos constituye la corriente eléctrica.
-* **Intensidad ($I$):** Cantidad de corriente que atraviesa un conductor en un tiempo determinado. Se mide en **amperios ($A$)** mediante un **amperímetro**.
-* **Resistencia ($R$):** Oposición al paso de la corriente eléctrica. Se mide en **ohmios ($\Omega$)** utilizando un **ohmímetro**.
-* **Potencia ($P$):** Magnitud que relaciona el trabajo realizado con el tiempo invertido en llevarlo a cabo. Se mide en **vatios ($W$)**.
+  - La **diferencia de potencial** entre dos cuerpos indica la diferencia de cargas entre ellos y se mide en **voltios (V)**. El paso de electrones entre cuerpos constituye la corriente eléctrica.
+* **Intensidad (I):** Cantidad de corriente que atraviesa un conductor en un tiempo determinado. Se mide en **amperios (A)** mediante un **amperímetro**.
+* **Resistencia (R):** Oposición al paso de la corriente eléctrica. Se mide en **ohmios (Ω)** utilizando un **ohmímetro**.
+* **Potencia (P):** Magnitud que relaciona el trabajo realizado con el tiempo invertido en llevarlo a cabo. Se mide en **vatios (W)**.
 
-> 💡 **Formulario Principal (Ley de Ohm y Potencia):**
-> 
-> $$I = \frac{V}{R} \quad \iff \quad V = I \cdot R$$
-> 
-> $$P = V \cdot I$$
+---
+
+### Formulario Principal (Ley de Ohm y Potencia)
+
+$$I = \frac{V}{R} \quad \iff \quad V = I \cdot R$$
+
+$$P = V \cdot I$$
 
 ---
 
@@ -39,14 +41,14 @@
 * **Corriente Alterna (A.C. / AC):** Cambia **periódicamente la polaridad** en los extremos del conductor y el sentido del flujo de electrones, dibujando una onda cíclica que se repite en el tiempo (**periodo**).
 
 ### Parámetros de la Onda de Corriente Alterna
-- **Frecuencia ($f$):** Número de ciclos completos por segundo (se mide en Hertzios, **Hz**). Es el intervalo de corriente desde que la onda pasa por un punto concreto hasta que vuelve a pasar por ese mismo punto.
+- **Frecuencia (f):** Número de ciclos completos por segundo (se mide en Hertzios, **Hz**). Es el intervalo de corriente desde que la onda pasa por un punto concreto hasta que vuelve a pasar por ese mismo punto.
 - **Amplitud:** Distancia máxima entre el punto medio de la onda y su punto más alejado (**cresta** o **valle**).
 
 ---
 
 ## 4. Instrumentos de Medida y Conexión en Circuito
 
-- **Voltímetro (Medición de Tensión):** Se conecta en **PARALELO** con el componente. En corriente continua (donde existe polarización), se coloca el cable rojo en el polo positivo ($+$) y el negro en el negativo ($-$).
+- **Voltímetro (Medición de Tensión):** Se conecta en **PARALELO** con el componente. En corriente continua (donde existe polarización), se coloca el cable rojo en el polo positivo (+) y el negro en el negativo (-).
 - **Amperímetro (Medición de Intensidad):** Se conecta en **SERIE**, lo que exige **abrir el circuito** e intercalar el aparato con el componente.
 - **Polímetro / Multímetro:** Dispositivo electrónico capaz de medir distintas magnitudes mediante un conmutador selector (tensiones en AC/DC, intensidades en AC/DC y resistencias).
 
@@ -60,9 +62,9 @@
 
 | Propiedad | Circuito en **Serie** (Un único camino) | Circuito en **Paralelo** (Elementos interconectados) |
 | :--- | :--- | :--- |
-| **Intensidad ($I$)** | Es la misma en todos los elementos:<br>$I_t = I_1 = I_2 = I_3 = \dots$ | La intensidad total es la suma de las ramas:<br>$I_t = I_1 + I_2 + I_3 + \dots$ |
-| **Tensión ($V$)** | La tensión total es la suma de cada caída:<br>$V_t = V_1 + V_2 + V_3 + \dots$ | Todos los elementos tienen la misma tensión:<br>$V_t = V_1 = V_2 = V_3 = \dots$ |
-| **Resistencia ($R$)** | Suma directa de resistencias:<br>$R_t = R_1 + R_2 + R_3 + \dots$ | Suma inversa de resistencias:<br>$\frac{1}{R_t} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots$ |
+| **Intensidad (I)** | Es la misma en todos los elementos:<br>$I_t = I_1 = I_2 = I_3 = \dots$ | La intensidad total es la suma de las ramas:<br>$I_t = I_1 + I_2 + I_3 + \dots$ |
+| **Tensión (V)** | La tensión total es la suma de cada caída:<br>$V_t = V_1 + V_2 + V_3 + \dots$ | Todos los elementos tienen la misma tensión:<br>$V_t = V_1 = V_2 = V_3 = \dots$ |
+| **Resistencia (R)** | Suma directa de resistencias:<br>$R_t = R_1 + R_2 + R_3 + \dots$ | Suma inversa de resistencias:<br>$\frac{1}{R_t} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots$ |
 
 ---
 
@@ -83,8 +85,8 @@ La fuente de alimentación conecta el equipo a la red eléctrica y a la placa ba
 
 ## 6. Especificaciones Técnicas de la Fuente de Alimentación
 
-- **Potencia:** Se mide en **vatios ($W$)** (modelos comerciales de 500W, 600W, 1000W+). Debe dimensionarse según el consumo: si es escasa, generará sobrecalentamiento y ruido; si es holgada, trabajará en su curva de mejor rendimiento.
-- **Eficiencia:** Porcentaje fijado por el fabricante que relaciona la potencia aprovechada frente a la desaprovechada (disipada en calor). Se considera aceptable a partir del **80% de eficiencia** (Certificaciones *80 PLUS*).
+- **Potencia:** Se mide en **vatios (W)** (modelos comerciales de 500W, 600W, 1000W+). Debe dimensionarse según el consumo: si es escasa, generará sobrecalentamiento y ruido; si es holgada, trabajará en su curva de mejor rendimiento.
+- **Eficiencia:** Porcentaje fijado por el fabricante que relaciona la potencia aprovechada frente a la desaprovechada (disipada en calor). Se considera aceptable a partir del **80% de eficiencia** (Certificaciones **80 PLUS**).
 - **Factores condicionales:** Formato físico (determina la compatibilidad con la caja: ATX, SFX), variedad de conectores disponibles (SATA, PCIe, ATX 24 pines) y efectividad o ruido del ventilador.
 
 ---
@@ -115,13 +117,13 @@ Dispositivo que proporciona alimentación a los equipos cuando ocurre un corte d
 #### Tipos de SAI
 1. **SAI Standby / Off-line Pasivo:** Conectado en paralelo a la corriente; **solo se activa en caso de apagón o caída drástica de tensión** (existe un pequeño microsegundo de conmutación).
 2. **SAI Off-line Interactivo (Line-Interactive):** Conectado en serie; permanece siempre preparado y cuenta con un **regulador de tensión (AVR)** que protege contra sobrevoltajes y picos sin gastar batería.
-3. **SAI On-line de Doble Conversión:** La conversión se efectúa **continuamente desde el inversor** (AC $\rightarrow$ DC $\rightarrow$ AC). Ofrece máxima calidad de filtrado, aislamiento total de la red y cero tiempo de conmutación. Ideal para servidores.
+3. **SAI On-line de Doble Conversión:** La conversión se efectúa **continuamente desde el inversor** (AC -> DC -> AC). Ofrece máxima calidad de filtrado, aislamiento total de la red y cero tiempo de conmutación. Ideal para servidores.
 
 #### Parámetros de Medida en un SAI
 - **Tiempo de autonomía:** Tiempo (en minutos) que el SAI mantiene con vida los equipos sin red de entrada.
-- **Potencia Real ($W$):** Potencia en vatios consumida realmente por los equipos.
-- **Potencia Aparente ($VA$):** Resultado de multiplicar Voltios por Amperios ($V \times A$).
-- **Factor de Potencia ($FP$):** Relación entre vatios y voltamperios ($\frac{W}{VA}$). Su valor se sitúa siempre **entre 0 y 1**.
+- **Potencia Real (W):** Potencia en vatios consumida realmente por los equipos.
+- **Potencia Aparente (VA):** Resultado de multiplicar Voltios por Amperios ($V \times A$).
+- **Factor de Potencia (FP):** Relación entre vatios y voltamperios ($\frac{W}{VA}$). Su valor se sitúa siempre **entre 0 y 1**.
 
 ---
 
