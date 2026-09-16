@@ -24,6 +24,7 @@ extra_javascript:
 nav:
   - Inicio: index.md
   - Montaje y Mantenimiento:
+      - Vista General: montaje/index.md
       - Tema 1 - Medición de Parámetros Eléctricos: montaje/tema-1.md
       - Tema 2 - Prevención de Riesgos Laborales: montaje/tema-2.md
       - Tema 3 - Bloques Funcionales del PC: montaje/tema-3.md
