@@ -1,8 +1,8 @@
-# 🖥️ Tema 3 — Identificación de los Bloques Funcionales de un Sistema Microinformático
+<h1 style="color: #ab47bc;">🖥️ Tema 3 — Identificación de los Bloques Funcionales de un Sistema Microinformático</h1>
 
-## 1. Arquitectura General y Funciones de Cada Bloque (Modelo Von Neumann)
+<h2 style="color: #29b6f6;">1. Arquitectura General y Funciones de Cada Bloque (Modelo Von Neumann)</h2>
 
-Un equipo informático se estructura físicamente en la **CPU** (***C***entral ***P***rocessing ***U***nit), los **periféricos internos** (dentro de la caja) y los **periféricos externos de entrada/salida** (**E/S** / **I/O** - ***I***nput/***O***utput). Su organización interna sigue el **modelo de Von Neumann**:
+Un equipo informático se estructura físicamente en la **CPU** (***C***entral ***P***rocessing ***U***nit), los **periféricos internos** (dentro de la caja) y los **periféricos externos de entrada/salida** (**E/S** / **I/O** - ***I***nput/***O***utput). Su organización interna sigue el <span style="color: #ab47bc;">modelo de Von Neumann</span>:
 
 * **CPU (Unidad Central de Proceso):** Núcleo del sistema que integra:
   - **Unidad de Control (**UC** / **CU** - ***C***ontrol ***U***nit):** Interpreta y gestiona las instrucciones.
@@ -18,9 +18,9 @@ Un equipo informático se estructura físicamente en la **CPU** (***C***entral *
 
 ---
 
-## 2. Reconocimiento de la Arquitectura de Buses
+<h2 style="color: #29b6f6;">2. Reconocimiento de la Arquitectura de Buses</h2>
 
-Los **buses** son las vías de comunicación compuestas por líneas de circuitos impresos o cables por donde circula la información entre los distintos bloques del equipo:
+Los <span style="color: #ab47bc;">buses</span> son las vías de comunicación compuestas por líneas de circuitos impresos o cables por donde circula la información entre los distintos bloques del equipo:
 
 ### Tipos de Señales Gestionadas por los Buses
 - **Bus de Datos:** Transporta la información o valores numéricos entre componentes.
@@ -35,7 +35,7 @@ Los **buses** son las vías de comunicación compuestas por líneas de circuitos
 
 ---
 
-## 3. Características de la Placa Base y Componentes
+<h2 style="color: #29b6f6;">3. Características de la Placa Base y Componentes</h2>
 
 La **placa base** es el elemento determinante para comprobar las compatibilidades físicas y electrónicas de todo el equipo.
 
@@ -49,7 +49,7 @@ La **placa base** es el elemento determinante para comprobar las compatibilidade
 
 ### Factor de Forma
 Define las dimensiones físicas, orientación, conectores, puntos de anclaje, zócalos y tipo de fuente de alimentación requerida.
-- **Factores más usuales:** **ATX**, **Micro ATX**, **Mini ITX**, **DTX** y **BTX**.
+- **Factores más usuales:** <span style="color: #ab47bc;">**ATX**</span>, **Micro ATX**, **Mini ITX**, **DTX** y **BTX**.
 
 ### Componentes Principales
 - **Zócalo del microprocesador:** Lugar donde se conecta el procesador para interactuar con la placa.
@@ -61,7 +61,7 @@ Define las dimensiones físicas, orientación, conectores, puntos de anclaje, z�
 
 ---
 
-## 4. Dispositivos Integrados en Placa y Software de Base
+<h2 style="color: #29b6f6;">4. Dispositivos Integrados en Placa y Software de Base</h2>
 
 ### Conexión del Microprocesador
 - **Zócalo (socket):** Conector plano matrizado formado por un gran número de orificios/contactos sobre el que se apoya el procesador.
@@ -84,7 +84,7 @@ Define las dimensiones físicas, orientación, conectores, puntos de anclaje, z�
 
 ---
 
-## 5. Características de los Microprocesadores
+<h2 style="color: #29b6f6;">5. Características de los Microprocesadores</h2>
 
 El microprocesador constituye, junto a la placa base, el núcleo principal de la **CPU**.
 
@@ -98,11 +98,11 @@ Se mide en megahercios (**MHz**) o gigahercios (**GHz**, $1 \text{ GHz} = 1.000 
 - **Voltaje interno (núcleo / core):** Tensión de trabajo del núcleo, reducida para minimizar la temperatura.
 
 ### Memoria Caché
-Memorias ultrarrápidas de baja capacidad integradas cerca del núcleo organizadas en niveles **L1** (interna), **L2** y **L3**.
+Memorias ultrarrápidas de baja capacidad integradas cerca del núcleo organizadas en niveles <span style="color: #ab47bc;">**L1** (interna), **L2** y **L3**</span>.
 
 ---
 
-## 6. Control de Temperatura y Refrigeración
+<h2 style="color: #29b6f6;">6. Control de Temperatura y Refrigeración</h2>
 
 Para evitar errores de funcionamiento o el quemado del chip, se emplean sistemas de refrigeración por aire:
 
@@ -111,12 +111,12 @@ Para evitar errores de funcionamiento o el quemado del chip, se emplean sistemas
 
 ---
 
-## 7. Memorias Principales: La Memoria RAM y sus Tipos
+<h2 style="color: #29b6f6;">7. Memorias Principales: La Memoria RAM y sus Tipos</h2>
 
 La **RAM** (***R***andom ***A***ccess ***M***emory) es la memoria principal de lectura y escritura; es **volátil** porque requiere energía constante. Permite el acceso aleatorio directo a cualquier celda.
 
 - **Parámetros de trabajo:** Refresco (recarga eléctrica periódica), Transferencia de datos, Frecuencia del bus e Índice PC.
-- **Tecnología Dual Channel:** Permite al controlador de memoria acceder simultáneamente a dos módulos de memoria RAM de 64 bits, sumando un ancho de banda total de **128 bits** al colocarlos en los zócalos DIMM emparejados del mismo color.
+- **Tecnología Dual Channel:** Permite al controlador de memoria acceder simultáneamente a dos módulos de memoria RAM de 64 bits, sumando un ancho de banda total de <span style="color: #ab47bc;">**128 bits**</span> al colocarlos en los zócalos DIMM emparejados del mismo color.
 
 | Tipo de RAM | Características Clave |
 | :--- | :--- |
@@ -130,7 +130,7 @@ La **RAM** (***R***andom ***A***ccess ***M***emory) es la memoria principal de l
 
 ---
 
-## 8. Almacenamiento Secundario Masivo
+<h2 style="color: #29b6f6;">8. Almacenamiento Secundario Masivo</h2>
 
 Almacenamiento no volátil, permanente, de gran capacidad y menor coste por megabyte que la **RAM**.
 
@@ -155,7 +155,7 @@ Graban información creando microhoyos (*pits*) mediante un haz láser.
 
 ---
 
-## 9. Adaptador Gráfico y Monitor
+<h2 style="color: #29b6f6;">9. Adaptador Gráfico y Monitor</h2>
 
 La tarjeta gráfica procesa la información que se muestra en la pantalla. Puede estar integrada en el procesador o ser una tarjeta de expansión independiente.
 
@@ -167,7 +167,7 @@ La tarjeta gráfica procesa la información que se muestra en la pantalla. Puede
 
 ---
 
-## 10. Otras Tarjetas de Expansión
+<h2 style="color: #29b6f6;">10. Otras Tarjetas de Expansión</h2>
 
 - **Tarjeta Capturadora de Vídeo:** Convierte vídeo analógico a digital. Conectores **BNC**, **S-Video** y **RCA**.
 - **Tarjeta Sintonizadora de Televisión:** Sintoniza y graba canales de TV (analógica, digital, híbrida, satélite).
@@ -178,7 +178,7 @@ La tarjeta gráfica procesa la información que se muestra en la pantalla. Puede
 
 ---
 
-## 11. Conectividad LAN y WAN
+<h2 style="color: #29b6f6;">11. Conectividad LAN y WAN</h2>
 
 - **LAN** (***L***ocal ***A***rea ***N***etwork): Red privada local de extensión reducida.
 - **MAN** (***M***etropolitan ***A***rea ***N***etwork): Red pública municipal o entre varios edificios.
@@ -189,7 +189,7 @@ La tarjeta gráfica procesa la información que se muestra en la pantalla. Puede
 
 ---
 
-## 12. Controladores de Dispositivos (Drivers)
+<h2 style="color: #29b6f6;">12. Controladores de Dispositivos (Drivers)</h2>
 
 - **Driver / Controlador:** Software imprescindible facilitado por el fabricante que permite al **Sistema Operativo** reconocer, interpretar y gestionar el funcionamiento de un componente hardware.
 
