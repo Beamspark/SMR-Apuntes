@@ -124,6 +124,7 @@ Dispositivo que proporciona alimentación a los equipos cuando ocurre un corte d
 - **Potencia Real (W):** Potencia en vatios consumida realmente por los equipos.
 - **Potencia Aparente (VA):** Resultado de multiplicar Voltios por Amperios ($V \times A$).
 - **Factor de Potencia (FP):** Relación entre vatios y voltamperios ($\frac{W}{VA}$). Su valor se sitúa siempre **entre 0 y 1**.
+--8<-- "docs/includes/glosario.md"
 
 ---
 
