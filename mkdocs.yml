@@ -5,8 +5,9 @@ site_author: Luis
 theme:
   name: material
   palette:
-    primary: indigo
-    accent: indigo
+    scheme: slate
+    primary: deep purple
+    accent: purple
   features:
     - navigation.tabs
     - navigation.sections
