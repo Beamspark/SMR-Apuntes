@@ -164,21 +164,29 @@ Dispositivo que proporciona alimentación a los equipos cuando ocurre un corte d
 - **Conmutador:** Circuito que cambia el suministro de la red eléctrica por el de la batería de forma automática.
 
 #### Tipos de SAI
-1. **SAI Standby / Off-line Pasivo:** Conectado en paralelo a la corriente; **solo se activa en caso de apagón o caída drástica de tensión** (existe un pequeño microsegundo de conmutación).
+<h4 style="color: #29b6f6;">1. SAI Standby / Off-line Pasivo</h4>
+Conectado en paralelo a la corriente; **solo se activa en caso de apagón o caída drástica de tensión** (existe un pequeño microsegundo de conmutación).
 
 <figure markdown="span">
   ![SAI Standby Off-line](../img/montaje/tema-1/sai-offline.svg)
   <figcaption>Figura 1.4 — Esquema de funcionamiento de un SAI Off-line Pasivo.</figcaption>
 </figure>
 
-2. **SAI Off-line Interactivo (Line-Interactive):** Conectado en serie; permanece siempre preparado y cuenta con un <span style="color: #ab47bc;">regulador de tensión (**AVR** - ***A***utomatic ***V***oltage ***R***egulator)</span> que protege contra sobrevoltajes y picos sin gastar batería.
+<h4 style="color: #29b6f6;">2. SAI Off-line Interactivo (Line-Interactive)</h4>
+Conectado en serie; permanece siempre preparado y cuenta con un <span style="color: #ab47bc;">regulador de tensión (**AVR** - ***A***utomatic ***V***oltage ***R***egulator)</span> que protege contra sobrevoltajes y picos sin gastar batería.
 
 <figure markdown="span">
   ![SAI Line Interactive](../img/montaje/tema-1/sai-interactive.svg)
   <figcaption>Figura 1.5 — Esquema de un SAI Interactivo con regulador AVR.</figcaption>
 </figure>
 
-3. **SAI On-line de Doble Conversión:** La conversión se efectúa <span style="color: #ab47bc;">continuamente desde el inversor</span> (AC -> DC -> AC). Ofrece máxima calidad de filtrado, aislamiento total de la red y cero tiempo de conmutación. Ideal para servidores.
+<h4 style="color: #29b6f6;">3. SAI On-line de Doble Conversión</h4>
+La conversión se efectúa <span style="color: #ab47bc;">continuamente desde el inversor</span> (AC -> DC -> AC). Ofrece máxima calidad de filtrado, aislamiento total de la red y cero tiempo de conmutación. Ideal para servidores.
+
+<figure markdown="span">
+  ![SAI Online Doble Conversion](../img/montaje/tema-1/sai-online.svg)
+  <figcaption>Figura 1.6 — Esquema de un SAI On-line de Doble Conversión.</figcaption>
+</figure>
 
 <figure markdown="span">
   ![SAI Online Doble Conversion](../img/montaje/tema-1/sai-online.svg)
