@@ -87,9 +87,7 @@ $$P = V \cdot I$$
 ### 📐 Ejercicios Prácticos Resueltos
 
 !!! example "Ejercicio 1: Circuito en Serie"
-    <figure markdown="span">
-      ![Esquema de Circuito en Serie](../img/montaje/tema-1/circuito-serie.svg)
-    </figure>
+    ![Esquema de Circuito en Serie](../img/montaje/tema-1/circuito-serie.svg)
 
     **Datos:** $V_t = 6\text{ V}$, $R_1 = 10\ \Omega$, $R_2 = 5\ \Omega$, $R_3 = 15\ \Omega$
 
@@ -105,9 +103,7 @@ $$P = V \cdot I$$
       $V_t = V_1 + V_2 + V_3 = 2 + 1 + 3 = \mathbf{6\text{ V}} \quad \checkmark$
 
 !!! info "Ejercicio 2: Circuito en Paralelo"
-    <figure markdown="span">
-      ![Esquema de Circuito en Paralelo](../img/montaje/tema-1/circuito-paralelo.svg)
-    </figure>
+    ![Esquema de Circuito en Paralelo](../img/montaje/tema-1/circuito-paralelo.svg)
 
     **Datos:** $V_t = 5\text{ V}$, $R_1 = 10\ \Omega$, $R_2 = 5\ \Omega$, $R_3 = 15\ \Omega$
 
@@ -119,7 +115,6 @@ $$P = V \cdot I$$
       $I_3 = \frac{5}{15} \approx \mathbf{0,33\text{ A}}$
     * **Paso 3: Intensidad Total ($I_t$):**  
       $I_t = I_1 + I_2 + I_3 = 0,5 + 1 + 0,33 = \mathbf{1,83\text{ A}} \quad \checkmark$
-
 ---
 
 <h2 style="color: #29b6f6;">5. Bloques de una Fuente de Alimentación</h2>
