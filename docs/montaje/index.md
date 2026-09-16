@@ -6,7 +6,7 @@ Bienvenido al módulo de **Montaje y Mantenimiento de Equipos**. En esta secció
 
 - [⚡ **Tema 1:** Medición de Parámetros Eléctricos](tema-1.md)
 - 🔒 **Tema 2:** Prevención de Riesgos Laborales *(Próximamente)*
-- 🖥️ **Tema 3:** Bloques Funcionales del PC *(Próximamente)*
+[🖥️ **Tema 3:** Bloques Funcionales del PC](tema-3.md)
 - ⚠️ **Tema 4:** Precauciones y Seguridad *(Próximamente)*
 - 🧰 **Tema 5:** Herramientas Necesarias *(Próximamente)*
 - 🛒 **Tema 6:** Análisis de Mercado de Componentes *(Próximamente)*
