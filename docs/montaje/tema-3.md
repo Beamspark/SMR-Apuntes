@@ -188,4 +188,5 @@ La tarjeta gráfica procesa la información que se muestra en la pantalla. Puede
 
 - **Driver / Controlador:** Software imprescindible facilitado por el fabricante que permite al **Sistema Operativo** reconocer, interpretar y gestionar el funcionamiento de un componente hardware.
 
+
 --8<-- "docs/includes/glosario.md"
