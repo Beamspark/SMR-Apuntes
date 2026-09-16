@@ -19,6 +19,9 @@ markdown_extensions:
       base_path: ["."]
   - pymdownx.arithmatex:
       generic: true
+  - md_in_html
+  - admonition
+  - pymdownx.details
 
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
