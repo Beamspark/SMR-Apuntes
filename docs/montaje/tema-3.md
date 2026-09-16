@@ -39,6 +39,11 @@ Los **buses** son las vías de comunicación compuestas por líneas de circuitos
 
 La **placa base** es el elemento determinante para comprobar las compatibilidades físicas y electrónicas de todo el equipo.
 
+<figure markdown="span">
+  ![Anatomía de la Placa Base](../img/montaje/tema-3/anatomia-placa-base.svg)
+  <figcaption>Figura 3.1 — Estructura y componentes clave de la Placa Base: Procesamiento, Memoria, Control y Conectividad.</figcaption>
+</figure>
+
 > 🔌 **Tecnología Plug and Play (PnP):**
 > Permite la configuración automática de las tarjetas de expansión mediante la interacción de tres factores: **Dispositivos PnP** (se autoidentifican), **BIOS PnP** (inicializa los componentes durante el arranque) y **Sistema Operativo PnP** (asigna recursos y controladores).
 
