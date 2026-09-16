@@ -86,41 +86,31 @@ $$P = V \cdot I$$
 
 ### 📐 Ejercicios Prácticos Resueltos
 
-<div style="background-color: #1e1e24; border-left: 4px solid #ab47bc; border-radius: 6px; padding: 16px; margin: 20px 0;">
+!!! example "Ejercicio 1: Circuito en Serie"
+    **Datos:** $V_t = 6\text{ V}$, $R_1 = 10\ \Omega$, $R_2 = 5\ \Omega$, $R_3 = 15\ \Omega$
 
-<h4 style="margin-top:0; color: #ab47bc;">Ejercicio 1: Circuito en Serie</h4>
+    * **Paso 1: Resistencia Total ($R_t$):**  
+      $R_t = R_1 + R_2 + R_3 = 10 + 5 + 15 = \mathbf{30\ \Omega}$
+    * **Paso 2: Intensidad Total ($I_t$):**  
+      $I_t = \frac{V_t}{R_t} = \frac{6\text{ V}}{30\ \Omega} = \mathbf{0,2\text{ A}}$ *(Idéntica en todas las ramas: $I_1 = I_2 = I_3 = 0,2\text{ A}$)*
+    * **Paso 3: Caídas de Tensión Individuales:**  
+      $V_1 = I_1 \cdot R_1 = 0,2 \cdot 10 = \mathbf{2\text{ V}}$  
+      $V_2 = I_2 \cdot R_2 = 0,2 \cdot 5 = \mathbf{1\text{ V}}$  
+      $V_3 = I_3 \cdot R_3 = 0,2 \cdot 15 = \mathbf{3\text{ V}}$
+    * **Paso 4: Verificación:**  
+      $V_t = V_1 + V_2 + V_3 = 2 + 1 + 3 = \mathbf{6\text{ V}} \quad \checkmark$
 
-**Datos:** $V_t = 6\text{ V}$, $R_1 = 10\ \Omega$, $R_2 = 5\ \Omega$, $R_3 = 15\ \Omega$
+!!! info "Ejercicio 2: Circuito en Paralelo"
+    **Datos:** $V_t = 5\text{ V}$, $R_1 = 10\ \Omega$, $R_2 = 5\ \Omega$, $R_3 = 15\ \Omega$
 
-* **Paso 1: Resistencia Total ($R_t$):**  
-  $R_t = R_1 + R_2 + R_3 = 10 + 5 + 15 = \mathbf{30\ \Omega}$
-* **Paso 2: Intensidad Total ($I_t$):**  
-  $I_t = \frac{V_t}{R_t} = \frac{6\text{ V}}{30\ \Omega} = \mathbf{0,2\text{ A}}$ *(Idéntica en todas las ramas: $I_1 = I_2 = I_3 = 0,2\text{ A}$)*
-* **Paso 3: Caídas de Tensión Individuales:**  
-  $V_1 = I_1 \cdot R_1 = 0,2 \cdot 10 = \mathbf{2\text{ V}}$  
-  $V_2 = I_2 \cdot R_2 = 0,2 \cdot 5 = \mathbf{1\text{ V}}$  
-  $V_3 = I_3 \cdot R_3 = 0,2 \cdot 15 = \mathbf{3\text{ V}}$
-* **Paso 4: Verificación:**  
-  $V_t = V_1 + V_2 + V_3 = 2 + 1 + 3 = \mathbf{6\text{ V}} \quad \checkmark$
-
-</div>
-
-<div style="background-color: #1e1e24; border-left: 4px solid #29b6f6; border-radius: 6px; padding: 16px; margin: 20px 0;">
-
-<h4 style="margin-top:0; color: #29b6f6;">Ejercicio 2: Circuito en Paralelo</h4>
-
-**Datos:** $V_t = 5\text{ V}$, $R_1 = 10\ \Omega$, $R_2 = 5\ \Omega$, $R_3 = 15\ \Omega$
-
-* **Paso 1: Tensiones Individuales:**  
-  Misma tensión en todas las ramas: $V_t = V_1 = V_2 = V_3 = \mathbf{5\text{ V}}$
-* **Paso 2: Intensidades Individuales ($I = \frac{V}{R}$):**  
-  $I_1 = \frac{5}{10} = \mathbf{0,5\text{ A}}$  
-  $I_2 = \frac{5}{5} = \mathbf{1\text{ A}}$  
-  $I_3 = \frac{5}{15} \approx \mathbf{0,33\text{ A}}$
-* **Paso 3: Intensidad Total ($I_t$):**  
-  $I_t = I_1 + I_2 + I_3 = 0,5 + 1 + 0,33 = \mathbf{1,83\text{ A}} \quad \checkmark$
-
-</div>
+    * **Paso 1: Tensiones Individuales:**  
+      Misma tensión en todas las ramas: $V_t = V_1 = V_2 = V_3 = \mathbf{5\text{ V}}$
+    * **Paso 2: Intensidades Individuales ($I = \frac{V}{R}$):**  
+      $I_1 = \frac{5}{10} = \mathbf{0,5\text{ A}}$  
+      $I_2 = \frac{5}{5} = \mathbf{1\text{ A}}$  
+      $I_3 = \frac{5}{15} \approx \mathbf{0,33\text{ A}}$
+    * **Paso 3: Intensidad Total ($I_t$):**  
+      $I_t = I_1 + I_2 + I_3 = 0,5 + 1 + 0,33 = \mathbf{1,83\text{ A}} \quad \checkmark$
 
 ---
 
