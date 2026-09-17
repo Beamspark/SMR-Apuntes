@@ -28,23 +28,21 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - Inicio: index.md
-  - Montaje y Mantenimiento:
-      - Vista General: montaje/index.md
-      - Tema 1 - Medición de Parámetros Eléctricos: montaje/tema-1.md
-      - Tema 2 - Prevención de Riesgos Laborales: montaje/tema-2.md
-      - Tema 3 - Bloques Funcionales del PC: montaje/tema-3.md
-      - Tema 4 - Precauciones y Seguridad: montaje/tema-4.md
-      - Tema 5 - Herramientas Necesarias: montaje/tema-5.md
-      - Tema 6 - Análisis de Mercado de Componentes: montaje/tema-6.md
-      - Tema 7 - Procedimientos de Montaje: montaje/tema-7.md
-      - Tema 8 - Puesta en Marcha del Equipo: montaje/tema-8.md
-      - Tema 9 - Nuevas Tendencias: montaje/tema-9.md
-      - Tema 10 - Mantenimiento Preventivo y Correctivo: montaje/tema-10.md
-      - Tema 11 - Instalación de Programas y Software: montaje/tema-11.md
-  - Sistemas Operativos Monopuesto:
-      - Próximamente: sistemas/index.md
-  - Digitalización Aplicada:
-      - Próximamente: digitalizacion/index.md
-  - Itinerario Personal (IPE I):
-      - Próximamente: ipe/index.md
+  - 🏠 Inicio: index.md
+  - 💻 Semestre 1:
+      - Montaje y Mantenimiento:
+          - Vista General: montaje/index.md
+          - Tema 1 - Medición de Parámetros Eléctricos: montaje/tema-1.md
+          - Tema 2 - Prevención de Riesgos Laborales: montaje/tema-2.md
+          - Tema 3 - Bloques Funcionales del PC: montaje/tema-3.md
+          - Tema 4 - Precauciones y Seguridad: montaje/tema-4.md
+          - Tema 5 - Herramientas Necesarias: montaje/tema-5.md
+          - Tema 6 - Análisis de Mercado de Componentes: montaje/tema-6.md
+          - Tema 7 - Procedimientos de Montaje: montaje/tema-7.md
+          - Tema 8 - Puesta en Marcha del Equipo: montaje/tema-8.md
+          - Tema 9 - Nuevas Tendencias: montaje/tema-9.md
+          - Tema 10 - Mantenimiento Preventivo y Correctivo: montaje/tema-10.md
+          - Tema 11 - Instalación de Programas y Software: montaje/tema-11.md
+      - Sistemas Operativos Monopuesto: sistemas/index.md
+      - Digitalización Aplicada: digitalizacion/index.md
+      - Itinerario Personal (IPE I): ipe/index.md
