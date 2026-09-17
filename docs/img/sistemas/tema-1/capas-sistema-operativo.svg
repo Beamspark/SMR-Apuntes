@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Anillo Exterior (Línea de Interfaz y Programas) -->
+  <circle cx="300" cy="300" r="250" fill="none" stroke="#ab47bc" stroke-width="3"/>
+  <line x1="300" y1="50" x2="300" y2="20" stroke="#ab47bc" stroke-width="3"/>
+  <line x1="300" y1="550" x2="300" y2="580" stroke="#ab47bc" stroke-width="3"/>
+
+  <!-- Capa 3: Servicios e Interfaz -->
+  <circle cx="300" cy="300" r="210" fill="#ab47bc" fill-opacity="0.12" stroke="#ab47bc" stroke-width="1.5"/>
+  <text x="300" y="125" fill="#ffffff" font-size="16" font-weight="bold" font-family="sans-serif" text-anchor="middle">Servicios</text>
+
+  <!-- Capa 2: Núcleo / Kernel -->
+  <circle cx="300" cy="300" r="140" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="2"/>
+  <text x="300" y="200" fill="#ffffff" font-size="16" font-weight="bold" font-family="sans-serif" text-anchor="middle">Núcleo (Kernel)</text>
+
+  <!-- Capa 1: Hardware -->
+  <circle cx="300" cy="300" r="70" fill="#29b6f6" fill-opacity="0.4" stroke="#29b6f6" stroke-width="2"/>
+  <text x="300" y="305" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif" text-anchor="middle">Hardware</text>
+
+  <!-- Etiquetas de Interacción Externas -->
+  <!-- Izquierda: Interfaz -->
+  <g transform="translate(10, 280)">
+    <text x="65" y="25" fill="#29b6f6" font-size="15" font-weight="bold" font-family="sans-serif">Interfaz</text>
+    <line x1="125" y1="20" x2="155" y2="20" stroke="#29b6f6" stroke-width="2"/>
+    <polygon points="155,15 165,20 155,25" fill="#29b6f6"/>
+  </g>
+
+  <!-- Derecha: Programas -->
+  <g transform="translate(425, 280)">
+    <text x="95" y="25" fill="#29b6f6" font-size="15" font-weight="bold" font-family="sans-serif">Programas</text>
+    <line x1="85" y1="20" x2="55" y2="20" stroke="#29b6f6" stroke-width="2"/>
+    <polygon points="55,15 45,20 55,25" fill="#29b6f6"/>
+  </g>
+</svg>
