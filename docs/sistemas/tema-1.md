@@ -164,8 +164,6 @@ Los sistemas operativos estructuran su **Kernel** siguiendo distintos modelos ar
 | **Híbrido** | Estructura modular tipo micronúcleo, pero ejecutando ciertos servicios clave dentro del espacio del núcleo para ganar velocidad. | Buen equilibrio entre estabilidad y rendimiento. | Complejidad de diseño. | Windows NT/10/11, macOS. |
 | **Exonúcleo** (*Exokernel*) | El núcleo solo protege la asignación de hardware. Las funciones avanzadas se delegan a librerías de aplicación. | Gran adaptabilidad para software especializado. | Complejidad para aplicaciones convencionales. | Nemesis, ExOS. |
 
-<h2 style="color: #29b6f6;">1.4 Arquitectura del Sistema Operativo</h2>
-
 En los sistemas basados en GNU/Linux, la arquitectura se organiza mediante capas concéntricas donde cada nivel abstrae la complejidad del nivel inferior:
 
 <figure markdown="span">
