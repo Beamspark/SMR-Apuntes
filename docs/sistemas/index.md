@@ -4,7 +4,7 @@ Bienvenido a la sección dedicada a **Sistemas Operativos Monopuesto**. En este 
 
 ## 📋 Índice de Contenidos
 
-- ⚙️ **Tema 1:** Caracterización de los sistemas operativos, tipos y aplicaciones *(Próximamente)*
+- [⚙️ **Tema 1:** Caracterización de los sistemas operativos, tipos y aplicaciones](tema-1.md)
 - 🔢 **Tema 2:** Codificación de la información en diferentes sistemas de representación *(Próximamente)*
 - 🧠 **Tema 3:** Gestión de los recursos y de la memoria *(Próximamente)*
 - 🖥️ **Tema 4:** Configuración de las máquinas virtuales *(Próximamente)*
