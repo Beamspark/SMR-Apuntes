@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Pirámide de Fondo -->
+  <polygon points="400,40 160,440 640,440" fill="#29b6f6" fill-opacity="0.08" stroke="#29b6f6" stroke-width="2" stroke-dasharray="4,4"/>
+
+  <!-- Flecha Izquierda: CAPACIDAD -->
+  <g transform="translate(70, 0)">
+    <line x1="30" y1="60" x2="30" y2="420" stroke="#ab47bc" stroke-width="3"/>
+    <polygon points="30,435 22,415 38,415" fill="#ab47bc"/>
+    <text x="-240" y="15" fill="#ab47bc" font-size="14" font-weight="bold" font-family="sans-serif" transform="rotate(-90)">CAPACIDAD</text>
+  </g>
+
+  <!-- Flecha Derecha: VELOCIDAD Y COSTE -->
+  <g transform="translate(700, 0)">
+    <line x1="30" y1="420" x2="30" y2="60" stroke="#29b6f6" stroke-width="3"/>
+    <polygon points="30,45 22,65 38,65" fill="#29b6f6"/>
+    <text x="100" y="-15" fill="#29b6f6" font-size="14" font-weight="bold" font-family="sans-serif" transform="rotate(90)">VELOCIDAD Y COSTE / BIT</text>
+  </g>
+
+  <!-- Agrupación Memoria Interna -->
+  <rect x="150" y="80" width="160" height="150" rx="6" fill="#ab47bc" fill-opacity="0.25" stroke="#ab47bc" stroke-width="2"/>
+  <text x="230" y="150" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">MEMORIA</text>
+  <text x="230" y="170" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">INTERNA</text>
+
+  <!-- Agrupación Memoria Externa -->
+  <rect x="150" y="280" width="160" height="150" rx="6" fill="#ab47bc" fill-opacity="0.25" stroke="#ab47bc" stroke-width="2"/>
+  <text x="230" y="350" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">MEMORIA</text>
+  <text x="230" y="370" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">EXTERNA</text>
+
+  <!-- Niveles de la Pirámide -->
+  <!-- 1. Registros -->
+  <line x1="310" y1="95" x2="370" y2="95" stroke="#ab47bc" stroke-width="2"/>
+  <rect x="370" y="70" width="260" height="50" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+  <text x="500" y="100" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">REGISTROS DE PROCESO</text>
+
+  <!-- 2. Caché -->
+  <line x1="310" y1="155" x2="370" y2="155" stroke="#ab47bc" stroke-width="2"/>
+  <rect x="370" y="130" width="260" height="50" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+  <text x="500" y="160" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">MEMORIA CACHÉ (L1, L2, L3)</text>
+
+  <!-- 3. RAM -->
+  <line x1="310" y1="215" x2="370" y2="215" stroke="#ab47bc" stroke-width="2"/>
+  <rect x="370" y="190" width="260" height="50" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+  <text x="500" y="220" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">MEMORIA PRINCIPAL (RAM)</text>
+
+  <!-- 4. Disco Duro -->
+  <line x1="310" y1="315" x2="370" y2="315" stroke="#ab47bc" stroke-width="2"/>
+  <rect x="370" y="290" width="260" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+  <text x="500" y="320" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">DISCO DURO (SSD / HDD)</text>
+
+  <!-- 5. Copias de Seguridad -->
+  <line x1="310" y1="385" x2="370" y2="385" stroke="#ab47bc" stroke-width="2"/>
+  <rect x="370" y="360" width="260" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+  <text x="500" y="390" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">COPIAS DE SEGURIDAD / CINTAS</text>
+</svg>
