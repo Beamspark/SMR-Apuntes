@@ -36,3 +36,32 @@
 *[GPU]: Graphics Processing Unit. Procesador dedicado al cálculo y renderizado paralelo de gráficos 2D y 3D.
 *[VRAM]: Video Random Access Memory. Memoria dedicada ultrarrápida integrada en las tarjetas gráficas independientes.
 *[Thermal Throttling]: Mecanismo de protección del procesador que reduce automáticamente su frecuencia de trabajo para bajar la temperatura si supera los límites térmicos.
+*[Kernel]: Núcleo del Sistema Operativo. Componente central en contacto directo con el hardware responsable de la gestión de memoria, procesos y recursos.
+*[Shell]: Intérprete de comandos. Entorno o interfaz encargada de traducir las órdenes del usuario (GUI o CLI) a llamadas del Kernel.
+*[SISD]: Single Instruction, Single Data. Arquitectura de computación secuencial tradicional de una instrucción sobre un solo dato.
+*[SIMD]: Single Instruction, Multiple Data. Arquitectura donde una misma instrucción opera sobre múltiples datos vectoriales simultáneamente (usado en GPU).
+*[MISD]: Multiple Instruction, Single Data. Arquitectura donde múltiples instrucciones se aplican sobre un único flujo de datos (usado en redundancia).
+*[MIMD]: Multiple Instruction, Multiple Data. Arquitectura multiprocesador donde múltiples núcleos ejecutan instrucciones distintas sobre datos diferentes.
+*[SRAM]: Static RAM. Memoria RAM estática ultrarrápida de baja capacidad que no requiere refresco eléctrico (usada en memorias caché).
+*[DRAM]: Dynamic RAM. Memoria RAM dinámica utilizada como memoria principal que requiere un ciclo continuo de refresco eléctrico.
+*[Firmware]: Software de bajo nivel grabado en memorias ROM/Flash que controla directamente el funcionamiento físico del hardware.
+*[BootLoader]: Cargador de arranque. Programa ejecutado por el firmware (BIOS/UEFI) encargado de localizar y cargar el Kernel del Sistema Operativo en RAM.
+*[Secure Boot]: Arranque seguro de UEFI. Mecanismo de seguridad que bloquea la ejecución de cargadores de arranque y drivers sin firma digital válida.
+*[Núcleo Monolítico]: Arquitectura de Kernel donde absolutamente todos los servicios del SO (drivers, memoria, archivos) se ejecutan dentro del espacio del núcleo.
+*[Micronúcleo]: O Microkernel. Arquitectura donde el núcleo se reduce a las funciones mínimas y el resto de servicios corren como módulos en espacio de usuario.
+*[Microkernel]: O Micronúcleo. Arquitectura de Kernel reducida al mínimo indispensable para maximizar la estabilidad y modularidad.
+*[Núcleo Híbrido]: Arquitectura de SO que combina la estructura modular de un micronúcleo con la ejecución de servicios clave en espacio de Kernel.
+*[Exonúcleo]: O Exokernel. Arquitectura de Kernel extremadamente ligera que solo gestiona la protección y asignación básica de hardware.
+*[CLI]: Command Line Interface. Interfaz de línea de comandos donde el usuario interactúa con el sistema introduciendo comandos de texto.
+*[GUI]: Graphical User Interface. Interfaz gráfica de usuario basada en elementos visuales (ventanas, iconos, menús) interactivos mediante ratón o táctil.
+*[Proceso]: Programa o conjunto de instrucciones en ejecución activa dentro de la memoria RAM con recursos asignados por el SO.
+*[Memoria Virtual]: Espacio reservado en el disco masivo (fichero de paginación) utilizado por el SO cuando la memoria RAM física se agota.
+*[ACID]: Atomicidad, Consistencia, Aislamiento y Durabilidad. Conjunto de 4 propiedades estrictas requeridas para garantizar la integridad en sistemas transaccionales.
+*[Workstations]: Estaciones de trabajo. Computadoras de alto rendimiento optimizadas para desarrollo, diseño técnico y cálculo intensivo.
+*[Thin Clients]: Terminales ligeros. Equipos informáticos con hardware básico que dependen totalmente de un servidor central para procesar y ejecutar programas.
+*[MBR]: Master Boot Record. Antiguo esquema de particionado de discos limitado a 4 particiones primarias y 2 TB de capacidad.
+*[GPT]: GUID Partition Table. Esquema moderno de particionado de discos asociado a UEFI que permite particiones > 2 TB y mayor redundancia.
+*[Dirección MAC]: Media Access Control. Identificador físico único de 48 bits grabado en fábrica en el chip de cada tarjeta de red.
+*[GPU]: Graphics Processing Unit. Procesador dedicado al cálculo y renderizado paralelo de gráficos 2D y 3D.
+*[VRAM]: Video Random Access Memory. Memoria dedicada ultrarrápida integrada en las tarjetas gráficas independientes.
+*[Thermal Throttling]: Mecanismo de protección del procesador que reduce automáticamente su frecuencia de trabajo para bajar la temperatura si supera los límites térmicos.
