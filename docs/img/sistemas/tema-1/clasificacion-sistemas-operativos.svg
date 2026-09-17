@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 480" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Título Principal Superior -->
+  <rect x="275" y="30" width="300" height="60" rx="8" fill="#ab47bc" fill-opacity="0.8" stroke="#ab47bc" stroke-width="2"/>
+  <text x="425" y="65" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif" text-anchor="middle">CLASIFICACIÓN DE LOS SISTEMAS OPERATIVOS</text>
+
+  <!-- Líneas Conectoras Principales -->
+  <path d="M 425 90 L 425 120 M 110 120 L 740 120 M 110 120 L 110 140 M 320 120 L 320 140 M 530 120 L 530 140 M 740 120 L 740 140" stroke="#ab47bc" stroke-width="2" fill="none"/>
+
+  <!-- Criterio 1: Según Procesos -->
+  <g transform="translate(30, 140)">
+    <rect x="0" y="0" width="160" height="45" rx="6" fill="#ab47bc" fill-opacity="0.4" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="80" y="27" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">SEGÚN PROCESOS</text>
+    
+    <path d="M 15 45 L 15 200 M 15 95 L 30 95 M 15 165 L 30 165" stroke="#29b6f6" stroke-width="1.5" fill="none"/>
+    
+    <rect x="30" y="70" width="140" height="45" rx="4" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="100" y="97" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">MONOTAREA</text>
+
+    <rect x="30" y="140" width="140" height="45" rx="4" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="100" y="167" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">MULTITAREA</text>
+  </g>
+
+  <!-- Criterio 2: Según Usuarios -->
+  <g transform="translate(240, 140)">
+    <rect x="0" y="0" width="160" height="45" rx="6" fill="#ab47bc" fill-opacity="0.4" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="80" y="27" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">SEGÚN USUARIOS</text>
+    
+    <path d="M 15 45 L 15 200 M 15 95 L 30 95 M 15 165 L 30 165" stroke="#29b6f6" stroke-width="1.5" fill="none"/>
+    
+    <rect x="30" y="70" width="140" height="45" rx="4" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="100" y="97" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">MONOUSUARIO</text>
+
+    <rect x="30" y="140" width="140" height="45" rx="4" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="100" y="167" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">MULTIUSUARIO</text>
+  </g>
+
+  <!-- Criterio 3: Según Recursos -->
+  <g transform="translate(450, 140)">
+    <rect x="0" y="0" width="160" height="45" rx="6" fill="#ab47bc" fill-opacity="0.4" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="80" y="27" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">SEGÚN RECURSOS</text>
+    
+    <path d="M 15 45 L 15 200 M 15 95 L 30 95 M 15 165 L 30 165" stroke="#29b6f6" stroke-width="1.5" fill="none"/>
+    
+    <rect x="30" y="70" width="140" height="45" rx="4" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="100" y="97" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">CENTRALIZADOS</text>
+
+    <rect x="30" y="140" width="140" height="45" rx="4" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="100" y="167" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">DISTRIBUIDOS</text>
+  </g>
+
+  <!-- Criterio 4: Según Licencias -->
+  <g transform="translate(660, 140)">
+    <rect x="0" y="0" width="160" height="45" rx="6" fill="#ab47bc" fill-opacity="0.4" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="80" y="27" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">SEGÚN LICENCIAS</text>
+    
+    <path d="M 15 45 L 15 200 M 15 95 L 30 95 M 15 165 L 30 165" stroke="#29b6f6" stroke-width="1.5" fill="none"/>
+    
+    <rect x="30" y="70" width="140" height="45" rx="4" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="100" y="97" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">PROPIETARIOS</text>
+
+    <rect x="30" y="140" width="140" height="45" rx="4" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="100" y="167" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">LIBRES</text>
+  </g>
+</svg>
