@@ -188,11 +188,6 @@ La conversión se efectúa <span style="color: #ab47bc;">continuamente desde el 
   <figcaption>Figura 1.6 — Esquema de un SAI On-line de Doble Conversión.</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![SAI Online Doble Conversion](../img/montaje/tema-1/sai-online.svg)
-  <figcaption>Figura 1.6 — Esquema de un SAI On-line de Doble Conversión.</figcaption>
-</figure>
-
 #### Parámetros de Medida en un SAI
 - **Tiempo de autonomía:** Tiempo (en minutos) que el SAI mantiene con vida los equipos sin red de entrada.
 - **Potencia Real (W):** Potencia en vatios consumida realmente por los equipos.
