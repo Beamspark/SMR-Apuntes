@@ -227,6 +227,11 @@ Los sistemas operativos se encuadran en función de sus capacidades operativas:
 * **Propietarios / Privativos:** Licencias comerciales donde el fabricante restringe la copia, modificación o redistribución del software, ocultando su código fuente (ej. **Windows**, **macOS**).
 * **Libres / Código Abierto:** Garantizan la libertad de usar el programa con cualquier fin, inspeccionar su código fuente, modificarlo y distribuir copias libremente (ej. **GNU/Linux**, **FreeBSD**).
 
+<figure markdown="span">
+  ![Clasificación de los Sistemas Operativos](../img/sistemas/tema-1/clasificacion-sistemas-operativos.svg)
+  <figcaption>Figura 1.6 — Mapa conceptual de la clasificación de sistemas operativos por tareas, usuarios, arquitectura de recursos y licenciamiento.</figcaption>
+</figure>
+
 ---
 
 <h2 style="color: #29b6f6;">7. Sistemas Transaccionales y Procesamiento por Lotes</h2>
