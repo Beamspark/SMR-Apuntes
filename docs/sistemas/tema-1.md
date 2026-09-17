@@ -164,6 +164,21 @@ Los sistemas operativos estructuran su **Kernel** siguiendo distintos modelos ar
 | **Híbrido** | Estructura modular tipo micronúcleo, pero ejecutando ciertos servicios clave dentro del espacio del núcleo para ganar velocidad. | Buen equilibrio entre estabilidad y rendimiento. | Complejidad de diseño. | Windows NT/10/11, macOS. |
 | **Exonúcleo** (*Exokernel*) | El núcleo solo protege la asignación de hardware. Las funciones avanzadas se delegan a librerías de aplicación. | Gran adaptabilidad para software especializado. | Complejidad para aplicaciones convencionales. | Nemesis, ExOS. |
 
+<h2 style="color: #29b6f6;">1.4 Arquitectura del Sistema Operativo</h2>
+
+En los sistemas basados en GNU/Linux, la arquitectura se organiza mediante capas concéntricas donde cada nivel abstrae la complejidad del nivel inferior:
+
+<figure markdown="span">
+  ![Arquitectura del Sistema Operativo GNU/Linux](../img/sistemas/tema-1/arquitectura-gnu-linux.svg)
+  <figcaption>Figura 1.4 — Arquitectura concéntrica del sistema GNU/Linux y relación entre el Kernel, la biblioteca de funciones (glibc) y las utilidades GNU.</figcaption>
+</figure>
+
+* **Hardware (Centro):** Componentes físicos sobre los que se ejecuta todo el sistema.
+* **Kernel (Linux):** Núcleo encargado de gestionar los recursos de hardware de forma segura.
+* **Biblioteca de funciones (`glibc`):** Conjunto de funciones estándar que permiten a las aplicaciones comunicarse con las llamadas al sistema del Kernel.
+* **Aplicaciones base (GNU) y Shell CLI:** Herramientas e intérprete de comandos esenciales para la administración del sistema.
+* **Aplicaciones:** Software de usuario final (navegadores, ofimática, etc.).
+
 ---
 
 <h2 style="color: #29b6f6;">5. Evolución Histórica y Sistemas Operativos Actuales</h2>
