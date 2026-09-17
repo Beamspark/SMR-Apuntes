@@ -43,6 +43,11 @@ El **hardware** se divide según su ubicación y cometido dentro del equipo:
 
 Modela la estructura física interna de un computador interconectando sus unidades funcionales primarias:
 
+<figure markdown="span">
+  ![Arquitectura de Von Neumann](../img/sistemas/tema-1/arquitectura-von-neumann.svg)
+  <figcaption>Figura 1.1 — Arquitectura de Von Neumann y flujo de componentes.</figcaption>
+</figure>
+
 1. **CPU (Unidad Central de Procesamiento):** Núcleo del equipo donde se gestionan las operaciones:
    - **Unidad de Control (**UC**):** Lee e interpreta las instrucciones guardadas en la memoria principal y coordina la ejecución secuencial enviando señales de mando.
    - **Unidad Aritmético-Lógica (**ALU**):** Ejecuta las operaciones matemáticas (+, -, *, /) y comparaciones lógicas (AND, OR, NOT) sobre los datos presentes en los registros procesadores.
@@ -55,6 +60,11 @@ Modela la estructura física interna de un computador interconectando sus unidad
 ### Jerarquía de Memorias
 
 Se organiza jerárquicamente bajo tres premisas físicas: **capacidad**, **velocidad de acceso** y **coste por bit**. Cuanto más cerca está una memoria de la CPU, mayor es su velocidad y coste por megabyte, pero menor es su capacidad.
+
+<figure markdown="span">
+  ![Jerarquía de Memorias](../img/sistemas/tema-1/jerarquia-memorias.svg)
+  <figcaption>Figura 1.2 — Jerarquía de memorias según capacidad, velocidad y coste por bit.</figcaption>
+</figure>
 
 #### Memoria Interna (Alta velocidad / Capacidad reducida)
 - **Registros del procesador:** Celdas de memoria situadas en el interior de la propia **CPU**. De acceso instantáneo y volátiles.
@@ -141,6 +151,11 @@ El **SO** actúa como un administrador de recursos eficiente. Sus cometidos prin
 <h2 style="color: #29b6f6;">4. Arquitectura del Sistema Operativo</h2>
 
 Los sistemas operativos estructuran su **Kernel** siguiendo distintos modelos arquitectónicos:
+
+<figure markdown="span">
+  ![Capas del Sistema Operativo](../img/sistemas/tema-1/capas-sistema-operativo.svg)
+  <figcaption>Figura 1.3 — Estructura concéntrica de capas de un Sistema Operativo.</figcaption>
+</figure>
 
 | Tipo de Núcleo | Funcionamiento | Ventajas | Desventajas | Ejemplos |
 | :--- | :--- | :--- | :--- | :--- |
