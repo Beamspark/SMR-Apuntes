@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 480" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+  
+  <!-- Bloque CPU / Sistema -->
+  <rect x="30" y="30" width="440" height="420" rx="10" fill="#2d2d38" stroke="#ab47bc" stroke-width="2" stroke-dasharray="6,4"/>
+  
+  <!-- CPU -->
+  <rect x="50" y="60" width="180" height="360" rx="8" fill="#ab47bc" fill-opacity="0.15" stroke="#ab47bc" stroke-width="2"/>
+  <text x="140" y="90" fill="#ab47bc" font-size="15" font-weight="bold" font-family="sans-serif" text-anchor="middle">CPU</text>
+  
+  <!-- Unidad de Control -->
+  <rect x="65" y="110" width="150" height="80" rx="6" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="1.5"/>
+  <text x="140" y="145" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Unidad de</text>
+  <text x="140" y="165" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Control (UC)</text>
+  
+  <!-- ALU -->
+  <path d="M 65 210 L 215 210 L 185 280 L 140 280 L 140 260 L 140 280 L 95 280 Z" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+  <text x="140" y="245" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">ALU</text>
+  
+  <!-- Registros -->
+  <rect x="65" y="310" width="150" height="90" rx="6" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="1.5"/>
+  <text x="140" y="340" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Registros</text>
+  <line x1="85" y1="360" x2="195" y2="360" stroke="#ab47bc" stroke-width="2"/>
+  <line x1="85" y1="375" x2="195" y2="375" stroke="#ab47bc" stroke-width="2"/>
+  <line x1="85" y1="390" x2="195" y2="390" stroke="#ab47bc" stroke-width="2"/>
+
+  <!-- Bloque Almacenamiento -->
+  <rect x="270" y="130" width="170" height="110" rx="6" fill="#29b6f6" fill-opacity="0.2" stroke="#29b6f6" stroke-width="2"/>
+  <text x="355" y="175" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Memoria Principal</text>
+  <text x="355" y="195" fill="#29b6f6" font-size="12" font-family="sans-serif" text-anchor="middle">(RAM)</text>
+
+  <rect x="270" y="270" width="170" height="110" rx="6" fill="#29b6f6" fill-opacity="0.2" stroke="#29b6f6" stroke-width="2"/>
+  <text x="355" y="315" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Memoria Secundaria</text>
+  <text x="355" y="335" fill="#29b6f6" font-size="12" font-family="sans-serif" text-anchor="middle">(SSD / HDD)</text>
+
+  <!-- Flechas Interconexión CPU - Memoria -->
+  <g stroke="#29b6f6" stroke-width="2" marker-end="url(#arrow)">
+    <line x1="230" y1="185" x2="265" y2="185"/>
+    <line x1="270" y1="185" x2="235" y2="185"/>
+    <line x1="230" y1="325" x2="265" y2="325"/>
+    <line x1="270" y1="325" x2="235" y2="325"/>
+  </g>
+
+  <!-- Periféricos Entrada -->
+  <g transform="translate(510, 50)">
+    <rect x="0" y="0" width="200" height="160" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="100" y="30" fill="#ab47bc" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Dispositivos de Entrada</text>
+    <!-- Teclado / Ratón Icon -->
+    <rect x="35" y="55" width="130" height="70" rx="6" fill="#ab47bc" fill-opacity="0.2" stroke="#ab47bc" stroke-width="1.5"/>
+    <rect x="50" y="70" width="20" height="15" rx="2" fill="#ab47bc"/>
+    <rect x="75" y="70" width="20" height="15" rx="2" fill="#ab47bc"/>
+    <rect x="100" y="70" width="20" height="15" rx="2" fill="#ab47bc"/>
+    <rect x="125" y="70" width="20" height="15" rx="2" fill="#ab47bc"/>
+    <rect x="60" y="95" width="85" height="15" rx="2" fill="#ab47bc"/>
+  </g>
+
+  <!-- Periféricos Salida -->
+  <g transform="translate(510, 260)">
+    <rect x="0" y="0" width="200" height="160" rx="8" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="100" y="30" fill="#29b6f6" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Dispositivos de Salida</text>
+    <!-- Monitor Icon -->
+    <rect x="45" y="55" width="110" height="65" rx="4" fill="#29b6f6" fill-opacity="0.2" stroke="#29b6f6" stroke-width="1.5"/>
+    <path d="M 85 120 L 115 120 L 120 135 L 80 135 Z" fill="#29b6f6"/>
+  </g>
+
+  <!-- Flechas Periféricos -->
+  <g stroke="#ffffff" stroke-width="2">
+    <line x1="510" y1="130" x2="475" y2="130"/>
+    <polygon points="475,125 465,130 475,135" fill="#ffffff"/>
+    
+    <line x1="470" y1="340" x2="505" y2="340"/>
+    <polygon points="505,335 515,340 505,345" fill="#ffffff"/>
+  </g>
+</svg>
