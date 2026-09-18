@@ -19,6 +19,11 @@ La virtualización se fundamenta en el uso de un software denominado **hiperviso
 
 ### Ventajas e Inconvenientes de la Virtualización
 
+<figure markdown="span">
+  ![Copia de Máquina Virtual en VirtualBox](../img/sistemas/tema-2/figura-2-2-clonar-vm.svg)
+  <figcaption>Figura 2.2 — Asistente de clonación completa de máquina virtual en VirtualBox.</figcaption>
+</figure>
+
 #### Ventajas Principales
 * **Aprovechamiento del hardware y ahorro económico:** Consolida varios servidores en una sola máquina física, reduciendo costes en equipamiento, consumo eléctrico y espacio.
 * **Aislamiento entre sistemas:** Cada máquina virtual funciona de manera independiente. Un error crítico o infección por malware en una máquina virtual no afecta a la máquina anfitriona ni a las demás VMs.
@@ -33,6 +38,11 @@ La virtualización se fundamenta en el uso de un software denominado **hiperviso
 ---
 
 ### Arranque Dual (*Dual Boot*) vs. Virtualización
+
+<figure markdown="span">
+  ![Gestor de Arranque Dual GRUB](../img/sistemas/tema-2/figura-2-3-arranque-dual.svg)
+  <figcaption>Figura 2.3 — Menú del gestor de arranque GNU GRUB para selección entre Windows y Linux.</figcaption>
+</figure>
 
 | Característica | Arranque Dual (*Dual Boot*) | Virtualización (Máquinas Virtuales) |
 | :--- | :--- | :--- |
@@ -93,11 +103,21 @@ Se instalan como una aplicación más dentro de un sistema operativo anfitrión 
    * Hipervisor integrado de manera nativa en Windows (ediciones Pro, Enterprise, Education y Windows Server). No disponible en la edición Home.
    * Se activa como una característica opcional del sistema operativo.
 
+<figure markdown="span">
+  ![Agregar Característica Hyper-V](../img/sistemas/tema-2/figura-2-5-activar-hyperv.svg)
+  <figcaption>Figura 2.5 — Activación del hipervisor Hyper-V desde las características opcionales de Windows.</figcaption>
+</figure>
+
 ---
 
 <h2 style="color: #29b6f6;">2.4. Pruebas de Rendimiento del Sistema</h2>
 
 Evaluar el comportamiento de una máquina virtual permite comprobar si los recursos asignados le permiten funcionar con fluidez sin saturar al equipo anfitrión.
+
+<figure markdown="span">
+  ![Comprobación de Rendimiento en VirtualBox](../img/sistemas/tema-2/figura-2-8-rendimiento-virtualbox.svg)
+  <figcaption>Figura 2.8 — Herramienta interna de VirtualBox para la monitorización de carga de CPU y RAM del anfitrión.</figcaption>
+</figure>
 
 ### Recursos Clave que Afectan al Rendimiento
 
@@ -116,6 +136,11 @@ Evaluar el comportamiento de una máquina virtual permite comprobar si los recur
 * **Administrador de Tareas:** Muestra el porcentaje global de uso de CPU, RAM, Disco y Red.
 * **Monitor de Recursos:** Muestra de forma desglosada el consumo de CPU, memoria, disco y red proceso por proceso en tiempo real.
 * **Monitor de Rendimiento:** Genera informes detallados sobre contadores específicos del sistema.
+
+<figure markdown="span">
+  ![Monitor de Recursos en Windows 10](../img/sistemas/tema-2/figura-2-7-monitor-recursos-windows.svg)
+  <figcaption>Figura 2.7 — Monitor de recursos en Windows midiendo el consumo de CPU y memoria en tiempo real.</figcaption>
+</figure>
 
 #### En Ubuntu / Linux
 * **Monitor del Sistema:** Aplicación gráfica equivalente al Administrador de Tareas.
