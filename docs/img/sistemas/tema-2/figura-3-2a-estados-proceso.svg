@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 380" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <!-- Bloque: Nuevo -->
+  <g transform="translate(40, 270)">
+    <rect x="0" y="0" width="140" height="45" rx="6" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="2"/>
+    <text x="70" y="27" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Nuevo</text>
+  </g>
+
+  <!-- Flecha: Nuevo -> Preparado -->
+  <path d="M 110 270 L 110 215" stroke="#ffb74d" stroke-width="2" fill="none"/>
+  <polygon points="110,205 105,217 115,217" fill="#ffb74d"/>
+  <text x="120" y="242" fill="#ffb74d" font-size="11" font-family="sans-serif">Admitido en el sistema</text>
+
+  <!-- Bloque: Preparado -->
+  <g transform="translate(40, 160)">
+    <rect x="0" y="0" width="140" height="45" rx="6" fill="#ab47bc" fill-opacity="0.6" stroke="#ab47bc" stroke-width="2"/>
+    <text x="70" y="27" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Preparado</text>
+  </g>
+
+  <!-- Flecha: Preparado -> En Ejecución -->
+  <path d="M 180 170 L 320 170" stroke="#ffb74d" stroke-width="2" fill="none"/>
+  <polygon points="330,170 318,165 318,175" fill="#ffb74d"/>
+  <text x="250" y="162" fill="#ffb74d" font-size="11" font-family="sans-serif" text-anchor="middle">Pasa a ocupar la CPU</text>
+
+  <!-- Flecha: En Ejecución -> Preparado (Fin de Quántum) -->
+  <path d="M 330 145 L 110 145 L 110 160" stroke="#ffb74d" stroke-width="2" fill="none"/>
+  <polygon points="110,160 105,148 115,148" fill="#ffb74d"/>
+  <text x="220" y="137" fill="#ffb74d" font-size="11" font-family="sans-serif" text-anchor="middle">Fin del tiempo de CPU asignado</text>
+
+  <!-- Bloque: En Ejecución -->
+  <g transform="translate(330, 140)">
+    <rect x="0" y="0" width="150" height="50" rx="6" fill="#ab47bc" fill-opacity="0.8" stroke="#ab47bc" stroke-width="2"/>
+    <text x="75" y="30" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">En ejecución</text>
+  </g>
+
+  <!-- Flecha: En Ejecución -> Terminado -->
+  <path d="M 405 140 L 405 75" stroke="#ffb74d" stroke-width="2" fill="none"/>
+  <polygon points="405,65 400,77 410,77" fill="#ffb74d"/>
+  <text x="415" y="105" fill="#ffb74d" font-size="11" font-family="sans-serif">Proceso completado</text>
+
+  <!-- Bloque: Terminado -->
+  <g transform="translate(335, 20)">
+    <rect x="0" y="0" width="140" height="45" rx="6" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="2"/>
+    <text x="70" y="27" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Terminado</text>
+  </g>
+
+  <!-- Flecha: En Ejecución -> Bloqueado -->
+  <path d="M 480 170 L 610 170 L 610 240" stroke="#ffb74d" stroke-width="2" fill="none"/>
+  <polygon points="610,250 605,238 615,238" fill="#ffb74d"/>
+  <text x="545" y="195" fill="#ffb74d" font-size="11" font-family="sans-serif">Evento u operación de E/S</text>
+
+  <!-- Bloque: Bloqueado -->
+  <g transform="translate(540, 250)">
+    <rect x="0" y="0" width="140" height="45" rx="6" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="2"/>
+    <text x="70" y="27" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Bloqueado</text>
+  </g>
+
+  <!-- Flecha: Bloqueado -> Preparado -->
+  <path d="M 540 272 L 180 272 M 180 272 L 180 205" stroke="#ffb74d" stroke-width="2" fill="none"/>
+  <polygon points="180,205 175,217 185,217" fill="#ffb74d"/>
+  <text x="360" y="264" fill="#ffb74d" font-size="11" font-family="sans-serif" text-anchor="middle">Finaliza el evento u operación E/S</text>
+</svg>
