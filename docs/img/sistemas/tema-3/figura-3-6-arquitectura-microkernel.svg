@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 460" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Columna Izquierda: Rótulo -->
+  <rect x="20" y="20" width="35" height="420" rx="4" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="1.5"/>
+  <text x="42" y="230" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" transform="rotate(-90 42 230)" text-anchor="middle">Arquitectura Microkernel (Servicios no esenciales fuera del núcleo)</text>
+
+  <!-- Capa 1: Modo Usuario -->
+  <g transform="translate(80, 20)">
+    <rect x="0" y="0" width="640" height="110" rx="6" fill="#29b6f6" fill-opacity="0.15" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="15" y="25" fill="#29b6f6" font-size="13" font-weight="bold" font-family="sans-serif">Modo usuario</text>
+
+    <rect x="140" y="30" width="110" height="60" rx="3" fill="#2d2d38" stroke="#29b6f6"/>
+    <text x="195" y="55" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">Sistema de</text>
+    <text x="195" y="70" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">archivos</text>
+
+    <rect x="260" y="30" width="110" height="60" rx="3" fill="#2d2d38" stroke="#29b6f6"/>
+    <text x="315" y="55" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">Drivers de</text>
+    <text x="315" y="70" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">dispositivos</text>
+
+    <rect x="380" y="30" width="110" height="60" rx="3" fill="#2d2d38" stroke="#29b6f6"/>
+    <text x="435" y="55" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">Servicios de</text>
+    <text x="435" y="70" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">red</text>
+
+    <rect x="500" y="30" width="110" height="60" rx="3" fill="#2d2d38" stroke="#29b6f6"/>
+    <text x="555" y="62" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">Otros servicios</text>
+  </g>
+
+  <!-- Comunicación IPC de Doble Sentido -->
+  <g transform="translate(80, 135)">
+    <line x1="200" y1="0" x2="200" y2="30" stroke="#ab47bc" stroke-width="2"/>
+    <line x1="320" y1="0" x2="320" y2="30" stroke="#ab47bc" stroke-width="2"/>
+    <line x1="440" y1="0" x2="440" y2="30" stroke="#ab47bc" stroke-width="2"/>
+    <text x="320" y="20" fill="#ab47bc" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">Comunicación mediante mensajes (IPC)</text>
+  </g>
+
+  <!-- Capa 2: Modo Núcleo (Microkernel Mínimo) -->
+  <g transform="translate(80, 170)">
+    <rect x="0" y="0" width="640" height="110" rx="6" fill="#ffb74d" fill-opacity="0.2" stroke="#ffb74d" stroke-width="1.5"/>
+    <text x="15" y="25" fill="#ffb74d" font-size="13" font-weight="bold" font-family="sans-serif">Modo núcleo</text>
+
+    <rect x="140" y="30" width="110" height="60" rx="3" fill="#ffb74d" fill-opacity="0.5" stroke="#ffb74d"/>
+    <text x="195" y="55" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">Gestión de</text>
+    <text x="195" y="70" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">IPC</text>
+
+    <rect x="260" y="30" width="110" height="60" rx="3" fill="#ffb74d" fill-opacity="0.5" stroke="#ffb74d"/>
+    <text x="315" y="55" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">Gestión de</text>
+    <text x="315" y="70" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">procesos</text>
+
+    <rect x="380" y="30" width="110" height="60" rx="3" fill="#ffb74d" fill-opacity="0.5" stroke="#ffb74d"/>
+    <text x="435" y="55" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">Gestión de</text>
+    <text x="435" y="70" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">memoria</text>
+
+    <rect x="500" y="30" width="110" height="60" rx="3" fill="#ffb74d" fill-opacity="0.5" stroke="#ffb74d"/>
+    <text x="555" y="55" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">Planificador</text>
+    <text x="555" y="70" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">(CPU)</text>
+  </g>
+
+  <!-- Flecha Intermedia -->
+  <path d="M 400 285 L 400 310" stroke="#ab47bc" stroke-width="2" fill="none"/>
+
+  <!-- Capa 3: Hardware -->
+  <g transform="translate(80, 320)">
+    <rect x="0" y="0" width="640" height="110" rx="6" fill="#ab47bc" fill-opacity="0.2" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="15" y="60" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif">Hardware</text>
+
+    <rect x="140" y="30" width="110" height="60" rx="3" fill="#2d2d38" stroke="#ab47bc"/>
+    <text x="195" y="65" fill="#ffffff" font-size="11" font-family="sans-serif" text-anchor="middle">CPU</text>
+
+    <rect x="260" y="30" width="110" height="60" rx="3" fill="#2d2d38" stroke="#ab47bc"/>
+    <text x="315" y="65" fill="#ffffff" font-size="11" font-family="sans-serif" text-anchor="middle">RAM</text>
+
+    <rect x="380" y="30" width="110" height="60" rx="3" fill="#2d2d38" stroke="#ab47bc"/>
+    <text x="435" y="65" fill="#ffffff" font-size="11" font-family="sans-serif" text-anchor="middle">E/S</text>
+
+    <rect x="500" y="30" width="110" height="60" rx="3" fill="#2d2d38" stroke="#ab47bc"/>
+    <text x="555" y="65" fill="#ffffff" font-size="11" font-family="sans-serif" text-anchor="middle">Discos</text>
+  </g>
+</svg>
