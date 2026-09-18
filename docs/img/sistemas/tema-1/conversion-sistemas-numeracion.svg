@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 480" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Cabecera -->
+  <g transform="translate(30, 30)">
+    <rect x="0" y="0" width="590" height="45" rx="6" fill="#ab47bc" fill-opacity="0.8"/>
+    <line x1="260" y1="0" x2="260" y2="45" stroke="#1e1e24" stroke-width="2"/>
+    <text x="130" y="28" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif" text-anchor="middle">Conversión</text>
+    <text x="425" y="28" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif" text-anchor="middle">Método</text>
+  </g>
+
+  <!-- Cuerpo de la Tabla -->
+  <g transform="translate(30, 80)">
+    <rect x="0" y="0" width="590" height="360" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+    
+    <!-- Línea vertical divisoria -->
+    <line x1="260" y1="0" x2="260" y2="360" stroke="#ab47bc" stroke-width="1" stroke-dasharray="2,2"/>
+
+    <!-- Fila 1 -->
+    <text x="130" y="32" fill="#29b6f6" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Cualquier base → decimal</text>
+    <text x="425" y="32" fill="#ffffff" font-size="13" font-family="sans-serif" text-anchor="middle">Teorema fundamental de la numeración</text>
+    <line x1="0" y1="51" x2="590" y2="51" stroke="#1e1e24" stroke-width="1"/>
+
+    <!-- Fila 2 -->
+    <text x="130" y="83" fill="#29b6f6" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Decimal → cualquier base</text>
+    <text x="425" y="83" fill="#ffffff" font-size="13" font-family="sans-serif" text-anchor="middle">Divisiones sucesivas</text>
+    <line x1="0" y1="102" x2="590" y2="102" stroke="#1e1e24" stroke-width="1"/>
+
+    <!-- Fila 3 -->
+    <text x="130" y="134" fill="#29b6f6" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Binario → octal</text>
+    <text x="425" y="134" fill="#ffffff" font-size="13" font-family="sans-serif" text-anchor="middle">Agrupar bits de 3 en 3</text>
+    <line x1="0" y1="153" x2="590" y2="153" stroke="#1e1e24" stroke-width="1"/>
+
+    <!-- Fila 4 -->
+    <text x="130" y="185" fill="#29b6f6" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Octal → binario</text>
+    <text x="425" y="185" fill="#ffffff" font-size="13" font-family="sans-serif" text-anchor="middle">Sustituir cada cifra por 3 bits</text>
+    <line x1="0" y1="204" x2="590" y2="204" stroke="#1e1e24" stroke-width="1"/>
+
+    <!-- Fila 5 -->
+    <text x="130" y="236" fill="#29b6f6" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Binario → hexadecimal</text>
+    <text x="425" y="236" fill="#ffffff" font-size="13" font-family="sans-serif" text-anchor="middle">Agrupar bits de 4 en 4</text>
+    <line x1="0" y1="255" x2="590" y2="255" stroke="#1e1e24" stroke-width="1"/>
+
+    <!-- Fila 6 -->
+    <text x="130" y="287" fill="#29b6f6" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Hexadecimal → binario</text>
+    <text x="425" y="287" fill="#ffffff" font-size="13" font-family="sans-serif" text-anchor="middle">Sustituir cada carácter por 4 bits</text>
+    <line x1="0" y1="306" x2="590" y2="306" stroke="#1e1e24" stroke-width="1"/>
+
+    <!-- Fila 7 -->
+    <text x="130" y="338" fill="#29b6f6" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Octal ↔ hexadecimal</text>
+    <text x="425" y="338" fill="#ffffff" font-size="13" font-family="sans-serif" text-anchor="middle">Usar binario como paso intermedio</text>
+  </g>
+</svg>
