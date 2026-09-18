@@ -10,6 +10,11 @@ La **virtualización** es una tecnología que permite crear versiones virtuales 
 
 La virtualización se fundamenta en el uso de un software denominado **hipervisor** (o *Virtual Machine Monitor* — VMM). El hipervisor actúa como una capa intermedia entre el hardware real del equipo y los sistemas operativos instalados en las máquinas virtuales, gestionando y repartiendo de forma aislada y segura la CPU, la memoria RAM, el almacenamiento y la red.
 
+<figure markdown="span">
+  ![Esquema de la arquitectura de Virtualización Hospedada](../img/sistemas/tema-2/figura-2-1-virtualizacion.svg)
+  <figcaption>Figura 2.1 — Capas del modelo de virtualización hospedada (Hardware Real, Sistema Anfitrión, Hipervisor y Máquinas Virtuales).</figcaption>
+</figure>
+
 ---
 
 ### Ventajas e Inconvenientes de la Virtualización
