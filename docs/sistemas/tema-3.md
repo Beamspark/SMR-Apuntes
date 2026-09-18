@@ -18,6 +18,12 @@ Estructura de datos que crea el sistema operativo para gestionar cada proceso in
 * **Estado:** Situación operacional actual del proceso.
 
 #### Estados de un Proceso y Sus Transiciones
+
+<figure markdown="span">
+  ![Estados de un proceso y sus transiciones](../img/sistemas/tema-3/figura-3-2a-estados-proceso.svg)
+  <figcaption>Figura 3.2a — Estados por los que pasa un proceso durante su ciclo de vida y sus transiciones.</figcaption>
+</figure>
+
 Durante su ciclo de vida, un proceso evoluciona por 5 estados fundamentales:
 
 1. **Nuevo:** El proceso está siendo creado y el SO le asigna recursos e identificador iniciales. Pasa a *Preparado* tras la **admisión**.
@@ -34,6 +40,11 @@ Algoritmos del SO para decidir qué proceso ocupa la CPU en cada instante:
   * **SJF (*Shortest Job First*):** Selecciona el proceso con menor tiempo de ejecución estimado.
 * **Algoritmos Expulsivos (*Preemptive*):** El SO puede interrumpir el proceso activo para asignar la CPU a otro con mayor prioridad o menor tiempo restante.
   * **SRTF (*Shortest Remaining Time First*):** Versión expulsiva de SJF. Ejecuta el proceso con menor tiempo restante.
+
+<figure markdown="span">
+  ![Ejercicio resuelto de planificación de procesos FIFO](../img/sistemas/tema-3/figura-3-2b-ejercicio-fifo.svg)
+  <figcaption>Figura 3.2b — Ejercicio práctico resuelto de planificación de procesos mediante el algoritmo FIFO.</figcaption>
+</figure>
 
 !!! note "Fórmulas para Tiempos de Planificación"
     * **Tiempo de Espera ($TE$):** $TE = \text{Tiempo de Retorno} - \text{Tiempo de Ejecución}$
