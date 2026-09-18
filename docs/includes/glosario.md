@@ -72,6 +72,18 @@
 *[Freeware]: Software distribuido gratuitamente cuyo código fuente sigue perteneciendo de forma privada al desarrollador.
 *[Shareware]: Modelo de distribución que permite probar un programa de forma limitada en tiempo o funciones antes de adquirir la licencia.
 *[TFN]: Teorema Fundamental de la Numeración. Fórmula matemática para calcular el valor decimal de cualquier número expresado en un sistema posicional.
+*[Hipervisor]: O Virtual Machine Monitor (VMM). Software que gestiona, asigna y aisla los recursos físicos entre las distintas máquinas virtuales.
+*[Virtual Machine Monitor]: O Hipervisor. Software encargado de virtualizar el hardware y coordinar las máquinas virtuales.
+*[VMM]: Virtual Machine Monitor. Término técnico para definir el software hipervisor de virtualización.
+*[Bare Metal]: Hipervisor de Tipo 1 que se instala directamente sobre el hardware físico sin necesidad de un sistema operativo anfitrión.
+*[Host]: Sistema operativo anfitrión instalado directamente en el disco duro de la máquina real sobre el cual se ejecuta el hipervisor.
+*[Guest]: Sistema operativo invitado instalado dentro de una máquina virtual.
+*[Guest Additions]: Paquete de controladores y utilidades de optimización que se instalan dentro del SO invitado en VirtualBox.
+*[VMware Tools]: Paquete de controladores y utilidades de integración que se instalan dentro del SO invitado en entornos VMware.
+*[Snapshot]: Instantánea. Guardado del estado exacto de una máquina virtual en un instante concreto para poder restaurarla si ocurren fallos.
+*[Adaptador Puente]: Modo de red (Bridged) en el que la máquina virtual obtiene su propia dirección IP en la red física real.
+*[Intel VT-x]: Tecnología de virtualización asistida por hardware integrada en los procesadores Intel.
+*[AMD-V]: Tecnología de virtualización asistida por hardware integrada en los procesadores AMD.
 *[NTFS]: New Technology File System. Sistema de archivos por defecto en Windows que aporta permisos, cifrado, compresión y tolerancia a fallos.
 *[APFS]: Apple File System. Sistema de archivos optimizado para unidades SSD utilizado por defecto en macOS e iOS.
 *[AOSP]: Android Open Source Project. Proyecto de código abierto liderado por Google que constituye la base libre del sistema Android.
