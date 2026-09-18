@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 480" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Bloque 1 -->
+  <g transform="translate(40, 30)">
+    <rect x="0" y="0" width="200" height="190" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+    <circle cx="25" cy="25" r="14" fill="#ab47bc"/><text x="25" y="30" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">1</text>
+    <rect x="60" y="35" width="80" height="50" rx="4" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc"/>
+    <text x="100" y="125" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Comprobar</text>
+    <text x="100" y="145" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">requisitos</text>
+  </g>
+
+  <!-- Bloque 2 -->
+  <g transform="translate(275, 30)">
+    <rect x="0" y="0" width="200" height="190" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+    <circle cx="25" cy="25" r="14" fill="#ab47bc"/><text x="25" y="30" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">2</text>
+    <rect x="60" y="35" width="80" height="50" rx="4" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6"/>
+    <text x="100" y="125" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Elegir tipo de</text>
+    <text x="100" y="145" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">instalación</text>
+  </g>
+
+  <!-- Bloque 3 -->
+  <g transform="translate(510, 30)">
+    <rect x="0" y="0" width="200" height="190" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+    <circle cx="25" cy="25" r="14" fill="#ab47bc"/><text x="25" y="30" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">3</text>
+    <rect x="60" y="35" width="80" height="50" rx="4" fill="#ffb74d" fill-opacity="0.3" stroke="#ffb74d"/>
+    <text x="100" y="125" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Copia de</text>
+    <text x="100" y="145" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">seguridad</text>
+  </g>
+
+  <!-- Bloque 4 -->
+  <g transform="translate(40, 250)">
+    <rect x="0" y="0" width="200" height="190" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+    <circle cx="25" cy="25" r="14" fill="#ab47bc"/><text x="25" y="30" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">4</text>
+    <rect x="60" y="35" width="80" height="50" rx="4" fill="#ffb74d" fill-opacity="0.3" stroke="#ffb74d"/>
+    <text x="100" y="125" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Preparar medio</text>
+    <text x="100" y="145" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">de instalación</text>
+  </g>
+
+  <!-- Bloque 5 -->
+  <g transform="translate(275, 250)">
+    <rect x="0" y="0" width="200" height="190" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+    <circle cx="25" cy="25" r="14" fill="#ab47bc"/><text x="25" y="30" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">5</text>
+    <circle cx="100" cy="60" r="25" fill="#29b6f6" fill-opacity="0.4" stroke="#29b6f6"/>
+    <text x="100" y="125" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Planificar</text>
+    <text x="100" y="145" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">particiones</text>
+  </g>
+
+  <!-- Bloque 6 -->
+  <g transform="translate(510, 250)">
+    <rect x="0" y="0" width="200" height="190" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+    <circle cx="25" cy="25" r="14" fill="#ab47bc"/><text x="25" y="30" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">6</text>
+    <rect x="60" y="35" width="80" height="50" rx="4" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc"/>
+    <text x="100" y="125" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Comenzar la</text>
+    <text x="100" y="145" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">instalación</text>
+  </g>
+</svg>
