@@ -62,7 +62,18 @@ Organiza el espacio disponible en RAM cuando este resulta insuficiente para toda
 
 #### Tipos de Fragmentación
 * **Fragmentación Interna:** Típica de la **Paginación**. Aparece cuando un programa no ocupa la totalidad del último bloque asignado, dejando espacio inutilizado dentro de esa página.
+
+<figure markdown="span">
+  ![Ejemplo de fragmentación interna](../img/sistemas/tema-3/figura-3-3-fragmentacion-interna.svg)
+  <figcaption>Figura 3.3 — Ejemplo de fragmentación interna en un sistema de paginación de memoria.</figcaption>
+</figure>
+
 * **Fragmentación Externa:** Típica de la **Segmentación**. Aparece cuando quedan pequeños huecos libres dispersos por la memoria que no forman un bloque continuo de tamaño suficiente.
+
+<figure markdown="span">
+  ![Ejemplo de fragmentación externa](../img/sistemas/tema-3/figura-3-4-fragmentacion-externa.svg)
+  <figcaption>Figura 3.4 — Ejemplo de fragmentación externa en un sistema de asignación variable por segmentación.</figcaption>
+</figure>
 
 ---
 
@@ -114,11 +125,28 @@ Organización interna de los módulos del sistema y sus niveles de acceso a la i
 * **Monolítica:** Todos los servicios del sistema operativo se ejecutan integrados dentro del propio núcleo en modo privilegiado.
   * *Ventaja:* Elevado rendimiento y velocidad.
   * *Ejemplo:* Núcleo Linux.
+
+  <figure markdown="span">
+  ![Arquitectura Monolítica](../img/sistemas/tema-3/figura-3-5-arquitectura-monolitica.svg)
+  <figcaption>Figura 3.5 — Arquitectura monolítica de un sistema operativo (todos los servicios integrados en el Kernel).</figcaption>
+</figure>
+
 * **Micronúcleo (*Microkernel*):** Solo las funciones básicas permanecen en el núcleo. Los demás servicios (drivers, sistemas de archivos) corren como procesos en modo usuario.
   * *Ventaja:* Gran estabilidad y aislamiento de fallos.
   * *Ejemplo:* MINIX.
+
+  <figure markdown="span">
+  ![Arquitectura Microkernel](../img/sistemas/tema-3/figura-3-6-arquitectura-microkernel.svg)
+  <figcaption>Figura 3.6 — Arquitectura microkernel de un sistema operativo (servicios no esenciales fuera del núcleo).</figcaption>
+</figure>
+
 * **Híbrida:** Combina la velocidad del núcleo monolítico con la modularidad externa del micronúcleo.
   * *Ejemplos:* Windows NT/11 y macOS.
+
+<figure markdown="span">
+  ![Arquitectura Híbrida](../img/sistemas/tema-3/figura-3-7-arquitectura-hibrida.svg)
+  <figcaption>Figura 3.7 — Arquitectura híbrida de un sistema operativo (combinación de alto rendimiento y estabilidad).</figcaption>
+</figure>
 
 ---
 
@@ -139,6 +167,11 @@ Criterios de evaluación técnica:
 
 Pasos previos para un despliegue correcto:
 
+<figure markdown="span">
+  ![Pasos para la planificación de la instalación del SO](../img/sistemas/tema-3/figura-3-8-planificacion-instalacion.svg)
+  <figcaption>Figura 3.8 — Pasos secuenciales para planificar correctamente la instalación de un sistema operativo.</figcaption>
+</figure>
+
 1. **Comprobar los requisitos del sistema.**
 2. **Elegir el tipo de instalación:**
    * **Instalación limpia / Desde cero:** Formateo completo de la unidad de destino.
@@ -156,6 +189,11 @@ Pasos previos para un despliegue correcto:
 El **gestor de arranque (*Bootloader*)** es un programa especializado ejecutado tras el firmware para localizar el núcleo del SO, cargarlo en RAM y transferirle el control del equipo.
 
 ### Secuencia de Arranque del Ordenador (4 Pasos)
+
+<figure markdown="span">
+  ![Secuencia de arranque de un ordenador](../img/sistemas/tema-3/figura-3-9-secuencia-arranque.svg)
+  <figcaption>Figura 3.9 — Fases consecutivas de la secuencia de arranque de un ordenador.</figcaption>
+</figure>
 
 1. **POST (*Power-On Self-Test*):** El firmware (BIOS/UEFI) comprueba la salud del hardware.
 2. **Localización del Bootloader:** El firmware busca el gestor de arranque en la unidad de prioridad de inicio.
