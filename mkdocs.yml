@@ -46,9 +46,9 @@ nav:
       - Sistemas Operativos Monopuesto:
           - sistemas/index.md
           - Tema 1 - Caracterización de los Sistemas Operativos: sistemas/tema-1.md
-          - Tema 2 - Codificación de la Información: sistemas/tema-2.md
-          - Tema 3 - Gestión de Recursos y Memoria: sistemas/tema-3.md
-          - Tema 4 - Configuración de Máquinas Virtuales: sistemas/tema-4.md
-          - Tema 5 - Instalación de SO Propietarios: sistemas/tema-5.md
+          - Tema 2 - Máquinas virtuales: sistemas/tema-2.md
+          - Tema 3 - Instalación de sistemas operativos libres y propietarios: sistemas/tema-3.md
+          - Tema 4 - Configuración de sistemas operativos libres y propietarios: sistemas/tema-4.md
+          - Tema 5 - Administración de sistemas operativos libres y propietarios: sistemas/tema-5.md
       - Digitalización Aplicada: digitalizacion/index.md
       - Itinerario Personal (IPE I): ipe/index.md
