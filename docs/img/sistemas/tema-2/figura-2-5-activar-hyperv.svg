@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <!-- Ventana de Fondo: Panel de Control -->
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="680" height="440" rx="6" fill="#ffffff" stroke="#ab47bc" stroke-width="1.5"/>
+    <rect x="0" y="0" width="680" height="30" fill="#f0f0f0"/>
+    <text x="30" y="20" fill="#333333" font-size="11" font-family="sans-serif">Programas y características</text>
+    
+    <!-- Ruta de Navegación -->
+    <rect x="10" y="35" width="660" height="25" fill="#fcfcfc" stroke="#e0e0e0"/>
+    <text x="40" y="52" fill="#555555" font-size="11" font-family="sans-serif">Panel de control > Todos los elementos de Panel de control > Programas y características</text>
+
+    <!-- Panel Izquierdo -->
+    <g transform="translate(15, 80)">
+      <rect x="0" y="0" width="180" height="60" fill="#2196f3" fill-opacity="0.1" stroke="#2196f3" stroke-width="2" rx="4"/>
+      <text x="30" y="25" fill="#0056b3" font-size="11" font-weight="bold" font-family="sans-serif">Activar o desactivar las</text>
+      <text x="30" y="40" fill="#0056b3" font-size="11" font-weight="bold" font-family="sans-serif">características de Windows</text>
+
+      <!-- Flecha de Indicación -->
+      <path d="M 180 30 L 260 30 L 260 170 L 220 170" fill="none" stroke="#2196f3" stroke-width="2.5"/>
+      <polygon points="215,170 225,165 225,175" fill="#2196f3"/>
+    </g>
+
+    <!-- Ventana Emergente: Características de Windows -->
+    <g transform="translate(210, 80)">
+      <rect x="0" y="0" width="440" height="330" rx="4" fill="#ffffff" stroke="#999999" stroke-width="1.5"/>
+      <rect x="0" y="0" width="440" height="28" fill="#f0f0f0"/>
+      <text x="25" y="18" fill="#333333" font-size="11" font-family="sans-serif">Características de Windows</text>
+      <text x="420" y="18" fill="#666666" font-size="12" font-family="sans-serif">✕</text>
+
+      <text x="15" y="45" fill="#0056b3" font-size="13" font-family="sans-serif">Activar o desactivar las características de Windows</text>
+
+      <!-- Arbol de Opciones -->
+      <g transform="translate(15, 60)">
+        <rect x="0" y="0" width="410" height="200" fill="#ffffff" stroke="#cccccc"/>
+        
+        <text x="30" y="20" fill="#333333" font-size="11" font-family="sans-serif">Contenedores</text>
+        <text x="30" y="40" fill="#333333" font-size="11" font-family="sans-serif">Escritor de documentos XPS de Microsoft</text>
+        
+        <!-- Marcado Hyper-V -->
+        <rect x="15" y="68" width="12" height="12" fill="#0078d4" stroke="#0078d4"/>
+        <path d="M 17 74 L 20 77 L 25 70" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+        <rect x="30" y="65" width="370" height="18" fill="#0078d4" fill-opacity="0.2"/>
+        <text x="32" y="79" fill="#000000" font-size="11" font-weight="bold" font-family="sans-serif">Hyper-V</text>
+
+        <!-- Subopciones -->
+        <rect x="40" y="90" width="10" height="10" fill="#ffffff" stroke="#333333"/>
+        <path d="M 42 95 L 48 95 M 45 92 L 45 98" stroke="#333333"/>
+        <text x="55" y="99" fill="#333333" font-size="11" font-family="sans-serif">Herramientas de administración de Hyper-V</text>
+
+        <rect x="40" y="110" width="10" height="10" fill="#ffffff" stroke="#333333"/>
+        <path d="M 42 115 L 48 115 M 45 112 L 45 118" stroke="#333333"/>
+        <text x="55" y="119" fill="#333333" font-size="11" font-family="sans-serif">Plataforma de Hyper-V</text>
+      </g>
+
+      <!-- Botones Aceptar / Cancelar -->
+      <rect x="250" y="280" width="80" height="24" rx="2" fill="#e1e1e1" stroke="#adadad"/>
+      <text x="290" y="296" fill="#000000" font-size="11" font-family="sans-serif" text-anchor="middle">Aceptar</text>
+
+      <rect x="340" y="280" width="80" height="24" rx="2" fill="#e1e1e1" stroke="#adadad"/>
+      <text x="380" y="296" fill="#000000" font-size="11" font-family="sans-serif" text-anchor="middle">Cancelar</text>
+    </g>
+  </g>
+</svg>
