@@ -25,6 +25,11 @@ Propuesta en 1945 por John Von Neumann, su característica fundamental es que **
 
 ### Elementos Funcionales
 
+<figure markdown="span">
+  ![Esquema de la Arquitectura de Von Neumann](../img/sistemas/tema-1/esquema-von-neumann.svg)
+  <figcaption>Figura 1.1 — Esquema de la arquitectura de Von Neumann y buses del sistema.</figcaption>
+</figure>
+
 #### 1. CPU (Unidad Central de Procesamiento)
 Cerebro del ordenador encargado de interpretar y ejecutar las instrucciones:
 * **Unidad de Control (**UC** / *Control Unit*):** Dirige y coordina las operaciones enviando señales a través del bus de control.
@@ -52,6 +57,11 @@ Medios permanentes no volátiles que mantienen los datos sin corriente eléctric
 ### Jerarquía de Memorias
 
 Organizada según velocidad, capacidad y coste:
+
+<figure markdown="span">
+  ![Jerarquía de Memoria](../img/sistemas/tema-1/jerarquia-memoria.svg)
+  <figcaption>Figura 1.2 — Jerarquía de memoria de un sistema informático.</figcaption>
+</figure>
 
 1. **Registros del procesador:** Memorias más rápidas y de menor capacidad situadas dentro del propio chip de la **CPU**.
 2. **Memoria Caché:** Ultra rápida, situada entre la **CPU** y la **RAM**:
@@ -157,6 +167,11 @@ Internamente, un ordenador procesa señales eléctricas representadas en código
   * <span style="color: #ab47bc;">**MSB**</span> (*Most Significant Bit* / Bit Más Significativo): Bit situado más a la izquierda (peso $2^7 = 128$).
 * **Palabra:** Conjunto de $n$ bits que el procesador maneja simultáneamente (32 bits o 64 bits). Una arquitectura de 64 bits maneja palabras de **8 bytes** a la vez.
 
+<figure markdown="span">
+  ![Estructura de un Byte](../img/sistemas/tema-1/estructura-byte.svg)
+  <figcaption>Figura 1.3 — Estructura de un byte y peso posicional de sus bits (MSB / LSB).</figcaption>
+</figure>
+
 ---
 
 ### Escala de Medidas de Información (Potencias de Base 2)
@@ -198,6 +213,11 @@ Donde $N$ es el valor decimal, $b$ es la base del sistema, $a$ es el dígito y l
 * **Binario (Base 2):** Cifras $0$ y $1$. Uso interno en circuitos digitales.
 * **Octal (Base 8):** Cifras $0$ al $7$. Cada cifra octal equivale exactamente a **3 bits** ($8 = 2^3$).
 * **Hexadecimal (Base 16):** Cifras $0$ al $9$ y letras **A, B, C, D, E, F** ($10$ al $15$). Cada cifra hexadecimal equivale exactamente a **4 bits** ($16 = 2^4$). Se utiliza en direcciones de memoria, colores web, direcciones MAC y programación.
+
+<figure markdown="span">
+  ![Tabla de Correspondencia de Sistemas de Numeración](../img/sistemas/tema-1/tabla-sistemas-numeracion.svg)
+  <figcaption>Figura 1.4 — Correspondencia entre los sistemas decimal, binario, octal y hexadecimal.</figcaption>
+</figure>
 
 ---
 
