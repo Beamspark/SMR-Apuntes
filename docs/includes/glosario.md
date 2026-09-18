@@ -88,3 +88,12 @@
 *[APFS]: Apple File System. Sistema de archivos optimizado para unidades SSD utilizado por defecto en macOS e iOS.
 *[AOSP]: Android Open Source Project. Proyecto de código abierto liderado por Google que constituye la base libre del sistema Android.
 *[Windows Server 2025]: Sistema operativo para servidores de Microsoft perteneciente al canal LTSC de soporte a largo plazo.
+*[BCP]: Bloque de Control de Procesos. Estructura de datos creada por el sistema operativo para gestionar la prioridad, PID y estado de cada proceso.
+*[PCB]: Process Control Block. Nombre en inglés del Bloque de Control de Procesos (BCP).
+*[PID]: Process Identifier. Identificador numérico único asignado por el sistema operativo a cada proceso activo.
+*[SRTF]: Shortest Remaining Time First. Algoritmo de planificación de procesos expulsivo que ejecuta el proceso con menor tiempo restante.
+*[System Call]: Llamada al sistema. Solicitud realizada por una aplicación en modo usuario para solicitar un servicio o recurso al Kernel.
+*[Journaling]: Técnica en sistemas de archivos que registra las transacciones en un diario antes de escribirlas para garantizar la recuperación de datos tras un fallo.
+*[ESP]: EFI System Partition. Partición en formato FAT32 utilizada por UEFI para almacenar el gestor de arranque y los controladores del sistema.
+*[Secure Boot]: Mecanismo de seguridad en UEFI que comprueba las firmas digitales del gestor de arranque para evitar el inicio de malware de bajo nivel.
+*[sfc]: System File Checker. Herramienta de comandos en Windows para analizar y reparar archivos del sistema corruptos.
