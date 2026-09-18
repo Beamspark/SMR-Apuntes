@@ -1,9 +1,5 @@
 # 💻 Sistemas Operativos Monopuesto
 
-Bienvenido a la sección dedicada a **Sistemas Operativos Monopuesto**. En este módulo abordaremos la instalación, administración, configuración y mantenimiento de sistemas operativos propietarios (Windows) y libres (distribuciones Linux), así como el uso de entornos virtuales.
-
-# 💻 Sistemas Operativos Monopuesto
-
 Bienvenido al módulo de **Sistemas Operativos Monopuesto**. En esta sección encontrarás toda la documentación, esquemas y resúmenes de los temas del curso.
 
 ## 📋 Índice de Contenidos
