@@ -97,3 +97,23 @@
 *[ESP]: EFI System Partition. Partición en formato FAT32 utilizada por UEFI para almacenar el gestor de arranque y los controladores del sistema.
 *[Secure Boot]: Mecanismo de seguridad en UEFI que comprueba las firmas digitales del gestor de arranque para evitar el inicio de malware de bajo nivel.
 *[sfc]: System File Checker. Herramienta de comandos en Windows para analizar y reparar archivos del sistema corruptos.
+*[FCFS]: First Come, First Served. Nombre alternativo para el algoritmo de planificación de procesos FIFO.
+*[FIFO]: First In, First Out. Algoritmo de planificación de procesos no expulsivo que ejecuta los procesos por estricto orden de llegada.
+*[SJF]: Shortest Job First. Algoritmo de planificación de procesos no expulsivo que selecciona el proceso con menor tiempo de ejecución estimado.
+*[Swap]: Memoria de intercambio. Área del almacenamiento secundario reservada para actuar como extensión de la memoria RAM física.
+*[Paginación]: Técnica de gestión de memoria que divide la RAM en bloques fijos (marcos) y los programas en páginas del mismo tamaño.
+*[Segmentación]: Técnica de gestión de memoria que divide los programas en bloques de tamaño variable (segmentos) según su función lógica.
+*[Fragmentación Interna]: Espacio inutilizado dentro de un bloque fijo asignado a un programa en un sistema de paginación.
+*[Fragmentación Externa]: Huecos libres discontinuos dispersos por la RAM que impiden cargar un proceso aunque la memoria libre total sea suficiente.
+*[WIMP]: Windows, Icons, Menus, Pointer. Modelo estándar de interfaz gráfica de usuario compuesto por ventanas, iconos, menús y puntero.
+*[System Call]: Llamada al sistema. Petición que realiza una aplicación en modo usuario al Kernel para solicitar el acceso a un recurso de hardware.
+*[Prompt]: Indicador visual de texto en una consola CLI que señala que el sistema está listo para recibir un comando.
+*[Prompt de Comandos]: Indicador de texto en consola que marca la línea de entrada para las órdenes del usuario.
+*[hiberfil.sys]: Archivo oculto del sistema en Windows utilizado para guardar el estado de la RAM durante la hibernación o el Inicio Rápido.
+*[WinRE]: Windows Recovery Environment. Entorno de recuperación integrado en Windows para solucionar problemas de arranque o restaurar el sistema.
+*[Recovery Mode]: Modo de recuperación en sistemas GNU/Linux para realizar tareas de mantenimiento, reparación de discos y diagnósticos de arranque.
+*[Fast Startup]: Inicio Rápido. Función híbrida de Windows que combina el cierre de sesión de usuario con la hibernación del Kernel para agilizar el arranque.
+*[cron]: Servicio demonio en sistemas Linux encargada de ejecutar comandos o scripts programados en segundo plano.
+*[crontab]: Archivo de configuración en Linux que almacena la tabla de tareas programadas gestionadas por el servicio cron.
+*[APT]: Advanced Package Tool. Gestor de paquetes nativo de distribuciones basadas en Debian/Ubuntu para instalar, actualizar y eliminar software desde terminal.
+*[7Z]: Formato de archivo comprimido de código abierto que ofrece elevados índices de compresión utilizando el compresor 7-Zip.
