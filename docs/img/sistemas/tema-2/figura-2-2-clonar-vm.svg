@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 430" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <!-- Ventana VirtualBox -->
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="640" height="390" rx="6" fill="#f5f5f5" stroke="#ab47bc" stroke-width="1.5"/>
+    
+    <!-- Barra de Título -->
+    <path d="M 0 6 C 0 3, 3 0, 6 0 L 634 0 C 637 0, 640 3, 640 6 L 640 30 L 0 30 Z" fill="#ffffff"/>
+    <text x="35" y="20" fill="#333333" font-size="12" font-weight="bold" font-family="sans-serif">Clonar máquina virtual</text>
+    <!-- Botones Ventana -->
+    <rect x="580" y="8" width="12" height="12" fill="none" stroke="#666666" stroke-width="1"/>
+    <rect x="600" y="8" width="12" height="12" fill="none" stroke="#666666" stroke-width="1"/>
+    <path d="M 618 8 L 630 20 M 630 8 L 618 20" stroke="#666666" stroke-width="1"/>
+
+    <!-- Panel Izquierdo (Oveja Dolly VirtualBox) -->
+    <rect x="10" y="40" width="130" height="300" fill="#7ba05b" rx="4"/>
+    <!-- Ilustración simplificada oveja -->
+    <circle cx="75" cy="210" r="45" fill="#ffffff"/>
+    <ellipse cx="60" cy="200" rx="18" ry="25" fill="#1e1e24"/>
+    <circle cx="55" cy="195" r="3" fill="#ffffff"/>
+
+    <!-- Formulario Derecho -->
+    <g transform="translate(150, 40)">
+      <text x="0" y="20" fill="#333333" font-size="11" font-weight="bold" font-family="sans-serif">Name and Path</text>
+      
+      <text x="0" y="45" fill="#333333" font-size="11" font-family="sans-serif">Nombre:</text>
+      <rect x="60" y="30" width="400" height="22" rx="3" fill="#ffffff" stroke="#cccccc" stroke-width="1"/>
+      <text x="70" y="45" fill="#333333" font-size="11" font-family="sans-serif">Windows 10 CLONADA</text>
+      <circle cx="445" cy="41" r="6" fill="#4caf50"/>
+
+      <text x="0" y="80" fill="#333333" font-size="11" font-family="sans-serif">Ruta:</text>
+      <rect x="60" y="65" width="400" height="22" rx="3" fill="#ffffff" stroke="#cccccc" stroke-width="1"/>
+      <text x="70" y="80" fill="#333333" font-size="11" font-family="sans-serif">C:\Users\legavidia\Documents</text>
+
+      <!-- Secciones Tipo -->
+      <g transform="translate(0, 100)">
+        <text x="0" y="15" fill="#333333" font-size="11" font-weight="bold" font-family="sans-serif">Clone Type</text>
+        <circle cx="10" cy="35" r="5" fill="none" stroke="#2196f3" stroke-width="2"/>
+        <circle cx="10" cy="35" r="2.5" fill="#2196f3"/>
+        <text x="25" y="38" fill="#333333" font-size="11" font-family="sans-serif">Clonación completa</text>
+
+        <circle cx="10" cy="60" r="5" fill="none" stroke="#cccccc" stroke-width="1.5"/>
+        <text x="25" y="63" fill="#333333" font-size="11" font-family="sans-serif">Clonación enlazada</text>
+      </g>
+
+      <g transform="translate(240, 100)">
+        <text x="0" y="15" fill="#333333" font-size="11" font-weight="bold" font-family="sans-serif">Instantáneas</text>
+        <circle cx="10" cy="35" r="5" fill="none" stroke="#cccccc" stroke-width="1.5"/>
+        <text x="25" y="38" fill="#888888" font-size="11" font-family="sans-serif">Current Machine State</text>
+
+        <circle cx="10" cy="60" r="5" fill="none" stroke="#cccccc" stroke-width="1.5"/>
+        <text x="25" y="63" fill="#888888" font-size="11" font-family="sans-serif">Todo</text>
+      </g>
+
+      <!-- Política MAC -->
+      <g transform="translate(0, 185)">
+        <text x="0" y="15" fill="#333333" font-size="11" font-family="sans-serif">Política de dirección MAC:</text>
+        <rect x="130" y="0" width="330" height="22" rx="3" fill="#ffffff" stroke="#cccccc" stroke-width="1"/>
+        <text x="140" y="15" fill="#333333" font-size="10" font-family="sans-serif">Incluir solo dirección MAC de adaptador de red NAT</text>
+
+        <rect x="130" y="30" width="10" height="10" fill="none" stroke="#cccccc"/>
+        <text x="148" y="39" fill="#333333" font-size="10" font-family="sans-serif">Mantener nombres de disco</text>
+
+        <rect x="130" y="48" width="10" height="10" fill="none" stroke="#cccccc"/>
+        <text x="148" y="57" fill="#333333" font-size="10" font-family="sans-serif">Mantener UUIDS hardware</text>
+      </g>
+    </g>
+
+    <!-- Botones Inferiores -->
+    <g transform="translate(10, 350)">
+      <rect x="0" y="0" width="75" height="26" rx="3" fill="#e0e0e0" stroke="#cccccc"/>
+      <text x="37" y="17" fill="#333333" font-size="11" font-family="sans-serif" text-anchor="middle">Ayuda</text>
+
+      <rect x="450" y="0" width="80" height="26" rx="3" fill="#2196f3"/>
+      <text x="490" y="17" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">Terminar</text>
+
+      <rect x="540" y="0" width="80" height="26" rx="3" fill="#e0e0e0" stroke="#cccccc"/>
+      <text x="580" y="17" fill="#333333" font-size="11" font-family="sans-serif" text-anchor="middle">Cancelar</text>
+    </g>
+  </g>
+</svg>
