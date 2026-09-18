@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 720" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <g transform="translate(20, 20)">
+    <!-- Columna Izquierda (13 elementos) -->
+    <g transform="translate(0, 0)">
+      <!-- 1. Actividades Físicas -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="45" height="42" fill="#1b9e77" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Actividades Físicas y Deportivas</text>
+      </g>
+      <!-- 2. Administración y Gestión -->
+      <g transform="translate(0, 48)">
+        <rect x="0" y="0" width="45" height="42" fill="#b2df8a" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Administración y Gestión</text>
+      </g>
+      <!-- 3. Agraria -->
+      <g transform="translate(0, 96)">
+        <rect x="0" y="0" width="45" height="42" fill="#1f78b4" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Agraria</text>
+      </g>
+      <!-- 4. Artes Gráficas -->
+      <g transform="translate(0, 144)">
+        <rect x="0" y="0" width="45" height="42" fill="#d95f02" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Artes Gráficas</text>
+      </g>
+      <!-- 5. Artes y Artesanías -->
+      <g transform="translate(0, 192)">
+        <rect x="0" y="0" width="45" height="42" fill="#00a699" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Artes y Artesanías</text>
+      </g>
+      <!-- 6. Comercio y Marketing -->
+      <g transform="translate(0, 240)">
+        <rect x="0" y="0" width="45" height="42" fill="#8da0cb" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Comercio y Marketing</text>
+      </g>
+      <!-- 7. Edificación y Obra Civil -->
+      <g transform="translate(0, 288)">
+        <rect x="0" y="0" width="45" height="42" fill="#e7298a" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Edificación y Obra Civil</text>
+      </g>
+      <!-- 8. Electricidad y Electrónica -->
+      <g transform="translate(0, 336)">
+        <rect x="0" y="0" width="45" height="42" fill="#ce0058" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Electricidad y Electrónica</text>
+      </g>
+      <!-- 9. Energía y Agua -->
+      <g transform="translate(0, 384)">
+        <rect x="0" y="0" width="45" height="42" fill="#a65628" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Energía y Agua</text>
+      </g>
+      <!-- 10. Fabricación Mecánica -->
+      <g transform="translate(0, 432)">
+        <rect x="0" y="0" width="45" height="42" fill="#984ea3" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Fabricación Mecánica</text>
+      </g>
+      <!-- 11. Hostelería y Turismo -->
+      <g transform="translate(0, 480)">
+        <rect x="0" y="0" width="45" height="42" fill="#4daf4a" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Hostelería y Turismo</text>
+      </g>
+      <!-- 12. Imagen Personal -->
+      <g transform="translate(0, 528)">
+        <rect x="0" y="0" width="45" height="42" fill="#7570b3" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Imagen Personal</text>
+      </g>
+      <!-- 13. Imagen y Sonido -->
+      <g transform="translate(0, 576)">
+        <rect x="0" y="0" width="45" height="42" fill="#e6ab02" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Imagen y Sonido</text>
+      </g>
+    </g>
+
+    <!-- Columna Derecha (13 elementos) -->
+    <g transform="translate(372, 0)">
+      <!-- 14. Industrias Alimentarias -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="45" height="42" fill="#0288d1" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Industrias Alimentarias</text>
+      </g>
+      <!-- 15. Industrias Extractivas -->
+      <g transform="translate(0, 48)">
+        <rect x="0" y="0" width="45" height="42" fill="#a63603" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Industrias Extractivas</text>
+      </g>
+      <!-- 16. Informática y Comunicaciones -->
+      <g transform="translate(0, 96)">
+        <rect x="0" y="0" width="45" height="42" fill="#c0ca33" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif">Informática y Comunicaciones</text>
+      </g>
+      <!-- 17. Instalación y Mantenimiento -->
+      <g transform="translate(0, 144)">
+        <rect x="0" y="0" width="45" height="42" fill="#d81b60" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Instalación y Mantenimiento</text>
+      </g>
+      <!-- 18. Madera, Mueble y Corcho -->
+      <g transform="translate(0, 192)">
+        <rect x="0" y="0" width="45" height="42" fill="#f4a582" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Madera, Mueble y Corcho</text>
+      </g>
+      <!-- 19. Marítima-Pesquera -->
+      <g transform="translate(0, 240)">
+        <rect x="0" y="0" width="45" height="42" fill="#05519c" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Marítima-Pesquera</text>
+      </g>
+      <!-- 20. Química -->
+      <g transform="translate(0, 288)">
+        <rect x="0" y="0" width="45" height="42" fill="#3f51b5" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Química</text>
+      </g>
+      <!-- 21. Sanidad -->
+      <g transform="translate(0, 336)">
+        <rect x="0" y="0" width="45" height="42" fill="#7e57c2" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Sanidad</text>
+      </g>
+      <!-- 22. Seguridad y Medio Ambiente -->
+      <g transform="translate(0, 384)">
+        <rect x="0" y="0" width="45" height="42" fill="#8e24aa" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Seguridad y Medio Ambiente</text>
+      </g>
+      <!-- 23. Servicios Socioculturales -->
+      <g transform="translate(0, 432)">
+        <rect x="0" y="0" width="45" height="42" fill="#43a047" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Servicios Socioculturales y a la Comunidad</text>
+      </g>
+      <!-- 24. Textil, Confección y Piel -->
+      <g transform="translate(0, 480)">
+        <rect x="0" y="0" width="45" height="42" fill="#f57c00" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Textil, Confección y Piel</text>
+      </g>
+      <!-- 25. Transporte y Mantenimiento -->
+      <g transform="translate(0, 528)">
+        <rect x="0" y="0" width="45" height="42" fill="#d32f2f" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Transporte y Mantenimiento de Vehículos</text>
+      </g>
+      <!-- 26. Vidrio y Cerámica -->
+      <g transform="translate(0, 576)">
+        <rect x="0" y="0" width="45" height="42" fill="#e65100" rx="3"/>
+        <rect x="48" y="0" width="320" height="42" fill="#2d2d38" rx="3"/>
+        <text x="60" y="26" fill="#ffffff" font-size="12" font-family="sans-serif">Vidrio y Cerámica</text>
+      </g>
+    </g>
+  </g>
+</svg>
