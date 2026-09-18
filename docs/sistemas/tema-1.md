@@ -233,5 +233,10 @@ Donde $N$ es el valor decimal, $b$ es la base del sistema, $a$ es el dígito y l
 | **Hexadecimal $\rightarrow$ Binario** | Sustituir cada carácter hexadecimal por su equivalente directo en **4 bits binarios**. |
 | **Octal $\leftrightarrow$ Hexadecimal** | Usar el **sistema binario como paso intermedio** (pasar a bits de 3 en 3 y luego reagrupar de 4 en 4, o viceversa). |
 
+<figure markdown="span">
+  ![Resumen de Métodos de Conversión entre Sistemas de Numeración](../img/sistemas/tema-1/conversion-sistemas-numeracion.svg)
+  <figcaption>Figura 1.5 — Resumen de métodos de conversión entre sistemas de numeración.</figcaption>
+</figure>
+
 
 --8<-- "docs/includes/glosario.md"
