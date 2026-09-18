@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 500" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Máquina Virtual 1 -->
+  <g transform="translate(60, 30)">
+    <rect x="0" y="0" width="230" height="230" rx="8" fill="#ab47bc" fill-opacity="0.15" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="4,4"/>
+    <text x="115" y="-10" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Máquina virtual 1</text>
+    
+    <!-- SO Invitado 1 -->
+    <rect x="15" y="15" width="200" height="90" rx="6" fill="#ab47bc" fill-opacity="0.6" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="115" y="55" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Sistema operativo</text>
+    <text x="115" y="75" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">invitado</text>
+
+    <!-- Hardware Virtual 1 -->
+    <rect x="15" y="120" width="200" height="90" rx="6" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="115" y="170" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Hardware virtual</text>
+  </g>
+
+  <!-- Máquina Virtual 2 -->
+  <g transform="translate(360, 30)">
+    <rect x="0" y="0" width="230" height="230" rx="8" fill="#ab47bc" fill-opacity="0.15" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="4,4"/>
+    <text x="115" y="-10" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Máquina virtual 2</text>
+    
+    <!-- SO Invitado 2 -->
+    <rect x="15" y="15" width="200" height="90" rx="6" fill="#ab47bc" fill-opacity="0.6" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="115" y="55" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Sistema operativo</text>
+    <text x="115" y="75" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">invitado</text>
+
+    <!-- Hardware Virtual 2 -->
+    <rect x="15" y="120" width="200" height="90" rx="6" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="115" y="170" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Hardware virtual</text>
+  </g>
+
+  <!-- Flechas desde el Hipervisor -->
+  <g stroke="#ffb74d" stroke-width="2.5" fill="none">
+    <line x1="175" y1="285" x2="175" y2="265"/>
+    <polygon points="175,257 170,267 180,267" fill="#ffb74d"/>
+
+    <line x1="475" y1="285" x2="475" y2="265"/>
+    <polygon points="475,257 470,267 480,267" fill="#ffb74d"/>
+  </g>
+
+  <!-- Capa 1: Hipervisor -->
+  <g transform="translate(40, 290)">
+    <rect x="0" y="0" width="570" height="50" rx="6" fill="#ffb74d" fill-opacity="0.8" stroke="#ffb74d" stroke-width="1.5"/>
+    <text x="285" y="30" fill="#1e1e24" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Hipervisor (software de virtualización)</text>
+  </g>
+
+  <!-- Capa 2: Sistema Operativo Anfitrión -->
+  <g transform="translate(40, 355)">
+    <rect x="0" y="0" width="570" height="50" rx="6" fill="#ffb74d" fill-opacity="0.5" stroke="#ffb74d" stroke-width="1.5"/>
+    <text x="285" y="30" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Sistema operativo anfitrión</text>
+  </g>
+
+  <!-- Capa 3: Hardware Real -->
+  <g transform="translate(40, 420)">
+    <rect x="0" y="0" width="570" height="55" rx="6" fill="#ffb74d" fill-opacity="0.3" stroke="#ffb74d" stroke-width="2"/>
+    <text x="285" y="33" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif" text-anchor="middle">Hardware real</text>
+  </g>
+</svg>
