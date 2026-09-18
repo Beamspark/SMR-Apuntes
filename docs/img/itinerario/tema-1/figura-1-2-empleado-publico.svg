@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <g transform="translate(20, 20)">
+    <!-- Nivel 1: Raíz -->
+    <rect x="270" y="10" width="200" height="45" rx="8" fill="#29b6f6" fill-opacity="0.2" stroke="#29b6f6" stroke-width="2"/>
+    <text x="370" y="37" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Empleado público</text>
+
+    <!-- Línea Principal de Distribución -->
+    <path d="M 370 55 L 370 85 M 105 85 L 635 85 M 105 85 L 105 110 M 265 85 L 265 110 M 425 85 L 425 110 M 635 85 L 635 110" stroke="#29b6f6" stroke-width="2" fill="none"/>
+
+    <!-- Nivel 2: Categorías Principales -->
+    <!-- Funcionarios -->
+    <rect x="35" y="110" width="140" height="45" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="105" y="137" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Funcionarios</text>
+
+    <!-- Personal Eventual -->
+    <rect x="195" y="110" width="140" height="45" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="265" y="130" fill="#ffffff" font-size="12" font-family="sans-serif" text-anchor="middle">Personal</text>
+    <text x="265" y="145" fill="#ffffff" font-size="12" font-family="sans-serif" text-anchor="middle">eventual</text>
+
+    <!-- Personal Directivo -->
+    <rect x="355" y="110" width="140" height="45" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="425" y="130" fill="#ffffff" font-size="12" font-family="sans-serif" text-anchor="middle">Personal directivo</text>
+    <text x="425" y="145" fill="#ffffff" font-size="12" font-family="sans-serif" text-anchor="middle">profesional</text>
+
+    <!-- Personal Laboral -->
+    <rect x="565" y="110" width="140" height="45" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="635" y="137" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Personal laboral</text>
+
+    <!-- Nivel 3: Subcategorías -->
+    <!-- Ramificación Funcionarios -->
+    <path d="M 105 155 L 105 185 M 55 185 L 155 185 M 55 185 L 55 210 M 155 185 L 155 210" stroke="#ab47bc" stroke-width="1.5" fill="none"/>
+    
+    <rect x="10" y="210" width="90" height="40" rx="4" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc"/>
+    <text x="55" y="228" fill="#ffffff" font-size="11" font-family="sans-serif" text-anchor="middle">De</text>
+    <text x="55" y="240" fill="#ffffff" font-size="11" font-family="sans-serif" text-anchor="middle">carrera</text>
+
+    <rect x="110" y="210" width="90" height="40" rx="4" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc"/>
+    <text x="155" y="235" fill="#ffffff" font-size="11" font-family="sans-serif" text-anchor="middle">Interinos</text>
+
+    <!-- Ramificación Personal Laboral -->
+    <path d="M 635 155 L 635 185 M 525 185 L 725 185 M 525 185 L 525 210 M 625 185 L 625 210 M 725 185 L 725 210" stroke="#ab47bc" stroke-width="1.5" fill="none"/>
+
+    <rect x="480" y="210" width="90" height="40" rx="4" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc"/>
+    <text x="525" y="235" fill="#ffffff" font-size="11" font-family="sans-serif" text-anchor="middle">Fijo</text>
+
+    <rect x="580" y="210" width="90" height="40" rx="4" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc"/>
+    <text x="625" y="228" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">A tiempo</text>
+    <text x="625" y="240" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">indefinido</text>
+
+    <rect x="680" y="210" width="90" height="40" rx="4" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc"/>
+    <text x="725" y="235" fill="#ffffff" font-size="11" font-family="sans-serif" text-anchor="middle">Temporal</text>
+  </g>
+</svg>
