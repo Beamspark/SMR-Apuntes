@@ -12,7 +12,7 @@ Bienvenido al módulo de **Sistemas Operativos Monopuesto**. En esta sección en
 - [🖥️ **Tema 2:** Máquinas virtuales](tema-2.md)
 - [💿 **Tema 3:** Instalación de sistemas operativos libres y propietarios](tema-3.md)
 - [⚙️ **Tema 4:** Configuración de sistemas operativos libres y propietarios](tema-4.md)
-- 👤 **Tema 5:** Administración de sistemas operativos libres y propietarios *(Próximamente)*
+- [👤 **Tema 5:** Administración de sistemas operativos libres y propietarios](tema-5.md)
 
 ---
 
