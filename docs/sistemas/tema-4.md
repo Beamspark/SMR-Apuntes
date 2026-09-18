@@ -1,4 +1,4 @@
-# :material-cog: Tema 4 — Configuración de Sistemas Operativos Libres y Propietarios
+<h1 style="color: #ab47bc;">:gear:Tema 4 — Configuración de Sistemas Operativos Libres y Propietarios</h1>
 
 <h2 style="color: #29b6f6;">4.1. Arranque y Parada del Sistema</h2>
 
