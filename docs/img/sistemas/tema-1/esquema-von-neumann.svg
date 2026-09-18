@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 480" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Bloque CPU -->
+  <g transform="translate(30, 40)">
+    <rect x="0" y="0" width="170" height="180" rx="8" fill="#ab47bc" fill-opacity="0.25" stroke="#ab47bc" stroke-width="2"/>
+    <!-- Icono CPU -->
+    <rect x="65" y="15" width="40" height="40" rx="4" fill="#ab47bc"/>
+    <text x="85" y="40" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">CPU</text>
+    <text x="85" y="80" fill="#ffffff" font-size="16" font-weight="bold" font-family="sans-serif" text-anchor="middle">CPU</text>
+    
+    <!-- UC y UAL -->
+    <rect x="15" y="105" width="60" height="50" rx="4" fill="#ffffff"/>
+    <text x="45" y="135" fill="#1e1e24" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">UC</text>
+    
+    <rect x="95" y="105" width="60" height="50" rx="4" fill="#ffffff"/>
+    <text x="125" y="135" fill="#1e1e24" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">UAL</text>
+  </g>
+
+  <!-- Bloque Memoria Principal -->
+  <g transform="translate(230, 40)">
+    <rect x="0" y="0" width="170" height="180" rx="8" fill="#ffb74d" fill-opacity="0.25" stroke="#ffb74d" stroke-width="2"/>
+    <rect x="60" y="15" width="50" height="30" rx="4" fill="#ffb74d"/>
+    <text x="85" y="80" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">MEMORIA</text>
+    <text x="85" y="100" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">PRINCIPAL</text>
+    <text x="85" y="140" fill="#ffb74d" font-size="12" font-family="sans-serif" text-anchor="middle">Instrucciones y datos</text>
+  </g>
+
+  <!-- Bloque Unidad de E/S -->
+  <g transform="translate(430, 40)">
+    <rect x="0" y="0" width="150" height="180" rx="8" fill="#29b6f6" fill-opacity="0.25" stroke="#29b6f6" stroke-width="2"/>
+    <rect x="50" y="15" width="50" height="25" rx="4" fill="#29b6f6"/>
+    <text x="75" y="85" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif" text-anchor="middle">UNIDAD</text>
+    <text x="75" y="110" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif" text-anchor="middle">DE E/S</text>
+  </g>
+
+  <!-- Bloques Derecha: Memoria Auxiliar y Periféricos -->
+  <g transform="translate(620, 40)">
+    <!-- Flechas bidireccionales E/S -->
+    <path d="M -30 40 L -10 40 M -20 35 L -10 40 L -20 45 M -20 35 L -30 40 L -20 45" stroke="#29b6f6" stroke-width="2" fill="none"/>
+    <rect x="0" y="10" width="130" height="60" rx="4" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="65" y="38" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">MEMORIA AUXILIAR</text>
+
+    <path d="M -30 140 L -10 140 M -20 135 L -10 140 L -20 145 M -20 135 L -30 140 L -20 145" stroke="#29b6f6" stroke-width="2" fill="none"/>
+    <rect x="0" y="110" width="130" height="60" rx="4" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="65" y="145" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">PERIFÉRICOS</text>
+  </g>
+
+  <!-- BUSES DEL SISTEMA -->
+  <!-- Bus de Datos (Morado) -->
+  <g transform="translate(30, 270)">
+    <line x1="20" y1="0" x2="620" y2="0" stroke="#ab47bc" stroke-width="4"/>
+    <polygon points="10,0 25,-6 25,6" fill="#ab47bc"/>
+    <polygon points="630,0 615,-6 615,6" fill="#ab47bc"/>
+    <text x="645" y="5" fill="#ab47bc" font-size="13" font-weight="bold" font-family="sans-serif">BUS DE DATOS</text>
+    
+    <!-- Conexiones -->
+    <path d="M 85 -50 L 85 0 M 80 -40 L 85 -50 L 90 -40 M 80 -10 L 85 0 L 90 -10" stroke="#ab47bc" stroke-width="2" fill="none"/>
+    <path d="M 285 -50 L 285 0 M 280 -40 L 285 -50 L 290 -40 M 280 -10 L 285 0 L 290 -10" stroke="#ab47bc" stroke-width="2" fill="none"/>
+    <path d="M 475 -50 L 475 0 M 470 -40 L 475 -50 L 480 -40 M 470 -10 L 475 0 L 480 -10" stroke="#ab47bc" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Bus de Direcciones (Cian) -->
+  <g transform="translate(30, 330)">
+    <line x1="20" y1="0" x2="620" y2="0" stroke="#29b6f6" stroke-width="4"/>
+    <polygon points="10,0 25,-6 25,6" fill="#29b6f6"/>
+    <polygon points="630,0 615,-6 615,6" fill="#29b6f6"/>
+    <text x="645" y="5" fill="#29b6f6" font-size="13" font-weight="bold" font-family="sans-serif">BUS DE DIRECCIONES</text>
+
+    <!-- Conexiones -->
+    <path d="M 115 -110 L 115 0 M 110 -10 L 115 0 L 120 -10" stroke="#29b6f6" stroke-width="2" fill="none"/>
+    <path d="M 315 -110 L 315 0 M 310 -10 L 315 0 L 320 -10" stroke="#29b6f6" stroke-width="2" fill="none"/>
+    <path d="M 505 -110 L 505 0 M 500 -10 L 505 0 L 510 -10" stroke="#29b6f6" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Bus de Control (Naranja) -->
+  <g transform="translate(30, 390)">
+    <line x1="20" y1="0" x2="620" y2="0" stroke="#ffb74d" stroke-width="4"/>
+    <polygon points="10,0 25,-6 25,6" fill="#ffb74d"/>
+    <polygon points="630,0 615,-6 615,6" fill="#ffb74d"/>
+    <text x="645" y="5" fill="#ffb74d" font-size="13" font-weight="bold" font-family="sans-serif">BUS DE CONTROL</text>
+
+    <!-- Conexiones -->
+    <path d="M 145 -170 L 145 0 M 140 -160 L 145 -170 L 150 -160 M 140 -10 L 145 0 L 150 -10" stroke="#ffb74d" stroke-width="2" fill="none"/>
+    <path d="M 345 -170 L 345 0 M 340 -160 L 345 -170 L 350 -160 M 340 -10 L 345 0 L 350 -10" stroke="#ffb74d" stroke-width="2" fill="none"/>
+    <path d="M 535 -170 L 535 0 M 530 -160 L 535 -170 L 540 -160 M 530 -10 L 535 0 L 540 -10" stroke="#ffb74d" stroke-width="2" fill="none"/>
+  </g>
+</svg>
