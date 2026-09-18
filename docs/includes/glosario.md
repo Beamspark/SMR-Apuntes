@@ -138,3 +138,15 @@
 *[Soft Skills]: Habilidades blandas. Capacidades personales y sociales como el trabajo en equipo, la comunicación, la resiliencia y la empatía.
 *[Hard Skills]: Habilidades duras o técnicas. Conocimientos teóricos y procedimentales específicos necesarios para desempeñar un puesto.
 *[Resiliencia]: Capacidad de sobreponerse a situaciones adversas o cambios inesperados en el entorno laboral y personal.
+*[LPRL]: Ley de Prevención de Riesgos Laborales (Ley 31/1995). Marco normativo legal básico sobre seguridad en España.
+*[EPI]: Equipo de Protección Individual. Cualquier equipo destinado a ser llevado o sujetado por el trabajador para protegerle de riesgos.
+*[INSST]: Instituto Nacional de Seguridad y Salud en el Trabajo. Órgano científico-técnico de la Administración General del Estado.
+*[EU-OSHA]: Agencia Europea para la Seguridad y la Salud en el Trabajo. Organismo de la UE con sede en Bilbao.
+*[ITSS]: Inspección de Trabajo y Seguridad Social. Organismo encargado de vigilar y exigir el cumplimiento de las normas laborales y de PRL.
+*[PAS]: Proteger, Avisar, Socorrer. Protocolo secuencial de actuación básico ante emergencias y accidentes.
+*[PLS]: Posición Lateral de Seguridad. Postura de primeros auxilios para mantener libre la vía aérea en personas inconscientes que respiran.
+*[SVB]: Soporte Vital Básico. Conjunto de maniobras esenciales para mantener la oxigenación de los órganos vitales en parada cardiorrespiratoria.
+*[RCP]: Reanimación Cardiopulmonar. Técnica de emergencia que combina compresiones torácicas e insuflaciones de rescate.
+*[Mobbing]: Acoso psicológico continuo e intencionado en el ámbito laboral para desestabilizar a un trabajador.
+*[Burnout]: Síndrome del trabajador quemado. Estado de agotamiento físico y mental crónico producido por el estrés laboral.
+*[Boreout]: Síndrome del aburrimiento laboral extremo por falta de tareas o estancamiento profesional.
