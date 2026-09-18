@@ -51,4 +51,10 @@ nav:
           - Tema 4 - Configuración de sistemas operativos libres y propietarios: sistemas/tema-4.md
           - Tema 5 - Administración de sistemas operativos libres y propietarios: sistemas/tema-5.md
       - Digitalización Aplicada: digitalizacion/index.md
-      - Itinerario Personal (IPE I): ipe/index.md
+      - Itinerario Personal (IPE I):
+          - itinerario/index.md
+          - Tema 1 - Sector productivo: itinerario/tema-1.md
+          - Tema 2 - Prevención de riesgos laborales: itinerario/tema-2.md
+          - Tema 3 - Condiciones laborales: itinerario/tema-3.md
+          - Tema 4 - Autoorientación e inserción: itinerario/tema-4.md
+          - Tema 5 - Aprendizaje autónomo: itinerario/tema-5.md
