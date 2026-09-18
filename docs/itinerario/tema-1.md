@@ -54,6 +54,11 @@
 
 **Oferta Pública de Empleo (OPE):** Convocatoria anual y transparente de las Administraciones Públicas para anunciar las plazas vacantes disponibles en el sector público mediante oposiciones o concursos.
 
+<figure markdown="span">
+  ![Organigrama del Empleado Público](../img/itinerario/tema-1/figura-1-2-empleado-publico.svg)
+  <figcaption>Figura 1.2 — Clasificación y modalidades de contratación del personal en el sector público.</figcaption>
+</figure>
+
 #### Tipos de Empleados Públicos:
 * **Funcionarios de carrera:** Personas vinculadas de forma permanente a la Administración mediante nombramiento oficial.
 * **Interinos:** Personal contratado de forma temporal por razones de necesidad o urgencia.
@@ -71,6 +76,11 @@
 1. **Análisis de la oferta:** Estudio del puesto, condiciones e investigación de la empresa (web, valores) para adaptar el currículum y la carta de presentación.
 2. **Proceso de demanda:** Envío de candidaturas, participación en pruebas de selección y realización de la entrevista final.
 3. **Conclusión:** Selección y contratación del candidato para cubrir la vacante.
+
+<figure markdown="span">
+  ![Medidas de Apoyo a la Innovación](../img/itinerario/tema-1/figura-1-3-medidas-innovacion.svg)
+  <figcaption>Figura 1.3 — Clasificación entre medidas económicas y no económicas de apoyo a la innovación empresarial.</figcaption>
+</figure>
 
 ---
 
@@ -123,5 +133,10 @@
 #### Estructura del CNCP:
 * **26 Familias Profesionales:** Agrupadas según criterios de afinidad de la competencia profesional.
 * **3 Niveles de Cualificación:** Clasificados según el grado de conocimiento, autonomía, iniciativa y responsabilidad necesarios: **Nivel 1** (Básico), **Nivel 2** (Medio) y **Nivel 3** (Superior).
+
+<figure markdown="span">
+  ![Familias Profesionales del CNCP](../img/itinerario/tema-1/figura-1-1-familias-profesionales.svg)
+  <figcaption>Figura 1.1 — Catálogo de las 26 familias profesionales que componen el CNCP.</figcaption>
+</figure>
 
 --8<-- "docs/includes/glosario.md"
