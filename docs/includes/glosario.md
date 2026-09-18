@@ -129,3 +129,12 @@
 *[HKCR]: HKEY_CLASSES_ROOT. Rama del Registro de Windows que almacena asociaciones de tipos de archivos y aplicaciones.
 *[HKU]: HKEY_USERS. Rama del Registro de Windows que contiene los perfiles de todos los usuarios del sistema.
 *[HKCC]: HKEY_CURRENT_CONFIG. Rama del Registro de Windows que guarda la configuración temporal del perfil de hardware actual.
+*[Yacimiento de Ocupación]: Oportunidad de empleo surgida para satisfacer nuevas necesidades sociales no cubiertas por el mercado laboral.
+*[OPE]: Oferta Pública de Empleo. Convocatoria oficial y transparente de Administraciones Públicas para cubrir plazas vacantes en el sector público.
+*[CNCP]: Catálogo Nacional de Cualificaciones Profesionales. Instrumento oficial que organiza las cualificaciones por niveles y familias profesionales en España.
+*[INCUAL]: Instituto Nacional de las Cualificaciones. Organismo responsable de definir, elaborar y mantener actualizado el CNCP.
+*[Unidad de Competencia]: Agrupación mínima de competencias profesionales susceptible de reconocimiento y acreditación parcial oficial.
+*[Módulo Formativo]: Bloque de formación asociado a una unidad de competencia del CNCP para adquirir sus habilidades teóricas y prácticas.
+*[Soft Skills]: Habilidades blandas. Capacidades personales y sociales como el trabajo en equipo, la comunicación, la resiliencia y la empatía.
+*[Hard Skills]: Habilidades duras o técnicas. Conocimientos teóricos y procedimentales específicos necesarios para desempeñar un puesto.
+*[Resiliencia]: Capacidad de sobreponerse a situaciones adversas o cambios inesperados en el entorno laboral y personal.
