@@ -2,18 +2,17 @@
 
 Bienvenido a la sección dedicada a **Sistemas Operativos Monopuesto**. En este módulo abordaremos la instalación, administración, configuración y mantenimiento de sistemas operativos propietarios (Windows) y libres (distribuciones Linux), así como el uso de entornos virtuales.
 
+# 💻 Sistemas Operativos Monopuesto
+
+Bienvenido al módulo de **Sistemas Operativos Monopuesto**. En esta sección encontrarás toda la documentación, esquemas y resúmenes de los temas del curso.
+
 ## 📋 Índice de Contenidos
 
-- [⚙️ **Tema 1:** Caracterización de los sistemas operativos, tipos y aplicaciones](tema-1.md)
-- 🔢 **Tema 2:** Codificación de la información en diferentes sistemas de representación *(Próximamente)*
-- 🧠 **Tema 3:** Gestión de los recursos y de la memoria *(Próximamente)*
-- 🖥️ **Tema 4:** Configuración de las máquinas virtuales *(Próximamente)*
-- 🪟 **Tema 5:** Instalación de los sistemas operativos propietarios *(Próximamente)*
-- 🛠️ **Tema 6:** Realización de tareas básicas de configuración y mantenimiento sobre los sistemas operativos propietarios *(Próximamente)*
-- 👤 **Tema 7:** Administración de los sistemas operativos propietarios *(Próximamente)*
-- 🐧 **Tema 8:** Instalación de sistemas operativos libres *(Próximamente)*
-- 🔧 **Tema 9:** Realización de tareas básicas de configuración y mantenimiento sobre sistemas operativos libres *(Próximamente)*
-- 🔐 **Tema 10:** Administración de los sistemas operativos libres *(Próximamente)*
+- [⚙️ **Tema 1:** Caracterización de los sistemas operativos](tema-1.md)
+- 🖥️ **Tema 2:** Máquinas virtuales *(Próximamente)*
+- 💿 **Tema 3:** Instalación de sistemas operativos libres y propietarios *(Próximamente)*
+- ⚙️ **Tema 4:** Configuración de sistemas operativos libres y propietarios *(Próximamente)*
+- 👤 **Tema 5:** Administración de sistemas operativos libres y propietarios *(Próximamente)*
 
 ---
 
