@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 480" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Flecha Izquierda Bidireccional -->
+  <g transform="translate(80, 0)">
+    <line x1="30" y1="80" x2="30" y2="380" stroke="#ab47bc" stroke-width="3"/>
+    <polygon points="30,65 22,85 38,85" fill="#ab47bc"/>
+    <polygon points="30,395 22,375 38,375" fill="#ab47bc"/>
+    <text x="30" y="45" fill="#ab47bc" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Más rápida</text>
+    <text x="30" y="60" fill="#ab47bc" font-size="12" font-family="sans-serif" text-anchor="middle">Menor capacidad</text>
+    
+    <text x="30" y="420" fill="#ab47bc" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Más lenta</text>
+    <text x="30" y="435" fill="#ab47bc" font-size="12" font-family="sans-serif" text-anchor="middle">Mayor capacidad</text>
+  </g>
+
+  <!-- Pirámide de Niveles -->
+  <!-- Nivel 1: Registros -->
+  <polygon points="450,50 380,130 520,130" fill="#ab47bc" fill-opacity="0.8" stroke="#ab47bc" stroke-width="2"/>
+  <circle cx="450" cy="90" r="12" fill="#ffffff" fill-opacity="0.2"/>
+  <line x1="510" y1="100" x2="570" y2="100" stroke="#ab47bc" stroke-width="1.5"/>
+  <circle cx="570" cy="100" r="3" fill="#ab47bc"/>
+  <text x="580" y="105" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif">Registros</text>
+
+  <!-- Nivel 2: Caché -->
+  <polygon points="375,135 525,135 565,215 335,215" fill="#ab47bc" fill-opacity="0.6" stroke="#ab47bc" stroke-width="2"/>
+  <rect x="430" y="155" width="40" height="35" rx="4" fill="#ffffff" fill-opacity="0.2"/>
+  <line x1="345" y1="180" x2="285" y2="180" stroke="#ab47bc" stroke-width="1.5"/>
+  <circle cx="285" cy="180" r="3" fill="#ab47bc"/>
+  <text x="275" y="175" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="end">Caché</text>
+  <text x="275" y="195" fill="#ab47bc" font-size="12" font-family="sans-serif" text-anchor="end">(L1, L2, L3)</text>
+
+  <!-- Nivel 3: RAM -->
+  <polygon points="330,220 570,220 610,300 290,300" fill="#ab47bc" fill-opacity="0.4" stroke="#ab47bc" stroke-width="2"/>
+  <rect x="410" y="245" width="80" height="30" rx="4" fill="#ffffff" fill-opacity="0.2"/>
+  <line x1="600" y1="265" x2="660" y2="265" stroke="#ab47bc" stroke-width="1.5"/>
+  <circle cx="660" cy="265" r="3" fill="#ab47bc"/>
+  <text x="670" y="260" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif">Memoria</text>
+  <text x="670" y="278" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif">principal (RAM)</text>
+
+  <!-- Nivel 4: Secundaria -->
+  <polygon points="285,305 615,305 660,390 240,390" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="2"/>
+  <rect x="380" y="325" width="50" height="40" rx="4" fill="#29b6f6" fill-opacity="0.3"/>
+  <rect x="445" y="325" width="50" height="40" rx="4" fill="#29b6f6" fill-opacity="0.3"/>
+  <line x1="255" y1="350" x2="195" y2="350" stroke="#29b6f6" stroke-width="1.5"/>
+  <circle cx="195" cy="350" r="3" fill="#29b6f6"/>
+  <text x="185" y="340" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="end">Memoria secundaria</text>
+  <text x="185" y="360" fill="#29b6f6" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="end">(SSD / HDD)</text>
+</svg>
