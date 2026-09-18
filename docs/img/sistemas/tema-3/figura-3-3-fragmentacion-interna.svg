@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <text x="40" y="35" fill="#ffffff" font-size="16" font-weight="bold" font-family="sans-serif">Memoria RAM (páginas de 4 KB)</text>
+
+  <!-- Lado Izquierdo: Estructura de Páginas -->
+  <g transform="translate(40, 55)">
+    <!-- Página 1 -->
+    <text x="0" y="40" fill="#ffffff" font-size="13" font-family="sans-serif">Página 1</text>
+    <rect x="90" y="10" width="150" height="55" rx="4" fill="#ab47bc" fill-opacity="0.6" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="165" y="42" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">4 KB (usados)</text>
+    <text x="255" y="35" fill="#ffffff" font-size="12" font-family="sans-serif">Página completamente</text>
+    <text x="255" y="50" fill="#ffffff" font-size="12" font-family="sans-serif">utilizada</text>
+
+    <!-- Página 2 -->
+    <text x="0" y="115" fill="#ffffff" font-size="13" font-family="sans-serif">Página 2</text>
+    <rect x="90" y="85" width="150" height="55" rx="4" fill="#ab47bc" fill-opacity="0.6" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="165" y="117" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">4 KB (usados)</text>
+    <text x="255" y="110" fill="#ffffff" font-size="12" font-family="sans-serif">Página completamente</text>
+    <text x="255" y="125" fill="#ffffff" font-size="12" font-family="sans-serif">utilizada</text>
+
+    <!-- Página 3 (Fragmentada) -->
+    <text x="0" y="190" fill="#ffffff" font-size="13" font-family="sans-serif">Página 3</text>
+    <rect x="90" y="160" width="150" height="30" fill="#ab47bc" fill-opacity="0.6" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="165" y="180" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">2 KB (usados)</text>
+    
+    <rect x="90" y="190" width="150" height="30" fill="#29b6f6" fill-opacity="0.5" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="165" y="210" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">2 KB (libres)</text>
+    
+    <text x="255" y="180" fill="#29b6f6" font-size="12" font-weight="bold" font-family="sans-serif">Espacio no utilizado</text>
+    <text x="255" y="195" fill="#29b6f6" font-size="12" font-family="sans-serif">(fragmentación interna)</text>
+  </g>
+
+  <!-- Lado Derecho: Cuadro de Resumen -->
+  <g transform="translate(470, 55)">
+    <rect x="0" y="10" width="210" height="225" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="15" y="35" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif">RESUMEN</text>
+    
+    <text x="15" y="65" fill="#ffffff" font-size="11" font-family="sans-serif">• Tamaño programa: <tspan font-weight="bold">10 KB</tspan></text>
+    <text x="15" y="85" fill="#ffffff" font-size="11" font-family="sans-serif">• Tamaño de página: <tspan font-weight="bold">4 KB</tspan></text>
+    <text x="15" y="105" fill="#ffffff" font-size="11" font-family="sans-serif">• Páginas asignadas: <tspan font-weight="bold">3</tspan></text>
+    <text x="15" y="125" fill="#ffffff" font-size="11" font-family="sans-serif">• Memoria reservada: <tspan font-weight="bold">12 KB</tspan></text>
+    <text x="15" y="145" fill="#ffffff" font-size="11" font-family="sans-serif">• Memoria utilizada: <tspan font-weight="bold">10 KB</tspan></text>
+
+    <line x1="15" y1="165" x2="195" y2="165" stroke="#ab47bc" stroke-width="1"/>
+
+    <text x="15" y="190" fill="#29b6f6" font-size="11" font-weight="bold" font-family="sans-serif">• Fragmentación</text>
+    <text x="23" y="208" fill="#29b6f6" font-size="11" font-weight="bold" font-family="sans-serif">interna: 2 KB</text>
+  </g>
+</svg>
