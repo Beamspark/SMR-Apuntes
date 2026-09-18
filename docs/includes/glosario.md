@@ -117,3 +117,15 @@
 *[crontab]: Archivo de configuración en Linux que almacena la tabla de tareas programadas gestionadas por el servicio cron.
 *[APT]: Advanced Package Tool. Gestor de paquetes nativo de distribuciones basadas en Debian/Ubuntu para instalar, actualizar y eliminar software desde terminal.
 *[7Z]: Formato de archivo comprimido de código abierto que ofrece elevados índices de compresión utilizando el compresor 7-Zip.
+*[lusrmgr.msc]: Consola de administración de usuarios y grupos locales en Windows.
+*[services.msc]: Consola gráfica de gestión de servicios en Windows.
+*[eventvwr.msc]: Visor de eventos de Windows para consultar registros (logs) del sistema.
+*[regedit]: Editor del Registro de Windows para acceder a la base de datos de configuración.
+*[systemctl]: Comando principal en sistemas Linux con systemd para gestionar el estado y arranque de servicios.
+*[systemd]: Sistema de inicialización y administrador de servicios estándar en distribuciones Linux modernas como Ubuntu.
+*[TRIM]: Comando de mantenimiento para SSDs que comunica los bloques de datos liberados para su limpieza en segundo plano.
+*[HKLM]: HKEY_LOCAL_MACHINE. Rama del Registro de Windows que guarda la configuración global del equipo y hardware.
+*[HKCU]: HKEY_CURRENT_USER. Rama del Registro de Windows que almacena las preferencias del usuario con sesión activa.
+*[HKCR]: HKEY_CLASSES_ROOT. Rama del Registro de Windows que almacena asociaciones de tipos de archivos y aplicaciones.
+*[HKU]: HKEY_USERS. Rama del Registro de Windows que contiene los perfiles de todos los usuarios del sistema.
+*[HKCC]: HKEY_CURRENT_CONFIG. Rama del Registro de Windows que guarda la configuración temporal del perfil de hardware actual.
