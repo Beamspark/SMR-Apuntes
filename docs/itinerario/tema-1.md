@@ -1,4 +1,4 @@
-<h1 style="color: #ab47bc;">:material-chart-line: Tema 1 — Características del Sector Productivo</h1>
+<h1 style="color: #ab47bc;">🏢 Tema 1 — Características del Sector Productivo</h1>
 
 <h2 style="color: #29b6f6;">1.1. Definición y Análisis del Sector Productivo y del Perfil Profesional</h2>
 
