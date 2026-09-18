@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="660" height="380" rx="6" fill="#000000" stroke="#ab47bc" stroke-width="1.5"/>
+
+    <!-- Cabecera -->
+    <text x="330" y="35" fill="#cccccc" font-size="14" font-family="monospace" text-anchor="middle">GNU GRUB version 2.02</text>
+
+    <!-- Cuadro de Menú -->
+    <rect x="30" y="55" width="600" height="220" fill="none" stroke="#cccccc" stroke-width="1"/>
+    
+    <!-- Opción Seleccionada (Windows 10) -->
+    <rect x="32" y="57" width="596" height="22" fill="#cccccc"/>
+    <text x="40" y="73" fill="#000000" font-size="13" font-weight="bold" font-family="monospace">*Windows 10 (on /dev/sda1)</text>
+
+    <!-- Opciones Secundarias -->
+    <text x="40" y="98" fill="#cccccc" font-size="13" font-family="monospace">ArcoLinuxB Linux</text>
+    <text x="40" y="118" fill="#cccccc" font-size="13" font-family="monospace">Advanced options for ArcoLinuxB Linux</text>
+    <text x="40" y="138" fill="#cccccc" font-size="13" font-family="monospace">Memory Tester (memtest86+)</text>
+
+    <!-- Texto de Ayuda Inferior -->
+    <text x="330" y="310" fill="#cccccc" font-size="11" font-family="monospace" text-anchor="middle">Use the ↑ and ↓ keys to select which entry is highlighted.</text>
+    <text x="330" y="330" fill="#cccccc" font-size="11" font-family="monospace" text-anchor="middle">Press enter to boot the selected OS, 'e' to edit the commands</text>
+    <text x="330" y="345" fill="#cccccc" font-size="11" font-family="monospace" text-anchor="middle">before booting or 'c' for a command-line.</text>
+  </g>
+</svg>
