@@ -65,3 +65,14 @@
 *[GPU]: Graphics Processing Unit. Procesador dedicado al cálculo y renderizado paralelo de gráficos 2D y 3D.
 *[VRAM]: Video Random Access Memory. Memoria dedicada ultrarrápida integrada en las tarjetas gráficas independientes.
 *[Thermal Throttling]: Mecanismo de protección del procesador que reduce automáticamente su frecuencia de trabajo para bajar la temperatura si supera los límites térmicos.
+*[Cuello de Botella de Von Neumann]: Limitación de rendimiento en la arquitectura Von Neumann causada por compartir el mismo bus para transferir datos e instrucciones entre la CPU y la memoria.
+*[LSB]: Least Significant Bit. Bit menos significativo situado más a la derecha en una secuencia de bits, con peso posicional de 2^0 = 1.
+*[MSB]: Most Significant Bit. Bit más significativo situado más a la izquierda en una secuencia de bits, con peso posicional de 2^7 = 128 en un octeto.
+*[Palabra]: Conjunto de n bits (habitualmente 32 o 64 bits) que el procesador maneja de forma simultánea de forma nativa.
+*[Freeware]: Software distribuido gratuitamente cuyo código fuente sigue perteneciendo de forma privada al desarrollador.
+*[Shareware]: Modelo de distribución que permite probar un programa de forma limitada en tiempo o funciones antes de adquirir la licencia.
+*[TFN]: Teorema Fundamental de la Numeración. Fórmula matemática para calcular el valor decimal de cualquier número expresado en un sistema posicional.
+*[NTFS]: New Technology File System. Sistema de archivos por defecto en Windows que aporta permisos, cifrado, compresión y tolerancia a fallos.
+*[APFS]: Apple File System. Sistema de archivos optimizado para unidades SSD utilizado por defecto en macOS e iOS.
+*[AOSP]: Android Open Source Project. Proyecto de código abierto liderado por Google que constituye la base libre del sistema Android.
+*[Windows Server 2025]: Sistema operativo para servidores de Microsoft perteneciente al canal LTSC de soporte a largo plazo.
