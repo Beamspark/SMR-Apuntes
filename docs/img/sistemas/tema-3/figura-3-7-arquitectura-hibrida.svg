@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 480" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="12"/>
+
+  <!-- Columna Izquierda: Rótulo -->
+  <rect x="20" y="20" width="35" height="440" rx="4" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="1.5"/>
+  <text x="42" y="240" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" transform="rotate(-90 42 240)" text-anchor="middle">Arquitectura híbrida (Equilibrio entre rendimiento y estabilidad)</text>
+
+  <!-- Modo Usuario -->
+  <g transform="translate(80, 20)">
+    <rect x="0" y="0" width="640" height="80" rx="6" fill="#29b6f6" fill-opacity="0.15" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="15" y="25" fill="#29b6f6" font-size="12" font-weight="bold" font-family="sans-serif">Modo usuario</text>
+    <rect x="150" y="20" width="450" height="40" rx="3" fill="#2d2d38" stroke="#29b6f6"/>
+    <text x="375" y="45" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">Aplicaciones de usuario (Navegador, Editores, etc.)</text>
+  </g>
+
+  <!-- Flecha Intermedia -->
+  <path d="M 400 105 L 400 125" stroke="#ab47bc" stroke-width="2" fill="none"/>
+
+  <!-- Modo Núcleo Híbrido -->
+  <g transform="translate(80, 130)">
+    <rect x="0" y="0" width="640" height="220" rx="6" fill="#ffb74d" fill-opacity="0.2" stroke="#ffb74d" stroke-width="1.5"/>
+    <text x="15" y="25" fill="#ffb74d" font-size="12" font-weight="bold" font-family="sans-serif">Modo núcleo</text>
+
+    <!-- Bloque 1: Servicios dentro del Núcleo -->
+    <rect x="140" y="15" width="470" height="85" rx="4" fill="#ffb74d" fill-opacity="0.3" stroke="#ffb74d"/>
+    <text x="375" y="32" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">Servicios dentro del núcleo (Críticos para el rendimiento)</text>
+    <rect x="155" y="42" width="210" height="25" fill="#2d2d38"/><text x="260" y="58" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">Gestión de procesos / Memoria</text>
+    <rect x="385" y="42" width="210" height="25" fill="#2d2d38"/><text x="490" y="58" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">Sistema de archivos / Drivers clave</text>
+
+    <!-- Bloque 2: Servicios fuera del Núcleo -->
+    <rect x="140" y="115" width="470" height="85" rx="4" fill="#29b6f6" fill-opacity="0.2" stroke="#29b6f6"/>
+    <text x="375" y="132" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">Servicios fuera del núcleo (Ejecutados con aislamiento)</text>
+    <rect x="155" y="142" width="210" height="25" fill="#2d2d38"/><text x="260" y="158" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">Drivers secundarios</text>
+    <rect x="385" y="142" width="210" height="25" fill="#2d2d38"/><text x="490" y="158" fill="#ffffff" font-size="10" font-family="sans-serif" text-anchor="middle">Servicios de red e impresión</text>
+  </g>
+
+  <!-- Flecha Intermedia -->
+  <path d="M 400 355 L 400 375" stroke="#ab47bc" stroke-width="2" fill="none"/>
+
+  <!-- Hardware -->
+  <g transform="translate(80, 380)">
+    <rect x="0" y="0" width="640" height="80" rx="6" fill="#ab47bc" fill-opacity="0.2" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="15" y="45" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif">Hardware</text>
+    <rect x="150" y="20" width="450" height="40" rx="3" fill="#2d2d38" stroke="#ab47bc"/>
+    <text x="375" y="45" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">CPU | RAM | Dispositivos E/S | Almacenamiento</text>
+  </g>
+</svg>
