@@ -192,7 +192,7 @@ Elegidos por y entre los representantes del personal:
 * **1.er grado:** Epidermis (enrojecimiento).
 * **2.º grado:** Dermis (ampollas y dolor).
 * **3.er grado:** Espesor total (necrosis, sin dolor por destrucción de nervios).
-* **Actuación:** Enfriar con agua a temperatura ambiente durante 10 minutos. **NUNCA** romper ampollas ni despegar ropa adherida.
+* **Actuación:** Enfriar con agua a temperatura ambiente durante 10 minutos, retirar objetos susceptibles de impedir la circulación, cubrir la zona afectada con paños o apósitos limpios. **NUNCA** romper ampollas ni despegar ropa adherida.
 
 **Hemorragias:** Compresión directa sobre la herida; si falla, compresión arterial (humeral o femoral). El torniquete es el último recurso (aflojar cada 10 minutos e indicar la hora de aplicación). En epistaxis (sangrado nasal), inclinar la cabeza hacia delante y comprimir 5 minutos.
 
