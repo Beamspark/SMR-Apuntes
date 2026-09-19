@@ -150,3 +150,27 @@
 *[Mobbing]: Acoso psicológico continuo e intencionado en el ámbito laboral para desestabilizar a un trabajador.
 *[Burnout]: Síndrome del trabajador quemado. Estado de agotamiento físico y mental crónico producido por el estrés laboral.
 *[Boreout]: Síndrome del aburrimiento laboral extremo por falta de tareas o estancamiento profesional.
+*[ET]: Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015). Texto legal básico que regula los derechos, deberes y condiciones laborales en España.
+*[Estatuto de los Trabajadores]: Real Decreto Legislativo 2/2015. Texto legal marco que regula la relación laboral entre personas trabajadoras y empresas.
+*[Notas de Laboralidad]: Las 5 características obligatorias que definen una relación laboral sujeta al ET: voluntariedad, ajenidad, dependencia, remuneración y carácter personal.
+*[Ajenidad]: Nota de laboralidad según la cual los frutos del trabajo y los riesgos de la actividad pertenecen al empresario y no al trabajador.
+*[Sinalagmático]: Contrato en el que ambas partes se obligan recíprocamente a realizar una prestación (trabajo a cambio de salario).
+*[Ius Variandi]: Facultad del empresario para modificar unilateralmente las condiciones de trabajo por razones organizativas, técnicas o productivas dentro de los límites legales.
+*[FOGASA]: Fondo de Garantía Salarial. Organismo público dependiente del Ministerio de Trabajo que abona salarios e indemnizaciones pendientes por insolvencia o concurso de acreedores de la empresa.
+*[SMI]: Salario Mínimo Interprofesional. Cuantía mínima retributiva que percibe la persona trabajadora por la jornada legal de trabajo, fijada anualmente por el Gobierno y de carácter inembargable.
+*[SMAC]: Servicio de Mediación, Arbitraje y Conciliación. Organismo ante el que se tramita la papeleta de conciliación previa a la vía judicial laboral.
+*[LOLS]: Ley Orgánica de Libertad Sindical (Ley Orgánica 11/1985). Regula el derecho de los trabajadores a fundar, afiliarse y estructurar sindicatos.
+*[Comité de Empresa]: Órgano representativo colegiado del conjunto de los trabajadores en centros de trabajo con 50 o más empleados.
+*[Delegados de Personal]: Representantes unitarios de los trabajadores en empresas o centros de trabajo de entre 10 y 49 empleados (u opcionalmente de 6 a 9).
+*[Convenio Colectivo]: Pacto vinculante negociado entre representantes de trabajadores y empresarios que regula las condiciones de trabajo y productividad en un sector o empresa.
+*[Secciones Sindicales]: Agrupaciones de personas trabajadoras afiliadas a un mismo sindicato dentro de una empresa.
+*[MSCT]: Modificación Sustancial de las Condiciones de Trabajo. Cambio relevante aplicado por la empresa en jornada, horario, turno o sistema de remuneración (Art. 41 ET).
+*[ERE]: Expediente de Regulación de Empleo. Procedimiento legal para tramitar el despido colectivo por causas económicas, técnicas, organizativas o de producción.
+*[ERTE]: Expediente de Regulación Temporal de Empleo. Medida temporal de suspensión del contrato o reducción de jornada por causas justificadas sin extinción de la relación laboral.
+*[TGSS]: Tesorería General de la Seguridad Social. Unificación financiera del sistema encargada de las inscripciones, afiliaciones, altas, bajas y recaudación de cuotas.
+*[Base Reguladora]: Cuantía económica calculada en función de las cotizaciones previas que determina el importe final de las prestaciones de la Seguridad Social.
+*[BR]: Base Reguladora. Cuantía económica calculada a partir de las cotizaciones previas sobre la que se aplica el porcentaje de la prestación.
+*[SEPE]: Servicio Público de Empleo Estatal. Organismo encargado de la gestión de las políticas activas de empleo y las prestaciones por desempleo.
+*[OPE]: Oferta de Empleo Público. Convocatoria oficial de plazas vacantes para el acceso a la Función Pública en la Administración.
+*[IT]: Incapacidad Temporal. Situación de baja médica provocada por enfermedad o accidente que imposibilita de forma transitoria la prestación laboral.
+*[RETA]: Régimen Especial de Trabajadores Autónomos. Sistema de cotización de la Seguridad Social aplicable a las personas que trabajan por cuenta propia.
