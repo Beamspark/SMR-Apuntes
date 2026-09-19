@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+  <g transform="translate(20, 20)">
+    <!-- Cabecera Superior: Consecuencias -->
+    <rect x="180" y="0" width="480" height="40" fill="#29b6f6" fill-opacity="0.9" rx="4"/>
+    <text x="420" y="25" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Consecuencias</text>
+    
+    <!-- Subcabeceras Consecuencias -->
+    <rect x="180" y="45" width="155" height="35" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="257" y="67" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">Ligeramente perjudicial</text>
+    
+    <rect x="340" y="45" width="155" height="35" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="417" y="67" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">Perjudicial</text>
+    
+    <rect x="500" y="45" width="160" height="35" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="580" y="62" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">Extremadamente</text>
+    <text x="580" y="74" fill="#ffffff" font-size="10" font-weight="bold" font-family="sans-serif" text-anchor="middle">perjudicial</text>
+
+    <!-- Fila 1: Probabilidad Baja -->
+    <rect x="0" y="85" width="175" height="55" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1" rx="2"/>
+    <text x="87" y="117" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">Probabilidad baja</text>
+    
+    <rect x="180" y="85" width="155" height="55" fill="#2d2d38" stroke="#444444"/>
+    <text x="257" y="117" fill="#81c784" font-size="11" font-family="sans-serif" text-anchor="middle">Poco riesgo (Trivial)</text>
+    
+    <rect x="340" y="85" width="155" height="55" fill="#2d2d38" stroke="#444444"/>
+    <text x="417" y="117" fill="#aed581" font-size="11" font-family="sans-serif" text-anchor="middle">Riesgo tolerable</text>
+    
+    <rect x="500" y="85" width="160" height="55" fill="#2d2d38" stroke="#444444"/>
+    <text x="580" y="117" fill="#fff176" font-size="11" font-family="sans-serif" text-anchor="middle">Riesgo moderado</text>
+
+    <!-- Fila 2: Probabilidad Media -->
+    <rect x="0" y="145" width="175" height="55" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1" rx="2"/>
+    <text x="87" y="177" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">Probabilidad media</text>
+    
+    <rect x="180" y="145" width="155" height="55" fill="#2d2d38" stroke="#444444"/>
+    <text x="257" y="177" fill="#aed581" font-size="11" font-family="sans-serif" text-anchor="middle">Riesgo tolerable</text>
+    
+    <rect x="340" y="145" width="155" height="55" fill="#2d2d38" stroke="#444444"/>
+    <text x="417" y="177" fill="#fff176" font-size="11" font-family="sans-serif" text-anchor="middle">Riesgo moderado</text>
+    
+    <rect x="500" y="145" width="160" height="55" fill="#2d2d38" stroke="#444444"/>
+    <text x="580" y="177" fill="#ffb74d" font-size="11" font-family="sans-serif" text-anchor="middle">Riesgo importante</text>
+
+    <!-- Fila 3: Probabilidad Alta -->
+    <rect x="0" y="205" width="175" height="55" fill="#29b6f6" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1" rx="2"/>
+    <text x="87" y="237" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">Probabilidad alta</text>
+    
+    <rect x="180" y="205" width="155" height="55" fill="#2d2d38" stroke="#444444"/>
+    <text x="257" y="237" fill="#fff176" font-size="11" font-family="sans-serif" text-anchor="middle">Riesgo moderado</text>
+    
+    <rect x="340" y="205" width="155" height="55" fill="#2d2d38" stroke="#444444"/>
+    <text x="417" y="237" fill="#ffb74d" font-size="11" font-family="sans-serif" text-anchor="middle">Riesgo importante</text>
+    
+    <rect x="500" y="205" width="160" height="55" fill="#2d2d38" stroke="#444444"/>
+    <text x="580" y="237" fill="#e57373" font-size="11" font-weight="bold" font-family="sans-serif" text-anchor="middle">Riesgo intolerable</text>
+  </g>
+</svg>
