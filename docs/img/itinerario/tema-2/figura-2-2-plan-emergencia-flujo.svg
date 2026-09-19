@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 420" width="100%">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+  <g transform="translate(25, 20)">
+    <!-- Paso 1 -->
+    <circle cx="150" cy="30" r="22" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="2"/>
+    <text x="150" y="36" fill="#ffffff" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle">🔔</text>
+    
+    <rect x="25" y="65" width="250" height="45" fill="#29b6f6" fill-opacity="0.8" rx="5"/>
+    <text x="150" y="92" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Activar la alarma</text>
+    
+    <path d="M 150 110 L 150 140" stroke="#29b6f6" stroke-width="3" fill="none"/>
+    <polygon points="145,138 150,148 155,138" fill="#29b6f6"/>
+
+    <!-- Paso 2 -->
+    <circle cx="150" cy="175" r="22" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="2"/>
+    <text x="150" y="181" fill="#ffffff" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle">🧰</text>
+    
+    <rect x="25" y="210" width="250" height="50" fill="#29b6f6" fill-opacity="0.8" rx="5"/>
+    <text x="150" y="232" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">Intervención de los</text>
+    <text x="150" y="247" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif" text-anchor="middle">equipos de emergencia</text>
+    
+    <path d="M 150 260 L 150 290" stroke="#29b6f6" stroke-width="3" fill="none"/>
+    <polygon points="145,288 150,298 155,288" fill="#29b6f6"/>
+
+    <!-- Paso 3 -->
+    <circle cx="150" cy="325" r="22" fill="#ab47bc" fill-opacity="0.3" stroke="#ab47bc" stroke-width="2"/>
+    <text x="150" y="331" fill="#ffffff" font-size="18" font-weight="bold" font-family="sans-serif" text-anchor="middle">🏃</text>
+    
+    <rect x="25" y="355" width="250" height="45" fill="#29b6f6" fill-opacity="0.8" rx="5"/>
+    <text x="150" y="382" fill="#ffffff" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">Evacuación</text>
+  </g>
+</svg>
