@@ -1,0 +1,47 @@
+<svg viewBox="0 0 880 440" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <text x="440" y="38" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">ECOSISTEMA DIGITAL: CASO PRÁCTICO COMERCIO MINORISTA</text>
+
+  <!-- Centro: E-Commerce y TPV (Núcleo) -->
+  <g transform="translate(320, 160)">
+    <rect x="0" y="0" width="240" height="90" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="2"/>
+    <text x="120" y="35" fill="#ab47bc" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">NÚCLEO OMNICANAL</text>
+    <text x="120" y="56" fill="#ffffff" font-family="sans-serif" font-size="13" text-anchor="middle">Shopify (E-commerce)</text>
+    <text x="120" y="74" fill="#ffffff" font-family="sans-serif" font-size="13" text-anchor="middle">Vend (POS / TPV en tienda)</text>
+  </g>
+
+  <!-- Bloque 1: Marketing (Superior Izquierda) -->
+  <g transform="translate(60, 70)">
+    <rect x="0" y="0" width="210" height="70" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="105" y="28" fill="#29b6f6" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Marketing y Redes</text>
+    <text x="105" y="48" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Mailchimp • Hootsuite</text>
+  </g>
+
+  <!-- Bloque 2: Logística y Envíos (Superior Derecha) -->
+  <g transform="translate(610, 70)">
+    <rect x="0" y="0" width="210" height="70" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="105" y="28" fill="#29b6f6" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Logística y Envíos</text>
+    <text x="105" y="48" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">ShipStation (Etiquetas/Rastreo)</text>
+  </g>
+
+  <!-- Bloque 3: Finanzas y Contabilidad (Inferior Izquierda) -->
+  <g transform="translate(60, 270)">
+    <rect x="0" y="0" width="210" height="70" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="105" y="28" fill="#29b6f6" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Finanzas y Facturación</text>
+    <text x="105" y="48" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">QuickBooks (Asientos auto)</text>
+  </g>
+
+  <!-- Bloque 4: Atención al Cliente (Inferior Derecha) -->
+  <g transform="translate(610, 270)">
+    <rect x="0" y="0" width="210" height="70" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+    <text x="105" y="28" fill="#29b6f6" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Soporte y Helpdesk</text>
+    <text x="105" y="48" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Zendesk (Tickets omnicanal)</text>
+  </g>
+
+  <!-- Líneas Conectoras Bidireccionales -->
+  <path d="M 270 125 L 340 160
+           M 610 125 L 540 160
+           M 270 285 L 340 250
+           M 610 285 L 540 250" stroke="#29b6f6" stroke-width="2" stroke-dasharray="5 3" fill="none"/>
+</svg>
