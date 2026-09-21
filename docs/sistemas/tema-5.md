@@ -1,4 +1,4 @@
-<h1 style="color: #ab47bc;">:bust_in_silhouette:Tema 5 — Administración de Sistemas Operativos Libres y Propietarios</h1>
+<h1 style="color: #ab47bc;">:bust_in_silhouette: Tema 5 — Administración de Sistemas Operativos Libres y Propietarios</h1>
 
 <h2 style="color: #29b6f6;">5.1. Gestión de Usuarios y Grupos Locales</h2>
 
