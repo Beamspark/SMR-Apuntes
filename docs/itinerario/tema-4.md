@@ -8,6 +8,11 @@
 * **Crear un Plan de Acción:** Diseña medidas de respuesta como formación adicional (talleres, certificaciones), obtención de experiencia (prácticas, proyectos) y búsqueda de mentores.
 * **Monitorear el Progreso:** Exige revisiones periódicas del plan, solicitud de feedback continuo a supervisores y autoevaluación de logros.
 
+<figure markdown="span">
+  ![Comparativa General de Perfiles](../img/itinerario/tema-4/figura-4-5-comparativa-perfil-general.svg)
+  <figcaption>Figura 4.5 — Matriz comparativa entre el perfil disponible y el perfil exigible por el mercado laboral.</figcaption>
+</figure>
+
 ---
 
 <h2 style="color: #29b6f6;">4.2. Comparativa del Perfil Disponible en Relación con el Perfil Exigible del Título</h2>
@@ -21,8 +26,18 @@
 3. **Identificación de brechas:** Localizar las diferencias específicas entre ambos perfiles.
 4. **Plan de acción:** Diseñar las actividades concretas para cerrar las brechas (ej. formación complementaria o prácticas profesionales).
 
+<figure markdown="span">
+  ![Análisis de Brechas por Competencia](../img/itinerario/tema-4/figura-4-6-analisis-brechas.svg)
+  <figcaption>Figura 4.6 — Tabla gráfica de evaluación de brechas competenciales e itinerario de mejora.</figcaption>
+</figure>
+
 !!! tip "Herramientas Visuales de Evaluación"
     Se recomienda el uso de **diagramas de barras** o **gráficos de radar** (gráfico de araña) para representar visualmente las competencias disponibles frente a las exigibles y monitorizar su evolución temporal.
+
+<figure markdown="span">
+  ![Competencias de Luis frente al Perfil Exigible](../img/itinerario/tema-4/figura-4-1-grafico-habilidades-luis.svg)
+  <figcaption>Figura 4.1 — Comparativa gráfica de barras del perfil disponible de Luis frente a las exigencias del puesto.</figcaption>
+</figure>
 
 ---
 
@@ -37,6 +52,11 @@
 * **Comunicación efectiva:** Habilidad para transmitir ideas de forma clara y practicar la escucha activa.
 * **Trabajo en equipo:** Colaboración orientada a metas comunes, participando abiertamente y resolviendo discrepancias de forma constructiva.
 * **Liderazgo:** Capacidad de orientar, motivar y tomar la iniciativa dentro de un grupo de trabajo.
+
+<figure markdown="span">
+  ![Estructura de Competencias para la Empleabilidad](../img/itinerario/tema-4/figura-4-2-competencias-empleabilidad.svg)
+  <figcaption>Figura 4.2 — Desglose de competencias personales y sociales clave para la empleabilidad.</figcaption>
+</figure>
 
 **Estrategias de Evaluación y Desarrollo:** Combinación de autoevaluación reflexiva, feedback externo (colegas, responsables, mentores), formación especializada (cursos, coaching) y práctica aplicada en proyectos o voluntariado.
 
@@ -55,6 +75,11 @@
 4. **Desarrollo de Competencias:** Adquisición de conocimientos mediante certificaciones oficiales, formación reglada, prácticas profesionales y proyectos personales.
 5. **Red de Contactos (Networking):** Participación activa en eventos del sector, uso estratégico de plataformas profesionales (LinkedIn), integración en comunidades y contacto con mentores.
 6. **Plan de Acción:** Detalle de tareas, asignación estricta de plazos, seguimiento periódico y evaluación de resultados alcanzados.
+
+<figure markdown="span">
+  ![Criterios de la Metodología SMART](../img/itinerario/tema-4/figura-4-3-metodologia-smart.svg)
+  <figcaption>Figura 4.3 — Metodología SMART para la definición de objetivos profesionales y personales.</figcaption>
+</figure>
 
 ---
 
@@ -88,6 +113,11 @@
     * **Factores Internos:** Fortalezas y Debilidades.
     * **Factores Externos:** Oportunidades y Amenazas del entorno laboral.
 4. **Definición de objetivos:** Establecimiento de hitos a corto plazo ($1\text{ año}$) y medio/largo plazo ($3\text{ a }5+\text{ años}$) junto con el plan operativo.
+
+<figure markdown="span">
+  ![Ejemplo de Balance Profesional Personalizado](../img/itinerario/tema-4/figura-4-4-balance-profesional.svg)
+  <figcaption>Figura 4.4 — Esquema de balance profesional estructurado con el itinerario formativo de Luis.</figcaption>
+</figure>
 
 ---
 
