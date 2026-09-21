@@ -14,6 +14,11 @@ La digitalización de los sectores productivos se refleja en la incorporación d
 * **Consumo de recursos naturales:** La fabricación de ordenadores, teléfonos inteligentes y sensores requiere la extracción intensiva de minerales y tierras raras, consumiendo grandes volúmenes de agua y energía, degradando el medio ambiente y destruyendo ecosistemas.
 * **Contaminación por desechos electrónicos (*e-waste*):** La basura electrónica contiene elementos tóxicos como plomo, mercurio y cadmio, los cuales contaminan gravemente el suelo y los acuíferos subterráneos si no reciben un tratamiento específico de reciclaje.
 
+<figure markdown="span">
+  ![Las Tres Dimensiones del Desarrollo Sostenible](../img/digitalizacion/tema-1/figura-1-2-dimensiones-desarrollo-sostenible.svg)
+  <figcaption>Figura 1.2 — Equilibrio entre las tres dimensiones del desarrollo sostenible: económica, social y ambiental (Informe Brundtland).</figcaption>
+</figure>
+
 #### El Informe Brundtland (1987)
 En 1987, la Comisión Mundial sobre el Medio Ambiente y el Desarrollo de la ONU publicó el Informe Brundtland, titulado *Nuestro futuro común*. Este documento estableció la necesidad de integrar tres dimensiones fundamentales en las decisiones económicas:
 
