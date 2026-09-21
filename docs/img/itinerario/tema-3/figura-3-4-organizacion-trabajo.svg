@@ -1,0 +1,98 @@
+<svg viewBox="0 0 1000 780" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <!-- Título Superior -->
+  <text x="500" y="45" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="bold" text-anchor="middle">NUEVAS FORMAS DE ORGANIZACIÓN DEL TRABAJO</text>
+
+  <!-- COLUMNA IZQUIERDA: VENTAJAS -->
+  <g transform="translate(30, 70)">
+    <!-- Cabecera Ventajas -->
+    <rect x="0" y="0" width="455" height="45" rx="6" fill="#29b6f6"/>
+    <text x="227" y="28" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Ventajas</text>
+
+    <!-- Caja Contenedora de Filas -->
+    <rect x="0" y="55" width="455" height="625" rx="8" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+
+    <!-- Elementos de Ventajas -->
+    <g fill="#ffffff" font-family="sans-serif" font-size="12">
+      <circle cx="20" cy="85" r="3" fill="#29b6f6"/>
+      <text x="32" y="89">Más eficiencia con el mismo coste.</text>
+
+      <circle cx="20" cy="135" r="3" fill="#29b6f6"/>
+      <text x="32" y="130">Flexibilidad que permita iniciar nuevos proyectos</text>
+      <text x="32" y="148">más rápidamente.</text>
+
+      <circle cx="20" cy="195" r="3" fill="#29b6f6"/>
+      <text x="32" y="190">Permite poder desarrollar habilidades</text>
+      <text x="32" y="208">interfuncionales.</text>
+
+      <circle cx="20" cy="255" r="3" fill="#29b6f6"/>
+      <text x="32" y="250">Aumenta la implicación de agentes en la toma</text>
+      <text x="32" y="268">de decisiones.</text>
+
+      <circle cx="20" cy="315" r="3" fill="#29b6f6"/>
+      <text x="32" y="310">Favorece la aparición de ventajas sostenibles</text>
+      <text x="32" y="328">para la empresa.</text>
+
+      <circle cx="20" cy="375" r="3" fill="#29b6f6"/>
+      <text x="32" y="370">Propicia la consolidación y trasmisión de la cultura,</text>
+      <text x="32" y="388">los valores y la misión de la empresa.</text>
+
+      <circle cx="20" cy="435" r="3" fill="#29b6f6"/>
+      <text x="32" y="439">Aumenta el compromiso entre el personal y la empresa.</text>
+
+      <circle cx="20" cy="485" r="3" fill="#29b6f6"/>
+      <text x="32" y="480">Aumenta el nivel de competitividad y rentabilidad</text>
+      <text x="32" y="498">de la empresa.</text>
+
+      <circle cx="20" cy="545" r="3" fill="#29b6f6"/>
+      <text x="32" y="540">Favorece los procesos de gestión de calidad</text>
+      <text x="32" y="558">en las organizaciones.</text>
+
+      <circle cx="20" cy="605" r="3" fill="#29b6f6"/>
+      <text x="32" y="600">Dispone de personas capacitadas e integradas</text>
+      <text x="32" y="618">en la cultura de la organización.</text>
+
+      <circle cx="20" cy="655" r="3" fill="#29b6f6"/>
+      <text x="32" y="659">Permite mayor capacidad y flexibilidad de adaptación.</text>
+    </g>
+  </g>
+
+  <!-- COLUMNA DERECHA: INCONVENIENTES -->
+  <g transform="translate(515, 70)">
+    <!-- Cabecera Inconvenientes -->
+    <rect x="0" y="0" width="455" height="45" rx="6" fill="#ab47bc"/>
+    <text x="227" y="28" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Inconvenientes</text>
+
+    <!-- Caja Contenedora de Filas -->
+    <rect x="0" y="55" width="455" height="625" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+
+    <!-- Elementos de Inconvenientes -->
+    <g fill="#ffffff" font-family="sans-serif" font-size="12">
+      <circle cx="20" cy="95" r="3" fill="#ab47bc"/>
+      <text x="32" y="90">Posibles conflictos entre los mandos jerárquicos</text>
+      <text x="32" y="108">y los funcionales.</text>
+
+      <circle cx="20" cy="180" r="3" fill="#ab47bc"/>
+      <text x="32" y="184">Mayor tiempo en reuniones de coordinación.</text>
+
+      <circle cx="20" cy="265" r="3" fill="#ab47bc"/>
+      <text x="32" y="260">Dificultades para coordinar la comunicación</text>
+      <text x="32" y="278">y la información.</text>
+
+      <circle cx="20" cy="365" r="3" fill="#ab47bc"/>
+      <text x="32" y="355">Se puede crear una gran dependencia de elementos</text>
+      <text x="32" y="373">técnicos para interactuar y poder utilizar</text>
+      <text x="32" y="391">materiales.</text>
+
+      <circle cx="20" cy="485" r="3" fill="#ab47bc"/>
+      <text x="32" y="475">Consumo de mucho tiempo en reuniones y debates,</text>
+      <text x="32" y="493">retrasando su puesta en marcha.</text>
+
+      <circle cx="20" cy="595" r="3" fill="#ab47bc"/>
+      <text x="32" y="585">Pueden existir diversas presiones que se dan</text>
+      <text x="32" y="603">entre miembros de un equipo para aceptar</text>
+      <text x="32" y="621">alternativas o soluciones.</text>
+    </g>
+  </g>
+</svg>
