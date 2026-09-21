@@ -13,6 +13,11 @@
 
 **Evaluación de Riesgos (Método del INSST):** Proceso estructurado que identifica los peligros, establece el nivel de deficiencia y calcula la gravedad potencial cruzando la probabilidad de ocurrencia (baja, media, alta) con la severidad de las consecuencias (ligeramente perjudicial, perjudicial, extremadamente perjudicial). Los niveles de riesgo resultantes son: **trivial**, **tolerable**, **moderado**, **importante** e **intolerable**.
 
+<figure markdown="span">
+  ![Matriz de Evaluación de Riesgos del INSST](../img/itinerario/tema-2/figura-2-1-evaluacion-riesgos.svg)
+  <figcaption>Figura 2.1 — Matriz de evaluación de niveles de riesgo combinando probabilidad y consecuencias (INSST).</figcaption>
+</figure>
+
 ---
 
 <h2 style="color: #29b6f6;">2.2. Daños, Accidentes y Otras Patologías Derivados del Trabajo</h2>
@@ -125,6 +130,11 @@ Virus, bacterias, hongos, protozoos y parásitos. Se clasifican en 4 grupos seg�
     * **Evacuación:** Incluye equipos de guía, vías señalizadas, punto de reunión y centro de comunicaciones (CCE).
 * **Plan de Autoprotección (RD 393/2007):** Obligatorio para actividades con riesgo elevado (Anexo I). Redactado y firmado por un técnico competente, debe revisarse cada 3 años y registrarse administrativamente.
 
+<figure markdown="span">
+  ![Secuencia del Plan de Emergencia](../img/itinerario/tema-2/figura-2-2-plan-emergencia-flujo.svg)
+  <figcaption>Figura 2.2 — Secuencia de actuación ante una situación de emergencia en el centro de trabajo.</figcaption>
+</figure>
+
 ---
 
 <h2 style="color: #29b6f6;">2.9. Vigilancia de la Salud</h2>
@@ -143,9 +153,19 @@ Virus, bacterias, hongos, protozoos y parásitos. Se clasifican en 4 grupos seg�
     * **INSST (Instituto Nacional):** Órgano técnico de estudio, asesoramiento y formación.
     * **ITSS (Inspección de Trabajo):** Vigila el cumplimiento de la norma, asesora y puede ordenar la paralización inmediata de trabajos por riesgo grave e inminente.
 
+<figure markdown="span">
+  ![Organismos Públicos de PRL](../img/itinerario/tema-2/figura-2-3-organismos-prl.svg)
+  <figcaption>Figura 2.3 — Estructura jerárquica de organismos públicos competentes en prevención de riesgos laborales.</figcaption>
+</figure>
+
 ---
 
 <h2 style="color: #29b6f6;">2.12. Organización Preventiva y Representación de los Trabajadores</h2>
+
+<figure markdown="span">
+  ![Etapas de la Organización Preventiva](../img/itinerario/tema-2/figura-2-4-etapas-organizacion-preventiva.svg)
+  <figcaption>Figura 2.4 — Fases organizativas, de planificación, ejecución y control de la actividad preventiva.</figcaption>
+</figure>
 
 #### Delegados de Prevención
 Elegidos por y entre los representantes del personal:
@@ -177,6 +197,11 @@ Elegidos por y entre los representantes del personal:
 
 **Protocolo PAS:** **P**roteger (el entorno y la víctima), **A**visar (a emergencias), **S**ocorrer (atender a los heridos).
 
+<figure markdown="span">
+  ![Protocolo PAS de Primeros Auxlios](../img/itinerario/tema-2/figura-2-5-protocolo-pas.svg)
+  <figcaption>Figura 2.5 — Pasos del protocolo de primeros auxilios: Proteger, Avisar y Socorrer.</figcaption>
+</figure>
+
 #### Triaje (Tarjetas de Color)
 * 🔴 **Rojo (Prioridad I):** Graves recuperables (atención inmediata).
 * 🟡 **Amarillo (Prioridad II):** Graves estables (evacuación diferida).
@@ -197,5 +222,10 @@ Elegidos por y entre los representantes del personal:
 **Hemorragias:** Compresión directa sobre la herida; si falla, compresión arterial (humeral o femoral). El torniquete es el último recurso (aflojar cada 10 minutos e indicar la hora de aplicación). En epistaxis (sangrado nasal), inclinar la cabeza hacia delante y comprimir 5 minutos.
 
 **Maniobra de Heimlich:** Compresiones abdominales rápidas hacia arriba y hacia dentro, por encima del ombligo, en atragantamientos por cuerpo extraño.
+
+<figure markdown="span">
+  ![Pasos de la Maniobra de Heimlich](../img/itinerario/tema-2/figura-2-7-maniobra-heimlich.svg)
+  <figcaption>Figura 2.7 — Fases consecutivas para la ejecución de la maniobra de Heimlich en atragantamientos.</figcaption>
+</figure>
 
 --8<-- "docs/includes/glosario.md"
