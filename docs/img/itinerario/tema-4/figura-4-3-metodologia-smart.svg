@@ -1,0 +1,38 @@
+<svg viewBox="0 0 920 220" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <!-- Letra S -->
+  <g transform="translate(60, 20)">
+    <text x="60" y="90" fill="#29b6f6" font-family="sans-serif" font-size="82" font-weight="900" text-anchor="middle">S</text>
+    <text x="60" y="130" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">S (Specific)</text>
+    <text x="60" y="152" fill="#888888" font-family="sans-serif" font-size="13" text-anchor="middle">Específicos</text>
+  </g>
+
+  <!-- Letra M -->
+  <g transform="translate(225, 20)">
+    <text x="75" y="90" fill="#29b6f6" font-family="sans-serif" font-size="82" font-weight="900" text-anchor="middle">M</text>
+    <text x="75" y="130" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">M (Measurable)</text>
+    <text x="75" y="152" fill="#888888" font-family="sans-serif" font-size="13" text-anchor="middle">Medibles</text>
+  </g>
+
+  <!-- Letra A -->
+  <g transform="translate(415, 20)">
+    <text x="65" y="90" fill="#29b6f6" font-family="sans-serif" font-size="82" font-weight="900" text-anchor="middle">A</text>
+    <text x="65" y="130" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">A (Achievable)</text>
+    <text x="65" y="152" fill="#888888" font-family="sans-serif" font-size="13" text-anchor="middle">Alcanzables</text>
+  </g>
+
+  <!-- Letra R -->
+  <g transform="translate(585, 20)">
+    <text x="65" y="90" fill="#29b6f6" font-family="sans-serif" font-size="82" font-weight="900" text-anchor="middle">R</text>
+    <text x="65" y="130" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">R (Relevant)</text>
+    <text x="65" y="152" fill="#888888" font-family="sans-serif" font-size="13" text-anchor="middle">Relevantes</text>
+  </g>
+
+  <!-- Letra T -->
+  <g transform="translate(755, 20)">
+    <text x="65" y="90" fill="#29b6f6" font-family="sans-serif" font-size="82" font-weight="900" text-anchor="middle">T</text>
+    <text x="65" y="130" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">T (Time-bound)</text>
+    <text x="65" y="152" fill="#888888" font-family="sans-serif" font-size="13" text-anchor="middle">Con plazo definido</text>
+  </g>
+</svg>
