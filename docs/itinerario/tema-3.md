@@ -117,6 +117,11 @@ Identificación de las partes negociadoras, ámbito de aplicación (territorial,
 * **Deliberación y Acuerdos:** Adopción de pactos con el voto favorable de la mayoría de cada una de las representaciones.
 * **Registro y Publicación:** Firma y presentación a la autoridad laboral en máx. 15 días para su registro; publicación oficial en máx. 10 días.
 
+<figure markdown="span">
+  ![Fases del Proceso de Negociación Colectiva](../img/itinerario/tema-3/figura-3-1-proceso-negociacion.svg)
+  <figcaption>Figura 3.1 — Fases consecutivas del proceso de negociación de un convenio colectivo.</figcaption>
+</figure>
+
 ---
 
 <h2 style="color: #29b6f6;">3.6. El Servicio Público de Empleo y la Oferta Pública</h2>
@@ -124,6 +129,11 @@ Identificación de las partes negociadoras, ámbito de aplicación (territorial,
 * **Acceso a la Función Pública:** La Oferta de Empleo Público (OPE) convoca plazas para personal público.
 * **Tipos de Empleados Públicos Principales:** Funcionarios de carrera (vinculación permanente por nombramiento) e Interinos (contratación temporal por razones de urgencia o vacante).
 * **Requisitos Oficiales de Acceso:** Nacionalidad española o de países miembros de la UE (extendido a cónyuges e hijos dependientes), edad mínima de 16 años y no superar la edad de jubilación, titulación requerida para el grupo/escala, capacidad funcional sin limitaciones e inhabilitación o separación disciplinaria previa.
+
+<figure markdown="span">
+  ![Clasificación del Empleado Público](../img/itinerario/tema-3/figura-3-2-clasificacion-empleado-publico.svg)
+  <figcaption>Figura 3.2 — Estructura organizativa y tipos de personal al servicio de la Administración Pública.</figcaption>
+</figure>
 
 ---
 
@@ -146,6 +156,11 @@ Identificación de las partes negociadoras, ámbito de aplicación (territorial,
 * **Contrato de Formación en Alternancia:** Compatibiliza formación teórica y trabajo retribuido. Para personas de 16 a 30 años sin titulación requerida. Duración de 3 meses a 2 años. Prohibidas las horas extras y el trabajo nocturno (salvo excepciones organizativas).
 * **Contrato Formativo para la Obtención de la Práctica Profesional:** Para titulados universitarios, FP o certificados de profesionalidad en los 3 años siguientes al título (5 años si es persona con discapacidad). Duración entre 6 meses y 1 año. Periodo de prueba de máx. 1 mes.
 * **Contrato de Puesta a Disposición (vía ETT):** Celebrado entre la Empresa de Trabajo Temporal y la empresa usuaria. La ETT abona el salario y cotizaciones, mientras la usuaria dirige la actividad diaria.
+
+<figure markdown="span">
+  ![Relación Triangular en Empresas de Trabajo Temporal](../img/itinerario/tema-3/figura-3-3-relacion-triangular-ett.svg)
+  <figcaption>Figura 3.3 — Esquema de relaciones contractuales y funcionales en contratos de puesta a disposición (ETT).</figcaption>
+</figure>
 
 #### Jornada de Trabajo y Tiempo de Descanso
 * **Jornada Máxima Legal:** Promedio de $40\text{ horas}$ semanales de trabajo efectivo en cómputo anual ($1.826\text{ horas}$ y $27\text{ minutos}$). Máximo diario de $9\text{ horas}$ ($8\text{ horas}$ diarias para menores de 18 años).
@@ -258,7 +273,10 @@ Impugnación en máx. 20 días hábiles previa conciliación en el SMAC:
 
 <h2 style="color: #29b6f6;">3.15. Nuevas Formas de Organización del Trabajo</h2>
 
-* **Ventajas:** Mayor eficiencia y flexibilidad organizativa, fomento del trabajo colaborativo interfuncional, adaptación rápida ante cambios del mercado y facilitación de la conciliación.
-* **Inconvenientes:** Conflictos entre mandos jerárquicos y funcionales, incremento de reuniones de coordinación, dependencia de sistemas e infraestructuras técnicas e intensificación de la carga de comunicación digital.
+<figure markdown="span">
+  ![Ventajas e Inconvenientes de las Nuevas Formas de Organización del Trabajo](../img/itinerario/tema-3/figura-3-4-organizacion-trabajo.svg)
+  <figcaption>Figura 3.4 — Comparativa de ventajas e inconvenientes en los nuevos modelos organizativos de trabajo.</figcaption>
+</figure>
+
 
 --8<-- "docs/includes/glosario.md"
