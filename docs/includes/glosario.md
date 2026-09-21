@@ -410,3 +410,7 @@
 *[CMO]: Chief Marketing Officer. Director de marketing al mando de las campañas de publicidad, adquisición de usuarios, comunicación y posicionamiento de marca.
 *[COO]: Chief Operating Officer. Director de operaciones que supervisa el día a día operativo, los procedimientos internos y la logística empresarial.
 *[CX]: Customer Experience. Estrategia y métricas centradas en evaluar la satisfacción y la percepción global del usuario a lo largo de todos sus puntos de contacto con la organización.
+*[DLT]: Distributed Ledger Technology. Tecnología de registro distribuido que permite almacenar y compartir transacciones de forma consensuada en redes descentralizadas.
+*[SIEM]: Security Information and Event Management. Sistema que recopila, correlaciona y analiza eventos de seguridad y registros para detectar anomalías y ciberamenazas.
+*[MongoDB]: Sistema de gestión de bases de datos NoSQL líder orientado a documentos en formato BSON/JSON sin esquemas rígidos.
+*[Redis]: Base de datos NoSQL en memoria RAM estructurada en clave-valor, empleada comúnmente para almacenamiento en caché y gestión de sesiones de baja latencia.
