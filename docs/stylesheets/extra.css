@@ -1,0 +1,42 @@
+abbr {
+  text-decoration: underline dotted #29b6f6;
+  cursor: pointer;
+  position: relative;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+abbr.tooltip-active::after {
+  content: attr(title);
+  position: absolute;
+  bottom: 130%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #2d2d38;
+  color: #ffffff;
+  border: 1px solid #ab47bc;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  line-height: 1.3;
+  width: max-content;
+  max-width: 260px;
+  white-space: normal;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  pointer-events: none;
+}
+
+abbr.tooltip-active::before {
+  content: "";
+  position: absolute;
+  bottom: 115%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 6px;
+  border-style: solid;
+  border-color: #ab47bc transparent transparent transparent;
+  z-index: 1000;
+}
