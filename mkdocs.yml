@@ -35,36 +35,36 @@ nav:
   - 🏠 Inicio: index.md
   - 💻 Semestre 1:
       - 🛠️ Montaje y Mantenimiento de Equipos:
-          - montaje/index.md
-          - Tema 1 - Medición de parámetros eléctricos: montaje/tema-1.md
-          - Tema 2 - Prevención de riesgos laborales: montaje/tema-2.md
-          - Tema 3 - Bloques funcionales del PC: montaje/tema-3.md
-          - Tema 4 - Precauciones y seguridad: montaje/tema-4.md
-          - Tema 5 - Herramientas necesarias: montaje/tema-5.md
-          - Tema 6 - Análisis de mercado de componentes: montaje/tema-6.md
-          - Tema 7 - Procedimientos de montaje: montaje/tema-7.md
-          - Tema 8 - Puesta en marcha del equipo: montaje/tema-8.md
-          - Tema 9 - Nuevas tendencias: montaje/tema-9.md
-          - Tema 10 - Mantenimiento preventivo y correctivo: montaje/tema-10.md
-          - Tema 11 - Instalación de programas y software: montaje/tema-11.md
+          - smr/montaje/index.md
+          - Tema 1 - Medición de parámetros eléctricos: smr/montaje/tema-1.md
+          - Tema 2 - Prevención de riesgos laborales: smr/montaje/tema-2.md
+          - Tema 3 - Bloques funcionales del PC: smr/montaje/tema-3.md
+          - Tema 4 - Precauciones y seguridad: smr/montaje/tema-4.md
+          - Tema 5 - Herramientas necesarias: smr/montaje/tema-5.md
+          - Tema 6 - Análisis de mercado de componentes: smr/montaje/tema-6.md
+          - Tema 7 - Procedimientos de montaje: smr/montaje/tema-7.md
+          - Tema 8 - Puesta en marcha del equipo: smr/montaje/tema-8.md
+          - Tema 9 - Nuevas tendencias: smr/montaje/tema-9.md
+          - Tema 10 - Mantenimiento preventivo y correctivo: smr/montaje/tema-10.md
+          - Tema 11 - Instalación de programas y software: smr/montaje/tema-11.md
       - 💻 Sistemas Operativos Monopuesto:
-          - sistemas/index.md
-          - Tema 1 - Caracterización de los Sistemas Operativos: sistemas/tema-1.md
-          - Tema 2 - Máquinas virtuales: sistemas/tema-2.md
-          - Tema 3 - Instalación de sistemas operativos libres y propietarios: sistemas/tema-3.md
-          - Tema 4 - Configuración de sistemas operativos libres y propietarios: sistemas/tema-4.md
-          - Tema 5 - Administración de sistemas operativos libres y propietarios: sistemas/tema-5.md
+          - smr/sistemas/index.md
+          - Tema 1 - Caracterización de los Sistemas Operativos: smr/sistemas/tema-1.md
+          - Tema 2 - Máquinas virtuales: smr/sistemas/tema-2.md
+          - Tema 3 - Instalación de sistemas operativos libres y propietarios: smr/sistemas/tema-3.md
+          - Tema 4 - Configuración de sistemas operativos libres y propietarios: smr/sistemas/tema-4.md
+          - Tema 5 - Administración de sistemas operativos libres y propietarios: smr/sistemas/tema-5.md
       - ⚡ Digitalización Aplicada a los Sectores Productivos:
-          - digitalizacion/index.md
-          - Tema 1 - Relación entre digitalización y sostenibilidad: digitalizacion/tema-1.md
-          - Tema 2 - Cuarta Revolución Industrial: digitalizacion/tema-2.md
-          - Tema 3 - Cloud y sistemas conectados: digitalizacion/tema-3.md
-          - Tema 4 - Características de los sistemas de producción: digitalizacion/tema-4.md
-          - Tema 5 - Planes de transformación: digitalizacion/tema-5.md
+          - smr/digitalizacion/index.md
+          - Tema 1 - Relación entre digitalización y sostenibilidad: smr/digitalizacion/tema-1.md
+          - Tema 2 - Cuarta Revolución Industrial: smr/digitalizacion/tema-2.md
+          - Tema 3 - Cloud y sistemas conectados: smr/digitalizacion/tema-3.md
+          - Tema 4 - Características de los sistemas de producción: smr/digitalizacion/tema-4.md
+          - Tema 5 - Planes de transformación: smr/digitalizacion/tema-5.md
       - 💼 Itinerario Personal para la Empleabilidad I (IPE I):
-          - itinerario/index.md
-          - Tema 1 - Sector productivo: itinerario/tema-1.md
-          - Tema 2 - Prevención de riesgos laborales: itinerario/tema-2.md
-          - Tema 3 - Condiciones laborales: itinerario/tema-3.md
-          - Tema 4 - Autoorientación e inserción: itinerario/tema-4.md
-          - Tema 5 - Aprendizaje autónomo: itinerario/tema-5.md
+          - smr/itinerario/index.md
+          - Tema 1 - Sector productivo: smr/itinerario/tema-1.md
+          - Tema 2 - Prevención de riesgos laborales: smr/itinerario/tema-2.md
+          - Tema 3 - Condiciones laborales: smr/itinerario/tema-3.md
+          - Tema 4 - Autoorientación e inserción: smr/itinerario/tema-4.md
+          - Tema 5 - Aprendizaje autónomo: smr/itinerario/tema-5.md
