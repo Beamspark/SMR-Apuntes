@@ -50,7 +50,13 @@ nav:
           - Tema 3 - Instalación de sistemas operativos libres y propietarios: sistemas/tema-3.md
           - Tema 4 - Configuración de sistemas operativos libres y propietarios: sistemas/tema-4.md
           - Tema 5 - Administración de sistemas operativos libres y propietarios: sistemas/tema-5.md
-      - Digitalización Aplicada a los Sectores Productivos: digitalizacion/index.md
+      - ⚡ Digitalización Aplicada a los Sectores Productivos:
+          - digitalizacion/index.md
+          - Tema 1 - Relación entre digitalización y sostenibilidad: digitalizacion/tema-1.md
+          - Tema 2 - Cuarta Revolución Industrial: digitalizacion/tema-2.md
+          - Tema 3 - Cloud y sistemas conectados: digitalizacion/tema-3.md
+          - Tema 4 - Características de los sistemas de producción: digitalizacion/tema-4.md
+          - Tema 5 - Planes de transformación: digitalizacion/tema-5.md
       - 💼 Itinerario Personal para la Empleabilidad I (IPE I):
           - itinerario/index.md
           - Tema 1 - Sector productivo: itinerario/tema-1.md
