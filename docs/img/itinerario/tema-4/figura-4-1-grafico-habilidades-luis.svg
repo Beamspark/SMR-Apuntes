@@ -1,0 +1,67 @@
+<svg viewBox="0 0 760 430" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <!-- Título Superior -->
+  <text x="380" y="40" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Competencias de Luis vs. perfil exigible</text>
+
+  <!-- Eje Y y Líneas de Cuadrícula -->
+  <g stroke="#3a3a48" stroke-width="1" fill="#888888" font-family="sans-serif" font-size="12">
+    <!-- Nivel 5 -->
+    <line x1="80" y1="80" x2="700" y2="80"/>
+    <text x="65" y="84" text-anchor="end">5</text>
+
+    <!-- Nivel 4 -->
+    <line x1="80" y1="135" x2="700" y2="135"/>
+    <text x="65" y="139" text-anchor="end">4</text>
+
+    <!-- Nivel 3 -->
+    <line x1="80" y1="190" x2="700" y2="190"/>
+    <text x="65" y="194" text-anchor="end">3</text>
+
+    <!-- Nivel 2 -->
+    <line x1="80" y1="245" x2="700" y2="245"/>
+    <text x="65" y="249" text-anchor="end">2</text>
+
+    <!-- Nivel 1 -->
+    <line x1="80" y1="300" x2="700" y2="300"/>
+    <text x="65" y="304" text-anchor="end">1</text>
+  </g>
+
+  <!-- Eje X Base -->
+  <line x1="60" y1="355" x2="720" y2="355" stroke="#ffffff" stroke-width="1.5"/>
+
+  <!-- BARRAS (Ancho barra: 80px) -->
+
+  <!-- Columna 1: Conocimiento en gestión agentes IA (Exigible 5, Disponible 3) -->
+  <rect x="120" y="80" width="80" height="275" rx="4" fill="#ab47bc" opacity="0.35"/>
+  <rect x="120" y="190" width="80" height="165" rx="4" fill="#29b6f6"/>
+
+  <!-- Columna 2: Habilidades técnicas (Exigible 5, Disponible 3) -->
+  <rect x="270" y="80" width="80" height="275" rx="4" fill="#ab47bc" opacity="0.35"/>
+  <rect x="270" y="190" width="80" height="165" rx="4" fill="#29b6f6"/>
+
+  <!-- Columna 3: Gestión del estrés (Exigible 5, Disponible 5) -->
+  <rect x="420" y="80" width="80" height="275" rx="4" fill="#29b6f6"/>
+
+  <!-- Columna 4: Trabajo en equipo (Exigible 5, Disponible 5) -->
+  <rect x="570" y="80" width="80" height="275" rx="4" fill="#29b6f6"/>
+
+  <!-- Etiquetas Eje X -->
+  <g fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">
+    <!-- Columna 1 -->
+    <text x="160" y="380">Conocimiento en</text>
+    <text x="160" y="398">gestión agentes IA</text>
+
+    <!-- Columna 2 -->
+    <text x="310" y="380">Habilidades</text>
+    <text x="310" y="398">técnicas</text>
+
+    <!-- Columna 3 -->
+    <text x="460" y="380">Gestión</text>
+    <text x="460" y="398">del estrés</text>
+
+    <!-- Columna 4 -->
+    <text x="610" y="380">Trabajo</text>
+    <text x="610" y="398">en equipo</text>
+  </g>
+</svg>
