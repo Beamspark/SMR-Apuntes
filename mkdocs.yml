@@ -30,7 +30,7 @@ extra_javascript:
 nav:
   - 🏠 Inicio: index.md
   - 💻 Semestre 1:
-      - Montaje y Mantenimiento:
+      - 🛠️ Montaje y Mantenimiento de Equipos:
           - montaje/index.md
           - Tema 1 - Medición de Parámetros Eléctricos: montaje/tema-1.md
           - Tema 2 - Prevención de Riesgos Laborales: montaje/tema-2.md
@@ -43,15 +43,15 @@ nav:
           - Tema 9 - Nuevas Tendencias: montaje/tema-9.md
           - Tema 10 - Mantenimiento Preventivo y Correctivo: montaje/tema-10.md
           - Tema 11 - Instalación de Programas y Software: montaje/tema-11.md
-      - Sistemas Operativos Monopuesto:
+      - 💻 Sistemas Operativos Monopuesto:
           - sistemas/index.md
           - Tema 1 - Caracterización de los Sistemas Operativos: sistemas/tema-1.md
           - Tema 2 - Máquinas virtuales: sistemas/tema-2.md
           - Tema 3 - Instalación de sistemas operativos libres y propietarios: sistemas/tema-3.md
           - Tema 4 - Configuración de sistemas operativos libres y propietarios: sistemas/tema-4.md
           - Tema 5 - Administración de sistemas operativos libres y propietarios: sistemas/tema-5.md
-      - Digitalización Aplicada: digitalizacion/index.md
-      - Itinerario Personal (IPE I):
+      - Digitalización Aplicada a los Sectores Productivos: digitalizacion/index.md
+      - 💼 Itinerario Personal para la Empleabilidad I (IPE I):
           - itinerario/index.md
           - Tema 1 - Sector productivo: itinerario/tema-1.md
           - Tema 2 - Prevención de riesgos laborales: itinerario/tema-2.md
