@@ -1,0 +1,45 @@
+<svg viewBox="0 0 760 380" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <text x="380" y="38" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">MODELOS DE SERVICIO EN LA NUBE (SaaS, PaaS, IaaS)</text>
+
+  <!-- Nivel SaaS -->
+  <g transform="translate(180, 60)">
+    <polygon points="200,0 60,85 340,85" fill="#2d2d38" stroke="#ab47bc" stroke-width="2"/>
+    <text x="200" y="52" fill="#ab47bc" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">SaaS</text>
+    <text x="200" y="72" fill="#ffffff" font-family="sans-serif" font-size="11" text-anchor="middle">Software as a Service</text>
+  </g>
+
+  <!-- Nivel PaaS -->
+  <g transform="translate(180, 150)">
+    <polygon points="56,0 344,0 395,90 5,90" fill="#2d2d38" stroke="#29b6f6" stroke-width="2"/>
+    <text x="200" y="42" fill="#29b6f6" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">PaaS</text>
+    <text x="200" y="65" fill="#ffffff" font-family="sans-serif" font-size="11" text-anchor="middle">Platform as a Service</text>
+  </g>
+
+  <!-- Nivel IaaS -->
+  <g transform="translate(180, 245)">
+    <polygon points="3,0 397,0 445,95 -45,95" fill="#2d2d38" stroke="#ab47bc" stroke-width="2"/>
+    <text x="200" y="45" fill="#ab47bc" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">IaaS</text>
+    <text x="200" y="70" fill="#ffffff" font-family="sans-serif" font-size="11" text-anchor="middle">Infrastructure as a Service</text>
+  </g>
+
+  <!-- Leyendas y ejemplos a la derecha -->
+  <g transform="translate(565, 80)">
+    <circle cx="0" cy="18" r="4" fill="#ab47bc"/>
+    <text x="15" y="14" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold">Usuario Final</text>
+    <text x="15" y="30" fill="#888888" font-family="sans-serif" font-size="11">Google Workspace, M365</text>
+  </g>
+
+  <g transform="translate(605, 175)">
+    <circle cx="0" cy="18" r="4" fill="#29b6f6"/>
+    <text x="15" y="14" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold">Desarrolladores</text>
+    <text x="15" y="30" fill="#888888" font-family="sans-serif" font-size="11">Heroku, App Engine</text>
+  </g>
+
+  <g transform="translate(640, 270)">
+    <circle cx="0" cy="18" r="4" fill="#ab47bc"/>
+    <text x="15" y="14" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold">Administradores de Sistemas</text>
+    <text x="15" y="30" fill="#888888" font-family="sans-serif" font-size="11">AWS, Azure VMs, GCP Compute</text>
+  </g>
+</svg>
