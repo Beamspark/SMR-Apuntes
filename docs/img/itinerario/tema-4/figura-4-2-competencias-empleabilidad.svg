@@ -1,0 +1,82 @@
+<svg viewBox="0 0 760 480" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <!-- LÍNEAS DE CONEXIÓN -->
+  <!-- Conexiones Superiores (Social) -->
+  <path d="M 125 110 L 125 140
+           M 380 110 L 380 170
+           M 635 110 L 635 140
+           M 125 140 L 635 140" stroke="#29b6f6" stroke-width="2" fill="none"/>
+
+  <!-- Conexión Social <-> Central -->
+  <line x1="380" y1="210" x2="380" y2="235" stroke="#29b6f6" stroke-width="2"/>
+
+  <!-- Conexión Central <-> Personal -->
+  <line x1="380" y1="285" x2="380" y2="310" stroke="#29b6f6" stroke-width="2"/>
+
+  <!-- Conexiones Inferiores (Personal) -->
+  <path d="M 380 350 L 380 380
+           M 125 380 L 635 380
+           M 125 380 L 125 410
+           M 380 380 L 380 410
+           M 635 380 L 635 410" stroke="#29b6f6" stroke-width="2" fill="none"/>
+
+  <!-- BLOQUE CENTRAL -->
+  <g transform="translate(195, 235)">
+    <rect x="0" y="0" width="370" height="50" rx="8" fill="#2d2d38" stroke="#29b6f6" stroke-width="2"/>
+    <text x="185" y="31" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">Competencias para la empleabilidad</text>
+  </g>
+
+  <!-- NODO SOCIAL -->
+  <g transform="translate(305, 170)">
+    <rect x="0" y="0" width="150" height="40" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="2"/>
+    <text x="75" y="25" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Social</text>
+  </g>
+
+  <!-- SUB-BLOQUES SOCIALES -->
+  <!-- Comunicación efectiva -->
+  <g transform="translate(45, 60)">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#2d2d38" stroke="#444444" stroke-width="1.5"/>
+    <text x="80" y="24" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Comunicación</text>
+    <text x="80" y="40" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">efectiva</text>
+  </g>
+
+  <!-- Trabajo en equipo -->
+  <g transform="translate(300, 60)">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#2d2d38" stroke="#444444" stroke-width="1.5"/>
+    <text x="80" y="24" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Trabajo en</text>
+    <text x="80" y="40" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">equipo</text>
+  </g>
+
+  <!-- Liderazgo -->
+  <g transform="translate(555, 60)">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#2d2d38" stroke="#444444" stroke-width="1.5"/>
+    <text x="80" y="31" fill="#ffffff" font-family="sans-serif" font-size="13" text-anchor="middle">Liderazgo</text>
+  </g>
+
+  <!-- NODO PERSONAL -->
+  <g transform="translate(305, 310)">
+    <rect x="0" y="0" width="150" height="40" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="2"/>
+    <text x="75" y="25" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Personal</text>
+  </g>
+
+  <!-- SUB-BLOQUES PERSONALES -->
+  <!-- Resiliencia -->
+  <g transform="translate(45, 410)">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#2d2d38" stroke="#444444" stroke-width="1.5"/>
+    <text x="80" y="31" fill="#ffffff" font-family="sans-serif" font-size="13" text-anchor="middle">Resiliencia</text>
+  </g>
+
+  <!-- Gestión del tiempo -->
+  <g transform="translate(300, 410)">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#2d2d38" stroke="#444444" stroke-width="1.5"/>
+    <text x="80" y="24" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Gestión del</text>
+    <text x="80" y="40" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">tiempo</text>
+  </g>
+
+  <!-- Autoconfianza -->
+  <g transform="translate(555, 410)">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#2d2d38" stroke="#444444" stroke-width="1.5"/>
+    <text x="80" y="31" fill="#ffffff" font-family="sans-serif" font-size="13" text-anchor="middle">Autoconfianza</text>
+  </g>
+</svg>
