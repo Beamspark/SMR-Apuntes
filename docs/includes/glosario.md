@@ -414,3 +414,4 @@
 *[SIEM]: Security Information and Event Management. Sistema que recopila, correlaciona y analiza eventos de seguridad y registros para detectar anomalías y ciberamenazas.
 *[MongoDB]: Sistema de gestión de bases de datos NoSQL líder orientado a documentos en formato BSON/JSON sin esquemas rígidos.
 *[Redis]: Base de datos NoSQL en memoria RAM estructurada en clave-valor, empleada comúnmente para almacenamiento en caché y gestión de sesiones de baja latencia.
+*[KPI]: Key Performance Indicator. Indicador clave de rendimiento utilizado para monitorizar, evaluar y cuantificar el éxito de las acciones y procesos en una organización.
