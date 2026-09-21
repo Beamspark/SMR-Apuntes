@@ -1,0 +1,62 @@
+<svg viewBox="0 0 650 820" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <text x="40" y="38" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="bold">Ejemplo de balance profesional:</text>
+
+  <!-- SECCIÓN 1: Competencias técnicas -->
+  <g transform="translate(40, 55)">
+    <rect x="0" y="0" width="570" height="35" rx="6" fill="#29b6f6"/>
+    <text x="285" y="23" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Competencias técnicas</text>
+    <rect x="0" y="40" width="570" height="75" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="285" y="62" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Programación en Python y Java (Avanzado)</text>
+    <text x="285" y="82" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Gestión de Bases de Datos SQL (Intermedio)</text>
+    <text x="285" y="102" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Desarrollo de aplicaciones móviles (Básico)</text>
+  </g>
+
+  <!-- SECCIÓN 2: Habilidades blandas -->
+  <g transform="translate(40, 180)">
+    <rect x="0" y="0" width="570" height="35" rx="6" fill="#ab47bc"/>
+    <text x="285" y="23" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Habilidades blandas</text>
+    <rect x="0" y="40" width="570" height="75" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1"/>
+    <text x="285" y="62" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Trabajo en equipo (Fuerte)</text>
+    <text x="285" y="82" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Resolución de problemas (Fuerte)</text>
+    <text x="285" y="102" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Comunicación efectiva (Intermedio)</text>
+  </g>
+
+  <!-- SECCIÓN 3: Experiencia laboral -->
+  <g transform="translate(40, 305)">
+    <rect x="0" y="0" width="570" height="35" rx="6" fill="#29b6f6"/>
+    <text x="285" y="23" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Experiencia laboral</text>
+    <rect x="0" y="40" width="570" height="55" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="285" y="63" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Desarrollador de Software en XYZ Tech (2 años)</text>
+    <text x="285" y="83" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Pasantía en ABC Solutions (6 meses)</text>
+  </g>
+
+  <!-- SECCIÓN 4: Formación y educación (Adaptada para Luis) -->
+  <g transform="translate(40, 410)">
+    <rect x="0" y="0" width="570" height="35" rx="6" fill="#ab47bc"/>
+    <text x="285" y="23" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Formación y educación</text>
+    <rect x="0" y="40" width="570" height="75" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1"/>
+    <text x="285" y="62" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">CFGM Sistemas microinformáticos y redes</text>
+    <text x="285" y="82" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">CFGS Diseño de aplicaciones web</text>
+    <text x="285" y="102" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Master FP IA y Big Data</text>
+  </g>
+
+  <!-- SECCIÓN 5: Objetivos a corto plazo -->
+  <g transform="translate(40, 535)">
+    <rect x="0" y="0" width="570" height="35" rx="6" fill="#29b6f6"/>
+    <text x="285" y="23" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Objetivos a corto plazo</text>
+    <rect x="0" y="40" width="570" height="55" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="285" y="63" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Mejorar habilidades en desarrollo de aplicaciones móviles</text>
+    <text x="285" y="83" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Obtener certificación en Gestión de Proyectos (PMP)</text>
+  </g>
+
+  <!-- SECCIÓN 6: Objetivos a largo plazo -->
+  <g transform="translate(40, 640)">
+    <rect x="0" y="0" width="570" height="35" rx="6" fill="#ab47bc"/>
+    <text x="285" y="23" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Objetivos a largo plazo</text>
+    <rect x="0" y="40" width="570" height="55" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1"/>
+    <text x="285" y="63" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Asumir un rol de liderazgo en desarrollo de software</text>
+    <text x="285" y="83" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Trabajar en una empresa de tecnología de renombre internacional</text>
+  </g>
+</svg>
