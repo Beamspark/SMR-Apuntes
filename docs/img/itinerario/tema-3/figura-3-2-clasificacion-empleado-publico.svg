@@ -1,0 +1,84 @@
+<svg viewBox="0 0 880 340" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <!-- Nodo Raíz: Empleado público -->
+  <g transform="translate(340, 20)">
+    <rect x="0" y="0" width="200" height="50" rx="8" fill="#2d2d38" stroke="#ab47bc" stroke-width="2"/>
+    <text x="100" y="31" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">Empleado público</text>
+  </g>
+
+  <!-- Líneas Nivel 1 -->
+  <path d="M 440 70 L 440 100
+           M 115 100 L 765 100
+           M 115 100 L 115 130
+           M 325 100 L 325 130
+           M 535 100 L 535 130
+           M 765 100 L 765 130" stroke="#29b6f6" stroke-width="2" fill="none"/>
+
+  <!-- Tarjetas Nivel 1 -->
+  <!-- Funcionarios -->
+  <g transform="translate(35, 130)">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="2"/>
+    <text x="80" y="31" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Funcionarios</text>
+  </g>
+
+  <!-- Personal eventual -->
+  <g transform="translate(245, 130)">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#2d2d38" stroke="#444444" stroke-width="1.5"/>
+    <text x="80" y="24" fill="#ffffff" font-family="sans-serif" font-size="13" text-anchor="middle">Personal</text>
+    <text x="80" y="40" fill="#ffffff" font-family="sans-serif" font-size="13" text-anchor="middle">eventual</text>
+  </g>
+
+  <!-- Personal directivo profesional -->
+  <g transform="translate(445, 130)">
+    <rect x="0" y="0" width="180" height="50" rx="6" fill="#2d2d38" stroke="#444444" stroke-width="1.5"/>
+    <text x="90" y="24" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Personal directivo</text>
+    <text x="90" y="40" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">profesional</text>
+  </g>
+
+  <!-- Personal laboral -->
+  <g transform="translate(675, 130)">
+    <rect x="0" y="0" width="180" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="2"/>
+    <text x="90" y="31" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Personal laboral</text>
+  </g>
+
+  <!-- Subnivel Funcionarios -->
+  <path d="M 115 180 L 115 210
+           M 65 210 L 175 210
+           M 65 210 L 65 240
+           M 175 210 L 175 240" stroke="#29b6f6" stroke-width="2" fill="none"/>
+
+  <g transform="translate(15, 240)">
+    <rect x="0" y="0" width="100" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="50" y="24" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">De</text>
+    <text x="50" y="40" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">carrera</text>
+  </g>
+
+  <g transform="translate(125, 240)">
+    <rect x="0" y="0" width="100" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="50" y="31" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Interinos</text>
+  </g>
+
+  <!-- Subnivel Personal Laboral -->
+  <path d="M 765 180 L 765 210
+           M 625 210 L 825 210
+           M 625 210 L 625 240
+           M 725 210 L 725 240
+           M 825 210 L 825 240" stroke="#29b6f6" stroke-width="2" fill="none"/>
+
+  <g transform="translate(580, 240)">
+    <rect x="0" y="0" width="90" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="45" y="31" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Fijo</text>
+  </g>
+
+  <g transform="translate(680, 240)">
+    <rect x="0" y="0" width="90" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="45" y="24" fill="#ffffff" font-family="sans-serif" font-size="11" text-anchor="middle">A tiempo</text>
+    <text x="45" y="40" fill="#ffffff" font-family="sans-serif" font-size="11" text-anchor="middle">indefinido</text>
+  </g>
+
+  <g transform="translate(780, 240)">
+    <rect x="0" y="0" width="90" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1"/>
+    <text x="45" y="31" fill="#ffffff" font-family="sans-serif" font-size="12" text-anchor="middle">Temporal</text>
+  </g>
+</svg>
