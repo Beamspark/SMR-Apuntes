@@ -134,3 +134,53 @@ abbr.tooltip-active::before {
 [data-md-color-scheme="slate"] .quiz-option.incorrect .feedback-title {
   color: #e57373;
 }
+
+/* ========================================================
+   Marcador flotante de examen y selección del usuario
+   ======================================================== */
+
+.quiz-scoreboard {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background-color: var(--md-default-bg-color);
+  border: 2px solid #ab47bc;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+  border-radius: 10px;
+  padding: 12px 18px;
+  z-index: 999;
+  font-family: var(--md-text-font);
+  user-select: none;
+  backdrop-filter: blur(8px);
+}
+
+.score-title {
+  font-weight: bold;
+  color: #ab47bc;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-bottom: 4px;
+}
+
+.score-stats {
+  display: flex;
+  gap: 16px;
+  font-size: 0.95rem;
+}
+
+/* Borde exterior para identificar la opción pulsada por el usuario */
+.quiz-option.user-selected-correct {
+  outline: 3px solid #4caf50;
+  outline-offset: 1px;
+}
+
+.quiz-option.user-selected-incorrect {
+  outline: 3px solid #ef5350;
+  outline-offset: 1px;
+}
+
+/* Deshabilita el puntero tras contestar para evitar clics redundantes */
+.quiz-option[data-answered="true"] summary {
+  cursor: default;
+}
