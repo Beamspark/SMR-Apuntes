@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+const initQuizAndTooltips = () => {
   // ========================================================
   // 1. Manejo táctil / clic para abreviaturas (<abbr>)
   // ========================================================
@@ -31,31 +31,45 @@ document.addEventListener("DOMContentLoaded", () => {
   // ========================================================
   // 2. Motor interactivo de Tests y Exámenes (NotebookLM style)
   // ========================================================
-  const options = document.querySelectorAll(".quiz-option");
-  if (!options.length) return;
+  // Localiza cada pregunta a partir de sus encabezados ### Pregunta X
+  const questionHeaders = Array.from(
+    document.querySelectorAll("article h3, .md-content h3")
+  ).filter((h3) => h3.textContent.trim().toLowerCase().startsWith("pregunta"));
 
-  // Agrupar opciones por cada pregunta según la separación en el DOM
-  const questions = [];
-  let currentGroup = [];
+  if (!questionHeaders.length) return;
 
-  options.forEach((opt) => {
-    if (
-      currentGroup.length > 0 &&
-      opt.previousElementSibling &&
-      (opt.previousElementSibling.tagName === "H3" ||
-        opt.previousElementSibling.tagName === "HR")
-    ) {
-      questions.push(currentGroup);
-      currentGroup = [];
+  // Evita duplicar el marcador al navegar con Material for MkDocs (instant loading)
+  const oldScoreboard = document.querySelector(".quiz-scoreboard");
+  if (oldScoreboard) oldScoreboard.remove();
+
+  // Agrupa de forma aislada las opciones que pertenecen a cada pregunta
+  const questionGroups = [];
+
+  questionHeaders.forEach((h3) => {
+    const group = [];
+    let sibling = h3.nextElementSibling;
+
+    while (sibling && sibling.tagName !== "H3") {
+      if (sibling.classList && sibling.classList.contains("quiz-option")) {
+        group.push(sibling);
+      } else {
+        const nestedOptions = sibling.querySelectorAll(".quiz-option");
+        nestedOptions.forEach((opt) => group.push(opt));
+      }
+      sibling = sibling.nextElementSibling;
     }
-    currentGroup.push(opt);
-  });
-  if (currentGroup.length) questions.push(currentGroup);
 
-  // Crear marcador flotante en la esquina
+    if (group.length > 0) {
+      questionGroups.push(group);
+    }
+  });
+
+  if (!questionGroups.length) return;
+
+  // Marcador flotante dinámico (se adapta al número real de preguntas del test)
   let score = 0;
   let answeredCount = 0;
-  const totalQuestions = questions.length;
+  const totalQuestions = questionGroups.length;
 
   const scoreBoard = document.createElement("div");
   scoreBoard.className = "quiz-scoreboard";
@@ -69,26 +83,29 @@ document.addEventListener("DOMContentLoaded", () => {
   document.body.appendChild(scoreBoard);
 
   const updateScoreBoard = () => {
-    document.getElementById("q-answered").textContent = answeredCount;
-    const rawScore = Math.max(0, score);
-    const grade = ((rawScore / totalQuestions) * 10).toFixed(2);
-    document.getElementById("q-score").textContent = grade;
+    const qAnsweredEl = document.getElementById("q-answered");
+    const qScoreEl = document.getElementById("q-score");
+    if (qAnsweredEl) qAnsweredEl.textContent = answeredCount;
+    if (qScoreEl) {
+      const rawScore = Math.max(0, score);
+      const grade = ((rawScore / totalQuestions) * 10).toFixed(2);
+      qScoreEl.textContent = grade;
+    }
   };
 
-  // Asignar evento de selección a cada opción
-  questions.forEach((group) => {
+  // Asigna el evento exclusivamente a su grupo de 4 opciones
+  questionGroups.forEach((group) => {
     group.forEach((opt) => {
       const summary = opt.querySelector("summary");
       if (!summary) return;
 
       summary.addEventListener("click", (e) => {
-        // Bloquear cambios si la pregunta ya fue contestada
+        // Bloquea cambios si esta pregunta concreta ya se respondió
         if (group[0].dataset.answered === "true") {
           e.preventDefault();
           return;
         }
 
-        // Marcar la pregunta como respondida
         group.forEach((o) => (o.dataset.answered = "true"));
         answeredCount++;
 
@@ -101,7 +118,7 @@ document.addEventListener("DOMContentLoaded", () => {
           opt.classList.add("user-selected-incorrect");
         }
 
-        // Voltear / abrir simultáneamente todas las opciones para ver sus explicaciones
+        // Abre y revela únicamente las opciones de esta pregunta
         setTimeout(() => {
           group.forEach((o) => {
             o.setAttribute("open", "");
@@ -111,4 +128,10 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     });
   });
-});
+};
+
+// Carga tanto en carga normal como en la navegación instantánea de Material for MkDocs
+document.addEventListener("DOMContentLoaded", initQuizAndTooltips);
+if (typeof document$ !== "undefined") {
+  document$.subscribe(initQuizAndTooltips);
+}
