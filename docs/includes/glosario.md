@@ -415,3 +415,7 @@
 *[MongoDB]: Sistema de gestión de bases de datos NoSQL líder orientado a documentos en formato BSON/JSON sin esquemas rígidos.
 *[Redis]: Base de datos NoSQL en memoria RAM estructurada en clave-valor, empleada comúnmente para almacenamiento en caché y gestión de sesiones de baja latencia.
 *[KPI]: Key Performance Indicator. Indicador clave de rendimiento utilizado para monitorizar, evaluar y cuantificar el éxito de las acciones y procesos en una organización.
+*[PVD]: Pantallas de Visualización de Datos. Dispositivos con pantallas que proyectan textos o gráficos cuyo uso prolongado requiere medidas ergonómicas específicas.
+*[RAEE]: Residuos de Aparatos Eléctricos y Electrónicos. Equipos informáticos y periféricos que alcanzan el final de su ciclo de vida y requieren tratamiento selectivo.
+*[Astenopía]: Fatiga o cansancio ocular derivado del esfuerzo visual prolongado sobre pantallas o condiciones deficientes de iluminación.
+*[80 PLUS]: Certificación voluntaria que acredita que una fuente de alimentación mantiene una eficiencia energética superior al 80% bajo diferentes regímenes de carga.
