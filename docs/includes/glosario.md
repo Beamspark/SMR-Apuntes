@@ -438,3 +438,8 @@
 *[PCB]: Printed Circuit Board. Placa de circuito impreso compuesta por capas laminadas de fibra de vidrio y pistas de cobre conductoras que interconectan componentes.
 *[Backplate]: Placa metálica o plástica de refuerzo situada detrás de la placa base para distribuir el peso y la tensión de montaje de disipadores pesados.
 *[12VHPWR]: Conector de alimentación PCIe de alta potencia de 16 pines capaz de suministrar hasta 600 vatios a tarjetas gráficas de última generación.
+*[Speaker]: Pequeño zumbador o altavoz piezoeléctrico conectado a la placa base para emitir los códigos acústicos de diagnóstico durante el test POST.
+*[Bootstrap Loader]: Pequeño programa cargador en la ROM que localiza y transfiere la ejecución al gestor de arranque en el primer sector de almacenamiento.
+*[GRUB]: Grand Unified Bootloader. Gestor de arranque multietapa utilizado por defecto en distribuciones GNU/Linux con soporte multiarranque.
+*[TPM]: Trusted Platform Module. Criptoprocesador seguro integrado en la placa base para almacenar claves de cifrado y validar la integridad del hardware.
+*[PXE]: Preboot Execution Environment. Entorno de arranque que permite inicializar e instalar sistemas operativos a través de la red local sin medios físicos locales.
