@@ -424,3 +424,8 @@
 *[PGA]: Pin Grid Array. Formato de encapsulado donde el procesador cuenta con los pines metálicos sobresaliendo de su base para insertarse en los orificios del zócalo.
 *[DIMM]: Dual In-line Memory Module. Módulo de memoria RAM con contactos eléctricos independientes en ambos lados de la placa de circuito impreso.
 *[EBP]: Earth Bonding Point. Punto común de conexión a tierra en estaciones de trabajo técnicas para equiparar el potencial de pulseras, tapetes y equipos.
+*[I/O Shield]: Chapa metálica troquelada que se encaja en la parte trasera del chasis para proteger, aislar y rodear los puertos de entrada/salida integrados en la placa base.
+*[PSU Shroud]: Carenado o cubierta metálica inferior del chasis diseñada para ocultar la fuente de alimentación y los cables sobrantes, separando su flujo térmico del resto de componentes.
+*[Low Profile]: Perfil bajo. Tarjetas de expansión o disipadores diseñados con menor altura para encajar en chasis estrechos o de formato reducido como Mini ITX o sobremesa.
+*[HTPC]: Home Theater Personal Computer. Ordenador personal de formato compacto y bajo nivel sonoro configurado para reproducir contenido multimedia en salas de estar.
+*[SFX]: Factor de forma estandarizado para fuentes de alimentación compactas destinadas a chasis de reducidas dimensiones y cajas Mini ITX.
