@@ -452,3 +452,8 @@
 *[SAT]: Servicio de Asistencia Técnica. Departamento técnico cualificado responsable de diagnosticar, reparar y poner a punto el hardware y equipamiento averiado.
 *[BSOD]: Blue Screen of Death. Pantalla azul de error crítico en entornos Windows que bloquea el sistema ante un fallo irrecuperable de hardware o controladores del kernel.
 *[BGA]: Ball Grid Array. Encapsulado donde los chips se unen directamente a la placa base mediante una matriz inferior de diminutas esferas de estaño soldadas, impidiendo su sustitución sencilla.
+*[OEM]: Original Equipment Manufacturer. Fabricante de equipos originales que ensambla ordenadores y preinstala sistemas operativos con controladores y software propio.
+*[Answer File]: Archivo de respuesta. Documento de configuración (generalmente XML) que suministra de forma automática los parámetros requeridos por un instalador desatendido.
+*[Slipstreaming]: Técnica de preinstalación consistente en integrar parches de seguridad, service packs y controladores directamente en la imagen de instalación del sistema operativo.
+*[ESP]: EFI System Partition. Partición formateada en FAT32 que almacena los cargadores de arranque y controladores utilizados por el firmware UEFI para inicializar el sistema.
+*[CRC32]: Cyclic Redundancy Check 32-bit. Código de redundancia cíclica empleado para detectar alteraciones accidentales o corrupción de datos en bloques de almacenamiento.
