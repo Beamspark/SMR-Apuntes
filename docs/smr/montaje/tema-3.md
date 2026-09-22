@@ -1,6 +1,6 @@
 <h1 style="color: #ab47bc;">🖥️ Tema 3 — Identificación de los Bloques Funcionales de un Sistema Microinformático</h1>
 
-<h2 style="color: #29b6f6;">1. Arquitectura General y Funciones de Cada Bloque (Modelo Von Neumann)</h2>
+<h2 style="color: #29b6f6;">3.1. Arquitectura General y Funciones de Cada Bloque (Modelo Von Neumann)</h2>
 
 Un equipo informático se estructura físicamente en la **CPU** (***C***entral ***P***rocessing ***U***nit), los **periféricos internos** (dentro de la caja) y los **periféricos externos de entrada/salida** (**E/S** / **I/O** - ***I***nput/***O***utput). Su organización interna sigue el <span style="color: #ab47bc;">modelo de Von Neumann</span>:
 
@@ -18,7 +18,7 @@ Un equipo informático se estructura físicamente en la **CPU** (***C***entral *
 
 ---
 
-<h2 style="color: #29b6f6;">2. Reconocimiento de la Arquitectura de Buses</h2>
+<h2 style="color: #29b6f6;">3.2. Reconocimiento de la Arquitectura de Buses</h2>
 
 Los <span style="color: #ab47bc;">buses</span> son las vías de comunicación compuestas por líneas de circuitos impresos o cables por donde circula la información entre los distintos bloques del equipo:
 
@@ -35,7 +35,7 @@ Los <span style="color: #ab47bc;">buses</span> son las vías de comunicación co
 
 ---
 
-<h2 style="color: #29b6f6;">3. Características de la Placa Base y Componentes</h2>
+<h2 style="color: #29b6f6;">3.3. Características de la Placa Base y Componentes</h2>
 
 La **placa base** es el elemento determinante para comprobar las compatibilidades físicas y electrónicas de todo el equipo.
 
@@ -61,7 +61,7 @@ Define las dimensiones físicas, orientación, conectores, puntos de anclaje, z�
 
 ---
 
-<h2 style="color: #29b6f6;">4. Dispositivos Integrados en Placa y Software de Base</h2>
+<h2 style="color: #29b6f6;">3.4. Dispositivos Integrados en Placa y Software de Base</h2>
 
 ### Conexión del Microprocesador
 - **Zócalo (socket):** Conector plano matrizado formado por un gran número de orificios/contactos sobre el que se apoya el procesador.
@@ -84,7 +84,7 @@ Define las dimensiones físicas, orientación, conectores, puntos de anclaje, z�
 
 ---
 
-<h2 style="color: #29b6f6;">5. Características de los Microprocesadores</h2>
+<h2 style="color: #29b6f6;">3.5. Características de los Microprocesadores</h2>
 
 El microprocesador constituye, junto a la placa base, el núcleo principal de la **CPU**.
 
@@ -102,7 +102,7 @@ Memorias ultrarrápidas de baja capacidad integradas cerca del núcleo organizad
 
 ---
 
-<h2 style="color: #29b6f6;">6. Control de Temperatura y Refrigeración</h2>
+<h2 style="color: #29b6f6;">3.6. Control de Temperatura y Refrigeración</h2>
 
 Para evitar errores de funcionamiento o el quemado del chip, se emplean sistemas de refrigeración por aire:
 
@@ -111,7 +111,7 @@ Para evitar errores de funcionamiento o el quemado del chip, se emplean sistemas
 
 ---
 
-<h2 style="color: #29b6f6;">7. Memorias Principales: La Memoria RAM y sus Tipos</h2>
+<h2 style="color: #29b6f6;">3.7. Memorias Principales: La Memoria RAM y sus Tipos</h2>
 
 La **RAM** (***R***andom ***A***ccess ***M***emory) es la memoria principal de lectura y escritura; es **volátil** porque requiere energía constante. Permite el acceso aleatorio directo a cualquier celda.
 
@@ -130,7 +130,7 @@ La **RAM** (***R***andom ***A***ccess ***M***emory) es la memoria principal de l
 
 ---
 
-<h2 style="color: #29b6f6;">8. Almacenamiento Secundario Masivo</h2>
+<h2 style="color: #29b6f6;">3.8. Almacenamiento Secundario Masivo</h2>
 
 Almacenamiento no volátil, permanente, de gran capacidad y menor coste por megabyte que la **RAM**.
 
@@ -155,7 +155,7 @@ Graban información creando microhoyos (*pits*) mediante un haz láser.
 
 ---
 
-<h2 style="color: #29b6f6;">9. Adaptador Gráfico y Monitor</h2>
+<h2 style="color: #29b6f6;">3.9. Adaptador Gráfico y Monitor</h2>
 
 La tarjeta gráfica procesa la información que se muestra en la pantalla. Puede estar integrada en el procesador o ser una tarjeta de expansión independiente.
 
@@ -167,7 +167,7 @@ La tarjeta gráfica procesa la información que se muestra en la pantalla. Puede
 
 ---
 
-<h2 style="color: #29b6f6;">10. Otras Tarjetas de Expansión</h2>
+<h2 style="color: #29b6f6;">3.10. Otras Tarjetas de Expansión</h2>
 
 - **Tarjeta Capturadora de Vídeo:** Convierte vídeo analógico a digital. Conectores **BNC**, **S-Video** y **RCA**.
 - **Tarjeta Sintonizadora de Televisión:** Sintoniza y graba canales de TV (analógica, digital, híbrida, satélite).
@@ -178,7 +178,7 @@ La tarjeta gráfica procesa la información que se muestra en la pantalla. Puede
 
 ---
 
-<h2 style="color: #29b6f6;">11. Conectividad LAN y WAN</h2>
+<h2 style="color: #29b6f6;">3.11. Conectividad LAN y WAN</h2>
 
 - **LAN** (***L***ocal ***A***rea ***N***etwork): Red privada local de extensión reducida.
 - **MAN** (***M***etropolitan ***A***rea ***N***etwork): Red pública municipal o entre varios edificios.
@@ -189,7 +189,7 @@ La tarjeta gráfica procesa la información que se muestra en la pantalla. Puede
 
 ---
 
-<h2 style="color: #29b6f6;">12. Controladores de Dispositivos (Drivers)</h2>
+<h2 style="color: #29b6f6;">3.12. Controladores de Dispositivos (Drivers)</h2>
 
 - **Driver / Controlador:** Software imprescindible facilitado por el fabricante que permite al **Sistema Operativo** reconocer, interpretar y gestionar el funcionamiento de un componente hardware.
 
