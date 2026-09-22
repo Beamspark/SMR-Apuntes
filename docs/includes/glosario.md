@@ -443,3 +443,8 @@
 *[GRUB]: Grand Unified Bootloader. Gestor de arranque multietapa utilizado por defecto en distribuciones GNU/Linux con soporte multiarranque.
 *[TPM]: Trusted Platform Module. Criptoprocesador seguro integrado en la placa base para almacenar claves de cifrado y validar la integridad del hardware.
 *[PXE]: Preboot Execution Environment. Entorno de arranque que permite inicializar e instalar sistemas operativos a través de la red local sin medios físicos locales.
+*[AIO]: All-In-One. Sistema sellado y premontado de fábrica de refrigeración líquida que integra bloque, bomba, tuberías y radiador sin requerir rellenado de líquido.
+*[ARGB]: Addressable RGB. Sistema de iluminación LED donde cada diodo puede controlarse individualmente en color y brillo mediante una señal digital de +5V.
+*[SO-DIMM]: Small Outline Dual In-line Memory Module. Formato compacto de módulo de memoria RAM empleado en ordenadores portátiles, barebones y placas Mini ITX.
+*[SoC]: System on a Chip. Circuito integrado que agrupa en un único microchip la CPU, GPU, memoria y controladores de entrada/salida.
+*[GPS]: Global Positioning System. Sistema de radionavegación por satélite que proporciona geolocalización y sincronización horaria en cualquier parte del planeta.
