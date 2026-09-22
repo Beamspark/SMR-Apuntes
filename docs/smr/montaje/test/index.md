@@ -4,7 +4,7 @@ Bienvenido a la sección de autoevaluación interactiva. Estos cuestionarios est
 
 ---
 
-## 📌 Cuestionarios Disponibles
+## 📌 Cuestionarios por Tema
 
 * **[Test Tema 1: Medición de Parámetros Eléctricos](test-tema-1.md)** — Magnitudes, polímetro, ley de Ohm y fuentes ATX.
 * **[Test Tema 2: Prevención de Riesgos Laborales](test-tema-2.md)** — Normativa, ergonomía PVD, protección colectiva e individual.
@@ -17,6 +17,15 @@ Bienvenido a la sección de autoevaluación interactiva. Estos cuestionarios est
 * **[Test Tema 9: Nuevas Tendencias](test-tema-9.md)** — Overclocking, refrigeración líquida AIO, barebones y modding.
 * **[Test Tema 10: Mantenimiento Preventivo y Correctivo](test-tema-10.md)** — Limpieza de taller, diagnóstico por descarte y soporte SAT/CAU.
 * **[Test Tema 11: Instalación de Programas y Software](test-tema-11.md)** — Despliegue desatendido, MBR vs GPT y clonación.
+
+---
+
+## 🎯 Simulacros de Examen Global
+
+Evaluaciones completas con preguntas representativas de todos los bloques temáticos y casos prácticos situacionales:
+
+* **[🎯 Examen Global 1: Simulacro Oficial A](examen-global-1.md)** — 35 preguntas ponderadas de los Temas 1 al 11.
+* **[🎯 Examen Global 2: Simulacro Oficial B](examen-global-2.md)** — 35 preguntas ponderadas de los Temas 1 al 11.
 
 ---
 
