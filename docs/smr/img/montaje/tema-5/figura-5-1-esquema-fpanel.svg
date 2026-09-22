@@ -1,0 +1,87 @@
+<svg viewBox="0 0 880 380" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1e1e24" rx="10"/>
+
+  <text x="440" y="36" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">ESQUEMA DE CONEXIÓN DEL PANEL FRONTAL (F_PANEL ESTÁNDAR)</text>
+
+  <!-- Placa Base y Cabezal F_PANEL -->
+  <g transform="translate(60, 80)">
+    <rect x="0" y="0" width="340" height="250" rx="8" fill="#2d2d38" stroke="#444444" stroke-width="2"/>
+    <text x="170" y="32" fill="#29b6f6" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle">CABEZAL F_PANEL (9 PINES)</text>
+    
+    <!-- Bloque de pines (2 filas) -->
+    <g transform="translate(50, 70)">
+      <!-- Fila Superior (Pares: 2, 4, 6, 8, pin ciego 10) -->
+      <!-- Pin 2: PLED+ -->
+      <circle cx="30" cy="30" r="10" fill="#29b6f6"/>
+      <text x="30" y="34" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">2</text>
+      <!-- Pin 4: PLED- -->
+      <circle cx="80" cy="30" r="10" fill="#29b6f6"/>
+      <text x="80" y="34" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">4</text>
+      <!-- Pin 6: PWR_SW -->
+      <circle cx="130" cy="30" r="10" fill="#ab47bc"/>
+      <text x="130" y="34" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">6</text>
+      <!-- Pin 8: PWR_SW (GND) -->
+      <circle cx="180" cy="30" r="10" fill="#ab47bc"/>
+      <text x="180" y="34" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">8</text>
+      <!-- Pin 10: Bloqueo / Sin pin -->
+      <circle cx="230" cy="30" r="8" fill="#1e1e24" stroke="#555555" stroke-dasharray="2 2"/>
+      <text x="230" y="34" fill="#888888" font-family="sans-serif" font-size="9" text-anchor="middle">NC</text>
+
+      <!-- Fila Inferior (Impares: 1, 3, 5, 7, 9) -->
+      <!-- Pin 1: HDLED+ -->
+      <circle cx="30" cy="90" r="10" fill="#29b6f6"/>
+      <text x="30" y="94" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">1</text>
+      <!-- Pin 3: HDLED- -->
+      <circle cx="80" cy="90" r="10" fill="#29b6f6"/>
+      <text x="80" y="94" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">3</text>
+      <!-- Pin 5: RESET_SW (GND) -->
+      <circle cx="130" cy="90" r="10" fill="#ab47bc"/>
+      <text x="130" y="94" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">5</text>
+      <!-- Pin 7: RESET_SW -->
+      <circle cx="180" cy="90" r="10" fill="#ab47bc"/>
+      <text x="180" y="94" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">7</text>
+      <!-- Pin 9: Dummy / Vacío -->
+      <circle cx="230" cy="90" r="10" fill="#444444"/>
+      <text x="230" y="94" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">9</text>
+    </g>
+
+    <text x="170" y="225" fill="#cfd8dc" font-family="sans-serif" font-size="11" text-anchor="middle">Serigrafía de Placa Base</text>
+  </g>
+
+  <!-- Bloques de Conectores del Chasis (Lado Derecho) -->
+  <g transform="translate(450, 80)">
+    <!-- Bloque 1: POWER LED (Diodo con polaridad) -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="370" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+      <text x="15" y="24" fill="#29b6f6" font-family="sans-serif" font-size="12" font-weight="bold">POWER_LED (Pines 2 [+] y 4 [-])</text>
+      <text x="15" y="40" fill="#ffffff" font-family="sans-serif" font-size="11">Diodo emisor de encendido. Requiere polaridad estricta (+ / -).</text>
+    </g>
+
+    <!-- Bloque 2: POWER SW (Interruptor sin polaridad) -->
+    <g transform="translate(0, 65)">
+      <rect x="0" y="0" width="370" height="50" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+      <text x="15" y="24" fill="#ab47bc" font-family="sans-serif" font-size="12" font-weight="bold">POWER_SW (Pines 6 y 8)</text>
+      <text x="15" y="40" fill="#ffffff" font-family="sans-serif" font-size="11">Pulsador momentáneo de encendido. No tiene polaridad.</text>
+    </g>
+
+    <!-- Bloque 3: HDD LED (Diodo de actividad) -->
+    <g transform="translate(0, 130)">
+      <rect x="0" y="0" width="370" height="50" rx="6" fill="#2d2d38" stroke="#29b6f6" stroke-width="1.5"/>
+      <text x="15" y="24" fill="#29b6f6" font-family="sans-serif" font-size="12" font-weight="bold">HDD_LED (Pines 1 [+] y 3 [-])</text>
+      <text x="15" y="40" fill="#ffffff" font-family="sans-serif" font-size="11">LED de lectura en disco. Si se conecta invertido, no iluminará.</text>
+    </g>
+
+    <!-- Bloque 4: RESET SW (Interruptor de reinicio) -->
+    <g transform="translate(0, 195)">
+      <rect x="0" y="0" width="370" height="50" rx="6" fill="#2d2d38" stroke="#ab47bc" stroke-width="1.5"/>
+      <text x="15" y="24" fill="#ab47bc" font-family="sans-serif" font-size="12" font-weight="bold">RESET_SW (Pines 5 y 7)</text>
+      <text x="15" y="40" fill="#ffffff" font-family="sans-serif" font-size="11">Pulsador de reinicio por hardware. No tiene polaridad.</text>
+    </g>
+  </g>
+
+  <!-- Conectores visuales de enlace -->
+  <line x1="400" y1="130" x2="445" y2="105" stroke="#29b6f6" stroke-width="2" stroke-dasharray="4 2"/>
+  <line x1="400" y1="140" x2="445" y2="170" stroke="#ab47bc" stroke-width="2" stroke-dasharray="4 2"/>
+  <line x1="400" y1="190" x2="445" y2="235" stroke="#29b6f6" stroke-width="2" stroke-dasharray="4 2"/>
+  <line x1="400" y1="200" x2="445" y2="300" stroke="#ab47bc" stroke-width="2" stroke-dasharray="4 2"/>
+</svg>
