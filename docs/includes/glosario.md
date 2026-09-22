@@ -434,3 +434,7 @@
 *[QVL]: Qualified Vendor List. Lista oficial de compatibilidad publicada por el fabricante de la placa base que certifica procesadores y módulos de memoria RAM evaluados con éxito.
 *[CPU_FAN]: Cabezal de alimentación de 3 o 4 pines PWM en la placa base destinado a controlar y monitorizar las revoluciones del ventilador del disipador de la CPU.
 *[SYS_FAN]: Conector en la placa base para alimentar y regular los ventiladores auxiliares del chasis del equipo.
+*[ZIF]: Zero Insertion Force. Tipo de zócalo concebido para insertar o retirar circuitos integrados (como el microprocesador) sin ejercer ninguna resistencia mecánica.
+*[PCB]: Printed Circuit Board. Placa de circuito impreso compuesta por capas laminadas de fibra de vidrio y pistas de cobre conductoras que interconectan componentes.
+*[Backplate]: Placa metálica o plástica de refuerzo situada detrás de la placa base para distribuir el peso y la tensión de montaje de disipadores pesados.
+*[12VHPWR]: Conector de alimentación PCIe de alta potencia de 16 pines capaz de suministrar hasta 600 vatios a tarjetas gráficas de última generación.
