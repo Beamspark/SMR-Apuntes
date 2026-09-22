@@ -419,3 +419,8 @@
 *[RAEE]: Residuos de Aparatos Eléctricos y Electrónicos. Equipos informáticos y periféricos que alcanzan el final de su ciclo de vida y requieren tratamiento selectivo.
 *[Astenopía]: Fatiga o cansancio ocular derivado del esfuerzo visual prolongado sobre pantallas o condiciones deficientes de iluminación.
 *[80 PLUS]: Certificación voluntaria que acredita que una fuente de alimentación mantiene una eficiencia energética superior al 80% bajo diferentes regímenes de carga.
+*[MOSFET]: Metal-Oxide-Semiconductor Field-Effect Transistor. Transistor semiconductor empleado en la electrónica digital y etapas de potencia, extremadamente sensible a daños por descargas electrostáticas.
+*[LGA]: Land Grid Array. Tipo de zócalo para procesadores donde la matriz de pines de contacto se sitúa en la placa base y el microprocesador presenta contactos planos dorados.
+*[PGA]: Pin Grid Array. Formato de encapsulado donde el procesador cuenta con los pines metálicos sobresaliendo de su base para insertarse en los orificios del zócalo.
+*[DIMM]: Dual In-line Memory Module. Módulo de memoria RAM con contactos eléctricos independientes en ambos lados de la placa de circuito impreso.
+*[EBP]: Earth Bonding Point. Punto común de conexión a tierra en estaciones de trabajo técnicas para equiparar el potencial de pulseras, tapetes y equipos.
