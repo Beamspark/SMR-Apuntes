@@ -1,3 +1,7 @@
+/* ========================================================
+   Tooltips táctiles para abreviaturas (<abbr>)
+   ======================================================== */
+
 abbr {
   text-decoration: underline dotted #29b6f6;
   cursor: pointer;
@@ -39,4 +43,94 @@ abbr.tooltip-active::before {
   border-style: solid;
   border-color: #ab47bc transparent transparent transparent;
   z-index: 1000;
+}
+
+/* ========================================================
+   Tarjetas interactivas de Quiz estilo NotebookLM
+   ======================================================== */
+
+.quiz-option {
+  margin-bottom: 0.65rem;
+  border: 1.5px solid var(--md-default-fg-color--lighter);
+  border-radius: 8px;
+  background-color: var(--md-code-bg-color);
+  overflow: hidden;
+  transition: all 0.2s ease-in-out;
+}
+
+/* Encabezado clicable (opción de respuesta) */
+.quiz-option summary {
+  padding: 0.75rem 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  list-style: none; /* Elimina triángulo nativo */
+  user-select: none;
+  display: block;
+}
+
+.quiz-option summary::-webkit-details-marker {
+  display: none;
+}
+
+.quiz-option summary:hover {
+  background-color: var(--md-accent-fg-color--transparent);
+}
+
+/* Área de feedback y justificación */
+.quiz-option .feedback {
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.quiz-option .feedback-title {
+  font-weight: bold;
+  margin-bottom: 0.35rem;
+}
+
+/* --- ESTADO: RESPUESTA CORRECTA --- */
+.quiz-option.correct[open] {
+  border-color: #2e7d32;
+  box-shadow: 0 0 0 1px #2e7d32;
+}
+
+.quiz-option.correct .feedback {
+  background-color: rgba(46, 125, 50, 0.08);
+}
+
+.quiz-option.correct .feedback-title {
+  color: #2e7d32;
+}
+
+/* Modo oscuro (slate) - Acierto */
+[data-md-color-scheme="slate"] .quiz-option.correct[open] {
+  border-color: #4caf50;
+  box-shadow: 0 0 0 1px #4caf50;
+}
+
+[data-md-color-scheme="slate"] .quiz-option.correct .feedback-title {
+  color: #81c784;
+}
+
+/* --- ESTADO: RESPUESTA INCORRECTA --- */
+.quiz-option.incorrect[open] {
+  border-color: #c62828;
+}
+
+.quiz-option.incorrect .feedback {
+  background-color: rgba(198, 40, 40, 0.08);
+}
+
+.quiz-option.incorrect .feedback-title {
+  color: #c62828;
+}
+
+/* Modo oscuro (slate) - Error */
+[data-md-color-scheme="slate"] .quiz-option.incorrect[open] {
+  border-color: #ef5350;
+}
+
+[data-md-color-scheme="slate"] .quiz-option.incorrect .feedback-title {
+  color: #e57373;
 }
