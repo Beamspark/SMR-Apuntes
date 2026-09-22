@@ -27,7 +27,6 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - javascripts/extra.js
 
@@ -36,17 +35,31 @@ nav:
   - 💻 Semestre 1:
       - 🛠️ Montaje y Mantenimiento de Equipos:
           - smr/montaje/index.md
-          - Tema 1 - Medición de parámetros eléctricos: smr/montaje/tema-1.md
-          - Tema 2 - Prevención de riesgos laborales: smr/montaje/tema-2.md
-          - Tema 3 - Bloques funcionales del PC: smr/montaje/tema-3.md
-          - Tema 4 - Precauciones y seguridad: smr/montaje/tema-4.md
-          - Tema 5 - Herramientas necesarias: smr/montaje/tema-5.md
-          - Tema 6 - Análisis de mercado de componentes: smr/montaje/tema-6.md
-          - Tema 7 - Procedimientos de montaje: smr/montaje/tema-7.md
-          - Tema 8 - Puesta en marcha del equipo: smr/montaje/tema-8.md
-          - Tema 9 - Nuevas tendencias: smr/montaje/tema-9.md
-          - Tema 10 - Mantenimiento preventivo y correctivo: smr/montaje/tema-10.md
-          - Tema 11 - Instalación de programas y software: smr/montaje/tema-11.md
+          - "📚 Temario Teórico":
+              - Tema 1 - Medición de parámetros eléctricos: smr/montaje/tema-1.md
+              - Tema 2 - Prevención de riesgos laborales: smr/montaje/tema-2.md
+              - Tema 3 - Bloques funcionales del PC: smr/montaje/tema-3.md
+              - Tema 4 - Precauciones y seguridad: smr/montaje/tema-4.md
+              - Tema 5 - Herramientas necesarias: smr/montaje/tema-5.md
+              - Tema 6 - Análisis de mercado de componentes: smr/montaje/tema-6.md
+              - Tema 7 - Procedimientos de montaje: smr/montaje/tema-7.md
+              - Tema 8 - Puesta en marcha del equipo: smr/montaje/tema-8.md
+              - Tema 9 - Nuevas tendencias: smr/montaje/tema-9.md
+              - Tema 10 - Mantenimiento preventivo y correctivo: smr/montaje/tema-10.md
+              - Tema 11 - Instalación de programas y software: smr/montaje/tema-11.md
+          - "📝 Autoevaluación y Tests":
+              - Índice de Tests: smr/montaje/test/index.md
+              - Test 1 - Parámetros eléctricos: smr/montaje/test/test-tema-1.md
+              - Test 2 - Prevención de riesgos: smr/montaje/test/test-tema-2.md
+              - Test 3 - Bloques funcionales: smr/montaje/test/test-tema-3.md
+              - Test 4 - Precauciones y seguridad: smr/montaje/test/test-tema-4.md
+              - Test 5 - Herramientas necesarias: smr/montaje/test/test-tema-5.md
+              - Test 6 - Análisis de componentes: smr/montaje/test/test-tema-6.md
+              - Test 7 - Procedimientos de montaje: smr/montaje/test/test-tema-7.md
+              - Test 8 - Puesta en marcha: smr/montaje/test/test-tema-8.md
+              - Test 9 - Nuevas tendencias: smr/montaje/test/test-tema-9.md
+              - Test 10 - Mantenimiento: smr/montaje/test/test-tema-10.md
+              - Test 11 - Instalación de software: smr/montaje/test/test-tema-11.md
       - 💻 Sistemas Operativos Monopuesto:
           - smr/sistemas/index.md
           - Tema 1 - Caracterización de los Sistemas Operativos: smr/sistemas/tema-1.md
