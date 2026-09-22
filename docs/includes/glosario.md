@@ -429,3 +429,8 @@
 *[Low Profile]: Perfil bajo. Tarjetas de expansión o disipadores diseñados con menor altura para encajar en chasis estrechos o de formato reducido como Mini ITX o sobremesa.
 *[HTPC]: Home Theater Personal Computer. Ordenador personal de formato compacto y bajo nivel sonoro configurado para reproducir contenido multimedia en salas de estar.
 *[SFX]: Factor de forma estandarizado para fuentes de alimentación compactas destinadas a chasis de reducidas dimensiones y cajas Mini ITX.
+*[Jumper]: Pequeño puente conductor extraíble cubierto de plástico utilizado para cerrar un circuito eléctrico y configurar parámetros físicos en una placa base.
+*[IHS]: Integrated Heat Spreader. Placa metálica superior de cobre niquelado soldada o pegada al encapsulado de la CPU que protege el chip de silicio y reparte el calor hacia el disipador.
+*[QVL]: Qualified Vendor List. Lista oficial de compatibilidad publicada por el fabricante de la placa base que certifica procesadores y módulos de memoria RAM evaluados con éxito.
+*[CPU_FAN]: Cabezal de alimentación de 3 o 4 pines PWM en la placa base destinado a controlar y monitorizar las revoluciones del ventilador del disipador de la CPU.
+*[SYS_FAN]: Conector en la placa base para alimentar y regular los ventiladores auxiliares del chasis del equipo.
