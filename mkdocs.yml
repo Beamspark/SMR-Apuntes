@@ -78,8 +78,18 @@ nav:
           - Tema 5 - Planes de transformación: smr/digitalizacion/tema-5.md
       - 💼 Itinerario Personal para la Empleabilidad I (IPE I):
           - smr/itinerario/index.md
-          - Tema 1 - Sector productivo: smr/itinerario/tema-1.md
-          - Tema 2 - Prevención de riesgos laborales: smr/itinerario/tema-2.md
-          - Tema 3 - Condiciones laborales: smr/itinerario/tema-3.md
-          - Tema 4 - Autoorientación e inserción: smr/itinerario/tema-4.md
-          - Tema 5 - Aprendizaje autónomo: smr/itinerario/tema-5.md
+          - "📚 Temario Teórico":
+              - Tema 1 - Sector productivo: smr/itinerario/tema-1.md
+              - Tema 2 - Prevención de riesgos laborales: smr/itinerario/tema-2.md
+              - Tema 3 - Condiciones laborales: smr/itinerario/tema-3.md
+              - Tema 4 - Autoorientación e inserción: smr/itinerario/tema-4.md
+              - Tema 5 - Aprendizaje autónomo: smr/itinerario/tema-5.md
+          - "📝 Autoevaluación y Tests":
+              - Índice de Tests: smr/itinerario/test/index.md
+              - Test 1 - Sector productivo: smr/itinerario/test/test-tema-1.md
+              - Test 2 - Prevención de riesgos laborales: smr/itinerario/test/test-tema-2.md
+              - Test 3 - Condiciones laborales: smr/itinerario/test/test-tema-3.md
+              - Test 4 - Autoorientación e inserción: smr/itinerario/test/test-tema-4.md
+              - Test 5 - Aprendizaje autónomo: smr/itinerario/test/test-tema-5.md
+              - 🎯 Examen Global 1: smr/itinerario/test/examen-global-1.md
+              - 🎯 Examen Global 2: smr/itinerario/test/examen-global-2.md
