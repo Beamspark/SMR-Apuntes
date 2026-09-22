@@ -5,16 +5,16 @@ Bienvenido al módulo de **Montaje y Mantenimiento de Equipos**. En esta secció
 ## 📋 Índice de Contenidos
 
 - [⚡ **Tema 1:** Medición de Parámetros Eléctricos](tema-1.md)
-- 🔒 **Tema 2:** Cumplimiento de las normas de prevención de riesgos laborales *(Próximamente)*
+- [🔒 **Tema 2:** Cumplimiento de las normas de prevención de riesgos laborales y ambientales](tema-2.md)
 - [🖥️ **Tema 3:** Identificación de los bloques funcionales de un sistema microinformático](tema-3.md)
-- ⚠️ **Tema 4:** Precauciones y advertencias de seguridad *(Próximamente)*
-- 🧰 **Tema 5:** Herramientas necesarias *(Próximamente)*
-- 🛒 **Tema 6:** Análisis de mercado de componentes de un equipo microinformático *(Próximamente)*
-- 🔧 **Tema 7:** Procedimientos de montaje *(Próximamente)*
-- 🚀 **Tema 8:** Puesta en marcha del equipo *(Próximamente)*
-- 💡 **Tema 9:** Aplicaciones de nuevas tendencias en equipos informáticos *(Próximamente)*
-- 🛠️ **Tema 10:** Mantenimiento de equipos microinformáticos y periféricos *(Próximamente)*
-- 💿 **Tema 11:** Instalación de programas *(Próximamente)*
+- [⚠️ **Tema 4:** Precauciones y advertencias de seguridad](tema-4.md)
+- [🧰 **Tema 5:** Herramientas necesarias](tema-5.md)
+- [🛒 **Tema 6:** Análisis de mercado de componentes de un equipo microinformático](tema-6.md)
+- [🔧 **Tema 7:** Procedimientos de montaje](tema-7.md)
+- [🚀 **Tema 8:** Puesta en marcha del equipo](tema-8.md)
+- [💡 **Tema 9:** Aplicaciones de nuevas tendencias en equipos informáticos](tema-9.md)
+- [🛠️ **Tema 10:** Mantenimiento de equipos microinformáticos y gestión de incidencias](tema-10.md)
+- [💿 **Tema 11:** Instalación de programas y despliegue de sistemas](tema-11.md)
 
 ---
 
