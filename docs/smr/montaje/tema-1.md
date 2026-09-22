@@ -1,6 +1,6 @@
 <h1 style="color: #ab47bc;">⚡ Tema 1 — Medición de Parámetros Eléctricos</h1>
 
-<h2 style="color: #29b6f6;">1. Concepto de Electricidad y Tipos de Señales</h2>
+<h2 style="color: #29b6f6;">1.1. Concepto de Electricidad y Tipos de Señales</h2>
 
 - **Electricidad:** Flujo de cargas eléctricas utilizado como fuente de energía para el funcionamiento de los dispositivos que integran un sistema informático.
 - **Señales:** Representaciones eléctricas o electromagnéticas de los datos. Se clasifican en:
@@ -18,7 +18,7 @@
 
 ---
 
-<h2 style="color: #29b6f6;">2. Magnitudes Eléctricas Básicas y Fórmulas</h2>
+<h2 style="color: #29b6f6;">1.2. Magnitudes Eléctricas Básicas y Fórmulas</h2>
 
 * **Carga eléctrica:** Exceso o defecto de electrones que posee un objeto debido al flujo de electrones entre átomos. Los átomos se cargan eléctricamente formando **iones** al ganar o perder electrones.
   - **Equivalencia física:** 1 culombio = $6,3 \cdot 10^{18}$ electrones.
@@ -40,7 +40,7 @@ $$P = V \cdot I$$
 
 ---
 
-<h2 style="color: #29b6f6;">3. Tipos de Corriente Eléctrica</h2>
+<h2 style="color: #29b6f6;">1.3. Tipos de Corriente Eléctrica</h2>
 
 * **Corriente Continua o Directa (**C.C.** / **DC** - ***D***irect ***C***urrent):** Flujo de electrones que circula <span style="color: #ab47bc;">siempre en la misma dirección</span> a través de un conductor con tensión constante.
 
@@ -62,7 +62,7 @@ $$P = V \cdot I$$
 
 ---
 
-<h2 style="color: #29b6f6;">4. Instrumentos de Medida y Conexión en Circuito</h2>
+<h2 style="color: #29b6f6;">1.4. Instrumentos de Medida y Conexión en Circuito</h2>
 
 - **Voltímetro (Medición de Tensión):** Se conecta en <span style="color: #ab47bc;">PARALELO</span> con el componente. En corriente continua (donde existe polarización), se coloca el cable rojo en el polo positivo (+) y el negro en el negativo (-).
 - **Amperímetro (Medición de Intensidad):** Se conecta en <span style="color: #ab47bc;">SERIE</span>, lo que exige **abrir el circuito** e intercalar el aparato con el componente.
@@ -117,7 +117,7 @@ $$P = V \cdot I$$
       $I_t = I_1 + I_2 + I_3 = 0,5 + 1 + 0,33 = \mathbf{1,83\text{ A}} \quad \checkmark$
 ---
 
-<h2 style="color: #29b6f6;">5. Bloques de una Fuente de Alimentación</h2>
+<h2 style="color: #29b6f6;">1.5. Bloques de una Fuente de Alimentación</h2>
 
 La fuente de alimentación conecta el equipo a la red eléctrica y a la placa base, **transformando la corriente alterna (230V AC) en continua (DC)** mediante 4 bloques consecutivos:
 
@@ -132,7 +132,7 @@ La fuente de alimentación conecta el equipo a la red eléctrica y a la placa ba
 
 ---
 
-<h2 style="color: #29b6f6;">6. Especificaciones Técnicas de la Fuente de Alimentación</h2>
+<h2 style="color: #29b6f6;">1.6. Especificaciones Técnicas de la Fuente de Alimentación</h2>
 
 - **Potencia:** Se mide en **vatios (W)** (modelos comerciales de 500W, 600W, 1000W+). Debe dimensionarse según el consumo: si es escasa, generará sobrecalentamiento y ruido; si es holgada, trabajará en su curva de mejor rendimiento.
 - **Eficiencia:** Porcentaje fijado por el fabricante que relaciona la potencia aprovechada frente a la desaprovechada (disipada en calor). Se considera aceptable a partir del <span style="color: #ab47bc;">80% de eficiencia</span> (Certificaciones <span style="color: #ab47bc;">80 PLUS</span>).
@@ -140,7 +140,7 @@ La fuente de alimentación conecta el equipo a la red eléctrica y a la placa ba
 
 ---
 
-<h2 style="color: #29b6f6;">7. Anomalías de la Red Eléctrica y Sistemas de Alimentación Ininterrumpida (SAI / UPS)</h2>
+<h2 style="color: #29b6f6;">1.7. Anomalías de la Red Eléctrica y Sistemas de Alimentación Ininterrumpida (SAI / UPS)</h2>
 
 ### Anomalías Eléctricas Comunes
 * **Apagones:** Pérdida total del suministro eléctrico.
@@ -196,7 +196,7 @@ La conversión se efectúa <span style="color: #ab47bc;">continuamente desde el 
 
 ---
 
-<h2 style="color: #29b6f6;">8. Medición de Señales de Control de un SAI</h2>
+<h2 style="color: #29b6f6;">1.8. Medición de Señales de Control de un SAI</h2>
 
 Un SAI profesional dispone de salidas de comunicación de control (puerto serie / USB / red) hacia el equipo:
 
