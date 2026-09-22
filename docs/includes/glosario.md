@@ -448,3 +448,7 @@
 *[SO-DIMM]: Small Outline Dual In-line Memory Module. Formato compacto de módulo de memoria RAM empleado en ordenadores portátiles, barebones y placas Mini ITX.
 *[SoC]: System on a Chip. Circuito integrado que agrupa en un único microchip la CPU, GPU, memoria y controladores de entrada/salida.
 *[GPS]: Global Positioning System. Sistema de radionavegación por satélite que proporciona geolocalización y sincronización horaria en cualquier parte del planeta.
+*[CAU]: Centro de Atención al Usuario. Servicio centralizado de primer nivel (Helpdesk) encargado de recepcionar, registrar, clasificar y canalizar incidencias y consultas informáticas.
+*[SAT]: Servicio de Asistencia Técnica. Departamento técnico cualificado responsable de diagnosticar, reparar y poner a punto el hardware y equipamiento averiado.
+*[BSOD]: Blue Screen of Death. Pantalla azul de error crítico en entornos Windows que bloquea el sistema ante un fallo irrecuperable de hardware o controladores del kernel.
+*[BGA]: Ball Grid Array. Encapsulado donde los chips se unen directamente a la placa base mediante una matriz inferior de diminutas esferas de estaño soldadas, impidiendo su sustitución sencilla.
