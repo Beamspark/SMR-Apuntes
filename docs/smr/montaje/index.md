@@ -26,6 +26,6 @@ Bienvenido al módulo de **Montaje y Mantenimiento de Equipos**. En esta secció
 
 ---
 
-## 📝 Banco de Autoevaluación — Montaje y Mantenimiento
+## 📝 [Ir al Banco de Tests](test/index.md){ .md-button .md-button--primary }
 
 --8<-- "docs/includes/glosario.md"
