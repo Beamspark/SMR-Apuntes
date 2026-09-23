@@ -23,3 +23,4 @@ Bienvenido al módulo de **Sistemas Operativos Monopuesto**. En esta sección en
 
 ## 📝 [Ir al Banco de Tests](test/index.md)
 
+--8<-- "docs/includes/glosario.md"
