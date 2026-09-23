@@ -18,4 +18,8 @@ Bienvenido al módulo de **Digitalización Aplicada a los Sectores Productivos**
 * **Industria 4.0 y Sistemas Conectados:** Sistemas ciberfísicos (CPS), automatización, arquitecturas *Cloud*, *Fog* y *Edge Computing*.
 * **Tecnologías Habilitadoras Digitales (THD):** Productividad, almacenamiento avanzado no convencional y planes de transformación digital empresarial.
 
+---
+
+## 📝 [Ir al Banco de Tests](test/index.md)
+
 --8<-- "docs/includes/glosario.md"
