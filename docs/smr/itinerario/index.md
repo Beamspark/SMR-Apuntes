@@ -18,4 +18,8 @@ Bienvenido al módulo de **Itinerario Personal para la Empleabilidad I**. En est
 * **Seguridad Laboral:** Prevención de Riesgos Laborales (PRL) y planes de emergencia.
 * **Desarrollo Profesional:** Entornos Personales de Aprendizaje (PLE) e identidad digital.
 
+---
+
+## 📝 [Ir al Banco de Tests](test/index.md)
+
 --8<-- "docs/includes/glosario.md"
