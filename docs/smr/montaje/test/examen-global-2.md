@@ -2,13 +2,6 @@
 
 [← Volver al Índice de Tests](index.md)
 
-| Parámetro | Detalle |
-| :--- | :--- |
-| **Número de preguntas** | 35 preguntas tipo test |
-| **Tiempo sugerido** | 60 minutos |
-| **Criterio de corrección estándar** | Acierto: **+1.00** \| Fallo: **-0.33** \| En blanco: **0.00** |
-| **Temario cubierto** | Temas 1 al 11 (Completo) |
-
 ---
 
 ### Pregunta 1
