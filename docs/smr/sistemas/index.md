@@ -18,3 +18,8 @@ Bienvenido al módulo de **Sistemas Operativos Monopuesto**. En esta sección en
 * **Sistemas Propietarios:** Familia Windows (Windows 10 / 11).
 * **Sistemas Libres:** GNU/Linux (Ubuntu, Debian, etc.).
 * **Terminales:** CMD, Windows PowerShell y Bash.
+
+---
+
+## 📝 [Ir al Banco de Tests](test/index.md)
+
