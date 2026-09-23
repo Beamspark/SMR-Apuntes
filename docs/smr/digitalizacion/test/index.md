@@ -6,11 +6,11 @@ Bienvenido a la sección de autoevaluación interactiva de Digitalización Aplic
 
 ## 📌 Cuestionarios por Tema
 
-* **[Test Tema 1: Digitalización y sostenibilidad](test-tema-1.md)** — Relación entre transformación digital y sostenibilidad, economía circular, ODS y huella de carbono digital.
-* **[Test Tema 2: Cuarta Revolución Industrial](test-tema-2.md)** — Tecnologías habilitadoras digitales (KETS), IoT, gemelos digitales, Big Data e inteligencia artificial.
-* **[Test Tema 3: Cloud y sistemas conectados](test-tema-3.md)** — Computación en la nube (IaaS, PaaS, SaaS), edge computing, conectividad 5G y ciberseguridad industrial.
-* **[Test Tema 4: Características de los sistemas de producción](test-tema-4.md)** — Automatización de procesos, robótica colaborativa (cobots), fabricación aditiva y cadenas de suministro digitalizadas.
-* **[Test Tema 5: Planes de transformación digital](test-tema-5.md)** — Diagnóstico de madurez digital, hojas de ruta de transformación, gestión del cambio y metodologías ágiles.
+* **[Test Tema 1: Relación entre digitalización y sostenibilidad](test-tema-1.md)**
+* **[Test Tema 2: Cuarta Revolución Industrial](test-tema-2.md)**
+* **[Test Tema 3: Cloud y sistemas conectados](test-tema-3.md)**
+* **[Test Tema 4: Características de los sistemas de producción](test-tema-4.md)**
+* **[Test Tema 5: Planes de transformación](test-tema-5.md)**
 
 ---
 
