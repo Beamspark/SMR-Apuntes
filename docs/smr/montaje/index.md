@@ -26,6 +26,6 @@ Bienvenido al módulo de **Montaje y Mantenimiento de Equipos**. En esta secció
 
 ---
 
-## 📝 [Ir al Banco de Tests](test/index.md){ .md-button .md-button--primary }
+## 📝 [Ir al Banco de Tests](test/index.md)
 
 --8<-- "docs/includes/glosario.md"
