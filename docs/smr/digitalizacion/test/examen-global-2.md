@@ -4,7 +4,7 @@
 
 ---
 
-### Pregunta 1 [Tema 1: Sostenibilidad]
+### Pregunta 1
 Un centro de datos corporativo busca reducir su consumo energético y su huella ecológica. ¿Qué medida estratégica de ecodiseño y sostenibilidad digital coincide con los criterios de eficiencia del manual?
 
 <details class="quiz-option correct">
@@ -41,7 +41,7 @@ Un centro de datos corporativo busca reducir su consumo energético y su huella 
 
 ---
 
-### Pregunta 2 [Tema 2: CPS / Industria 4.0]
+### Pregunta 2
 En la clasificación de las etapas industriales, ¿qué características energéticas y organizativas definieron a la Segunda Revolución Industrial (1870-1914)?
 
 <details class="quiz-option incorrect">
@@ -78,7 +78,7 @@ En la clasificación de las etapas industriales, ¿qué características energé
 
 ---
 
-### Pregunta 3 [Tema 3: Cloud Computing]
+### Pregunta 3
 Una startup tecnológica busca una plataforma donde sus programadores puedan desarrollar, compilar y ejecutar código en contenedores sin encargarse del aprovisionamiento ni del mantenimiento de los servidores subyacentes. ¿Qué nivel de servicio cloud representa este entorno?
 
 <details class="quiz-option incorrect">
@@ -115,7 +115,7 @@ Una startup tecnológica busca una plataforma donde sus programadores puedan des
 
 ---
 
-### Pregunta 4 [Tema 4: THD / NoSQL]
+### Pregunta 4
 Una empresa de automoción diseña un prototipo virtual completo de su nuevo motor eléctrico, alimentándolo con datos captados en pruebas de laboratorio para predecir desgastes mecánicos antes de fabricarlo en serie. ¿Qué tecnología habilitadora está utilizando?
 
 <details class="quiz-option incorrect">
@@ -152,7 +152,7 @@ Una empresa de automoción diseña un prototipo virtual completo de su nuevo mot
 
 ---
 
-### Pregunta 5 [Tema 5: Transformación Digital]
+### Pregunta 5
 En el marco de la gestión del cambio organizativo, ¿cuál es uno de los errores más frecuentes que provocan el fracaso de los Planes de Transformación Digital según la teoría del manual?
 
 <details class="quiz-option correct">
@@ -189,7 +189,7 @@ En el marco de la gestión del cambio organizativo, ¿cuál es uno de los errore
 
 ---
 
-### Pregunta 6 [Tema 1: Sostenibilidad]
+### Pregunta 6
 ¿Cuál de los siguientes Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030 está centrado de manera específica en promover la industrialización inclusiva, fomentar la innovación y modernizar las infraestructuras tecnológicas?
 
 <details class="quiz-option incorrect">
@@ -226,7 +226,7 @@ En el marco de la gestión del cambio organizativo, ¿cuál es uno de los errore
 
 ---
 
-### Pregunta 7 [Tema 2: CPS / Industria 4.0]
+### Pregunta 7
 En un Sistema Ciberfísico (CPS), una serie de sensores colocados en un horno industrial captan la temperatura y emiten señales en tiempo real. ¿A qué capa funcional de la arquitectura del CPS pertenecen estos dispositivos captadores?
 
 <details class="quiz-option incorrect">
@@ -263,7 +263,7 @@ En un Sistema Ciberfísico (CPS), una serie de sensores colocados en un horno in
 
 ---
 
-### Pregunta 8 [Tema 3: Cloud Computing]
+### Pregunta 8
 ¿Qué ventaja ofrece la arquitectura de Fog Computing (Computación en la Niebla) frente a enviar indiscriminadamente todos los datos sin procesar a un centro de datos en la nube pública?
 
 <details class="quiz-option incorrect">
@@ -300,7 +300,7 @@ En un Sistema Ciberfísico (CPS), una serie de sensores colocados en un horno in
 
 ---
 
-### Pregunta 9 [Tema 4: THD / NoSQL]
+### Pregunta 9
 Una empresa de logística internacional necesita un software integral para planificar las rutas marítimas, gestionar las compras a proveedores y controlar el stock en los puertos de tránsito. ¿Qué solución de software empresarial debe implantar?
 
 <details class="quiz-option correct">
@@ -337,7 +337,7 @@ Una empresa de logística internacional necesita un software integral para plani
 
 ---
 
-### Pregunta 10 [Tema 5: Transformación Digital]
+### Pregunta 10
 En el nuevo organigrama de liderazgo de una organización digital, ¿cuál es la función prioritaria asignada al Chief Data Officer (CDO)?
 
 <details class="quiz-option incorrect">
@@ -374,7 +374,7 @@ En el nuevo organigrama de liderazgo de una organización digital, ¿cuál es la
 
 ---
 
-### Pregunta 11 [Tema 1: Sostenibilidad]
+### Pregunta 11
 Un agricultor instala un sistema de cultivo en circuito cerrado donde las raíces de las plantas se mantienen suspendidas en el aire y reciben nebulizaciones periódicas de agua con nutrientes, prescindiendo totalmente de tierra fértil. ¿Qué técnica agrícola sostenible está empleando?
 
 <details class="quiz-option incorrect">
@@ -411,7 +411,7 @@ Un agricultor instala un sistema de cultivo en circuito cerrado donde las raíce
 
 ---
 
-### Pregunta 12 [Tema 2: CPS / Industria 4.0]
+### Pregunta 12
 En la automatización de una línea de embotellado, un Sistema Ciberfísico calcula que una botella presenta una tara de llenado y envía una orden eléctrica para que un brazo mecánico neumático la desvíe fuera de la cinta. ¿Qué componente del CPS ejecuta directamente esa acción mecánica?
 
 <details class="quiz-option incorrect">
@@ -448,7 +448,7 @@ En la automatización de una línea de embotellado, un Sistema Ciberfísico calc
 
 ---
 
-### Pregunta 13 [Tema 3: Cloud Computing]
+### Pregunta 13
 Una empresa almacena terabytes de imágenes y copias de seguridad estáticas a las que accede de forma distribuida a través de la web mediante solicitudes HTTP/HTTPS seguras. ¿Qué servicio especializado de Amazon Web Services (AWS) está pensado para este almacenamiento de objetos?
 
 <details class="quiz-option correct">
@@ -485,7 +485,7 @@ Una empresa almacena terabytes de imágenes y copias de seguridad estáticas a l
 
 ---
 
-### Pregunta 14 [Tema 4: THD / NoSQL]
+### Pregunta 14
 Una entidad financiera almacena las sesiones de autenticación web de sus usuarios y necesita recuperar cada token en tiempos inferiores a un milisegundo para no penalizar la velocidad de la web. ¿Qué motor de base de datos NoSQL en memoria RAM (In-Memory) destaca el manual para este cometido?
 
 <details class="quiz-option incorrect">
@@ -522,7 +522,7 @@ Una entidad financiera almacena las sesiones de autenticación web de sus usuari
 
 ---
 
-### Pregunta 15 [Tema 5: Transformación Digital]
+### Pregunta 15
 En el caso práctico de la digitalización de una tienda tradicional de calzado analizado en el temario, ¿qué software en la nube se seleccionó para gestionar la contabilidad corporativa, emitir facturas y controlar cobros de forma automatizada?
 
 <details class="quiz-option incorrect">
@@ -559,7 +559,7 @@ En el caso práctico de la digitalización de una tienda tradicional de calzado 
 
 ---
 
-### Pregunta 16 [Tema 1: Sostenibilidad]
+### Pregunta 16
 Al comparar el modelo de ciclo de vida de la Economía Circular frente al de la Economía Lineal, ¿cuál de los siguientes principios define de forma genuina al modelo circular?
 
 <details class="quiz-option incorrect">
@@ -596,7 +596,7 @@ Al comparar el modelo de ciclo de vida de la Economía Circular frente al de la 
 
 ---
 
-### Pregunta 17 [Tema 2: CPS / Industria 4.0]
+### Pregunta 17
 ¿Qué tecnología de automatización se encarga de conectar sistemas de software heterogéneos actuando como puentes de enlace para intercambiar información y desencadenar acciones entre distintas aplicaciones?
 
 <details class="quiz-option correct">
@@ -633,7 +633,7 @@ Al comparar el modelo de ciclo de vida de la Economía Circular frente al de la 
 
 ---
 
-### Pregunta 18 [Tema 3: Cloud Computing]
+### Pregunta 18
 Un hospital regional requiere que las ambulancias conectadas transmitan electrocardiogramas y alertas médicas críticas que deben ser procesadas en milisegundos para actuar en ruta antes de llegar a urgencias. ¿Por qué el Edge Computing resulta indispensable en este escenario?
 
 <details class="quiz-option incorrect">
@@ -670,7 +670,7 @@ Un hospital regional requiere que las ambulancias conectadas transmitan electroc
 
 ---
 
-### Pregunta 19 [Tema 4: THD / NoSQL]
+### Pregunta 19
 En un hospital o mutua laboral, se implanta una plataforma digital para almacenar y gestionar de forma estandarizada los historiales médicos digitalizados, radiografías, actas de alta y recetas electrónicas garantizando trazabilidad y control de acceso. ¿Qué tipo de sistema corporativo cumple esta función?
 
 <details class="quiz-option incorrect">
@@ -707,7 +707,7 @@ En un hospital o mutua laboral, se implanta una plataforma digital para almacena
 
 ---
 
-### Pregunta 20 [Tema 5: Transformación Digital]
+### Pregunta 20
 En la estructura de squads de una compañía digitalizada, un equipo se encarga de diseñar wireframes, analizar las métricas de clics, realizar mapas de calor y entrevistar a usuarios para que una aplicación bancaria sea intuitiva. ¿A qué área funcional pertenecen?
 
 <details class="quiz-option incorrect">
@@ -744,7 +744,7 @@ En la estructura de squads de una compañía digitalizada, un equipo se encarga 
 
 ---
 
-### Pregunta 21 [Tema 1: Sostenibilidad]
+### Pregunta 21
 ¿Cuál es una de las metas fundamentales del ODS 12 (Producción y consumo responsables) de la Agenda 2030 según los contenidos del manual?
 
 <details class="quiz-option correct">
@@ -781,7 +781,7 @@ En la estructura de squads de una compañía digitalizada, un equipo se encarga 
 
 ---
 
-### Pregunta 22 [Tema 2: CPS / Industria 4.0]
+### Pregunta 22
 ¿Qué innovación de la Tercera Revolución Industrial (iniciada en los años 50) permitió la primera digitalización masiva y la automatización programable en las fábricas?
 
 <details class="quiz-option incorrect">
@@ -818,7 +818,7 @@ En la estructura de squads de una compañía digitalizada, un equipo se encarga 
 
 ---
 
-### Pregunta 23 [Tema 3: Cloud Computing]
+### Pregunta 23
 Un banco internacional utiliza una infraestructura donde los datos de cuentas corrientes y tarjetas se procesan en servidores privados locales protegidos por estrictos cortafuegos, mientras que las campañas promocionales masivas y los simuladores de préstamos de su web se alojan en servidores de nube pública escalables. ¿Qué modelo de despliegue cloud describe esta combinación?
 
 <details class="quiz-option incorrect">
@@ -855,7 +855,7 @@ Un banco internacional utiliza una infraestructura donde los datos de cuentas co
 
 ---
 
-### Pregunta 24 [Tema 4: THD / NoSQL]
+### Pregunta 24
 Un sistema de analítica de Big Data para una plataforma de comercio electrónico debe almacenar miles de millones de eventos generados por sensores y clics web. Los datos presentan una estructura tabular distribuida entre cientos de servidores con miles de columnas dinámicas. ¿Qué familia de bases de datos NoSQL destaca el manual para este volumen masivo?
 
 <details class="quiz-option incorrect">
@@ -892,7 +892,7 @@ Un sistema de analítica de Big Data para una plataforma de comercio electrónic
 
 ---
 
-### Pregunta 25 [Tema 5: Transformación Digital]
+### Pregunta 25
 Durante la Fase 1 (Evaluación y Análisis) de un Plan de Transformación Digital en una empresa manufacturera tradicional, ¿cuál de las siguientes actuaciones resulta imprescindible llevar a cabo?
 
 <details class="quiz-option correct">
@@ -929,7 +929,7 @@ Durante la Fase 1 (Evaluación y Análisis) de un Plan de Transformación Digita
 
 ---
 
-### Pregunta 26 [Tema 1: Sostenibilidad]
+### Pregunta 26
 Un fabricante de smartphones diseña un terminal en el que la carcasa, la pantalla, el módulo de cámaras y la batería se ensamblan mediante tornillos estándar en lugar de adhesivos térmicos indestructibles, ofreciendo repuestos oficiales a los usuarios. ¿Qué principio del ecodiseño está aplicando de forma sobresaliente?
 
 <details class="quiz-option incorrect">
@@ -966,7 +966,7 @@ Un fabricante de smartphones diseña un terminal en el que la carcasa, la pantal
 
 ---
 
-### Pregunta 27 [Tema 2: CPS / Industria 4.0]
+### Pregunta 27
 ¿Qué concepto resume con exactitud la esencia de los robots colaborativos (cobots) en el marco de la Industria 4.0?
 
 <details class="quiz-option incorrect">
@@ -1003,7 +1003,7 @@ Un fabricante de smartphones diseña un terminal en el que la carcasa, la pantal
 
 ---
 
-### Pregunta 28 [Tema 3: Cloud Computing]
+### Pregunta 28
 En la administración de plataformas en la nube, ¿cuáles son los servicios representativos de creación y gestión de Máquinas Virtuales (IaaS) en los catálogos de Amazon Web Services, Google Cloud y Microsoft Azure?
 
 <details class="quiz-option incorrect">
@@ -1040,7 +1040,7 @@ En la administración de plataformas en la nube, ¿cuáles son los servicios rep
 
 ---
 
-### Pregunta 29 [Tema 4: THD / NoSQL]
+### Pregunta 29
 Una empresa de fabricación de piezas aeroespaciales en aleaciones especiales necesita producir componentes metálicos con geometrías huecas y canales de refrigeración interiores imposibles de tallar con una fresadora o torno. ¿Qué tecnología habilitadora debe utilizar?
 
 <details class="quiz-option correct">
@@ -1077,7 +1077,7 @@ Una empresa de fabricación de piezas aeroespaciales en aleaciones especiales ne
 
 ---
 
-### Pregunta 30 [Tema 5: Transformación Digital]
+### Pregunta 30
 En el caso práctico de la tienda tradicional de calzado de 4 empleados recogido en el temario, ¿qué herramienta de software en la nube se seleccionó para centralizar las dudas de clientes procedentes de redes sociales, email y web en un único panel de tickets?
 
 <details class="quiz-option incorrect">
@@ -1114,7 +1114,7 @@ En el caso práctico de la tienda tradicional de calzado de 4 empleados recogido
 
 ---
 
-### Pregunta 31 [Tema 1: Sostenibilidad]
+### Pregunta 31
 Un técnico medioambiental imparte una charla en una empresa sobre la gestión del fin de vida de los productos. Explica que cuando un equipo ya no funciona, antes de triturarlo o incinerarlo para reciclaje de materia prima bruta, se deben priorizar otras dos etapas circulares previas. ¿A qué etapas se refiere?
 
 <details class="quiz-option incorrect">
@@ -1151,7 +1151,7 @@ Un técnico medioambiental imparte una charla en una empresa sobre la gestión d
 
 ---
 
-### Pregunta 32 [Tema 2: CPS / Industria 4.0]
+### Pregunta 32
 En la Capa de Transmisión de un CPS conectado en una fábrica inteligente, ¿cuáles son los dispositivos de ciberseguridad que analizan el tráfico en busca de patrones sospechosos o ataques para alertar y mitigar intrusiones en la red de control industrial?
 
 <details class="quiz-option incorrect">
@@ -1188,7 +1188,7 @@ En la Capa de Transmisión de un CPS conectado en una fábrica inteligente, ¿cu
 
 ---
 
-### Pregunta 33 [Tema 3: Cloud Computing]
+### Pregunta 33
 ¿Cuál es una ventaja operativa directa que aporta la adopción de arquitecturas sin servidor (Serverless Computing) con herramientas como AWS Lambda o Google Cloud Functions?
 
 <details class="quiz-option correct">
@@ -1225,7 +1225,7 @@ En la Capa de Transmisión de un CPS conectado en una fábrica inteligente, ¿cu
 
 ---
 
-### Pregunta 34 [Tema 4: THD / NoSQL]
+### Pregunta 34
 En la cadena de suministro de productos perecederos (como marisco fresco o medicamentos), ¿qué valor aporta combinar sensores de temperatura IoT con una red Blockchain?
 
 <details class="quiz-option incorrect">
@@ -1262,7 +1262,7 @@ En la cadena de suministro de productos perecederos (como marisco fresco o medic
 
 ---
 
-### Pregunta 35 [Tema 5: Transformación Digital]
+### Pregunta 35
 En el diseño de la Hoja de Ruta (Fase 3) de un Plan de Transformación Digital, la empresa establece el cronograma de ejecución del proyecto. ¿Por qué es fundamental desglosar el plan en "hitos" o etapas sucesivas en lugar de intentar cambiarlo todo en un solo día?
 
 <details class="quiz-option incorrect">
@@ -1299,7 +1299,7 @@ En el diseño de la Hoja de Ruta (Fase 3) de un Plan de Transformación Digital,
 
 ---
 
-### Pregunta 36 [Tema 1: Sostenibilidad]
+### Pregunta 36
 ¿Cuál es la función del compostaje dentro de las tecnologías de gestión sostenible de residuos descritas en el manual?
 
 <details class="quiz-option incorrect">
@@ -1336,7 +1336,7 @@ En el diseño de la Hoja de Ruta (Fase 3) de un Plan de Transformación Digital,
 
 ---
 
-### Pregunta 37 [Tema 2: CPS / Industria 4.0]
+### Pregunta 37
 ¿Qué tecnología inmersiva permite a un cirujano entrenar operaciones de alta complejidad en un entorno 100% digital e interactivo mediante un visor cerrado que le aísla completamente del quirófano real?
 
 <details class="quiz-option correct">
@@ -1373,7 +1373,7 @@ En el diseño de la Hoja de Ruta (Fase 3) de un Plan de Transformación Digital,
 
 ---
 
-### Pregunta 38 [Tema 3: Cloud Computing]
+### Pregunta 38
 Al analizar la relación estratégica entre el Cloud Computing y el Edge Computing en la Industria 4.0, ¿cómo se describe su coexistencia operativa según el manual?
 
 <details class="quiz-option incorrect">
@@ -1410,7 +1410,7 @@ Al analizar la relación estratégica entre el Cloud Computing y el Edge Computi
 
 ---
 
-### Pregunta 39 [Tema 4: THD / NoSQL]
+### Pregunta 39
 Una empresa de marketing digital necesita almacenar perfiles de clientes donde cada usuario tiene un número de atributos muy distinto (redes sociales vinculadas, preferencias, teléfonos alternativos). Utilizan una base de datos donde cada registro es un objeto JSON o BSON independiente sin una estructura rígida de columnas fijas. ¿De qué software se trata?
 
 <details class="quiz-option incorrect">
@@ -1447,7 +1447,7 @@ Una empresa de marketing digital necesita almacenar perfiles de clientes donde c
 
 ---
 
-### Pregunta 40 [Tema 5: Transformación Digital]
+### Pregunta 40
 En una compañía digital orientada al crecimiento y expansión de cuota de mercado, ¿cuál es la responsabilidad nuclear asignada al Chief Revenue Officer (CRO)?
 
 <details class="quiz-option incorrect">
