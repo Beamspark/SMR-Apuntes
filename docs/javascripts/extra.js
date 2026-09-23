@@ -1,6 +1,43 @@
+// ========================================================
+// 1. Limpieza de sintaxis matemática exclusiva de los tests
+// ========================================================
+function cleanLatexInTests() {
+  // Solo busca dentro de las tarjetas de los tests (.quiz-option)
+  const targets = document.querySelectorAll(
+    ".quiz-option summary, .quiz-option .feedback, .quiz-option p"
+  );
+
+  targets.forEach((el) => {
+    if (el.innerHTML.includes("$") || el.innerHTML.includes("\\text")) {
+      let txt = el.innerHTML;
+
+      // 1. Extrae el texto plano de \text{...}
+      txt = txt.replace(/\\text\{([^}]+)\}/g, "$1");
+
+      // 2. Convierte \cdot en el punto medio de multiplicar ·
+      txt = txt.replace(/\\cdot/g, "·");
+
+      // 3. Convierte potencias compuestas ^{...} y simples ^... en <sup>...</sup>
+      txt = txt.replace(/\^\{([^}]+)\}/g, "<sup>$1</sup>");
+      txt = txt.replace(/\^(-?\d+)/g, "<sup>$1</sup>");
+
+      // 4. Elimina los símbolos de dólar $
+      txt = txt.replace(/\$/g, "");
+
+      el.innerHTML = txt;
+    }
+  });
+}
+
+// ========================================================
+// 2. Motor interactivo de Tests, Tooltips y Marcador
+// ========================================================
 const initQuizAndTooltips = () => {
+  // Limpia cualquier fórmula presente en las tarjetas antes de interactuar
+  cleanLatexInTests();
+
   // ========================================================
-  // 1. Manejo táctil / clic para abreviaturas (<abbr>)
+  // Manejo táctil / clic para abreviaturas (<abbr>)
   // ========================================================
   const abbrElements = document.querySelectorAll("abbr");
 
@@ -29,7 +66,7 @@ const initQuizAndTooltips = () => {
   });
 
   // ========================================================
-  // 2. Motor interactivo de Tests y Exámenes (NotebookLM style)
+  // Motor interactivo de Tests y Exámenes (NotebookLM style)
   // ========================================================
   // Localiza cada pregunta a partir de sus encabezados ### Pregunta X
   const questionHeaders = Array.from(
@@ -123,6 +160,8 @@ const initQuizAndTooltips = () => {
           group.forEach((o) => {
             o.setAttribute("open", "");
           });
+          // Limpia por si las explicaciones dentro del feedback tenían fórmulas
+          cleanLatexInTests();
           updateScoreBoard();
         }, 50);
       });
