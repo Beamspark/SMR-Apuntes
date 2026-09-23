@@ -1,25 +1,26 @@
-# ⚡ Digitalización Aplicada a los Sectores Productivos
+<h1 style="color: #ab47bc;">📝 Banco de Autoevaluación — Digitalización Aplicada a los Sectores Productivos</h1>
 
-Bienvenido al módulo de **Digitalización Aplicada a los Sectores Productivos**. En esta sección encontrarás toda la documentación técnica, resúmenes y guías sobre sostenibilidad digital, la Industria 4.0, arquitecturas Cloud, tecnologías habilitadoras digitales (THD) y planes estratégicos de transformación digital.
-
-## 📋 Índice de Contenidos
-
-- [🌱 **Tema 1:** Relación entre digitalización y sostenibilidad](tema-1.md)
-- [🏭 **Tema 2:** Cuarta Revolución Industrial](tema-2.md)
-- [☁️ **Tema 3:** Cloud y sistemas conectados](tema-3.md)
-- [⚙️ **Tema 4:** Características de los sistemas de producción](tema-4.md)
-- [🚀 **Tema 5:** Planes de transformación](tema-5.md)
+Bienvenido a la sección de autoevaluación interactiva de Digitalización Aplicada a los Sectores Productivos. Estos cuestionarios están diseñados para poner a prueba los conocimientos adquiridos mediante preguntas tipo test con corrección automática, justificación de respuestas y cálculo de nota en vivo.
 
 ---
 
-## ⚡ Entorno Tecnológico e Innovación
+## 📌 Cuestionarios por Tema
 
-* **Sostenibilidad y Economía Circular:** ODS, eficiencia energética y reducción de la huella de carbono digital.
-* **Tecnologías Habilitadoras (THD):** IoT, Inteligencia Artificial, Big Data, Gemelos Digitales y Robótica Colaborativa.
-* **Infraestructuras y Estrategia:** Computación en la nube (Cloud/Edge), ciberseguridad industrial y hojas de ruta de transformación digital.
+* **[Test Tema 1: Relación entre digitalización y sostenibilidad](test-tema-1.md)**
+* **[Test Tema 2: Cuarta Revolución Industrial](test-tema-2.md)**
+* **[Test Tema 3: Cloud y sistemas conectados](test-tema-3.md)**
+* **[Test Tema 4: Características de los sistemas de producción](test-tema-4.md)**
+* **[Test Tema 5: Planes de transformación](test-tema-5.md)**
 
 ---
 
-## 📝 [Ir al Banco de Tests](test/index.md)
+## 🎯 Simulacros de Examen Global
 
---8<-- "docs/includes/glosario.md"
+Evaluaciones completas con preguntas ponderadas y casos prácticos situacionales de todo el módulo:
+
+* **[🎯 Examen Global 1: Simulacro Oficial A](examen-global-1.md)** — Preguntas integradas de los Temas 1 al 5.
+* **[🎯 Examen Global 2: Simulacro Oficial B](examen-global-2.md)** — Preguntas integradas de los Temas 1 al 5.
+
+---
+
+> 💡 **Consejo de estudio:** Lee detenidamente cada supuesto o pregunta antes de marcar tu opción; el sistema bloqueará la respuesta, revelará las explicaciones de todas las alternativas y actualizará tu nota en el marcador flotante.
