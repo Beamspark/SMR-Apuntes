@@ -65,11 +65,21 @@ nav:
               - 🎯 Examen Global 2: smr/montaje/test/examen-global-2.md
       - 💻 Sistemas Operativos Monopuesto:
           - smr/sistemas/index.md
-          - Tema 1 - Caracterización de los Sistemas Operativos: smr/sistemas/tema-1.md
-          - Tema 2 - Máquinas virtuales: smr/sistemas/tema-2.md
-          - Tema 3 - Instalación de sistemas operativos libres y propietarios: smr/sistemas/tema-3.md
-          - Tema 4 - Configuración de sistemas operativos libres y propietarios: smr/sistemas/tema-4.md
-          - Tema 5 - Administración de sistemas operativos libres y propietarios: smr/sistemas/tema-5.md
+          - "📚 Temario Teórico":
+              - Tema 1 - Caracterización de los Sistemas Operativos: smr/sistemas/tema-1.md
+              - Tema 2 - Máquinas virtuales: smr/sistemas/tema-2.md
+              - Tema 3 - Instalación de sistemas operativos libres y propietarios: smr/sistemas/tema-3.md
+              - Tema 4 - Configuración de sistemas operativos libres y propietarios: smr/sistemas/tema-4.md
+              - Tema 5 - Administración de sistemas operativos libres y propietarios: smr/sistemas/tema-5.md
+          - "📝 Autoevaluación y Tests":
+              - Índice de Tests: smr/sistemas/test/index.md
+              - Test 1 - Caracterización de los Sistemas Operativos: smr/sistemas/test/test-tema-1.md
+              - Test 2 - Máquinas virtuales: smr/sistemas/test/test-tema-2.md
+              - Test 3 - Instalación de sistemas operativos libres y propietarios: smr/sistemas/test/test-tema-3.md
+              - Test 4 - Configuración de sistemas operativos libres y propietarios: smr/sistemas/test/test-tema-4.md
+              - Test 5 - Administración de sistemas operativos libres y propietarios: smr/sistemas/test/test-tema-5.md
+              - 🎯 Examen Global 1: smr/sistemas/test/examen-global-1.md
+              - 🎯 Examen Global 2: smr/sistemas/test/examen-global-2.md
       - ⚡ Digitalización Aplicada a los Sectores Productivos:
           - smr/digitalizacion/index.md
           - "📚 Temario Teórico":
