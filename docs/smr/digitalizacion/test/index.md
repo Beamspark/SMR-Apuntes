@@ -1,68 +1,26 @@
-# 📝 Banco de Autoevaluación y Tests: Digitalización Aplicada
+<h1 style="color: #ab47bc;">📝 Banco de Autoevaluación — Digitalización Aplicada a los Sectores Productivos</h1>
 
-Bienvenido al área de autoevaluación interactiva del módulo **Digitalización Aplicada a los Sectores Productivos**.  
-Aquí podrás poner a prueba tus conocimientos sobre transformación digital, tecnologías habilitadoras, industria 4.0 y sostenibilidad mediante cuestionarios con corrección inmediata, explicaciones técnicas y marcador en vivo.
+Bienvenido a la sección de autoevaluación interactiva de Digitalización Aplicada a los Sectores Productivos. Estos cuestionarios están diseñados para poner a prueba los conocimientos adquiridos mediante preguntas tipo test con corrección automática, justificación de respuestas y cálculo de nota en vivo.
 
 ---
 
-## 📚 Tests Temáticos
+## 📌 Cuestionarios por Tema
 
-<div class="grid cards" markdown>
-
--   __Test 1: Digitalización y Sostenibilidad__
-
-    Economía circular, ODS, descarbonización y huella de carbono digital.
-
-    [Iniciar Test 1](test-tema-1.md){ .md-button .md-button--primary }
-
--   __Test 2: Cuarta Revolución Industrial__
-
-    Tecnologías habilitadoras (KETS), IoT, Big Data, IA y gemelos digitales.
-
-    [Iniciar Test 2](test-tema-2.md){ .md-button }
-
--   __Test 3: Cloud y Sistemas Conectados__
-
-    Modelos de nube (IaaS, PaaS, SaaS), edge computing y ciberseguridad.
-
-    [Iniciar Test 3](test-tema-3.md){ .md-button }
-
--   __Test 4: Sistemas de Producción__
-
-    Automatización de procesos, robótica colaborativa y cadena de suministro digital.
-
-    [Iniciar Test 4](test-tema-4.md){ .md-button }
-
--   __Test 5: Planes de Transformación__
-
-    Madurez digital, hojas de ruta de transformación y gestión del cambio.
-
-    [Iniciar Test 5](test-tema-5.md){ .md-button }
-
-</div>
+* **[Test Tema 1: Digitalización y sostenibilidad](test-tema-1.md)** — Relación entre transformación digital y sostenibilidad, economía circular, ODS y huella de carbono digital.
+* **[Test Tema 2: Cuarta Revolución Industrial](test-tema-2.md)** — Tecnologías habilitadoras digitales (KETS), IoT, gemelos digitales, Big Data e inteligencia artificial.
+* **[Test Tema 3: Cloud y sistemas conectados](test-tema-3.md)** — Computación en la nube (IaaS, PaaS, SaaS), edge computing, conectividad 5G y ciberseguridad industrial.
+* **[Test Tema 4: Características de los sistemas de producción](test-tema-4.md)** — Automatización de procesos, robótica colaborativa (cobots), fabricación aditiva y cadenas de suministro digitalizadas.
+* **[Test Tema 5: Planes de transformación digital](test-tema-5.md)** — Diagnóstico de madurez digital, hojas de ruta de transformación, gestión del cambio y metodologías ágiles.
 
 ---
 
 ## 🎯 Simulacros de Examen Global
 
-Evaluaciones completas que integran preguntas de todos los temas para preparar la prueba final del módulo:
+Evaluaciones completas con preguntas ponderadas y casos prácticos situacionales de todo el módulo:
 
-<div class="grid cards" markdown>
-
--   __🎯 Examen Global 1 (Simulacro)__
-
-    Batería transversal de 40 preguntas con distribución aleatoria de opciones.
-
-    [Realizar Examen Global 1](examen-global-1.md){ .md-button .md-button--primary }
-
--   __🎯 Examen Global 2 (Simulacro)__
-
-    Segundo simulacro completo para consolidar todos los contenidos del temario.
-
-    [Realizar Examen Global 2](examen-global-2.md){ .md-button }
-
-</div>
+* **[🎯 Examen Global 1: Simulacro Oficial A](examen-global-1.md)** — Preguntas integradas de los Temas 1 al 5.
+* **[🎯 Examen Global 2: Simulacro Oficial B](examen-global-2.md)** — Preguntas integradas de los Temas 1 al 5.
 
 ---
 
-[← Volver a la portada de Digitalización](../index.md)
+> 💡 **Consejo de estudio:** Lee detenidamente cada supuesto o pregunta antes de marcar tu opción; el sistema bloqueará la respuesta, revelará las explicaciones de todas las alternativas y actualizará tu nota en el marcador flotante.
