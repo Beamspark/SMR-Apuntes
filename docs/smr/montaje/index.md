@@ -24,4 +24,8 @@ Bienvenido al módulo de **Montaje y Mantenimiento de Equipos**. En esta secció
 * **Hardware y Componentes:** Placas base, microprocesadores, sistemas de refrigeración, módulos RAM, fuentes ATX/SFX y almacenamiento (HDD, SSD SATA/NVMe).
 * **Diagnóstico y Mantenimiento:** Software de pruebas de estrés, lectura de códigos POST, creación de imágenes de disco y mantenimiento preventivo/correctivo.
 
+---
+
+## 📝 Banco de Autoevaluación — Montaje y Mantenimiento
+
 --8<-- "docs/includes/glosario.md"
