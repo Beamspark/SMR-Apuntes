@@ -9,6 +9,7 @@ Bienvenido al módulo de **Itinerario Personal para la Empleabilidad I**. En est
 - [⚖️ **Tema 3:** Condiciones laborales de la persona trabajadora por cuenta ajena](tema-3.md)
 - [🗺️ **Tema 4:** Autoorientación y hoja de ruta para la inserción profesional](tema-4.md)
 - [🎓 **Tema 5:** Estrategias de aprendizaje autónomo](tema-5.md)
+- [📌 **Repaso General:** Conceptos Clave del Módulo](resumen-conceptos-clave.md)
 
 ---
 
