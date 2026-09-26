@@ -15,6 +15,7 @@ Bienvenido al módulo de **Montaje y Mantenimiento de Equipos**. En esta secció
 - [💡 **Tema 9:** Aplicaciones de nuevas tendencias en equipos informáticos](tema-9.md)
 - [🛠️ **Tema 10:** Mantenimiento de equipos microinformáticos y gestión de incidencias](tema-10.md)
 - [💿 **Tema 11:** Instalación de programas y despliegue de sistemas](tema-11.md)
+- [📌 **Repaso General:** Conceptos Clave del Módulo](resumen-conceptos-clave.md)
 
 ---
 
