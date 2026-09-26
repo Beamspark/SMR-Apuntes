@@ -1,26 +1,30 @@
-<h1 style="color: #ab47bc;">📝 Banco de Autoevaluación — Sistemas Operativos Monopuesto</h1>
+<h1 style="color: #ab47bc;">📝 Banco de Autoevaluación — Aplicaciones Ofimáticas</h1>
 
-Bienvenido a la sección de autoevaluación de **Sistemas Operativos Monopuesto**. Estos cuestionarios están estructurados mediante preguntas de opción múltiple con justificación técnica detallada en desplegables para consolidar los conceptos clave de cada unidad.
-
----
-
-<h2 style="color: #29b6f6;">📌 Cuestionarios por Tema</h2>
-
-* **[Test Tema 1: Caracterización de los Sistemas Operativos](test-tema-1.md)** — Evolución histórica, funciones del SO, tipos de kernel, gestión de procesos, memoria y sistemas de archivos.
-* **[Test Tema 2: Máquinas virtuales](test-tema-2.md)** — Virtualización, hipervisores (Bare-metal y Hosted), configuración de hardware virtual, snapshots y redes virtuales.
-* **[Test Tema 3: Instalación de sistemas operativos libres y propietarios](test-tema-3.md)** — Requisitos, esquemas de particionado (MBR vs GPT), sistemas de arranque (BIOS/UEFI), instalación desatendida y arranque dual.
-* **[Test Tema 4: Configuración de sistemas operativos libres y propietarios](test-tema-4.md)** — Controladores de dispositivos, personalización del entorno, gestión de almacenamiento, perfiles y adaptadores de red.
-* **[Test Tema 5: Administración de sistemas operativos libres y propietarios](test-tema-5.md)** — Cuentas de usuario y grupos, permisos (ACL y POSIX), servicios, monitorización del rendimiento, directivas y copias de seguridad.
+Bienvenido a la sección de autoevaluación interactiva de Aplicaciones Ofimáticas. Estos cuestionarios están diseñados para poner a prueba los conocimientos adquiridos mediante preguntas tipo test con corrección automática, justificación de respuestas y cálculo de nota en vivo.
 
 ---
 
-<h2 style="color: #29b6f6;">🎯 Simulacros de Examen Global</h2>
+## 📌 Cuestionarios por Tema
 
-Evaluaciones completas que combinan preguntas teóricas y supuestos prácticos de todo el temario:
-
-* **[🎯 Examen Global 1: Simulacro Oficial A](examen-global-1.md)** — Batería transversal de preguntas de los Temas 1 al 5.
-* **[🎯 Examen Global 2: Simulacro Oficial B](examen-global-2.md)** — Batería transversal de preguntas de los Temas 1 al 5.
+* **[Test Tema 1: Instalación de aplicaciones ofimáticas](test-tema-1.md)** — Organización de sistemas, gestión de incidencias, tipos de SO, permisos y contratos de soporte.
+* **[Test Tema 2: Elaboración de documentos y plantillas mediante procesadores de texto](test-tema-2.md)** — Google Docs, estilos avanzados, tablas, objetos, comentarios, colaboración en tiempo real y descarga.
+* **[Test Tema 3: Elaboración de documentos y plantillas mediante hojas de cálculo](test-tema-3.md)** — Google Sheets, gestión de datos, fórmulas, funciones, tablas dinámicas, análisis visual y automatización.
+* **[Test Tema 4: Elaboración de documentos con bases de datos](test-tema-4.md)** — AppSheet, estructura de datos, diseño de vistas, automatizaciones, seguridad y buenas prácticas.
+* **[Test Tema 5: Manipulación de imágenes digitales](test-tema-5.md)** — Formatos, resolución, capas, máscaras, retoque fotográfico, filtros, importación y exportación.
+* **[Test Tema 6: Manipulación de secuencias de vídeo](test-tema-6.md)** — Línea de tiempo, formatos, códecs, captura de pantalla, elaboración de videotutoriales y audio.
+* **[Test Tema 7: Elaboración de presentaciones multimedia](test-tema-7.md)** — Google Slides, diapositivas, objetos multimedia, animaciones, transiciones y técnicas de presentación.
+* **[Test Tema 8: Gestión del correo y la agenda electrónica](test-tema-8.md)** — Protocolos (IMAP, POP3, SMTP), sindicación RSS, gestión de carpetas, calendarios, sincronización móvil y seguridad.
+* **[Test Tema 9: Técnicas de soporte al usuario](test-tema-9.md)** — Guías de usuario, resolución de problemas ofimáticos y malware, informes de incidencias y protección de datos.
 
 ---
 
-> 💡 **Consejo de estudio:** Razona y selecciona mentalmente tu opción antes de desplegar la solución para comprobar la explicación técnica y los motivos por los que el resto de opciones son incorrectas.
+## 🎯 Simulacros de Examen Global
+
+Evaluaciones completas con preguntas ponderadas y casos prácticos situacionales de todo el módulo:
+
+* **[🎯 Examen Global 1: Simulacro Oficial A](examen-global-1.md)** — Preguntas integradas de los Temas 1 al 4.
+* **[🎯 Examen Global 2: Simulacro Oficial B](examen-global-2.md)** — Preguntas integradas de los Temas 1 al 9.
+
+---
+
+> 💡 **Consejo de estudio:** Lee detenidamente cada supuesto o pregunta antes de marcar tu opción; el sistema bloqueará la respuesta, revelará las explicaciones de todas las alternativas y actualizará tu nota en el marcador flotante.
