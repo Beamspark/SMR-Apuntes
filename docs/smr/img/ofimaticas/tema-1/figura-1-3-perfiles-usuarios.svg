@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" width="100%" height="100%">
+  <defs>
+    <style>
+      .tier-1 { fill: #ab47bc; }
+      .tier-2 { fill: #1e88e5; }
+      .tier-3 { fill: #26a69a; }
+      .tier-title { fill: #ffffff; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: bold; font-size: 15px; text-anchor: middle; }
+      .tier-desc { fill: #eceff1; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <!-- Nivel 1: Administrador -->
+  <polygon points="350,30 240,110 460,110" class="tier-1" />
+  <text x="350" y="75" class="tier-title">ADMINISTRADOR (ROOT)</text>
+  <text x="350" y="95" class="tier-desc">Control total, permisos globales e instalación</text>
+
+  <!-- Nivel 2: Usuario Estándar -->
+  <polygon points="235,118 465,118 555,200 145,200" class="tier-2" />
+  <text x="350" y="155" class="tier-title">USUARIO ESTÁNDAR / LOCAL</text>
+  <text x="350" y="175" class="tier-desc">Uso de aplicaciones ordinarias sin privilegios de configuración</text>
+
+  <!-- Nivel 3: Invitado -->
+  <polygon points="140,208 560,208 650,290 50,290" class="tier-3" />
+  <text x="350" y="245" class="tier-title">INVITADO (GUEST)</text>
+  <text x="350" y="265" class="tier-desc">Acceso efímero, entorno aislado sin almacenamiento de cambios</text>
+</svg>
