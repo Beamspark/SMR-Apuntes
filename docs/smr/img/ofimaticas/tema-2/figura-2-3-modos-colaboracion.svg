@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 210" width="100%" height="100%">
+  <defs>
+    <style>
+      .mode-box { fill: #1e1e24; stroke-width: 2px; rx: 8px; }
+      .box-edit { stroke: #4caf50; }
+      .box-suggest { stroke: #ff9800; }
+      .box-view { stroke: #29b6f6; }
+      .head-edit { fill: #4caf50; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: bold; text-anchor: middle; }
+      .head-suggest { fill: #ff9800; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: bold; text-anchor: middle; }
+      .head-view { fill: #29b6f6; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: bold; text-anchor: middle; }
+      .text-item { fill: #eceff1; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; }
+    </style>
+  </defs>
+
+  <!-- Modo 1: Edición -->
+  <rect x="20" y="25" width="250" height="160" class="mode-box box-edit" />
+  <text x="145" y="55" class="head-edit">✏️ MODO EDICIÓN</text>
+  <text x="35" y="85" class="text-item">• Acceso directo y completo.</text>
+  <text x="35" y="110" class="text-item">• Modifica texto sin filtros.</text>
+  <text x="35" y="135" class="text-item">• Altera estilos y estructura.</text>
+  <text x="35" y="160" class="text-item">• Destinado al autor principal.</text>
+
+  <!-- Modo 2: Sugerencias -->
+  <rect x="300" y="25" width="250" height="160" class="mode-box box-suggest" />
+  <text x="425" y="55" class="head-suggest">💡 MODO SUGERENCIAS</text>
+  <text x="315" y="85" class="text-item">• Control de cambios activo.</text>
+  <text x="315" y="110" class="text-item">• Texto añadido en color.</text>
+  <text x="315" y="135" class="text-item">• Texto borrado con tachado.</text>
+  <text x="315" y="160" class="text-item">• Requiere validación/rechazo.</text>
+
+  <!-- Modo 3: Visualización -->
+  <rect x="580" y="25" width="250" height="160" class="mode-box box-view" />
+  <text x="705" y="55" class="head-view">👁️ MODO VISUALIZACIÓN</text>
+  <text x="595" y="85" class="text-item">• Perfil de solo lectura.</text>
+  <text x="595" y="110" class="text-item">• Imposibilidad de alterar texto.</text>
+  <text x="595" y="135" class="text-item">• Permite exportación y copia.</text>
+  <text x="595" y="160" class="text-item">• Ideal para auditoría o entrega.</text>
+</svg>
