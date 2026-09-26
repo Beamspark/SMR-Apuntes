@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 180" width="100%" height="100%">
+  <defs>
+    <style>
+      .step-box { fill: #1e1e24; stroke: #29b6f6; stroke-width: 2px; rx: 8px; }
+      .step-header { fill: #29b6f6; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: bold; font-size: 14px; text-anchor: middle; }
+      .step-desc { fill: #eceff1; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; text-anchor: middle; }
+      .arrow-line { stroke: #ab47bc; stroke-width: 3px; fill: none; }
+      .arrow-head { fill: #ab47bc; }
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" class="arrow-head"/>
+    </marker>
+  </defs>
+
+  <!-- Paso 1 -->
+  <rect x="20" y="40" width="190" height="100" class="step-box" />
+  <text x="115" y="70" class="step-header">1. RECEPCIÓN</text>
+  <text x="115" y="95" class="step-desc">Canalización multicanal</text>
+  <text x="115" y="115" class="step-desc">Apertura del Ticket ID</text>
+
+  <line x1="210" y1="90" x2="245" y2="90" class="arrow-line" marker-end="url(#arrow)" />
+
+  <!-- Paso 2 -->
+  <rect x="250" y="40" width="190" height="100" class="step-box" />
+  <text x="345" y="70" class="step-header">2. ASIGNACIÓN</text>
+  <text x="345" y="95" class="step-desc">Catalogación y prioridad</text>
+  <text x="345" y="115" class="step-desc">Derivación a técnico N1/N2</text>
+
+  <line x1="440" y1="90" x2="475" y2="90" class="arrow-line" marker-end="url(#arrow)" />
+
+  <!-- Paso 3 -->
+  <rect x="480" y="40" width="190" height="100" class="step-box" />
+  <text x="575" y="70" class="step-header">3. RESOLUCIÓN</text>
+  <text x="575" y="95" class="step-desc">Intervención técnica</text>
+  <text x="575" y="115" class="step-desc">Acción correctiva aplicada</text>
+
+  <line x1="670" y1="90" x2="705" y2="90" class="arrow-line" marker-end="url(#arrow)" />
+
+  <!-- Paso 4 -->
+  <rect x="710" y="40" width="190" height="100" class="step-box" />
+  <text x="805" y="70" class="step-header">4. CIERRE</text>
+  <text x="805" y="95" class="step-desc">Verificación con usuario</text>
+  <text x="805" y="115" class="step-desc">Registro en base documental</text>
+</svg>
