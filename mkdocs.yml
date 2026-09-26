@@ -34,6 +34,7 @@ extra_javascript:
 nav:
   - 🏠 Inicio: index.md
   - 🖧 CFGM Sistemas Microinformáticos y Redes:
+      - smr/index.md
       - 🛠️ Montaje y Mantenimiento de Equipos:
           - smr/montaje/index.md
           - "📚 Temario Teórico":
