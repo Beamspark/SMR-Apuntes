@@ -9,6 +9,7 @@ Bienvenido al módulo de **Digitalización Aplicada a los Sectores Productivos**
 - [☁️ **Tema 3:** Cloud y sistemas conectados](tema-3.md)
 - [⚙️ **Tema 4:** Características de los sistemas de producción](tema-4.md)
 - [🚀 **Tema 5:** Planes de transformación](tema-5.md)
+- [📌 **Repaso General:** Conceptos Clave del Módulo](resumen-conceptos-clave.md)
 
 ---
 
