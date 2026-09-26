@@ -457,3 +457,11 @@
 *[Slipstreaming]: Técnica de preinstalación consistente en integrar parches de seguridad, service packs y controladores directamente en la imagen de instalación del sistema operativo.
 *[ESP]: EFI System Partition. Partición formateada en FAT32 que almacena los cargadores de arranque y controladores utilizados por el firmware UEFI para inicializar el sistema.
 *[CRC32]: Cyclic Redundancy Check 32-bit. Código de redundancia cíclica empleado para detectar alteraciones accidentales o corrupción de datos en bloques de almacenamiento.
+*[Full HD]: Resolución estándar de pantalla compuesta por 1920 píxeles horizontales por 1080 verticales (2.073.600 píxeles).
+*[Copyleft]: Régimen legal de licencia que exige que cualquier obra derivada mantenga las mismas libertades y condiciones de distribución que la original.
+*[Add-in]: Complemento o módulo de software que se acopla a una aplicación para extender sus herramientas o añadir comandos especializados.
+*[Plugin]: Componente accesorio de software que amplía las funciones nativas de un programa informático principal.
+*[Multitarea]: Capacidad de un sistema operativo para ejecutar y gestionar varios procesos de cómputo de manera simultánea en el tiempo.
+*[Multiusuario]: Característica de un sistema operativo que posibilita el acceso y trabajo concurrente de múltiples usuarios con perfiles aislados.
+*[AIDA64]: Herramienta de software para el diagnóstico, auditoría e inventariado pormenorizado de los componentes de hardware y software del ordenador.
+*[Crash Report]: Informe técnico generado de manera automática tras el fallo inesperado de un software para documentar el estado del sistema y depurar el error.
