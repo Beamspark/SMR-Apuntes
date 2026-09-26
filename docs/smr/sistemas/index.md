@@ -9,6 +9,7 @@ Bienvenido al módulo de **Sistemas Operativos Monopuesto**. En esta sección en
 - [💿 **Tema 3:** Instalación de sistemas operativos libres y propietarios](tema-3.md)
 - [⚙️ **Tema 4:** Configuración de sistemas operativos libres y propietarios](tema-4.md)
 - [👤 **Tema 5:** Administración de sistemas operativos libres y propietarios](tema-5.md)
+- [📌 **Repaso General:** Conceptos Clave del Módulo](resumen-conceptos-clave.md)
 
 ---
 
