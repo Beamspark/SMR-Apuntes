@@ -118,3 +118,29 @@ nav:
               - Test 5 - Aprendizaje autónomo: smr/itinerario/test/test-tema-5.md
               - 🎯 Examen Global 1: smr/itinerario/test/examen-global-1.md
               - 🎯 Examen Global 2: smr/itinerario/test/examen-global-2.md
+     - 📑 Aplicaciones Ofimáticas:
+          - smr/ofimatica/index.md
+          - "📚 Temario Teórico":
+              - Tema 1 - Instalación de aplicaciones ofimáticas: smr/ofimatica/tema-1.md
+              - Tema 2 - Procesadores de texto (Google Docs): smr/ofimatica/tema-2.md
+              - Tema 3 - Hojas de cálculo (Google Sheets): smr/ofimatica/tema-3.md
+              - Tema 4 - Elaboración de documentos con bases de datos (AppSheet): smr/ofimatica/tema-4.md
+              - Tema 5 - Manipulación de imágenes digitales: smr/ofimatica/tema-5.md
+              - Tema 6 - Manipulación de secuencias de vídeo: smr/ofimatica/tema-6.md
+              - Tema 7 - Presentaciones multimedia (Google Slides): smr/ofimatica/tema-7.md
+              - Tema 8 - Gestión del correo y la agenda electrónica: smr/ofimatica/tema-8.md
+              - Tema 9 - Técnicas de soporte al usuario: smr/ofimatica/tema-9.md
+              - 📌 Repaso General de Conceptos Clave: smr/ofimatica/resumen-conceptos-clave.md
+          - "📝 Autoevaluación y Tests":
+              - Índice de Tests: smr/ofimatica/test/index.md
+              - Test 1 - Instalación de aplicaciones: smr/ofimatica/test/test-tema-1.md
+              - Test 2 - Procesadores de texto: smr/ofimatica/test/test-tema-2.md
+              - Test 3 - Hojas de cálculo: smr/ofimatica/test/test-tema-3.md
+              - Test 4 - Bases de datos y AppSheet: smr/ofimatica/test/test-tema-4.md
+              - Test 5 - Imágenes digitales: smr/ofimatica/test/test-tema-5.md
+              - Test 6 - Secuencias de vídeo: smr/ofimatica/test/test-tema-6.md
+              - Test 7 - Presentaciones multimedia: smr/ofimatica/test/test-tema-7.md
+              - Test 8 - Correo y agenda electrónica: smr/ofimatica/test/test-tema-8.md
+              - Test 9 - Soporte al usuario: smr/ofimatica/test/test-tema-9.md
+              - 🎯 Examen Global 1: smr/ofimatica/test/examen-global-1.md
+              - 🎯 Examen Global 2: smr/ofimatica/test/examen-global-2.md
