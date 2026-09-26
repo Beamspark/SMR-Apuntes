@@ -465,3 +465,8 @@
 *[Multiusuario]: Característica de un sistema operativo que posibilita el acceso y trabajo concurrente de múltiples usuarios con perfiles aislados.
 *[AIDA64]: Herramienta de software para el diagnóstico, auditoría e inventariado pormenorizado de los componentes de hardware y software del ordenador.
 *[Crash Report]: Informe técnico generado de manera automática tras el fallo inesperado de un software para documentar el estado del sistema y depurar el error.
+*[ODT]: OpenDocument Text. Estándar abierto internacional basado en XML para documentos de texto editables, utilizado de forma nativa por suites como LibreOffice.
+*[OOXML]: Office Open XML. Formato de archivo comprimido basado en XML desarrollado por Microsoft para documentos de Word (.docx), Excel (.xlsx) y PowerPoint (.pptx).
+*[RTF]: Rich Text Format. Formato estándar propietario desarrollado por Microsoft para facilitar el intercambio de texto con formato básico entre diferentes procesadores.
+*[EPUB]: Electronic Publication. Estándar libre y abierto para libros electrónicos con texto ajustable y adaptable al tamaño de pantalla.
+*[SLA]: Service Level Agreement. Acuerdo formal entre proveedor y cliente que define los estándares de calidad, disponibilidad y tiempos de respuesta exigibles al servicio técnico.
