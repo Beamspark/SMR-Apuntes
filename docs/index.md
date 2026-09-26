@@ -24,6 +24,14 @@ Este espacio está concebido como una base de conocimiento estructurada, con esq
 
 ---
 
+### 📑 Aplicaciones Ofimáticas
+* **Descripción:** Implantación, parametrización y explotación de suites ofimáticas locales y cloud (Google Workspace), modelado de datos sin código (AppSheet), edición multimedia (imagen y vídeo digital) y técnicas profesionales de soporte y asistencia técnica al usuario.
+* **Accesos rápidos:**
+    * [📖 Temario Teórico (Temas 1 al 9)](smr/ofimatica/index.md)
+    * [📝 Banco de Tests y Exámenes Globales](smr/ofimatica/test/index.md)
+
+---
+
 ### ⚡ Digitalización Aplicada a los Sectores Productivos
 * **Descripción:** Cuarta Revolución Industrial, computación en la nube (Cloud), tecnologías habilitadoras digitales (IoT, IA, Big Data), sostenibilidad tecnológica y planes de transformación digital.
 * **Accesos rápidos:**
