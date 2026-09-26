@@ -1,5 +1,5 @@
-site_name: Cuaderno Técnico SMR - Luis
-site_description: Apuntes y documentación técnica del Grado Medio en Sistemas Microinformáticos y Redes.
+site_name: Cuaderno Técnico CFGM SMR - Luis
+site_description: Apuntes y documentación técnica del Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes.
 site_author: Luis
 
 theme:
@@ -33,7 +33,7 @@ extra_javascript:
 
 nav:
   - 🏠 Inicio: index.md
-  - 💻 Semestre 1:
+  - 🖧 CFGM Sistemas Microinformáticos y Redes:
       - 🛠️ Montaje y Mantenimiento de Equipos:
           - smr/montaje/index.md
           - "📚 Temario Teórico":
