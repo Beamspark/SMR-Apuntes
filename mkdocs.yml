@@ -72,6 +72,7 @@ nav:
               - Tema 3 - Instalación de sistemas operativos libres y propietarios: smr/sistemas/tema-3.md
               - Tema 4 - Configuración de sistemas operativos libres y propietarios: smr/sistemas/tema-4.md
               - Tema 5 - Administración de sistemas operativos libres y propietarios: smr/sistemas/tema-5.md
+              - 📌 Repaso General de Conceptos Clave: smr/sistemas/resumen-conceptos-clave.md
           - "📝 Autoevaluación y Tests":
               - Índice de Tests: smr/sistemas/test/index.md
               - Test 1 - Caracterización de los Sistemas Operativos: smr/sistemas/test/test-tema-1.md
@@ -89,6 +90,7 @@ nav:
               - Tema 3 - Cloud y sistemas conectados: smr/digitalizacion/tema-3.md
               - Tema 4 - Características de los sistemas de producción: smr/digitalizacion/tema-4.md
               - Tema 5 - Planes de transformación: smr/digitalizacion/tema-5.md
+              - 📌 Repaso General de Conceptos Clave: smr/digitalizacion/resumen-conceptos-clave.md
           - "📝 Autoevaluación y Tests":
               - Índice de Tests: smr/digitalizacion/test/index.md
               - Test 1 - Digitalización y sostenibilidad: smr/digitalizacion/test/test-tema-1.md
@@ -106,6 +108,7 @@ nav:
               - Tema 3 - Condiciones laborales: smr/itinerario/tema-3.md
               - Tema 4 - Autoorientación e inserción: smr/itinerario/tema-4.md
               - Tema 5 - Aprendizaje autónomo: smr/itinerario/tema-5.md
+              - 📌 Repaso General de Conceptos Clave: smr/itinerario/resumen-conceptos-clave.md
           - "📝 Autoevaluación y Tests":
               - Índice de Tests: smr/itinerario/test/index.md
               - Test 1 - Sector productivo: smr/itinerario/test/test-tema-1.md
