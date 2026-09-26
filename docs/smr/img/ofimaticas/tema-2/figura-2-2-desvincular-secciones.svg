@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 240" width="100%" height="100%">
+  <defs>
+    <style>
+      .step-rect { fill: #1e1e24; stroke: #29b6f6; stroke-width: 2px; rx: 8px; }
+      .step-num { fill: #ab47bc; rx: 4px; }
+      .text-num { fill: #ffffff; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 14px; font-weight: bold; text-anchor: middle; }
+      .text-head { fill: #29b6f6; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 14px; font-weight: bold; text-anchor: middle; }
+      .text-body { fill: #eceff1; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; text-anchor: middle; }
+      .arrow { stroke: #ab47bc; stroke-width: 2.5px; fill: none; }
+    </style>
+    <marker id="arrowhead" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#ab47bc"/>
+    </marker>
+  </defs>
+
+  <!-- Paso 1 -->
+  <rect x="20" y="40" width="230" height="150" class="step-rect" />
+  <rect x="35" y="55" width="28" height="24" class="step-num" />
+  <text x="49" y="72" class="text-num">1</text>
+  <text x="145" y="72" class="text-head">SALTO DE SECCIÓN</text>
+  <text x="135" y="110" class="text-body">Insertar > Salto</text>
+  <text x="135" y="130" class="text-body">> Salto de sección</text>
+  <text x="135" y="150" class="text-body">(Página siguiente)</text>
+
+  <line x1="250" y1="115" x2="295" y2="115" class="arrow" marker-end="url(#arrowhead)" />
+
+  <!-- Paso 2 -->
+  <rect x="305" y="40" width="240" height="150" class="step-rect" />
+  <rect x="320" y="55" width="28" height="24" class="step-num" />
+  <text x="334" y="72" class="text-num">2</text>
+  <text x="435" y="72" class="text-head">DESVINCULAR</text>
+  <text x="425" y="110" class="text-body">Doble clic en encabezado</text>
+  <text x="425" y="130" class="text-body">de la nueva sección.</text>
+  <text x="425" y="155" class="text-body" style="fill: #ffb74d; font-weight: bold;">Desmarcar: "Enlazar al anterior"</text>
+
+  <line x1="545" y1="115" x2="590" y2="115" class="arrow" marker-end="url(#arrowhead)" />
+
+  <!-- Paso 3 -->
+  <rect x="600" y="40" width="230" height="150" class="step-rect" />
+  <rect x="615" y="55" width="28" height="24" class="step-num" />
+  <text x="629" y="72" class="text-num">3</text>
+  <text x="725" y="72" class="text-head">INDEPENDIZAR</text>
+  <text x="715" y="110" class="text-body">Modificar diseño:</text>
+  <text x="715" y="130" class="text-body">• Orientación horizontal</text>
+  <text x="715" y="150" class="text-body">• Encabezados y logos propios</text>
+  <text x="715" y="170" class="text-body">• Reinicio de paginación</text>
+</svg>
