@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="100%" height="100%">
+  <!-- Estilos globales -->
+  <defs>
+    <style>
+      .bg-panel { fill: #1e1e24; stroke: #29b6f6; stroke-width: 1.5; }
+      .bg-subpanel { fill: #2a2b36; stroke: #ab47bc; stroke-width: 1.2; }
+      .cell-header { fill: #252631; stroke: #37474f; stroke-width: 1; }
+      .cell-active { fill: #1e293b; stroke: #29b6f6; stroke-width: 2; }
+      .cell-regular { fill: #17181c; stroke: #263238; stroke-width: 1; }
+      .text-title { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: bold; fill: #ffffff; }
+      .text-code { font-family: 'Consolas', 'Courier New', monospace; font-size: 13px; fill: #29b6f6; }
+      .text-cell { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 12px; fill: #eceff1; }
+      .text-muted { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #b0bec5; }
+      .pointer-line { stroke: #ab47bc; stroke-width: 1.5; stroke-dasharray: 4,4; }
+    </style>
+  </defs>
+
+  <!-- Marco general de la ventana -->
+  <rect x="10" y="10" width="880" height="460" rx="8" class="bg-panel" />
+
+  <!-- 1. Barra de menús y herramientas -->
+  <rect x="25" y="25" width="850" height="40" rx="4" class="bg-subpanel" />
+  <text x="40" y="50" class="text-title">Google Sheets — Libro de Trabajo Corporativo</text>
+  <text x="400" y="50" class="text-muted">Archivo | Editar | Ver | Insertar | Formato | Datos | Herramientas</text>
+
+  <!-- 2. Cuadro de nombres y Barra de fórmulas -->
+  <rect x="25" y="75" width="80" height="35" rx="4" class="bg-subpanel" />
+  <text x="50" y="98" class="text-code">B2</text>
+
+  <rect x="115" y="75" width="760" height="35" rx="4" class="bg-subpanel" />
+  <text x="130" y="98" class="text-code">fx  =SUMA(B2:B5) * (1 + $D$1)</text>
+
+  <!-- Etiquetas descriptivas barra superior -->
+  <text x="35" y="125" class="text-muted">Cuadro Nombres</text>
+  <text x="450" y="125" class="text-muted">Barra de Fórmulas (Inicia obligatoriamente con =)</text>
+
+  <!-- 3. Cuadrícula de celdas -->
+  <!-- Cabeceras de columnas -->
+  <rect x="25" y="140" width="40" height="28" class="cell-header" />
+  <rect x="65" y="140" width="160" height="28" class="cell-header" />
+  <text x="140" y="159" class="text-title">A</text>
+  <rect x="225" y="140" width="160" height="28" class="cell-header" />
+  <text x="300" y="159" class="text-title">B</text>
+  <rect x="385" y="140" width="160" height="28" class="cell-header" />
+  <text x="460" y="159" class="text-title">C</text>
+  <rect x="545" y="140" width="160" height="28" class="cell-header" />
+  <text x="620" y="159" class="text-title">D</text>
+  <rect x="705" y="140" width="170" height="28" class="cell-header" />
+  <text x="785" y="159" class="text-title">E</text>
+
+  <!-- Fila 1 -->
+  <rect x="25" y="168" width="40" height="35" class="cell-header" /><text x="40" y="190" class="text-title">1</text>
+  <rect x="65" y="168" width="160" height="35" class="cell-regular" /><text x="80" y="190" class="text-cell">Parámetro</text>
+  <rect x="225" y="168" width="160" height="35" class="cell-regular" /><text x="240" y="190" class="text-cell">Valor Base</text>
+  <rect x="385" y="168" width="160" height="35" class="cell-regular" /><text x="400" y="190" class="text-cell">Estado</text>
+  <rect x="545" y="168" width="160" height="35" class="cell-regular" /><text x="660" y="190" class="text-cell">0,21</text>
+  <rect x="705" y="168" width="170" height="35" class="cell-regular" /><text x="720" y="190" class="text-cell">Ref. Dolar ($D$1)</text>
+
+  <!-- Fila 2 (Celda B2 Activa) -->
+  <rect x="25" y="203" width="40" height="35" class="cell-header" /><text x="40" y="225" class="text-title">2</text>
+  <rect x="65" y="203" width="160" height="35" class="cell-regular" /><text x="80" y="225" class="text-cell">Placa Base</text>
+  <rect x="225" y="203" width="160" height="35" class="cell-active" /><text x="340" y="225" class="text-cell">85,00 €</text>
+  <!-- Controlador de relleno (punto azul inferior derecha de B2) -->
+  <rect x="380" y="233" width="7" height="7" fill="#29b6f6" stroke="#ffffff" stroke-width="1" />
+  <rect x="385" y="203" width="160" height="35" class="cell-regular" /><text x="400" y="225" class="text-cell">Recibido</text>
+  <rect x="545" y="203" width="160" height="35" class="cell-regular" /><text x="560" y="225" class="text-cell">---</text>
+  <rect x="705" y="203" width="170" height="35" class="cell-regular" /><text x="720" y="225" class="text-cell">Operación Aritmética</text>
+
+  <!-- Fila 3 -->
+  <rect x="25" y="238" width="40" height="35" class="cell-header" /><text x="40" y="260" class="text-title">3</text>
+  <rect x="65" y="238" width="160" height="35" class="cell-regular" /><text x="80" y="260" class="text-cell">Memoria RAM</text>
+  <rect x="225" y="238" width="160" height="35" class="cell-regular" /><text x="340" y="260" class="text-cell">42,50 €</text>
+  <rect x="385" y="238" width="160" height="35" class="cell-regular" /><text x="400" y="260" class="text-cell">Pendiente</text>
+  <rect x="545" y="238" width="160" height="35" class="cell-regular" /><text x="560" y="260" class="text-cell">---</text>
+  <rect x="705" y="238" width="170" height="35" class="cell-regular" /><text x="720" y="260" class="text-cell">---</text>
+
+  <!-- Fila 4 -->
+  <rect x="25" y="273" width="40" height="35" class="cell-header" /><text x="40" y="295" class="text-title">4</text>
+  <rect x="65" y="273" width="160" height="35" class="cell-regular" /><text x="80" y="295" class="text-cell">Disco NVMe</text>
+  <rect x="225" y="273" width="160" height="35" class="cell-regular" /><text x="340" y="295" class="text-cell">65,00 €</text>
+  <rect x="385" y="273" width="160" height="35" class="cell-regular" /><text x="400" y="295" class="text-cell">Recibido</text>
+  <rect x="545" y="273" width="160" height="35" class="cell-regular" /><text x="560" y="295" class="text-cell">---</text>
+  <rect x="705" y="273" width="170" height="35" class="cell-regular" /><text x="720" y="295" class="text-cell">---</text>
+
+  <!-- Indicador del controlador de relleno -->
+  <line x1="384" y1="237" x2="470" y2="330" class="pointer-line" />
+  <rect x="470" y="320" width="230" height="30" rx="4" class="bg-subpanel" />
+  <text x="480" y="340" class="text-title">Controlador de relleno (Arrastre)</text>
+
+  <!-- 4. Pestañas inferiores de navegación -->
+  <rect x="25" y="420" width="130" height="35" rx="4" fill="#ab47bc" />
+  <text x="40" y="443" class="text-title">Presupuesto Q1</text>
+  <rect x="165" y="420" width="120" height="35" rx="4" class="bg-subpanel" />
+  <text x="180" y="443" class="text-muted">Tarifas 2026</text>
+  <rect x="295" y="420" width="40" height="35" rx="4" class="bg-subpanel" />
+  <text x="310" y="443" class="text-title">+</text>
+
+  <!-- 5. Barra de estado inferior derecha -->
+  <text x="680" y="443" class="text-code">SUMA: 192,50 € | RECUENTO: 3</text>
+</svg>
