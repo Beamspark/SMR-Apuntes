@@ -37,7 +37,7 @@ extra_javascript:
 
 nav:
   - 🏠 Inicio: index.md
-  - :material-lan: CFGM Sistemas Microinformáticos y Redes:
+  - 🖥️ CFGM Sistemas Microinformáticos y Redes:
       - smr/index.md
       - 🛠️ Montaje y Mantenimiento de Equipos:
           - smr/montaje/index.md
