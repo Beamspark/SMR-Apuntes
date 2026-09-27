@@ -11,40 +11,40 @@ Este espacio está concebido como una base de conocimiento estructurada, con esq
 ### 🛠️ Montaje y Mantenimiento de Equipos
 * **Descripción:** Arquitectura de computadores, parámetros eléctricos, componentes de hardware, protocolos de montaje seguro, diagnóstico de averías y mantenimiento preventivo/correctivo.
 * **Accesos rápidos:**
-    * [📖 Temario Teórico (Temas 1 al 11)](smr/montaje/index.md)
-    * [📝 Banco de Tests y Exámenes Globales](smr/montaje/test/index.md)
+    * [📖 Temario Teórico (Temas 1 al 11)](montaje/index.md)
+    * [📝 Banco de Tests y Exámenes Globales](montaje/test/index.md)
 
 ---
 
 ### 💻 Sistemas Operativos Monopuesto
 * **Descripción:** Caracterización y arquitectura de sistemas operativos, virtualización con hipervisores, instalación, configuración avanzada y administración de entornos libres (GNU/Linux) y propietarios (Windows).
 * **Accesos rápidos:**
-    * [📖 Temario Teórico (Temas 1 al 5)](smr/sistemas/index.md)
-    * [📝 Banco de Tests y Exámenes Globales](smr/sistemas/test/index.md)
+    * [📖 Temario Teórico (Temas 1 al 5)](sistemas/index.md)
+    * [📝 Banco de Tests y Exámenes Globales](sistemas/test/index.md)
 
 ---
 
 ### 📑 Aplicaciones Ofimáticas
 * **Descripción:** Implantación, parametrización y explotación de suites ofimáticas locales y cloud (Google Workspace), modelado de datos sin código (AppSheet), edición multimedia (imagen y vídeo digital) y técnicas profesionales de soporte y asistencia técnica al usuario.
 * **Accesos rápidos:**
-    * [📖 Temario Teórico (Temas 1 al 9)](smr/ofimatica/index.md)
-    * [📝 Banco de Tests y Exámenes Globales](smr/ofimatica/test/index.md)
+    * [📖 Temario Teórico (Temas 1 al 9)](ofimatica/index.md)
+    * [📝 Banco de Tests y Exámenes Globales](ofimatica/test/index.md)
 
 ---
 
 ### ⚡ Digitalización Aplicada a los Sectores Productivos
 * **Descripción:** Cuarta Revolución Industrial, computación en la nube (Cloud), tecnologías habilitadoras digitales (IoT, IA, Big Data), sostenibilidad tecnológica y planes de transformación digital.
 * **Accesos rápidos:**
-    * [📖 Temario Teórico (Temas 1 al 5)](smr/digitalizacion/index.md)
-    * [📝 Banco de Tests y Exámenes Globales](smr/digitalizacion/test/index.md)
+    * [📖 Temario Teórico (Temas 1 al 5)](digitalizacion/index.md)
+    * [📝 Banco de Tests y Exámenes Globales](digitalizacion/test/index.md)
 
 ---
 
 ### 💼 Itinerario Personal para la Empleabilidad I (IPE I)
 * **Descripción:** Análisis del sector productivo de las TIC, prevención de riesgos laborales (PRL) y salud en el trabajo, legislación y condiciones laborales, orientación profesional y aprendizaje autónomo.
 * **Accesos rápidos:**
-    * [📖 Temario Teórico (Temas 1 al 5)](smr/itinerario/index.md)
-    * [📝 Banco de Tests y Exámenes Globales](smr/itinerario/test/index.md)
+    * [📖 Temario Teórico (Temas 1 al 5)](itinerario/index.md)
+    * [📝 Banco de Tests y Exámenes Globales](itinerario/test/index.md)
 
 ---
 
