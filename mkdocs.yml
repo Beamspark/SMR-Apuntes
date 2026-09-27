@@ -15,13 +15,17 @@ theme:
 
 markdown_extensions:
   - abbr
+  - attr_list
+  - admonition
+  - md_in_html
+  - pymdownx.details
   - pymdownx.snippets:
       base_path: ["."]
   - pymdownx.arithmatex:
       generic: true
-  - md_in_html
-  - admonition
-  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
   - stylesheets/extra.css
@@ -33,7 +37,7 @@ extra_javascript:
 
 nav:
   - 🏠 Inicio: index.md
-  - 🖧 CFGM Sistemas Microinformáticos y Redes:
+  - 🖥️ CFGM Sistemas Microinformáticos y Redes:
       - smr/index.md
       - 🛠️ Montaje y Mantenimiento de Equipos:
           - smr/montaje/index.md
@@ -84,7 +88,7 @@ nav:
               - 🎯 Examen Global 1: smr/sistemas/test/examen-global-1.md
               - 🎯 Examen Global 2: smr/sistemas/test/examen-global-2.md
       - 📑 Aplicaciones Ofimáticas:
-          - smr/ofimaticas/index.md
+          - smr/ofimatica/index.md
           - "📚 Temario Teórico":
               - Tema 1 - Instalación de aplicaciones ofimáticas: smr/ofimatica/tema-1.md
               - Tema 2 - Procesadores de texto (Google Docs): smr/ofimatica/tema-2.md
