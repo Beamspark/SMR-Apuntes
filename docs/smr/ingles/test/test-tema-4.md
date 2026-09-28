@@ -5,8 +5,6 @@
 ---
 
 ### Pregunta 1
-I can’t carry my suitcase. It’s much ________ (heavy) than yours.
-
 <div class="quiz-fill-inline" data-answer="heavier">
   <p>
     I can’t carry my suitcase. It’s much <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(heavy)</strong> than yours.
@@ -23,8 +21,6 @@ I can’t carry my suitcase. It’s much ________ (heavy) than yours.
 ---
 
 ### Pregunta 2
-Mountains are ________ (high) than hills.
-
 <div class="quiz-fill-inline" data-answer="higher">
   <p>
     Mountains are <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(high)</strong> than hills.
@@ -41,8 +37,6 @@ Mountains are ________ (high) than hills.
 ---
 
 ### Pregunta 3
-He got a very good mark on his exam. The exam was ________ (easy) than he had expected.
-
 <div class="quiz-fill-inline" data-answer="easier">
   <p>
     He got a very good mark on his exam. The exam was <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(easy)</strong> than he had expected.
@@ -59,8 +53,6 @@ He got a very good mark on his exam. The exam was ________ (easy) than he had ex
 ---
 
 ### Pregunta 4
-I think that good health is ________ (important) than money.
-
 <div class="quiz-fill-inline" data-answer="more important">
   <p>
     I think that good health is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(important)</strong> than money.
@@ -77,8 +69,6 @@ I think that good health is ________ (important) than money.
 ---
 
 ### Pregunta 5
-In Canada, January is ________ (cold) than March.
-
 <div class="quiz-fill-inline" data-answer="colder">
   <p>
     In Canada, January is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(cold)</strong> than March.
@@ -95,8 +85,6 @@ In Canada, January is ________ (cold) than March.
 ---
 
 ### Pregunta 6
-Our apartment is ________ (good) than yours.
-
 <div class="quiz-fill-inline" data-answer="better">
   <p>
     Our apartment is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(good)</strong> than yours.
@@ -113,8 +101,6 @@ Our apartment is ________ (good) than yours.
 ---
 
 ### Pregunta 7
-I don’t understand this lesson. It is ________ (difficult) than the last one we did.
-
 <div class="quiz-fill-inline" data-answer="more difficult">
   <p>
     I don’t understand this lesson. It is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(difficult)</strong> than the last one we did.
@@ -131,8 +117,6 @@ I don’t understand this lesson. It is ________ (difficult) than the last one w
 ---
 
 ### Pregunta 8
-Yesterday was ________ (cold) day of the year.
-
 <div class="quiz-fill-inline" data-answer="the coldest,coldest">
   <p>
     Yesterday was <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(cold)</strong> day of the year.
@@ -149,8 +133,6 @@ Yesterday was ________ (cold) day of the year.
 ---
 
 ### Pregunta 9
-The Nile is ________ (large) river in the world.
-
 <div class="quiz-fill-inline" data-answer="the largest,largest">
   <p>
     The Nile is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(large)</strong> river in the world.
@@ -167,8 +149,6 @@ The Nile is ________ (large) river in the world.
 ---
 
 ### Pregunta 10
-I’ve bought ________ (expensive) car.
-
 <div class="quiz-fill-inline" data-answer="the most expensive">
   <p>
     I’ve bought <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(expensive)</strong> car.
@@ -185,8 +165,6 @@ I’ve bought ________ (expensive) car.
 ---
 
 ### Pregunta 11
-Marie is ________ (lucky) person I know. She has won the lottery four times!
-
 <div class="quiz-fill-inline" data-answer="the luckiest,luckiest">
   <p>
     Marie is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(lucky)</strong> person I know. She has won the lottery four times!
@@ -203,8 +181,6 @@ Marie is ________ (lucky) person I know. She has won the lottery four times!
 ---
 
 ### Pregunta 12
-My dinner only cost $10. That must be ________ (cheap) restaurant in town.
-
 <div class="quiz-fill-inline" data-answer="the cheapest,cheapest">
   <p>
     My dinner only cost $10. That must be <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(cheap)</strong> restaurant in town.
@@ -221,8 +197,6 @@ My dinner only cost $10. That must be ________ (cheap) restaurant in town.
 ---
 
 ### Pregunta 13
-Sarah is ________ (bad) basketball player of the team.
-
 <div class="quiz-fill-inline" data-answer="the worst,worst">
   <p>
     Sarah is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(bad)</strong> basketball player of the team.
@@ -239,8 +213,6 @@ Sarah is ________ (bad) basketball player of the team.
 ---
 
 ### Pregunta 14
-Mount Everest is ________ (high) mountain in the world.
-
 <div class="quiz-fill-inline" data-answer="the highest,highest">
   <p>
     Mount Everest is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(high)</strong> mountain in the world.
@@ -257,8 +229,6 @@ Mount Everest is ________ (high) mountain in the world.
 ---
 
 ### Pregunta 15
-A lemon is ________ (sweet) an orange.
-
 <div class="quiz-fill-inline" data-answer="as sweet as">
   <p>
     A lemon is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(sweet)</strong> an orange.
@@ -275,8 +245,6 @@ A lemon is ________ (sweet) an orange.
 ---
 
 ### Pregunta 16
-Tigers are ________ (dangerous) lions.
-
 <div class="quiz-fill-inline" data-answer="as dangerous as">
   <p>
     Tigers are <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(dangerous)</strong> lions.
@@ -293,8 +261,6 @@ Tigers are ________ (dangerous) lions.
 ---
 
 ### Pregunta 17
-My house is ________ (tall) a skyscraper.
-
 <div class="quiz-fill-inline" data-answer="as tall as">
   <p>
     My house is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(tall)</strong> a skyscraper.
@@ -311,8 +277,6 @@ My house is ________ (tall) a skyscraper.
 ---
 
 ### Pregunta 18
-France is ________ (beautiful) Switzerland.
-
 <div class="quiz-fill-inline" data-answer="as beautiful as">
   <p>
     France is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(beautiful)</strong> Switzerland.
@@ -329,8 +293,6 @@ France is ________ (beautiful) Switzerland.
 ---
 
 ### Pregunta 19
-The train is ________ (not fast) the airplane.
-
 <div class="quiz-fill-inline" data-answer="as fast as,not as fast as,not so fast as">
   <p>
     The train is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not fast)</strong> the airplane.
@@ -347,8 +309,6 @@ The train is ________ (not fast) the airplane.
 ---
 
 ### Pregunta 20
-This bicycle is ________ (expensive) a motorcycle.
-
 <div class="quiz-fill-inline" data-answer="as expensive as">
   <p>
     This bicycle is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(expensive)</strong> a motorcycle.
@@ -365,8 +325,6 @@ This bicycle is ________ (expensive) a motorcycle.
 ---
 
 ### Pregunta 21
-Algebra is ________ (difficult) geometry.
-
 <div class="quiz-fill-inline" data-answer="as difficult as">
   <p>
     Algebra is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(difficult)</strong> geometry.
@@ -599,8 +557,6 @@ Choose the superlative of Bad:
 ---
 
 ### Pregunta 30
-He sent a copy of his document to his bank ____ safe keeping.
-
 <div class="quiz-fill-inline" data-answer="for">
   <p>
     He sent a copy of his document to his bank <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> safe keeping.
@@ -617,8 +573,6 @@ He sent a copy of his document to his bank ____ safe keeping.
 ---
 
 ### Pregunta 31
-The house is to be sold ____ auction.
-
 <div class="quiz-fill-inline" data-answer="by,at">
   <p>
     The house is to be sold <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> auction.
@@ -635,8 +589,6 @@ The house is to be sold ____ auction.
 ---
 
 ### Pregunta 32
-There has been a sharp increase ____ house prices in recent months.
-
 <div class="quiz-fill-inline" data-answer="in">
   <p>
     There has been a sharp increase <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> house prices in recent months.
@@ -653,8 +605,6 @@ There has been a sharp increase ____ house prices in recent months.
 ---
 
 ### Pregunta 33
-She takes great pride ____ her work.
-
 <div class="quiz-fill-inline" data-answer="in">
   <p>
     She takes great pride <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> her work.
@@ -671,8 +621,6 @@ She takes great pride ____ her work.
 ---
 
 ### Pregunta 34
-Do you know of a cure ____ baldness?
-
 <div class="quiz-fill-inline" data-answer="for">
   <p>
     Do you know of a cure <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> baldness?
@@ -689,8 +637,6 @@ Do you know of a cure ____ baldness?
 ---
 
 ### Pregunta 35
-I’m sorry, but I’m not ____ liberty to tell you anymore.
-
 <div class="quiz-fill-inline" data-answer="at">
   <p>
     I’m sorry, but I’m not <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> liberty to tell you anymore.
@@ -707,8 +653,6 @@ I’m sorry, but I’m not ____ liberty to tell you anymore.
 ---
 
 ### Pregunta 36
-Did she give you any reason ____ her behaviour?
-
 <div class="quiz-fill-inline" data-answer="for">
   <p>
     Did she give you any reason <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> her behaviour?
@@ -725,8 +669,6 @@ Did she give you any reason ____ her behaviour?
 ---
 
 ### Pregunta 37
-I don’t know his exact age; I can only guess ________ how old he really is.
-
 <div class="quiz-fill-inline" data-answer="at">
   <p>
     I don’t know his exact age; I can only guess <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> how old he really is.
@@ -743,8 +685,6 @@ I don’t know his exact age; I can only guess ________ how old he really is.
 ---
 
 ### Pregunta 38
-Tall people are definitely ________ an advantage at a football match.
-
 <div class="quiz-fill-inline" data-answer="at">
   <p>
     Tall people are definitely <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> an advantage at a football match.
@@ -761,8 +701,6 @@ Tall people are definitely ________ an advantage at a football match.
 ---
 
 ### Pregunta 39
-After the war, several people were tried for crimes ________ humanity.
-
 <div class="quiz-fill-inline" data-answer="against">
   <p>
     After the war, several people were tried for crimes <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> humanity.
@@ -779,8 +717,6 @@ After the war, several people were tried for crimes ________ humanity.
 ---
 
 ### Pregunta 40
-It is possible to insure yourself ________ nuclear attack?
-
 <div class="quiz-fill-inline" data-answer="against">
   <p>
     It is possible to insure yourself <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> nuclear attack?
@@ -797,8 +733,6 @@ It is possible to insure yourself ________ nuclear attack?
 ---
 
 ### Pregunta 41
-Today I feel really miserable, because I cannot find anything to complain ________.
-
 <div class="quiz-fill-inline" data-answer="about">
   <p>
     Today I feel really miserable, because I cannot find anything to complain <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -815,8 +749,6 @@ Today I feel really miserable, because I cannot find anything to complain ______
 ---
 
 ### Pregunta 42
-At school today, we had a long discussion ________ the best way to learn a foreign language.
-
 <div class="quiz-fill-inline" data-answer="about">
   <p>
     At school today, we had a long discussion <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the best way to learn a foreign language.
@@ -833,8 +765,6 @@ At school today, we had a long discussion ________ the best way to learn a forei
 ---
 
 ### Pregunta 43
-Raise the gun to your shoulder, aim ________ the target, and try not to kill anyone.
-
 <div class="quiz-fill-inline" data-answer="at">
   <p>
     Raise the gun to your shoulder, aim <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the target, and try not to kill anyone.
@@ -851,8 +781,6 @@ Raise the gun to your shoulder, aim ________ the target, and try not to kill any
 ---
 
 ### Pregunta 44
-Do you take pride ________ your appearance, or are you just vain?
-
 <div class="quiz-fill-inline" data-answer="in">
   <p>
     Do you take pride <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> your appearance, or are you just vain?
@@ -869,8 +797,6 @@ Do you take pride ________ your appearance, or are you just vain?
 ---
 
 ### Pregunta 45
-Father must be ________ a bad temper.
-
 <div class="quiz-fill-inline" data-answer="in">
   <p>
     Father must be <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> a bad temper.
@@ -887,8 +813,6 @@ Father must be ________ a bad temper.
 ---
 
 ### Pregunta 46
-All forms of travel are expensive nowadays, but, ________ balance, air travel offers the best value for money.
-
 <div class="quiz-fill-inline" data-answer="on">
   <p>
     All forms of travel are expensive nowadays, but, <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> balance, air travel offers the best value for money.
@@ -905,8 +829,6 @@ All forms of travel are expensive nowadays, but, ________ balance, air travel of
 ---
 
 ### Pregunta 47
-There’s no point in getting upset ________ things that are beyond your control.
-
 <div class="quiz-fill-inline" data-answer="over,about">
   <p>
     There’s no point in getting upset <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> things that are beyond your control.
@@ -923,8 +845,6 @@ There’s no point in getting upset ________ things that are beyond your control
 ---
 
 ### Pregunta 48
-I am a bit weak ________ science subjects, but I am trying to improve.
-
 <div class="quiz-fill-inline" data-answer="in">
   <p>
     I am a bit weak <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> science subjects, but I am trying to improve.
@@ -941,8 +861,6 @@ I am a bit weak ________ science subjects, but I am trying to improve.
 ---
 
 ### Pregunta 49
-I’ve been ________ your essay, and I wore out three red pens making corrections.
-
 <div class="quiz-fill-inline" data-answer="over">
   <p>
     I’ve been <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> your essay, and I wore out three red pens making corrections.
@@ -959,8 +877,6 @@ I’ve been ________ your essay, and I wore out three red pens making correction
 ---
 
 ### Pregunta 50
-Make yourself a drink while I go and slip _______ something more comfortable.
-
 <div class="quiz-fill-inline" data-answer="into">
   <p>
     Make yourself a drink while I go and slip <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> something more comfortable.
@@ -1193,8 +1109,6 @@ These orders must be _______ without delay.
 ---
 
 ### Pregunta 59
-We should ________ ______ the cost of the trip before booking the hotel. (calcular una suma)
-
 <div class="quiz-fill-inline" data-answer="add up">
   <p>
     We should <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the cost of the trip before booking the hotel. <strong>(calcular una suma)</strong>
@@ -1211,8 +1125,6 @@ We should ________ ______ the cost of the trip before booking the hotel. (calcul
 ---
 
 ### Pregunta 60
-Our car ________ _______ in the middle of the highway, so we had to call a mechanic. (estropear)
-
 <div class="quiz-fill-inline" data-answer="broke down">
   <p>
     Our car <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> in the middle of the highway, so we had to call a mechanic. <strong>(estropear)</strong>
@@ -1229,8 +1141,6 @@ Our car ________ _______ in the middle of the highway, so we had to call a mecha
 ---
 
 ### Pregunta 61
-He suddenly ________ _______ our conversation to tell us some news. (interrumpir)
-
 <div class="quiz-fill-inline" data-answer="broke in">
   <p>
     He suddenly <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> our conversation to tell us some news. <strong>(interrumpir)</strong>
@@ -1247,8 +1157,6 @@ He suddenly ________ _______ our conversation to tell us some news. (interrumpir
 ---
 
 ### Pregunta 62
-They decided to ________ ______ after ten years of marriage. (terminar una relación)
-
 <div class="quiz-fill-inline" data-answer="break up">
   <p>
     They decided to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> after ten years of marriage. <strong>(terminar una relación)</strong>
@@ -1265,8 +1173,6 @@ They decided to ________ ______ after ten years of marriage. (terminar una relac
 ---
 
 ### Pregunta 63
-The prisoners managed to ________ ______ of jail last night. (escapar)
-
 <div class="quiz-fill-inline" data-answer="break out">
   <p>
     The prisoners managed to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> of jail last night. <strong>(escapar)</strong>
@@ -1283,8 +1189,6 @@ The prisoners managed to ________ ______ of jail last night. (escapar)
 ---
 
 ### Pregunta 64
-The new law will ________ ______ many changes in the education system. (hacer que suceda algo)
-
 <div class="quiz-fill-inline" data-answer="bring about">
   <p>
     The new law will <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> many changes in the education system. <strong>(hacer que suceda algo)</strong>
@@ -1301,8 +1205,6 @@ The new law will ________ ______ many changes in the education system. (hacer qu
 ---
 
 ### Pregunta 65
-The concert was ________ due to bad weather. (cancelar algo)
-
 <div class="quiz-fill-inline" data-answer="called off">
   <p>
     The concert was <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> due to bad weather. <strong>(cancelar algo)</strong>
@@ -1319,8 +1221,6 @@ The concert was ________ due to bad weather. (cancelar algo)
 ---
 
 ### Pregunta 66
-Eating too much junk food can ________ _______ serious health problems. (ser la causa de algo negativo)
-
 <div class="quiz-fill-inline" data-answer="bring on">
   <p>
     Eating too much junk food can <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> serious health problems. <strong>(ser la causa de algo negativo)</strong>
@@ -1337,8 +1237,6 @@ Eating too much junk food can ________ _______ serious health problems. (ser la 
 ---
 
 ### Pregunta 67
-Her grandparents ________ her ______ after her parents passed away. (criar a un niño hasta que crece)
-
 <div class="quiz-fill-inline" data-answer="brought ... up,brought up,brought,up">
   <p>
     Her grandparents <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> her <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> after her parents passed away. <strong>(criar a un niño hasta que crece)</strong>
@@ -1355,8 +1253,6 @@ Her grandparents ________ her ______ after her parents passed away. (criar a un 
 ---
 
 ### Pregunta 68
-She always ________ ______ her friends when they need support. (apoyar)
-
 <div class="quiz-fill-inline" data-answer="backs up">
   <p>
     She always <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> her friends when they need support. <strong>(apoyar)</strong>
@@ -1373,11 +1269,9 @@ She always ________ ______ her friends when they need support. (apoyar)
 ---
 
 ### Pregunta 69
-Last summer, my friends and I decided to (1) _______________ on a road trip across the country.
-
 <div class="quiz-fill-inline" data-answer="set off">
   <p>
-    Last summer, my friends and I decided to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> on a road trip across the country.
+    Last summer, my friends and I decided to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> on a road trip across the country. <strong>(1)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1391,11 +1285,9 @@ Last summer, my friends and I decided to (1) _______________ on a road trip acro
 ---
 
 ### Pregunta 70
-Everything was going well until our car (2) _______________ in the middle of nowhere.
-
 <div class="quiz-fill-inline" data-answer="broke down">
   <p>
-    Everything was going well until our car <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> in the middle of nowhere.
+    Everything was going well until our car <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> in the middle of nowhere. <strong>(2)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1409,11 +1301,9 @@ Everything was going well until our car (2) _______________ in the middle of now
 ---
 
 ### Pregunta 71
-While we waited, we realised that we had completely (3) _______________ food and water...
-
 <div class="quiz-fill-inline" data-answer="run out of">
   <p>
-    While we waited, we realised that we had completely <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> food and water...
+    While we waited, we realised that we had completely <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> food and water... <strong>(3)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1427,11 +1317,9 @@ While we waited, we realised that we had completely (3) _______________ food and
 ---
 
 ### Pregunta 72
-My best friend started to (4) _______________ a childhood story that I had never heard before.
-
 <div class="quiz-fill-inline" data-answer="bring up">
   <p>
-    My best friend started to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> a childhood story that I had never heard before.
+    My best friend started to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> a childhood story that I had never heard before. <strong>(4)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1445,11 +1333,9 @@ My best friend started to (4) _______________ a childhood story that I had never
 ---
 
 ### Pregunta 73
-It was funny to (5) _______________ that he had once tried to run away from home...
-
 <div class="quiz-fill-inline" data-answer="find out">
   <p>
-    It was funny to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> that he had once tried to run away from home...
+    It was funny to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> that he had once tried to run away from home... <strong>(5)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1463,11 +1349,9 @@ It was funny to (5) _______________ that he had once tried to run away from home
 ---
 
 ### Pregunta 74
-...we were so excited that we decided to (6) _______________ late, talking and laughing.
-
 <div class="quiz-fill-inline" data-answer="stay up">
   <p>
-    ...we were so excited that we decided to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> late, talking and laughing.
+    ...we were so excited that we decided to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> late, talking and laughing. <strong>(6)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1481,11 +1365,9 @@ It was funny to (5) _______________ that he had once tried to run away from home
 ---
 
 ### Pregunta 75
-The trip (7) _______________ to be one of the best experiences of our lives.
-
 <div class="quiz-fill-inline" data-answer="turned out">
   <p>
-    The trip <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> to be one of the best experiences of our lives.
+    The trip <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> to be one of the best experiences of our lives. <strong>(7)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1499,11 +1381,9 @@ The trip (7) _______________ to be one of the best experiences of our lives.
 ---
 
 ### Pregunta 76
-I promised myself I would never (8) _______________ on travelling and exploring new places.
-
 <div class="quiz-fill-inline" data-answer="give up">
   <p>
-    I promised myself I would never <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> on travelling and exploring new places.
+    I promised myself I would never <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> on travelling and exploring new places. <strong>(8)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1517,11 +1397,9 @@ I promised myself I would never (8) _______________ on travelling and exploring 
 ---
 
 ### Pregunta 77
-...how important it is to (9) _______________ your vehicle properly before going on a long trip!
-
 <div class="quiz-fill-inline" data-answer="look after">
   <p>
-    ...how important it is to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> your vehicle properly before going on a long trip!
+    ...how important it is to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> your vehicle properly before going on a long trip! <strong>(9)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1535,11 +1413,9 @@ I promised myself I would never (8) _______________ on travelling and exploring 
 ---
 
 ### Pregunta 78
-Next time, we will definitely (10) _______________ better plans to avoid these problems.
-
 <div class="quiz-fill-inline" data-answer="come up with">
   <p>
-    Next time, we will definitely <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> better plans to avoid these problems.
+    Next time, we will definitely <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> better plans to avoid these problems. <strong>(10)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
