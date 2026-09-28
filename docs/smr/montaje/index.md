@@ -29,4 +29,8 @@ Bienvenido al módulo de **Montaje y Mantenimiento de Equipos**. En esta secció
 
 ## 📝 [Ir al Banco de Tests](test/index.md)
 
+---
+
+## 📋 [Ir a Pruebas de Evaluación(PACs)](pac/index.md)
+
 --8<-- "docs/includes/glosario.md"
