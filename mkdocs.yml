@@ -71,6 +71,23 @@ nav:
               - 🎯 Examen Global 2: smr/montaje/test/examen-global-2.md
           - "📋 Pruebas de Evaluación (PAC)":
               - Índice de PAC: smr/montaje/pac/index.md
+              - PAC 1 (RA1) - Bloques funcionales I: smr/montaje/pac/pac-1-ra1.md
+              - PAC 2 (RA1) - Bloques funcionales II: smr/montaje/pac/pac-2-ra1.md
+              - PAC 1 (RA2) - Montaje e Instalación I: smr/montaje/pac/pac-1-ra2.md
+              - PAC 2 (RA2) - Montaje e Instalación II: smr/montaje/pac/pac-2-ra2-desarrollo.md
+              - PAC 1 (RA3) - Medición de parámetros eléctricos (Test): smr/montaje/pac/pac-1-ra3.md
+              - PAC 2 (RA3) - Medición de parámetros eléctricos (Desarrollo): smr/montaje/pac/pac-2-ra3-desarrollo.md
+              - PAC 1 (RA4) - Mantenimiento de equipos I: smr/montaje/pac/pac-1-ra4.md
+              - PAC 2 (RA4) - Mantenimiento de equipos II: smr/montaje/pac/pac-2-ra4.md
+              - PAC 1 (RA5) - Instalaciones I: smr/montaje/pac/pac-1-ra5.md
+              - PAC 2 (RA5) - Instalaciones II: smr/montaje/pac/pac-2-ra5.md
+              - PAC 1 (RA6) - Nuevas tendencias I: smr/montaje/pac/pac-1-ra6.md
+              - PAC 2 (RA6) - Nuevas tendencias II: smr/montaje/pac/pac-2-ra6.md
+              - PAC 1 (RA7) - Periféricos I: smr/montaje/pac/pac-1-ra7.md
+              - PAC 2 (RA7) - Periféricos II: smr/montaje/pac/pac-2-ra7.md
+              - PAC 1 (RA8) - Prevención de Riesgos Laborales I: smr/montaje/pac/pac-1-ra8.md
+              - PAC 2 (RA8) - Prevención de Riesgos Laborales II: smr/montaje/pac/pac-2-ra8.md
+
       - 💻 Sistemas Operativos Monopuesto:
           - smr/sistemas/index.md
           - "📚 Temario Teórico":
@@ -91,6 +108,11 @@ nav:
               - 🎯 Examen Global 2: smr/sistemas/test/examen-global-2.md
           - "📋 Pruebas de Evaluación (PAC)":
               - Índice de PAC: smr/sistemas/pac/index.md
+              - PAC 1 (RA1) - Caracterización de sistemas operativos: smr/sistemas/pac/pac-1-ra1.md
+              - PAC 2 (RA1) - Sistemas de numeración: smr/sistemas/pac/pac-2-ra1.md
+              - PAC 1 (RA5) - Virtualización y arquitecturas: smr/sistemas/pac/pac-1-ra5.md
+              - PAC 2 (RA5) - Instalación en máquinas virtuales: smr/sistemas/pac/pac-2-ra5.md
+
       - 📑 Aplicaciones Ofimáticas:
           - smr/ofimatica/index.md
           - "📚 Temario Teórico":
@@ -119,6 +141,25 @@ nav:
               - 🎯 Examen Global 2: smr/ofimatica/test/examen-global-2.md
           - "📋 Pruebas de Evaluación (PAC)":
               - Índice de PAC: smr/ofimatica/pac/index.md
+              - PAC 1 (RA1) - Sistemas informáticos: smr/ofimatica/pac/pac-1-ra1.md
+              - PAC 2 (RA1) - Sistemas Operativos: smr/ofimatica/pac/pac-2-ra1.md
+              - PAC 1 (RA2) - Procesadores de texto I: smr/ofimatica/pac/pac-1-ra2.md
+              - PAC 2 (RA2) - Procesadores de texto II: smr/ofimatica/pac/pac-2-ra2.md
+              - PAC 1 (RA3) - Hojas de Cálculo I: smr/ofimatica/pac/pac-1-ra3.md
+              - PAC 2 (RA3) - Hojas de cálculo y plantillas: smr/ofimatica/pac/pac-2-ra3-desarrollo.md
+              - PAC 1 (RA4) - Bases de datos I: smr/ofimatica/pac/pac-1-ra4.md
+              - PAC 2 (RA4) - Bases de datos y no-code: smr/ofimatica/pac/pac-2-ra4-desarrollo.md
+              - PAC 1 (RA5) - Edición de Imagen I: smr/ofimatica/pac/pac-1-ra5.md
+              - PAC 2 (RA5) - Edición de Imagen II: smr/ofimatica/pac/pac-2-ra5.md
+              - PAC 1 (RA6) - Edición de Vídeo I: smr/ofimatica/pac/pac-1-ra6.md
+              - PAC 2 (RA6) - Edición de Vídeo II: smr/ofimatica/pac/pac-2-ra6.md
+              - PAC 1 (RA7) - Presentaciones multimedia I: smr/ofimatica/pac/pac-1-ra7.md
+              - PAC 2 (RA7) - Presentaciones multimedia II: smr/ofimatica/pac/pac-2-ra7.md
+              - PAC 1 (RA8) - Correo electrónico: smr/ofimatica/pac/pac-1-ra8.md
+              - PAC 2 (RA8) - Seguridad y Agenda electrónica: smr/ofimatica/pac/pac-2-ra8.md
+              - PAC 1 (RA9) - Guías y manuales de usuario: smr/ofimatica/pac/pac-1-ra9.md
+              - PAC 2 (RA9) - Software ofimático y malware: smr/ofimatica/pac/pac-2-ra9.md
+
       - ⚡ Digitalización Aplicada a los Sectores Productivos:
           - smr/digitalizacion/index.md
           - "📚 Temario Teórico":
@@ -139,6 +180,17 @@ nav:
               - 🎯 Examen Global 2: smr/digitalizacion/test/examen-global-2.md
           - "📋 Pruebas de Evaluación (PAC)":
               - Índice de PAC: smr/digitalizacion/pac/index.md
+              - PAC 1 (RA1) - Economía Lineal vs. Circular I: smr/digitalizacion/pac/pac-1-ra1.md
+              - PAC 2 (RA1) - Economía Lineal vs. Circular II: smr/digitalizacion/pac/pac-2-ra1.md
+              - PAC 1 (RA2) - Cuarta Rev. Ind. (Clientes y Empresa I): smr/digitalizacion/pac/pac-1-ra2.md
+              - PAC 2 (RA2) - Cuarta Rev. Ind. (Industria 4.0): smr/digitalizacion/pac/pac-2-ra2-desarrollo.md
+              - PAC 1 (RA3) - Cloud y sistemas conectados I: smr/digitalizacion/pac/pac-1-ra3.md
+              - PAC 2 (RA3) - Cloud y sistemas conectados II: smr/digitalizacion/pac/pac-2-ra3.md
+              - PAC 1 (RA4) - Sistemas productivos I: smr/digitalizacion/pac/pac-1-ra4-desarrollo.md
+              - PAC 2 (RA4) - Sistemas productivos II: smr/digitalizacion/pac/pac-2-ra4.md
+              - PAC 1 (RA5) - Planes de transformación digital I: smr/digitalizacion/pac/pac-1-ra5.md
+              - PAC 2 (RA5) - Planes de transformación digital II: smr/digitalizacion/pac/pac-2-ra5.md
+
       - 💼 Itinerario Personal para la Empleabilidad I (IPE I):
           - smr/itinerario/index.md
           - "📚 Temario Teórico":
@@ -159,6 +211,18 @@ nav:
               - 🎯 Examen Global 2: smr/itinerario/test/examen-global-2.md
           - "📋 Pruebas de Evaluación (PAC)":
               - Índice de PAC: smr/itinerario/pac/index.md
+              - PAC 1 (RA1) - Oportunidades e inserción: smr/itinerario/pac/pac-1-ra1.md
+              - PAC 2 (RA1) - Actitudes y aptitudes: smr/itinerario/pac/pac-2-ra1.md
+              - PAC 1 (RA2) - El trabajo y la salud: smr/itinerario/pac/pac-1-ra2.md
+              - PAC 2 (RA2) - Prevención de riesgos laborales (D): smr/itinerario/pac/pac-2-ra2-desarrollo.md
+              - PAC 3 (RA2) - Prevención de riesgos laborales: smr/itinerario/pac/pac-3-ra2.md
+              - PAC 1 (RA3) - El derecho laboral: smr/itinerario/pac/pac-1-ra3.md
+              - PAC 2 (RA3) - Condiciones y derechos laborales: smr/itinerario/pac/pac-2-ra3-desarrollo.md
+              - PAC 1 (RA4) - Autoorientación y planificación I: smr/itinerario/pac/pac-1-ra4.md
+              - PAC 2 (RA4) - Autoorientación y planificación II: smr/itinerario/pac/pac-2-ra4.md
+              - PAC 1 (RA5) - Estrategias de aprendizaje autónomo: smr/itinerario/pac/pac-1-ra5.md
+              - PAC 2 (RA5) - Aprendizaje continuo: smr/itinerario/pac/pac-2-ra5.md
+
       - 🌐 Inglés Profesional:
           - smr/ingles/index.md
           - "📚 Temario Teórico":
@@ -189,3 +253,13 @@ nav:
               - 🎯 Examen Global 2: smr/ingles/test/examen-global-2.md
           - "📋 Pruebas de Evaluación (PAC)":
               - Índice de PAC: smr/ingles/pac/index.md
+              - PAC 1 (RA1) - Present, Past & Comparatives: smr/ingles/pac/pac-1-ra1.md
+              - PAC 2 (RA1) - Listening Comprehension: smr/ingles/pac/pac-2-ra1.md
+              - PAC 1 (RA2) - Relative clauses & Passive voice: smr/ingles/pac/pac-1-ra2.md
+              - PAC 2 (RA2) - Reading Comprehension: smr/ingles/pac/pac-2-ra2.md
+              - PAC 1 (RA3) - Conditionals & Prepositions: smr/ingles/pac/pac-1-ra3.md
+              - PAC 2 (RA3) - Speaking Task: smr/ingles/pac/pac-2-ra3-desarrollo.md
+              - PAC 1 (RA4) - Future tense & Modal verbs: smr/ingles/pac/pac-1-ra4.md
+              - PAC 2 (RA4) - Technical Writing Task: smr/ingles/pac/pac-2-ra4-desarrollo.md
+              - PAC 1 (RA5) - Reported speech: smr/ingles/pac/pac-1-ra5.md
+              - PAC 2 (RA5) - Cultural & Business Etiquette: smr/ingles/pac/pac-2-ra5.md
