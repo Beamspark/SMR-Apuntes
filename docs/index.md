@@ -18,6 +18,7 @@ Ciclo de Grado Medio orientado a la instalación, configuración y mantenimiento
     * 📑 Aplicaciones Ofimáticas
     * ⚡ Digitalización Aplicada a los Sectores Productivos
     * 💼 Itinerario Personal para la Empleabilidad I (IPE I)
+    * 🌐 Inglés Profesional
 * **Acceso directo:** [Entrar al Cuaderno de SMR ➔](smr/index.md)
 
 ---
