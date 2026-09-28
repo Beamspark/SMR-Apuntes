@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 450" width="100%" height="100%">
+  <!-- Título Superior -->
+  <text x="475" y="35" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="bold" text-anchor="middle">Leyes Fundamentales del Lenguaje Audiovisual</text>
+
+  <!-- Contenedor Izquierdo: Ley de los 180 Grados -->
+  <rect x="30" y="60" width="430" height="370" rx="8" fill="#1e1e24" stroke="#29b6f6" stroke-width="1.5"/>
+  <rect x="30" y="60" width="430" height="40" rx="8" fill="#2a2b36"/>
+  <text x="245" y="86" fill="#29b6f6" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">LEY DE LOS 180° (Eje de Acción)</text>
+
+  <!-- Personajes A y B -->
+  <circle cx="160" cy="200" r="22" fill="#242b3d" stroke="#ab47bc" stroke-width="2"/>
+  <text x="160" y="206" fill="#ab47bc" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Sujeto A</text>
+
+  <circle cx="330" cy="200" r="22" fill="#242b3d" stroke="#ab47bc" stroke-width="2"/>
+  <text x="330" y="206" fill="#ab47bc" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Sujeto B</text>
+
+  <!-- Línea del Eje de Acción -->
+  <line x1="90" y1="200" x2="400" y2="200" stroke="#e57373" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="245" y="190" fill="#e57373" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">EJE DE ACCIÓN (Línea Imaginaria)</text>
+
+  <!-- Semicírculo Válido (Zona Permitida) -->
+  <path d="M 120 200 A 125 125 0 0 1 370 200" fill="none" stroke="#81c784" stroke-width="2" stroke-dasharray="4,4"/>
+  <text x="245" y="135" fill="#81c784" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Radio de 180° Permitido</text>
+
+  <!-- Cámaras Correctas -->
+  <rect x="180" y="100" width="45" height="25" rx="3" fill="#141419" stroke="#81c784" stroke-width="1.5"/>
+  <text x="202" y="117" fill="#81c784" font-family="sans-serif" font-size="10" text-anchor="middle">Cám 1</text>
+
+  <rect x="270" y="100" width="45" height="25" rx="3" fill="#141419" stroke="#81c784" stroke-width="1.5"/>
+  <text x="292" y="117" fill="#81c784" font-family="sans-serif" font-size="10" text-anchor="middle">Cám 2</text>
+
+  <!-- Cámara Incorrecta (Salto de Eje) -->
+  <rect x="225" y="270" width="55" height="25" rx="3" fill="#141419" stroke="#e57373" stroke-width="1.5"/>
+  <text x="252" y="287" fill="#e57373" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">Cám 3 (X)</text>
+  <text x="245" y="320" fill="#e57373" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">¡SALTO DE EJE!</text>
+  <text x="245" y="340" fill="#b0bec5" font-family="sans-serif" font-size="11" text-anchor="middle">Cruzar el eje invierte las posiciones en pantalla</text>
+  <text x="245" y="358" fill="#b0bec5" font-family="sans-serif" font-size="11" text-anchor="middle">y genera desorientación en el espectador.</text>
+
+  <!-- Contenedor Derecho: Ley de los 30 Grados -->
+  <rect x="490" y="60" width="430" height="370" rx="8" fill="#1e1e24" stroke="#ab47bc" stroke-width="1.5"/>
+  <rect x="490" y="60" width="430" height="40" rx="8" fill="#2a2b36"/>
+  <text x="705" y="86" fill="#ab47bc" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">LEY DE LOS 30° (Variación Angular)</text>
+
+  <!-- Sujeto Central -->
+  <circle cx="705" cy="180" r="26" fill="#242b3d" stroke="#29b6f6" stroke-width="2"/>
+  <text x="705" y="186" fill="#29b6f6" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Sujeto</text>
+
+  <!-- Tiro de Cámara 1 -->
+  <line x1="705" y1="206" x2="705" y2="340" stroke="#29b6f6" stroke-width="2"/>
+  <rect x="680" y="340" width="50" height="30" rx="4" fill="#141419" stroke="#29b6f6" stroke-width="1.5"/>
+  <text x="705" y="360" fill="#29b6f6" font-family="sans-serif" font-size="11" text-anchor="middle">Plano 1</text>
+
+  <!-- Tiro de Cámara 2 (Correcto > 30°) -->
+  <line x1="725" y1="200" x2="830" y2="310" stroke="#81c784" stroke-width="2"/>
+  <rect x="815" y="310" width="50" height="30" rx="4" fill="#141419" stroke="#81c784" stroke-width="1.5"/>
+  <text x="840" y="330" fill="#81c784" font-family="sans-serif" font-size="11" text-anchor="middle">Plano 2</text>
+  <text x="790" y="270" fill="#81c784" font-family="sans-serif" font-size="12" font-weight="bold">θ &gt; 30°</text>
+
+  <!-- Tiro de Cámara con Ángulo Insuficiente (< 30°) -->
+  <line x1="715" y1="205" x2="745" y2="330" stroke="#e57373" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <text x="735" y="300" fill="#e57373" font-family="sans-serif" font-size="10">&lt; 30°</text>
+
+  <rect x="520" y="385" width="370" height="35" rx="4" fill="#2a2b36"/>
+  <text x="705" y="407" fill="#eceff1" font-family="sans-serif" font-size="11" text-anchor="middle">Cambios &lt; 30° producen salto brusco visual (<tspan fill="#e57373" font-weight="bold">jump cut</tspan>).</text>
+</svg>
