@@ -24,4 +24,8 @@ Bienvenido al módulo de **Sistemas Operativos Monopuesto**. En esta sección en
 
 ## 📝 [Ir al Banco de Tests](test/index.md)
 
+---
+
+## 📋 [Ir a Pruebas de Evaluación(PACs)](pac/index.md)
+
 --8<-- "docs/includes/glosario.md"
