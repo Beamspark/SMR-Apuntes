@@ -1,4 +1,4 @@
-<h1 style="color: #ab47bc;">📖 Unit 2 — Following Instructions</h1>
+<h1 style="color: #ab47bc;">📋 Unit 2 — Following Instructions</h1>
 
 La correcta interpretación y emisión de instrucciones técnicas, protocolos de montaje y orientaciones espaciales en lengua inglesa constituye una competencia instrumental crítica en el soporte microinformático. Esta unidad aborda la estructuración procedimental paso a paso mediante conectores e imperativos, el sistema integral de pronombres y determinantes posesivos, la articulación del Past Continuous frente a acciones interruptivas en Past Simple, las preposiciones espaciales de ubicación física de infraestructuras y el régimen de inseparabilidad sintáctica en los verbos preposicionales (*Prepositional Verbs*).
 
