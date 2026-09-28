@@ -1,3 +1,7 @@
+[← Volver al Índice de PACs](./index.md)
+
+---
+
 ### Pregunta 1
 ¿Cuál de los siguientes aspectos NO es un factor clave al analizar un sector productivo?
 
