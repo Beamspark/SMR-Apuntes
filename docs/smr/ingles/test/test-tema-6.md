@@ -5,7 +5,11 @@
 ---
 
 ### Pregunta 1
-Email 1: *"Hi Team, I hope this email finds you well. I’m writing to confirm our meeting scheduled for Thursday, March 10th, at 3:00 PM. We will meet in the main conference room to discuss the upcoming project timeline and deliverables. Please let me know if you have any questions or if the time doesn’t work for you. Looking forward to seeing everyone there! Best regards, Emma Stone, Project Manager"*
+!!! quote "📩 Email 1: Meeting Confirmation"
+    Hi Team,  
+    I hope this email finds you well. I’m writing to confirm our meeting scheduled for Thursday, March 10th, at 3:00 PM. We will meet in the main conference room to discuss the upcoming project timeline and deliverables. Please let me know if you have any questions or if the time doesn’t work for you. Looking forward to seeing everyone there!  
+    Best regards,  
+    Emma Stone, Project Manager
 
 1. What is the purpose of this email?
 
@@ -58,7 +62,11 @@ Email 1: *"Hi Team, I hope this email finds you well. I’m writing to confirm o
 ---
 
 ### Pregunta 2
-Email 2: *"Dear Customer, Thank you for reaching out regarding your recent order. We apologize for the inconvenience caused by receiving the incorrect item. We have already processed the correct product and it should arrive within 3-5 business days. Please find the return label for the incorrect item attached to this email. Feel free to contact us if you have further questions. Sincerely, Customer Support Team"*
+!!! quote "📩 Email 2: Order Incident Resolution"
+    Dear Customer,  
+    Thank you for reaching out regarding your recent order. We apologize for the inconvenience caused by receiving the incorrect item. We have already processed the correct product and it should arrive within 3-5 business days. Please find the return label for the incorrect item attached to this email. Feel free to contact us if you have further questions.  
+    Sincerely,  
+    Customer Support Team
 
 3. What issue is addressed in this email?
 
@@ -421,12 +429,12 @@ j) My boss asked me if I can / if I could work late last night.
 ---
 
 ### Pregunta 5
-Assembly Instructions for Model XYZ Desk Chair:
-1. Unpack the components: Carefully remove all parts from the box and ensure you have the seat base, backrest, 5 wheels, gas lift cylinder, screws and Allen key.
-2. Attach the wheels: Insert the wheels into the base by pressing firmly until they click into place.
-3. Install the gas lift cylinder: Place the gas lift cylinder into the centre of the wheelbase.
-4. Attach the backrest: Align the backrest with the seat base and tighten the screws using the provided Allen key. Avoid over-tightening screws.
-5. Adjust height: Use the lever on the side of the chair.
+!!! quote "🪑 Assembly Instructions: Model XYZ Desk Chair"
+    1. **Unpack the components:** Carefully remove all parts from the box and ensure you have the seat base, backrest, 5 wheels, gas lift cylinder, screws and Allen key.  
+    2. **Attach the wheels:** Insert the wheels into the base by pressing firmly until they click into place.  
+    3. **Install the gas lift cylinder:** Place the gas lift cylinder into the centre of the wheelbase.  
+    4. **Attach the backrest:** Align the backrest with the seat base and tighten the screws using the provided Allen key. Avoid over-tightening screws.  
+    5. **Adjust height:** Use the lever on the side of the chair.
 
 Answer the questions based on the manual:
 
@@ -498,12 +506,12 @@ Answer the questions based on the manual:
 ---
 
 ### Pregunta 6
-Software Setup Guide: ClientPro 3.0
-1. Installation: Download the installation file from www.clientpro.com/download. Double-click the file to begin installation.
-2. Adding a Client: Click on the 'Clients' tab, select 'Add New Client', and enter details.
-3. Database Backup: Go to 'Settings' and select 'Backup Database'.
-4. Searching: Use the search bar in the 'Clients' tab to find a specific client.
-5. Help: Click 'Help' to access troubleshooting guides.
+!!! quote "💻 Software Setup Guide: ClientPro 3.0"
+    1. **Installation:** Download the installation file from `www.clientpro.com/download`. Double-click the file to begin installation.  
+    2. **Adding a Client:** Click on the 'Clients' tab, select 'Add New Client', and enter details.  
+    3. **Database Backup:** Go to 'Settings' and select 'Backup Database'.  
+    4. **Searching:** Use the search bar in the 'Clients' tab to find a specific client.  
+    5. **Help:** Click 'Help' to access troubleshooting guides.
 
 1. What is the first step to set up ClientPro 3.0?
 
