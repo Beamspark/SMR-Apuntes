@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 440" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg-tier { fill: #1e1e24; stroke: #37474f; stroke-width: 1.5; rx: 8; }
+      .bg-tier-data { fill: #1e1e24; stroke: #29b6f6; stroke-width: 2; rx: 8; }
+      .bg-tier-ux { fill: #1e1e24; stroke: #ab47bc; stroke-width: 2; rx: 8; }
+      .bg-tier-auto { fill: #1e1e24; stroke: #26a69a; stroke-width: 2; rx: 8; }
+      .card-item { fill: #2a2b36; stroke: #37474f; stroke-width: 1; rx: 4; }
+      .text-title { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 15px; font-weight: bold; fill: #ffffff; }
+      .text-code { font-family: 'Consolas', 'Courier New', monospace; font-size: 12px; fill: #29b6f6; }
+      .text-body { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 12px; fill: #eceff1; }
+      .text-dim { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #b0bec5; }
+      .conn-arrow { stroke: #b0bec5; stroke-width: 2; stroke-dasharray: 4,4; fill: none; marker-end: url(#arrow); }
+    </style>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="4" refY="3" orient="auto">
+      <polygon points="0 0, 6 3, 0 6" fill="#b0bec5" />
+    </marker>
+  </defs>
+
+  <!-- Contenedor General -->
+  <rect x="15" y="15" width="890" height="410" rx="8" fill="#17181c" stroke="#263238" stroke-width="1.5" />
+  <text x="35" y="45" class="text-title" style="font-size: 17px; fill: #ab47bc;">ARQUITECTURA DE TRES NIVELES EN GOOGLE APPSHEET</text>
+
+  <!-- Nivel 1: Capa de Datos (Data Tier) -->
+  <rect x="35" y="70" width="260" height="330" class="bg-tier-data" />
+  <rect x="50" y="85" width="230" height="30" rx="4" fill="#172b4d" />
+  <text x="65" y="105" class="text-title" style="fill: #29b6f6;">1. CAPA DE DATOS</text>
+
+  <rect x="50" y="130" width="230" height="50" class="card-item" />
+  <text x="60" y="150" class="text-title" style="font-size: 13px;">Google Sheets / SQL</text>
+  <text x="60" y="168" class="text-dim">Persistencia física tabular</text>
+
+  <rect x="50" y="190" width="230" height="60" class="card-item" />
+  <text x="60" y="210" class="text-title" style="font-size: 13px;">Esquema de Tipos</text>
+  <text x="60" y="228" class="text-code">Text, Number, Date, Image</text>
+  <text x="60" y="243" class="text-code">Key, Label, Ref (Claves)</text>
+
+  <rect x="50" y="260" width="230" height="55" class="card-item" />
+  <text x="60" y="280" class="text-title" style="font-size: 13px;">Columnas Virtuales</text>
+  <text x="60" y="298" class="text-dim">Fórmulas en memoria volátil</text>
+
+  <rect x="50" y="325" width="230" height="55" class="card-item" />
+  <text x="60" y="345" class="text-title" style="font-size: 13px;">Security Filters</text>
+  <text x="60" y="363" class="text-code">USEREMAIL() en Servidor</text>
+
+  <!-- Nivel 2: Capa de Presentación (UX Tier) -->
+  <rect x="330" y="70" width="260" height="330" class="bg-tier-ux" />
+  <rect x="345" y="85" width="230" height="30" rx="4" fill="#381a4a" />
+  <text x="360" y="105" class="text-title" style="fill: #ab47bc;">2. CAPA DE INTERFAZ (UX)</text>
+
+  <rect x="345" y="130" width="230" height="65" class="card-item" />
+  <text x="355" y="150" class="text-title" style="font-size: 13px;">Catálogo de Vistas</text>
+  <text x="355" y="168" class="text-dim">• Deck, Table, Detail</text>
+  <text x="355" y="184" class="text-dim">• Form, Map, Calendar, Chart</text>
+
+  <rect x="345" y="205" width="230" height="55" class="card-item" />
+  <text x="355" y="225" class="text-title" style="font-size: 13px;">Segmentación: Slices</text>
+  <text x="355" y="243" class="text-dim">Filtrado lógico en terminal</text>
+
+  <rect x="345" y="270" width="230" height="55" class="card-item" />
+  <text x="355" y="290" class="text-title" style="font-size: 13px;">Behavior &amp; Actions</text>
+  <text x="355" y="308" class="text-dim">Botones y llamadas a vistas</text>
+
+  <rect x="345" y="335" width="230" height="45" class="card-item" />
+  <text x="355" y="355" class="text-title" style="font-size: 13px;">Branding y Format Rules</text>
+  <text x="355" y="370" class="text-dim">Formatos condicionales</text>
+
+  <!-- Nivel 3: Capa de Automatización (Logic Tier) -->
+  <rect x="625" y="70" width="260" height="330" class="bg-tier-auto" />
+  <rect x="640" y="85" width="230" height="30" rx="4" fill="#133834" />
+  <text x="655" y="105" class="text-title" style="fill: #26a69a;">3. CAPA LÓGICA (BOTS)</text>
+
+  <rect x="640" y="130" width="230" height="55" class="card-item" />
+  <text x="650" y="150" class="text-title" style="font-size: 13px;">Eventos (Triggers)</text>
+  <text x="650" y="168" class="text-dim">Adds, Updates, Deletes, Schedule</text>
+
+  <rect x="640" y="195" width="230" height="60" class="card-item" />
+  <text x="650" y="215" class="text-title" style="font-size: 13px;">Generación Documental</text>
+  <text x="650" y="233" class="text-dim">Compilación de Google Docs a</text>
+  <text x="650" y="248" class="text-dim">informes PDF en Google Drive</text>
+
+  <rect x="640" y="265" width="230" height="55" class="card-item" />
+  <text x="650" y="285" class="text-title" style="font-size: 13px;">Comunicaciones</text>
+  <text x="650" y="303" class="text-dim">Alertas por Correo, Push, SMS</text>
+
+  <rect x="640" y="330" width="230" height="50" class="card-item" />
+  <text x="650" y="350" class="text-title" style="font-size: 13px;">Webhooks Externos</text>
+  <text x="650" y="368" class="text-dim">Envío de JSON a APIs REST</text>
+
+  <!-- Flechas de interconexión -->
+  <path d="M 295 160 L 330 160" class="conn-arrow" />
+  <path d="M 590 160 L 625 160" class="conn-arrow" />
+</svg>
