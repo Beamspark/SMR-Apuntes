@@ -22,6 +22,7 @@ Este espacio está concebido como una base de conocimiento estructurada, con esq
 * **Accesos rápidos:**
     * [📖 Temario Teórico (Temas 1 al 5)](sistemas/index.md)
     * [📝 Banco de Tests y Exámenes Globales](sistemas/test/index.md)
+    * [📋 Pruebas de Evaluación (PAC)](sistemas/pac/index.md)
 
 ---
 
@@ -30,6 +31,7 @@ Este espacio está concebido como una base de conocimiento estructurada, con esq
 * **Accesos rápidos:**
     * [📖 Temario Teórico (Temas 1 al 9)](ofimatica/index.md)
     * [📝 Banco de Tests y Exámenes Globales](ofimatica/test/index.md)
+    * [📋 Pruebas de Evaluación (PAC)](ofimatica/pac/index.md)
 
 ---
 
@@ -38,6 +40,7 @@ Este espacio está concebido como una base de conocimiento estructurada, con esq
 * **Accesos rápidos:**
     * [📖 Temario Teórico (Temas 1 al 5)](digitalizacion/index.md)
     * [📝 Banco de Tests y Exámenes Globales](digitalizacion/test/index.md)
+    * [📋 Pruebas de Evaluación (PAC)](digitalizacion/pac/index.md)
 
 ---
 
