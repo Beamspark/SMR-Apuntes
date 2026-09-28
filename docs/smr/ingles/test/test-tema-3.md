@@ -5,8 +5,6 @@
 ---
 
 ### Pregunta 1
-A: There’s no milk left! B: Oh! I ________ (get) some from the shop.
-
 <div class="quiz-fill-inline" data-answer="will get">
   <p>
     A: There’s no milk left! B: Oh! I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(get)</strong> some from the shop.
@@ -23,8 +21,6 @@ A: There’s no milk left! B: Oh! I ________ (get) some from the shop.
 ---
 
 ### Pregunta 2
-The population of Valencia ________ (reach) 2 million by the year 2050.
-
 <div class="quiz-fill-inline" data-answer="is going to reach,will reach">
   <p>
     The population of Valencia <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(reach)</strong> 2 million by the year 2050.
@@ -41,8 +37,6 @@ The population of Valencia ________ (reach) 2 million by the year 2050.
 ---
 
 ### Pregunta 3
-Mum: I told you to tidy up your room. Son: Sorry, Mum, I forgot. I ________ (do) it after lunch.
-
 <div class="quiz-fill-inline" data-answer="will do">
   <p>
     Mum: I told you to tidy up your room. Son: Sorry, Mum, I forgot. I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(do)</strong> it after lunch.
@@ -59,8 +53,6 @@ Mum: I told you to tidy up your room. Son: Sorry, Mum, I forgot. I ________ (do)
 ---
 
 ### Pregunta 4
-A: Why don’t we meet for coffee on Friday morning? B: Sorry, I can’t. I ________ (meet) the doctor then.
-
 <div class="quiz-fill-inline" data-answer="am going to meet">
   <p>
     A: Why don’t we meet for coffee on Friday morning? B: Sorry, I can’t. I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(meet)</strong> the doctor then.
@@ -77,8 +69,6 @@ A: Why don’t we meet for coffee on Friday morning? B: Sorry, I can’t. I ____
 ---
 
 ### Pregunta 5
-“Tomorrow ________ (be) a bright and sunny day everywhere in Spain, except in La Coruña”, said the weatherwoman.
-
 <div class="quiz-fill-inline" data-answer="is going to be,will be">
   <p>
     “Tomorrow <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(be)</strong> a bright and sunny day everywhere in Spain, except in La Coruña”, said the weatherwoman.
@@ -95,8 +85,6 @@ A: Why don’t we meet for coffee on Friday morning? B: Sorry, I can’t. I ____
 ---
 
 ### Pregunta 6
-Look at that big black cloud. I think it ________ (rain).
-
 <div class="quiz-fill-inline" data-answer="is going to rain">
   <p>
     Look at that big black cloud. I think it <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(rain)</strong>.
@@ -113,8 +101,6 @@ Look at that big black cloud. I think it ________ (rain).
 ---
 
 ### Pregunta 7
-In the future, people ________ (have) bigger heads.
-
 <div class="quiz-fill-inline" data-answer="will have">
   <p>
     In the future, people <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(have)</strong> bigger heads.
@@ -131,8 +117,6 @@ In the future, people ________ (have) bigger heads.
 ---
 
 ### Pregunta 8
-Next month I ________ (buy) a DVD player.
-
 <div class="quiz-fill-inline" data-answer="will buy,am going to buy">
   <p>
     Next month I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(buy)</strong> a DVD player.
@@ -149,8 +133,6 @@ Next month I ________ (buy) a DVD player.
 ---
 
 ### Pregunta 9
-When ________ you ________ (have) another party?
-
 <div class="quiz-fill-inline" data-answer="are ... going to have,are going to have">
   <p>
     When <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(have)</strong> another party?
@@ -167,8 +149,6 @@ When ________ you ________ (have) another party?
 ---
 
 ### Pregunta 10
-Oh no! I think I ________ (sneeze).
-
 <div class="quiz-fill-inline" data-answer="will sneeze,am going to sneeze">
   <p>
     Oh no! I think I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(sneeze)</strong>.
@@ -185,8 +165,6 @@ Oh no! I think I ________ (sneeze).
 ---
 
 ### Pregunta 11
-The house is dirty. I ________ (clean) it on Monday.
-
 <div class="quiz-fill-inline" data-answer="will clean">
   <p>
     The house is dirty. I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(clean)</strong> it on Monday.
@@ -203,8 +181,6 @@ The house is dirty. I ________ (clean) it on Monday.
 ---
 
 ### Pregunta 12
-________ you ________ (cook) on Tuesday, please?
-
 <div class="quiz-fill-inline" data-answer="Will ... cook,Will cook">
   <p>
     <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(cook)</strong> on Tuesday, please?
@@ -221,8 +197,6 @@ ________ you ________ (cook) on Tuesday, please?
 ---
 
 ### Pregunta 13
-It looks like the washer is broken. I ________ (ask) a repair man to come Wednesday.
-
 <div class="quiz-fill-inline" data-answer="will ask">
   <p>
     It looks like the washer is broken. I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(ask)</strong> a repair man to come Wednesday.
@@ -239,8 +213,6 @@ It looks like the washer is broken. I ________ (ask) a repair man to come Wednes
 ---
 
 ### Pregunta 14
-Okay then, our group ________ (meet) on Thursday.
-
 <div class="quiz-fill-inline" data-answer="will meet">
   <p>
     Okay then, our group <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(meet)</strong> on Thursday.
@@ -257,8 +229,6 @@ Okay then, our group ________ (meet) on Thursday.
 ---
 
 ### Pregunta 15
-________ you ________ (come) with us on Friday?
-
 <div class="quiz-fill-inline" data-answer="Will ... come,Will come">
   <p>
     <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(come)</strong> with us on Friday?
@@ -275,8 +245,6 @@ ________ you ________ (come) with us on Friday?
 ---
 
 ### Pregunta 16
-If necessary, we ________ (carry) the supplies in our car on Saturday.
-
 <div class="quiz-fill-inline" data-answer="will carry">
   <p>
     If necessary, we <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(carry)</strong> the supplies in our car on Saturday.
@@ -293,8 +261,6 @@ If necessary, we ________ (carry) the supplies in our car on Saturday.
 ---
 
 ### Pregunta 17
-John and Kanye, ________ you ________ (read) to the children on Sunday?
-
 <div class="quiz-fill-inline" data-answer="Will ... read,Will read">
   <p>
     John and Kanye, <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(read)</strong> to the children on Sunday?
@@ -527,8 +493,6 @@ They _______ a pizza for dinner.
 ---
 
 ### Pregunta 26
-Mary is very quiet. She often sneaks out of the house ________.
-
 <div class="quiz-fill-inline" data-answer="quietly">
   <p>
     Mary is very quiet. She often sneaks out of the house <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -545,8 +509,6 @@ Mary is very quiet. She often sneaks out of the house ________.
 ---
 
 ### Pregunta 27
-Our mum was angry. She spoke to us ________.
-
 <div class="quiz-fill-inline" data-answer="angrily">
   <p>
     Our mum was angry. She spoke to us <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -563,8 +525,6 @@ Our mum was angry. She spoke to us ________.
 ---
 
 ### Pregunta 28
-Joanne is a wonderful guitar player. She plays the guitar ________.
-
 <div class="quiz-fill-inline" data-answer="wonderfully">
   <p>
     Joanne is a wonderful guitar player. She plays the guitar <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -581,8 +541,6 @@ Joanne is a wonderful guitar player. She plays the guitar ________.
 ---
 
 ### Pregunta 29
-Her English is fluent. She speaks English ________.
-
 <div class="quiz-fill-inline" data-answer="fluently">
   <p>
     Her English is fluent. She speaks English <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -599,8 +557,6 @@ Her English is fluent. She speaks English ________.
 ---
 
 ### Pregunta 30
-The exam is simple. You ________ have to put one word in each space.
-
 <div class="quiz-fill-inline" data-answer="simply">
   <p>
     The exam is simple. You <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> have to put one word in each space.
@@ -617,8 +573,6 @@ The exam is simple. You ________ have to put one word in each space.
 ---
 
 ### Pregunta 31
-Jim is happy. He smiles ________.
-
 <div class="quiz-fill-inline" data-answer="happily">
   <p>
     Jim is happy. He smiles <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -775,8 +729,6 @@ The exam wasn’t easily / easy.
 ---
 
 ### Pregunta 39
-She ________ doesn’t understand the rules!
-
 <div class="quiz-fill-inline" data-answer="still">
   <p>
     She <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> doesn’t understand the rules!
@@ -793,8 +745,6 @@ She ________ doesn’t understand the rules!
 ---
 
 ### Pregunta 40
-I’m ________ married.
-
 <div class="quiz-fill-inline" data-answer="already">
   <p>
     I’m <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> married.
@@ -811,8 +761,6 @@ I’m ________ married.
 ---
 
 ### Pregunta 41
-I don’t want children ________.
-
 <div class="quiz-fill-inline" data-answer="yet">
   <p>
     I don’t want children <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -829,8 +777,6 @@ I don’t want children ________.
 ---
 
 ### Pregunta 42
-I ________ don’t have a mortgage.
-
 <div class="quiz-fill-inline" data-answer="still">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> don’t have a mortgage.
@@ -847,8 +793,6 @@ I ________ don’t have a mortgage.
 ---
 
 ### Pregunta 43
-I’ve ________ read that book.
-
 <div class="quiz-fill-inline" data-answer="already">
   <p>
     I’ve <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> read that book.
@@ -865,8 +809,6 @@ I’ve ________ read that book.
 ---
 
 ### Pregunta 44
-I ________ live with my parents.
-
 <div class="quiz-fill-inline" data-answer="still">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> live with my parents.
@@ -883,8 +825,6 @@ I ________ live with my parents.
 ---
 
 ### Pregunta 45
-We’ve been waiting for the bus ________ over an hour.
-
 <div class="quiz-fill-inline" data-answer="for">
   <p>
     We’ve been waiting for the bus <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> over an hour.
@@ -901,8 +841,6 @@ We’ve been waiting for the bus ________ over an hour.
 ---
 
 ### Pregunta 46
-I’ve been living in Spain ________ 1995.
-
 <div class="quiz-fill-inline" data-answer="since">
   <p>
     I’ve been living in Spain <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> 1995.
@@ -919,8 +857,6 @@ I’ve been living in Spain ________ 1995.
 ---
 
 ### Pregunta 47
-Our boss hasn’t come to the office ________ three days now.
-
 <div class="quiz-fill-inline" data-answer="for">
   <p>
     Our boss hasn’t come to the office <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> three days now.
@@ -937,8 +873,6 @@ Our boss hasn’t come to the office ________ three days now.
 ---
 
 ### Pregunta 48
-My brother has been stronger than me ________ 3 years.
-
 <div class="quiz-fill-inline" data-answer="for">
   <p>
     My brother has been stronger than me <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> 3 years.
@@ -955,8 +889,6 @@ My brother has been stronger than me ________ 3 years.
 ---
 
 ### Pregunta 49
-American soldiers have been in Korea ________ 1950.
-
 <div class="quiz-fill-inline" data-answer="since">
   <p>
     American soldiers have been in Korea <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> 1950.
@@ -973,8 +905,6 @@ American soldiers have been in Korea ________ 1950.
 ---
 
 ### Pregunta 50
-They’ve played Minecraft ________ 3 hours today.
-
 <div class="quiz-fill-inline" data-answer="for">
   <p>
     They’ve played Minecraft <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> 3 hours today.
@@ -1369,8 +1299,6 @@ You don’t need to go _______ you want to.
 ---
 
 ### Pregunta 65
-I ____________________ (to do) my homework tomorrow.
-
 <div class="quiz-fill-inline" data-answer="will be doing">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(to do)</strong> my homework tomorrow.
@@ -1387,8 +1315,6 @@ I ____________________ (to do) my homework tomorrow.
 ---
 
 ### Pregunta 66
-Well, I guess we ____________________ (to ride) the bus to work next week.
-
 <div class="quiz-fill-inline" data-answer="will be riding">
   <p>
     Well, I guess we <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(to ride)</strong> the bus to work next week.
@@ -1405,8 +1331,6 @@ Well, I guess we ____________________ (to ride) the bus to work next week.
 ---
 
 ### Pregunta 67
-He ____________________ (to eat) roast beef for dinner.
-
 <div class="quiz-fill-inline" data-answer="will be eating">
   <p>
     He <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(to eat)</strong> roast beef for dinner.
@@ -1423,8 +1347,6 @@ He ____________________ (to eat) roast beef for dinner.
 ---
 
 ### Pregunta 68
-At 7:30 tonight, I ____________________ (to watch) a movie.
-
 <div class="quiz-fill-inline" data-answer="will be watching">
   <p>
     At 7:30 tonight, I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(to watch)</strong> a movie.
@@ -1441,8 +1363,6 @@ At 7:30 tonight, I ____________________ (to watch) a movie.
 ---
 
 ### Pregunta 69
-I hope it ____________________ (to rain) at this time tomorrow.
-
 <div class="quiz-fill-inline" data-answer="will be raining">
   <p>
     I hope it <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(to rain)</strong> at this time tomorrow.
@@ -1459,8 +1379,6 @@ I hope it ____________________ (to rain) at this time tomorrow.
 ---
 
 ### Pregunta 70
-Jane ____________________ not ____________________ (to quit) her job on Monday.
-
 <div class="quiz-fill-inline" data-answer="will not be quitting,won't be quitting,wont be quitting">
   <p>
     Jane <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> not <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(to quit)</strong> her job on Monday.
@@ -1477,8 +1395,6 @@ Jane ____________________ not ____________________ (to quit) her job on Monday.
 ---
 
 ### Pregunta 71
-My sister ____________________ probably ____________________ (to go) to camp this summer.
-
 <div class="quiz-fill-inline" data-answer="will probably be going">
   <p>
     My sister <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> probably <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(to go)</strong> to camp this summer.
@@ -1495,8 +1411,6 @@ My sister ____________________ probably ____________________ (to go) to camp thi
 ---
 
 ### Pregunta 72
-Before the store opens, the employees _______________ (prepare) for the sale.
-
 <div class="quiz-fill-inline" data-answer="will have prepared">
   <p>
     Before the store opens, the employees <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(prepare)</strong> for the sale.
@@ -1513,8 +1427,6 @@ Before the store opens, the employees _______________ (prepare) for the sale.
 ---
 
 ### Pregunta 73
-By the time the treasure hunt begins, Susan _______________ (hide) all the clues.
-
 <div class="quiz-fill-inline" data-answer="will have hidden">
   <p>
     By the time the treasure hunt begins, Susan <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(hide)</strong> all the clues.
@@ -1531,8 +1443,6 @@ By the time the treasure hunt begins, Susan _______________ (hide) all the clues
 ---
 
 ### Pregunta 74
-The housekeeper _______________ (clean) the house when the guests arrive.
-
 <div class="quiz-fill-inline" data-answer="will have cleaned">
   <p>
     The housekeeper <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(clean)</strong> the house when the guests arrive.
@@ -1549,8 +1459,6 @@ The housekeeper _______________ (clean) the house when the guests arrive.
 ---
 
 ### Pregunta 75
-You can touch the walls tomorrow. The paint _______________ (dry) by then.
-
 <div class="quiz-fill-inline" data-answer="will have dried">
   <p>
     You can touch the walls tomorrow. The paint <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(dry)</strong> by then.
@@ -1567,8 +1475,6 @@ You can touch the walls tomorrow. The paint _______________ (dry) by then.
 ---
 
 ### Pregunta 76
-By Tuesday, the roofers _______________ (finish) laying the tiles.
-
 <div class="quiz-fill-inline" data-answer="will have finished">
   <p>
     By Tuesday, the roofers <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(finish)</strong> laying the tiles.
@@ -1585,8 +1491,6 @@ By Tuesday, the roofers _______________ (finish) laying the tiles.
 ---
 
 ### Pregunta 77
-Jason and Sam _______________ (buy) a house before they move to London in July.
-
 <div class="quiz-fill-inline" data-answer="will have bought">
   <p>
     Jason and Sam <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(buy)</strong> a house before they move to London in July.
@@ -1603,8 +1507,6 @@ Jason and Sam _______________ (buy) a house before they move to London in July.
 ---
 
 ### Pregunta 78
-Let’s watch TV at 8:00 pm. By then, the news _______________ (end).
-
 <div class="quiz-fill-inline" data-answer="will have ended">
   <p>
     Let’s watch TV at 8:00 pm. By then, the news <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(end)</strong>.
@@ -1621,8 +1523,6 @@ Let’s watch TV at 8:00 pm. By then, the news _______________ (end).
 ---
 
 ### Pregunta 79
-This spring, the twins _______________ (attend) culinary school for two years.
-
 <div class="quiz-fill-inline" data-answer="will have been attending">
   <p>
     This spring, the twins <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(attend)</strong> culinary school for two years.
@@ -1639,8 +1539,6 @@ This spring, the twins _______________ (attend) culinary school for two years.
 ---
 
 ### Pregunta 80
-By 2021, our city _______________ (recover) from the hurricane for ten years.
-
 <div class="quiz-fill-inline" data-answer="will have been recovering">
   <p>
     By 2021, our city <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(recover)</strong> from the hurricane for ten years.
@@ -1657,8 +1555,6 @@ By 2021, our city _______________ (recover) from the hurricane for ten years.
 ---
 
 ### Pregunta 81
-When it closes next week, the furniture store _______________ (do) business since 1980.
-
 <div class="quiz-fill-inline" data-answer="will have been doing">
   <p>
     When it closes next week, the furniture store <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(do)</strong> business since 1980.
@@ -1675,8 +1571,6 @@ When it closes next week, the furniture store _______________ (do) business sinc
 ---
 
 ### Pregunta 82
-By tomorrow morning, it _______________ (snow) for four days without stopping!
-
 <div class="quiz-fill-inline" data-answer="will have been snowing">
   <p>
     By tomorrow morning, it <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(snow)</strong> for four days without stopping!
@@ -1693,8 +1587,6 @@ By tomorrow morning, it _______________ (snow) for four days without stopping!
 ---
 
 ### Pregunta 83
-Aunt Jane _______________ (cook) breakfast for about an hour when we get up.
-
 <div class="quiz-fill-inline" data-answer="will have been cooking">
   <p>
     Aunt Jane <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(cook)</strong> breakfast for about an hour when we get up.
@@ -1711,8 +1603,6 @@ Aunt Jane _______________ (cook) breakfast for about an hour when we get up.
 ---
 
 ### Pregunta 84
-Friends of the bride _______________ (decorate) the banquet hall before the reception begins.
-
 <div class="quiz-fill-inline" data-answer="will have been decorating">
   <p>
     Friends of the bride <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(decorate)</strong> the banquet hall before the reception begins.
@@ -1729,8 +1619,6 @@ Friends of the bride _______________ (decorate) the banquet hall before the rece
 ---
 
 ### Pregunta 85
-Mankind _______________ (print) books by machine for around 600 years by the year 2034.
-
 <div class="quiz-fill-inline" data-answer="will have been printing">
   <p>
     Mankind <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(print)</strong> books by machine for around 600 years by the year 2034.
@@ -1955,8 +1843,6 @@ By next month, she will have been studying / will be studying French for three y
 ---
 
 ### Pregunta 95
-This time tomorrow, I __________ (travel) to Rome.
-
 <div class="quiz-fill-inline" data-answer="will be travelling,will be traveling">
   <p>
     This time tomorrow, I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(travel)</strong> to Rome.
@@ -1973,8 +1859,6 @@ This time tomorrow, I __________ (travel) to Rome.
 ---
 
 ### Pregunta 96
-By next week, we __________ (finish) the project.
-
 <div class="quiz-fill-inline" data-answer="will have finished">
   <p>
     By next week, we <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(finish)</strong> the project.
@@ -1991,8 +1875,6 @@ By next week, we __________ (finish) the project.
 ---
 
 ### Pregunta 97
-In June, she __________ (work) at the company for ten years.
-
 <div class="quiz-fill-inline" data-answer="will have been working,will have worked">
   <p>
     In June, she <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(work)</strong> at the company for ten years.
@@ -2009,8 +1891,6 @@ In June, she __________ (work) at the company for ten years.
 ---
 
 ### Pregunta 98
-Don’t call me at 10 p.m. I __________ (sleep)!
-
 <div class="quiz-fill-inline" data-answer="will be sleeping">
   <p>
     Don’t call me at 10 p.m. I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(sleep)</strong>!
@@ -2027,8 +1907,6 @@ Don’t call me at 10 p.m. I __________ (sleep)!
 ---
 
 ### Pregunta 99
-By the end of the day, they __________ (check) all the reports.
-
 <div class="quiz-fill-inline" data-answer="will have checked">
   <p>
     By the end of the day, they <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(check)</strong> all the reports.
@@ -2045,8 +1923,6 @@ By the end of the day, they __________ (check) all the reports.
 ---
 
 ### Pregunta 100
-By this time next month, I __________ (1. move) to my new flat. I __________ (2. live) there for just a few days, but I already know I’ll love it. My neighbours __________ (3. organise) a welcome party, so I’m really excited! By the time the party starts, I __________ (4. finish) unpacking all my boxes.
-
 <div class="quiz-fill-inline" data-answer="will have moved">
   <p>
     1. By this time next month, I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(move)</strong> to my new flat.
