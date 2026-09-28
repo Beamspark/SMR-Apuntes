@@ -22,7 +22,7 @@ Bienvenido a la sección de autoevaluación interactiva de Aplicaciones Ofimáti
 
 Evaluaciones completas con preguntas ponderadas y casos prácticos situacionales de todo el módulo:
 
-* **[🎯 Examen Global 1: Simulacro Oficial A](examen-global-1.md)** — Preguntas integradas de los Temas 1 al 4.
+* **[🎯 Examen Global 1: Simulacro Oficial A](examen-global-1.md)** — Preguntas integradas de los Temas 1 al 9.
 * **[🎯 Examen Global 2: Simulacro Oficial B](examen-global-2.md)** — Preguntas integradas de los Temas 1 al 9.
 
 ---
