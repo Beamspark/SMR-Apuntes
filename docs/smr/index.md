@@ -13,6 +13,7 @@ Este espacio está concebido como una base de conocimiento estructurada, con esq
 * **Accesos rápidos:**
     * [📖 Temario Teórico (Temas 1 al 11)](montaje/index.md)
     * [📝 Banco de Tests y Exámenes Globales](montaje/test/index.md)
+    * [📋 Pruebas de Evaluación (PAC)](montaje/pac/index.md)
 
 ---
 
