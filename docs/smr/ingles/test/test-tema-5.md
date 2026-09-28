@@ -5,7 +5,9 @@
 ---
 
 ### Pregunta 1
-Read Message 1: *"Hi Sarah, Just wanted to remind you that the meeting with the client is tomorrow at 10:00 AM in the conference room. Don’t forget to bring the updated presentation. Let me know if you need anything."*
+!!! quote "📩 Message 1: Meeting Reminder"
+    Hi Sarah,  
+    Just wanted to remind you that the meeting with the client is tomorrow at 10:00 AM in the conference room. Don’t forget to bring the updated presentation. Let me know if you need anything.
 
 <div class="quiz-fill-inline" data-answer="in the conference room,the conference room,conference room">
   <p>
@@ -36,7 +38,8 @@ Read Message 1: *"Hi Sarah, Just wanted to remind you that the meeting with the 
 ---
 
 ### Pregunta 2
-Read Message 2: *"Monday 11:21 AM - Jane, I won’t be home until 7:00 PM tonight. Please make sure the kitchen light is turned off and the door is locked before you leave. Thanks, Mum."*
+!!! quote "📱 Message 2: Note from Mum"
+    Monday 11:21 AM - Jane, I won’t be home until 7:00 PM tonight. Please make sure the kitchen light is turned off and the door is locked before you leave. Thanks, Mum.
 
 <div class="quiz-fill-inline" data-answer="turned off,off">
   <p>
@@ -124,7 +127,10 @@ Read Short Messages 3 & 4 and answer the questions:
 ---
 
 ### Pregunta 4
-Message 1: *"Hi Alex, I just wanted to remind you about the meeting tomorrow at 10:30 AM in the main conference room, as Sarah’s office isn’t available anymore. Don’t forget the sales report and your presentation slides. Let me know if you need any help preparing! Sarah"*
+!!! quote "📩 Message 1: Meeting Update"
+    Hi Alex,  
+    I just wanted to remind you about the meeting tomorrow at 10:30 AM in the main conference room, as Sarah’s office isn’t available anymore. Don’t forget the sales report and your presentation slides. Let me know if you need any help preparing!  
+    Sarah
 
 1. What is Alex supposed to bring to the meeting?
 
@@ -191,7 +197,10 @@ Message 1: *"Hi Alex, I just wanted to remind you about the meeting tomorrow at 
 ---
 
 ### Pregunta 5
-Message 2: *"Hello Sam, The books you ordered arrived this morning. You can pick them up at the front desk during business hours. There’s no need for you to phone us before coming. If you’re too busy today, they’ll be here all week. Library Staff"*
+!!! quote "📖 Message 2: Library Pickup Notice"
+    Hello Sam,  
+    The books you ordered arrived this morning. You can pick them up at the front desk during business hours. There’s no need for you to phone us before coming. If you’re too busy today, they’ll be here all week.  
+    Library Staff
 
 3. What should Sam do to get the books?
 
@@ -258,7 +267,11 @@ Message 2: *"Hello Sam, The books you ordered arrived this morning. You can pick
 ---
 
 ### Pregunta 6
-Message 3: *"Dear Customer, Thank you for your recent purchase! Your order #7845 will be shipped within 3 business days. You’ll receive a tracking link once the package is on its way. If you have any questions, feel free to contact us at support@shop.com. Best regards, The Shop Team"*
+!!! quote "📦 Message 3: Order Confirmation"
+    Dear Customer,  
+    Thank you for your recent purchase! Your order #7845 will be shipped within 3 business days. You’ll receive a tracking link once the package is on its way. If you have any questions, feel free to contact us at support@shop.com.  
+    Best regards,  
+    The Shop Team
 
 5. When will the package be shipped?
 
@@ -325,7 +338,10 @@ Message 3: *"Dear Customer, Thank you for your recent purchase! Your order #7845
 ---
 
 ### Pregunta 7
-Message 4: *"Hi everyone, This is a reminder that the office will be closed next Monday for maintenance. Please make sure to save your work and shut down your computers before you leave on Friday. If you have any urgent tasks, let your supervisor know. Management"*
+!!! quote "🏢 Message 4: Office Closure Reminder"
+    Hi everyone,  
+    This is a reminder that the office will be closed next Monday for maintenance. Please make sure to save your work and shut down your computers before you leave on Friday. If you have any urgent tasks, let your supervisor know.  
+    Management
 
 7. Why will the office be closed on Monday?
 
@@ -724,10 +740,12 @@ Complete the sentences with must, might / may or can’t:
 ---
 
 ### Pregunta 12
-Correct the mistakes in the highlighted phrases. Tick (✔️) the correct sentences:
+Correct the mistakes in the sentences below. Decide whether each sentence is correct or choose the appropriate correction:
+
+**a)** *My mother is a nurse and she often should work at weekends.*
 
 <details class="quiz-option incorrect">
-  <summary>A) My mother is a nurse and she often should work at weekends.</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
     Should expresa recomendación voluntaria. Para una obligación laboral de turno se exige: <em>My mother is a nurse and she often has to work at weekends.</em>
@@ -741,8 +759,10 @@ Correct the mistakes in the highlighted phrases. Tick (✔️) the correct sente
   </div>
 </details>
 
+**b)** *You should to have a rest. You look exhausted.*
+
 <details class="quiz-option incorrect">
-  <summary>A) You should to have a rest. You look exhausted.</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
     Los verbos modales rigen infinitivo sin to. La forma correcta es: <em>You should have a rest. You look exhausted.</em>
@@ -756,8 +776,10 @@ Correct the mistakes in the highlighted phrases. Tick (✔️) the correct sente
   </div>
 </details>
 
+**c)** *In the future everyone will must speak English and Chinese.*
+
 <details class="quiz-option incorrect">
-  <summary>A) In the future everyone will must speak English and Chinese.</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
     En inglés no pueden encadenarse dos verbos modales juntos (will must). Se sustituye por: <em>In the future everyone will have to speak English and Chinese.</em>
@@ -771,8 +793,10 @@ Correct the mistakes in the highlighted phrases. Tick (✔️) the correct sente
   </div>
 </details>
 
+**d)** *Do you have to wear a suit and tie at work?*
+
 <details class="quiz-option correct">
-  <summary>A) Do you have to wear a suit and tie at work? (✔️)</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
     La oración es completamente gramatical. Emplea correctamente la forma interrogativa con auxiliar de <em>have to</em> para obligaciones de vestuario.
@@ -786,8 +810,10 @@ Correct the mistakes in the highlighted phrases. Tick (✔️) the correct sente
   </div>
 </details>
 
+**e)** *I must stay in bed yesterday as I didn’t feel well.*
+
 <details class="quiz-option incorrect">
-  <summary>A) I must stay in bed yesterday as I didn’t feel well.</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
     El modal must carece de forma de pasado. La obligación pretérita exige: <em>I had to stay in bed yesterday as I didn’t feel well.</em>
@@ -801,8 +827,10 @@ Correct the mistakes in the highlighted phrases. Tick (✔️) the correct sente
   </div>
 </details>
 
+**f)** *You don’t have to park here. It’s “no parking”.*
+
 <details class="quiz-option incorrect">
-  <summary>A) You don’t have to park here. It’s “no parking”.</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
     Don't have to expresa ausencia de obligación, no prohibición. La señal "no parking" exige: <em>You mustn’t park here. It’s “no parking”.</em>
@@ -816,8 +844,10 @@ Correct the mistakes in the highlighted phrases. Tick (✔️) the correct sente
   </div>
 </details>
 
+**g)** *I didn’t have to get a taxi. Lina took me to the airport.*
+
 <details class="quiz-option correct">
-  <summary>A) I didn’t have to get a taxi. Lina took me to the airport. (✔️)</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
     La frase es plenamente correcta: <em>didn't have to</em> expresa con precisión la ausencia de necesidad en el pasado de pedir un taxi porque la llevó Lina.
@@ -831,8 +861,10 @@ Correct the mistakes in the highlighted phrases. Tick (✔️) the correct sente
   </div>
 </details>
 
+**h)** *People mustn’t answer their mobiles when they are talking to someone.*
+
 <details class="quiz-option incorrect">
-  <summary>A) People mustn’t answer their mobiles when they are talking to someone.</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
     No se trata de una prohibición legal punible, sino de una norma de cortesía o recomendación social de conducta: <em>People shouldn’t answer their mobiles when they are talking to someone.</em>
@@ -1046,7 +1078,8 @@ Complete the sentences with can, could, must, should, ought to, or be able to:
 ### Pregunta 15
 Read the texts and identify the purpose and tone:
 
-Text 1: *"Our new collection features sustainable, eco-friendly materials that look great and help protect the planet. Shop online now and join the movement!"*
+!!! quote "🛍️ Text 1: Eco-Friendly Collection"
+    Our new collection features sustainable, eco-friendly materials that look great and help protect the planet. Shop online now and join the movement!
 
 1. What is the purpose of the text?
 
@@ -1110,7 +1143,8 @@ Text 1: *"Our new collection features sustainable, eco-friendly materials that l
   </div>
 </details>
 
-Text 2: *"The park is open daily from 8 AM to 7 PM. Visitors are encouraged to stay on marked trails to protect the environment. Please dispose of litter in designated bins."*
+!!! quote "🌳 Text 2: Park Guidelines"
+    The park is open daily from 8 AM to 7 PM. Visitors are encouraged to stay on marked trails to protect the environment. Please dispose of litter in designated bins.
 
 3. What is the purpose of the text?
 
@@ -1179,7 +1213,8 @@ Text 2: *"The park is open daily from 8 AM to 7 PM. Visitors are encouraged to s
 ### Pregunta 16
 Read the texts and answer the comprehension questions:
 
-Text 1 (Animal Shelters): *"Volunteering at animal shelters can be a rewarding experience. It’s an opportunity to help animals in need and give back to your community. Most shelters need help with feeding, cleaning, and playing with the animals..."*
+!!! quote "🐾 Text 1: Animal Shelters"
+    Volunteering at animal shelters can be a rewarding experience. It’s an opportunity to help animals in need and give back to your community. Most shelters need help with feeding, cleaning, and playing with the animals...
 
 1. What is the main idea of the text?
 
@@ -1243,7 +1278,8 @@ Text 1 (Animal Shelters): *"Volunteering at animal shelters can be a rewarding e
   </div>
 </details>
 
-Text 2 (Invention of the Bicycle): *"The invention of the bicycle changed the way people travelled. Before bicycles, many relied on walking or horse-drawn carriages. Bicycles provided an affordable and efficient way to get from place to place..."*
+!!! quote "🚲 Text 2: Invention of the Bicycle"
+    The invention of the bicycle changed the way people travelled. Before bicycles, many relied on walking or horse-drawn carriages. Bicycles provided an affordable and efficient way to get from place to place...
 
 3. What is the main purpose of the text?
 
@@ -1470,7 +1506,10 @@ Reading Comprehension: Plastic Pollution
 ---
 
 ### Pregunta 18
-Job Advert: Junior Marketing Specialist at GreenPath Solutions (Barcelona, Spain). Full-time, €25,000/year. Key Responsibilities: Develop marketing campaigns, create social media content, analyze campaign data, collaborate with sales team.
+!!! quote "💼 Job Advert: Junior Marketing Specialist"
+    **Company:** GreenPath Solutions (Barcelona, Spain)  
+    **Contract:** Full-time | **Salary:** €25,000/year  
+    **Key Responsibilities:** Develop marketing campaigns, create social media content, analyze campaign data, collaborate with sales team.
 
 Which candidate is the best fit for this job position?
 
