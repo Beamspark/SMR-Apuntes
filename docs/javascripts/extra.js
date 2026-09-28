@@ -307,3 +307,61 @@ document.addEventListener("DOMContentLoaded", initQuizAndTooltips);
 if (typeof document$ !== "undefined") {
   document$.subscribe(initQuizAndTooltips);
 }
+
+// ========================================================
+// 4. Lógica para Multirrespuesta con Checkboxes nativos
+// ========================================================
+function checkMultiChoiceCheckbox(btn) {
+  const container = btn.closest(".quiz-multi");
+  if (!container || container.dataset.answered === "true") return;
+
+  const checkboxes = container.querySelectorAll("input[type='checkbox']");
+  const checkedBoxes = container.querySelectorAll("input[type='checkbox']:checked");
+
+  if (checkedBoxes.length === 0) {
+    alert("Por favor, selecciona al menos una opción.");
+    return;
+  }
+
+  container.dataset.answered = "true";
+  btn.disabled = true;
+  checkboxes.forEach(cb => cb.disabled = true);
+
+  const totalExpected = parseInt(container.dataset.expected || "2", 10);
+  let correctSelected = 0;
+  let incorrectSelected = 0;
+
+  checkboxes.forEach((cb) => {
+    const optionCard = cb.closest(".quiz-multi-option");
+    const fb = optionCard.querySelector(".feedback");
+    if (fb) fb.style.display = "block";
+
+    const isCorrectCard = optionCard.classList.contains("correct");
+    const isChecked = cb.checked;
+
+    if (isChecked) {
+      if (isCorrectCard) {
+        correctSelected++;
+        optionCard.style.borderColor = "#4caf50";
+        optionCard.style.backgroundColor = "rgba(76, 175, 80, 0.12)";
+      } else {
+        incorrectSelected++;
+        optionCard.style.borderColor = "#ef5350";
+        optionCard.style.backgroundColor = "rgba(244, 67, 54, 0.12)";
+      }
+    } else if (isCorrectCard) {
+      // Si era correcta y el usuario no la marcó
+      optionCard.style.borderColor = "#ff9800";
+    }
+  });
+
+  // Cálculo de puntos proporcionales
+  let points = (correctSelected / totalExpected) * 1.0;
+  points -= incorrectSelected * 0.33;
+  
+  if (typeof score !== "undefined") {
+    score += Math.max(0, points);
+    answeredCount++;
+    if (typeof updateScoreBoard === "function") updateScoreBoard();
+  }
+}
