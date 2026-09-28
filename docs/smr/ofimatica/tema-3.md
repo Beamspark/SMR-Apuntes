@@ -1,4 +1,4 @@
-<h1 style="color: #ab47bc;">Tema 3: Elaboración de documentos y plantillas mediante hojas de cálculo</h1>
+<h1 style="color: #ab47bc;">📊 Tema 3: Elaboración de documentos y plantillas mediante hojas de cálculo</h1>
 
 !!! info "Resultado de Aprendizaje (RA)"
     Elabora hojas de cálculo y plantillas optimizadas utilizando fórmulas, funciones complejas, herramientas de análisis visual, automatización y colaboración en red para la gestión financiera, contable y operativa en entornos corporativos.
