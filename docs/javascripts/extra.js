@@ -3,7 +3,7 @@
 // ========================================================
 function cleanLatexInTests() {
   const targets = document.querySelectorAll(
-    ".quiz-option summary, .quiz-option .feedback, .quiz-option p, .quiz-fill-inline .feedback"
+    ".quiz-option summary, .quiz-option .feedback, .quiz-option p, .quiz-fill-inline .feedback, .quiz-multi-option .feedback"
   );
 
   targets.forEach((el) => {
@@ -20,7 +20,7 @@ function cleanLatexInTests() {
 }
 
 // ========================================================
-// 2. Motor interactivo de Tests, Huecos y Marcador
+// 2. Motor interactivo unificado (Tests, Huecos, Multirrespuesta)
 // ========================================================
 const initQuizAndTooltips = () => {
   cleanLatexInTests();
@@ -59,32 +59,39 @@ const initQuizAndTooltips = () => {
   const oldScoreboard = document.querySelector(".quiz-scoreboard");
   if (oldScoreboard) oldScoreboard.remove();
 
-  // Estructura para almacenar preguntas (tanto tipo test como de rellenar hueco)
+  // Clasificación de preguntas según su tipología
   const questions = [];
 
   questionHeaders.forEach((h3) => {
     let sibling = h3.nextElementSibling;
-    const options = [];
+    const choiceOptions = [];
     let fillContainer = null;
+    let multiContainer = null;
 
     while (sibling && sibling.tagName !== "H3") {
       if (sibling.classList && sibling.classList.contains("quiz-option")) {
-        options.push(sibling);
+        choiceOptions.push(sibling);
       } else if (sibling.classList && sibling.classList.contains("quiz-fill-inline")) {
         fillContainer = sibling;
+      } else if (sibling.classList && sibling.classList.contains("quiz-multi")) {
+        multiContainer = sibling;
       } else {
         const nestedOptions = sibling.querySelectorAll(".quiz-option");
-        nestedOptions.forEach((opt) => options.push(opt));
+        nestedOptions.forEach((opt) => choiceOptions.push(opt));
         const nestedFill = sibling.querySelector(".quiz-fill-inline");
         if (nestedFill) fillContainer = nestedFill;
+        const nestedMulti = sibling.querySelector(".quiz-multi");
+        if (nestedMulti) multiContainer = nestedMulti;
       }
       sibling = sibling.nextElementSibling;
     }
 
-    if (options.length > 0) {
-      questions.push({ type: "choice", elements: options });
+    if (choiceOptions.length > 0) {
+      questions.push({ type: "choice", elements: choiceOptions });
     } else if (fillContainer) {
       questions.push({ type: "fill", element: fillContainer });
+    } else if (multiContainer) {
+      questions.push({ type: "multi", element: multiContainer });
     }
   });
 
@@ -117,8 +124,11 @@ const initQuizAndTooltips = () => {
     }
   };
 
-  // Asignación de lógica interactiva por tipo de pregunta
+  // Asignación de controladores por tipo de pregunta
   questions.forEach((q) => {
+    // ----------------------------------------------------
+    // 1. TIPO TEST CLÁSICO (1 sola opción con <details>)
+    // ----------------------------------------------------
     if (q.type === "choice") {
       const group = q.elements;
       group.forEach((opt) => {
@@ -150,7 +160,12 @@ const initQuizAndTooltips = () => {
           }, 50);
         });
       });
-    } else if (q.type === "fill") {
+    }
+
+    // ----------------------------------------------------
+    // 2. TIPO RELLENAR HUECO (Fill-in-the-blank)
+    // ----------------------------------------------------
+    else if (q.type === "fill") {
       const container = q.element;
       const input = container.querySelector(".quiz-blank-input");
       const btn = container.querySelector(".quiz-btn-inline");
@@ -186,11 +201,11 @@ const initQuizAndTooltips = () => {
           }
         } else {
           score -= 0.33;
-          input.style.borderColor = "var(--md-code-hl-special-color, #f44336)";
+          input.style.borderColor = "var(--md-code-hl-special-color, #ef5350)";
           input.style.backgroundColor = "rgba(244, 67, 54, 0.12)";
           if (feedbackTitle) {
             feedbackTitle.innerHTML = "✗ Incorrecto";
-            feedbackTitle.style.color = "var(--md-code-hl-special-color, #f44336)";
+            feedbackTitle.style.color = "var(--md-code-hl-special-color, #ef5350)";
           }
         }
 
@@ -198,14 +213,76 @@ const initQuizAndTooltips = () => {
         updateScoreBoard();
       };
 
-      if (btn) {
-        btn.addEventListener("click", validateFill);
-      }
+      if (btn) btn.addEventListener("click", validateFill);
       if (input) {
         input.addEventListener("keydown", (e) => {
-          if (e.key === "Enter") {
-            validateFill();
-          }
+          if (e.key === "Enter") validateFill();
+        });
+      }
+    }
+
+    // ----------------------------------------------------
+    // 3. TIPO MULTIRRESPUESTA (Multi-choice con confirmación)
+    // ----------------------------------------------------
+    else if (q.type === "multi") {
+      const container = q.element;
+      const options = container.querySelectorAll(".quiz-multi-option");
+      const btn = container.querySelector(".quiz-btn-confirm");
+
+      // Selección visual (clic en la tarjeta)
+      options.forEach((opt) => {
+        opt.addEventListener("click", () => {
+          if (container.dataset.answered === "true") return;
+          opt.classList.toggle("selected");
+        });
+      });
+
+      // Validar al pulsar botón "Confirmar"
+      if (btn) {
+        btn.addEventListener("click", () => {
+          if (container.dataset.answered === "true") return;
+
+          const selected = container.querySelectorAll(".quiz-multi-option.selected");
+          if (selected.length === 0) return; // Exige marcar al menos una
+
+          container.dataset.answered = "true";
+          btn.disabled = true;
+          answeredCount++;
+
+          const totalExpectedCorrect = parseInt(container.dataset.expected || "2", 10);
+          let correctSelected = 0;
+          let incorrectSelected = 0;
+
+          selected.forEach((opt) => {
+            if (opt.classList.contains("correct")) {
+              correctSelected++;
+              opt.classList.add("user-selected-correct");
+            } else {
+              incorrectSelected++;
+              opt.classList.add("user-selected-incorrect");
+            }
+          });
+
+          // Cálculo proporcional: (+0.5 por cada acierto si se pedían 2)
+          let points = (correctSelected / totalExpectedCorrect) * 1.0;
+          // Resta por fallos
+          points -= incorrectSelected * 0.33;
+          
+          score += Math.max(0, points);
+
+          // Revela soluciones
+          options.forEach((opt) => {
+            const fb = opt.querySelector(".feedback");
+            if (fb) fb.style.display = "block";
+            if (opt.classList.contains("correct")) {
+              opt.style.borderColor = "var(--md-code-hl-string-color, #4caf50)";
+            } else if (opt.classList.contains("selected")) {
+              opt.style.borderColor = "var(--md-code-hl-special-color, #ef5350)";
+            }
+          });
+
+          cleanLatexInTests();
+          updateScoreBoard();
         });
       }
     }
@@ -216,68 +293,3 @@ document.addEventListener("DOMContentLoaded", initQuizAndTooltips);
 if (typeof document$ !== "undefined") {
   document$.subscribe(initQuizAndTooltips);
 }
-
-function checkMultiChoice(btn) {
-  const container = btn.closest(".quiz-multi");
-  if (!container || container.dataset.answered === "true") return;
-
-  const options = container.querySelectorAll(".quiz-multi-option");
-  const selected = container.querySelectorAll(".quiz-multi-option.selected");
-
-  if (selected.length === 0) return; // Obliga a seleccionar al menos una
-
-  container.dataset.answered = "true";
-  btn.disabled = true;
-
-  const totalExpectedCorrect = parseInt(container.dataset.expected || "2", 10);
-  const correctOptions = container.querySelectorAll(".quiz-multi-option.correct");
-  
-  let correctSelected = 0;
-  let incorrectSelected = 0;
-
-  selected.forEach((opt) => {
-    if (opt.classList.contains("correct")) {
-      correctSelected++;
-      opt.classList.add("user-selected-correct");
-    } else {
-      incorrectSelected++;
-      opt.classList.add("user-selected-incorrect");
-    }
-  });
-
-  // Cálculo proporcional
-  // Cada acierto aporta (1.0 / totalExpectedCorrect). Si eran 2, cada una suma 0.5.
-  let pointsAwarded = (correctSelected / totalExpectedCorrect) * 1.0;
-  
-  // Penalización por cada incorrecta seleccionada (0.33 por fallo)
-  pointsAwarded -= incorrectSelected * 0.33;
-  if (pointsAwarded < 0) pointsAwarded = 0;
-
-  // Actualiza marcador global (asumiendo las variables globales score y answeredCount)
-  if (typeof score !== "undefined") {
-    score += pointsAwarded;
-    answeredCount++;
-    if (typeof updateScoreBoard === "function") updateScoreBoard();
-  }
-
-  // Revela todas las soluciones y feedbacks
-  options.forEach((opt) => {
-    const fb = opt.querySelector(".feedback");
-    if (fb) fb.style.display = "block";
-    if (opt.classList.contains("correct")) {
-      opt.style.borderColor = "#4caf50";
-    } else if (opt.classList.contains("selected")) {
-      opt.style.borderColor = "#ef5350";
-    }
-  });
-}
-
-document.addEventListener("click", (e) => {
-  const opt = e.target.closest(".quiz-multi-option");
-  if (!opt) return;
-  const container = opt.closest(".quiz-multi");
-  if (!container || container.dataset.answered === "true") return;
-
-  // Alterna selección
-  opt.classList.toggle("selected");
-});
