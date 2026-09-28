@@ -30,5 +30,8 @@ Este módulo capacita en la implantación, configuración, explotación y manten
 
 ---
 
-!!! tip "Banco de Autoevaluación"
-    Pon a prueba tus conocimientos teóricos y procedimentales accediendo al [📝 Banco de Autoevaluación y Tests](test/index.md).
+## 📝 [Ir al Banco de Tests](test/index.md)
+
+---
+
+## 📋 [Ir a Pruebas de Evaluación(PACs)](pac/index.md)
