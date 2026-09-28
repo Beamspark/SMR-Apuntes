@@ -216,3 +216,68 @@ document.addEventListener("DOMContentLoaded", initQuizAndTooltips);
 if (typeof document$ !== "undefined") {
   document$.subscribe(initQuizAndTooltips);
 }
+
+function checkMultiChoice(btn) {
+  const container = btn.closest(".quiz-multi");
+  if (!container || container.dataset.answered === "true") return;
+
+  const options = container.querySelectorAll(".quiz-multi-option");
+  const selected = container.querySelectorAll(".quiz-multi-option.selected");
+
+  if (selected.length === 0) return; // Obliga a seleccionar al menos una
+
+  container.dataset.answered = "true";
+  btn.disabled = true;
+
+  const totalExpectedCorrect = parseInt(container.dataset.expected || "2", 10);
+  const correctOptions = container.querySelectorAll(".quiz-multi-option.correct");
+  
+  let correctSelected = 0;
+  let incorrectSelected = 0;
+
+  selected.forEach((opt) => {
+    if (opt.classList.contains("correct")) {
+      correctSelected++;
+      opt.classList.add("user-selected-correct");
+    } else {
+      incorrectSelected++;
+      opt.classList.add("user-selected-incorrect");
+    }
+  });
+
+  // Cálculo proporcional
+  // Cada acierto aporta (1.0 / totalExpectedCorrect). Si eran 2, cada una suma 0.5.
+  let pointsAwarded = (correctSelected / totalExpectedCorrect) * 1.0;
+  
+  // Penalización por cada incorrecta seleccionada (0.33 por fallo)
+  pointsAwarded -= incorrectSelected * 0.33;
+  if (pointsAwarded < 0) pointsAwarded = 0;
+
+  // Actualiza marcador global (asumiendo las variables globales score y answeredCount)
+  if (typeof score !== "undefined") {
+    score += pointsAwarded;
+    answeredCount++;
+    if (typeof updateScoreBoard === "function") updateScoreBoard();
+  }
+
+  // Revela todas las soluciones y feedbacks
+  options.forEach((opt) => {
+    const fb = opt.querySelector(".feedback");
+    if (fb) fb.style.display = "block";
+    if (opt.classList.contains("correct")) {
+      opt.style.borderColor = "#4caf50";
+    } else if (opt.classList.contains("selected")) {
+      opt.style.borderColor = "#ef5350";
+    }
+  });
+}
+
+document.addEventListener("click", (e) => {
+  const opt = e.target.closest(".quiz-multi-option");
+  if (!opt) return;
+  const container = opt.closest(".quiz-multi");
+  if (!container || container.dataset.answered === "true") return;
+
+  // Alterna selección
+  opt.classList.toggle("selected");
+});
