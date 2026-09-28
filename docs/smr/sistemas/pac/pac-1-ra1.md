@@ -1,3 +1,7 @@
+[← Volver al Índice de PACs](./index.md)
+
+---
+
 ### Pregunta 1
 En un aula de informática hay ordenadores, programas instalados y personas que los utilizan y mantienen. ¿Cuáles de los elementos mencionados anteriormente forman parte del sistema informático?
 
