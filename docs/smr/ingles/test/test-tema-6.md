@@ -944,10 +944,3 @@ Article Reading Comprehension: Workplace Culture and Employee Retention
 </details>
 
 ---
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    El crecimiento profesional debe coexistir con el resto de políticas de bienestar laboral.
-  </div>
-</details>
-
----
