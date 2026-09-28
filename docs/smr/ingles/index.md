@@ -31,7 +31,7 @@ Este módulo capacita en la comunicación técnica oral y escrita en lengua ingl
 
 ---
 
-## 📝 [Ir al Banco de Tests](test/index.md)
+## 📝 [Activity Book](test/index.md)
 
 ---
 
