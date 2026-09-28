@@ -23,8 +23,8 @@ Bienvenido a la sección de autoevaluación interactiva de **Inglés Profesional
 
 Evaluaciones completas con preguntas ponderadas, supuestos comunicativos y situaciones técnicas reales de todo el módulo:
 
-* **[🎯 Examen Global 1: Simulacro Oficial A](examen-global-1.md)** — Preguntas integradas de los Temas 1 al 10 (comunicación oral, instrucciones, tiempos verbales y mensajes cortos).
-* **[🎯 Examen Global 2: Simulacro Oficial B](examen-global-2.md)** — Evaluación global completa de los Temas 1 al 10 (expresión escrita, informes, CV, manuales y protocolo internacional).
+* **[🎯 Examen Global 1: Simulacro Oficial A](examen-global-1.md)** — Preguntas integradas de los Temas 1 al 10.
+* **[🎯 Examen Global 2: Simulacro Oficial B](examen-global-2.md)** — Evaluación global completa de los Temas 1 al 10.
 
 ---
 
