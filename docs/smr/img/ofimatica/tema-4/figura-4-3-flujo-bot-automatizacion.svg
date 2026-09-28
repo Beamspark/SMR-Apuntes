@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 400" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg-panel { fill: #1e1e24; stroke: #263238; stroke-width: 1.5; rx: 8; }
+      .box-step { fill: #2a2b36; stroke: #37474f; stroke-width: 1.5; rx: 6; }
+      .box-step-active { fill: #1a2736; stroke: #29b6f6; stroke-width: 2; rx: 6; }
+      .box-doc { fill: #221c2b; stroke: #ab47bc; stroke-width: 2; rx: 6; }
+      .text-title { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: bold; fill: #ffffff; }
+      .text-code { font-family: 'Consolas', 'Courier New', monospace; font-size: 11px; fill: #29b6f6; }
+      .text-doc { font-family: 'Consolas', 'Courier New', monospace; font-size: 11px; fill: #ce93d8; }
+      .text-body { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 12px; fill: #eceff1; }
+      .text-dim { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #b0bec5; }
+      .arrow-flow { stroke: #29b6f6; stroke-width: 2; fill: none; marker-end: url(#arrow-cyan); }
+    </style>
+    <marker id="arrow-cyan" markerWidth="6" markerHeight="6" refX="4" refY="3" orient="auto">
+      <polygon points="0 0, 6 3, 0 6" fill="#29b6f6" />
+    </marker>
+  </defs>
+
+  <rect x="15" y="15" width="890" height="370" class="bg-panel" />
+  <text x="35" y="45" class="text-title" style="font-size: 17px; fill: #26a69a;">FLUJO DE AUTOMATIZACIÓN DESATENDIDA PARA GENERACIÓN DOCUMENTAL (PDF)</text>
+
+  <!-- Paso 1: Mutación de Datos -->
+  <rect x="35" y="75" width="190" height="280" class="box-step" />
+  <rect x="45" y="85" width="170" height="28" rx="4" fill="#37474f" />
+  <text x="55" y="104" class="text-title">1. Event Trigger</text>
+  <text x="45" y="135" class="text-dim">Monitorización de Datos:</text>
+  <rect x="45" y="145" width="170" height="55" rx="4" fill="#17181c" />
+  <text x="55" y="165" class="text-code">Table: Pedidos</text>
+  <text x="55" y="185" class="text-code">Event: Updates_Only</text>
+  <text x="45" y="225" class="text-dim">Condición Lógica:</text>
+  <rect x="45" y="235" width="170" height="55" rx="4" fill="#17181c" />
+  <text x="55" y="255" class="text-doc">[Estado] = "Facturado"</text>
+  <text x="55" y="275" class="text-dim">Evaluada en Servidor</text>
+
+  <!-- Paso 2: Plantilla Google Docs -->
+  <rect x="260" y="75" width="200" height="280" class="box-doc" />
+  <rect x="270" y="85" width="180" height="28" rx="4" fill="#4a148c" />
+  <text x="280" y="104" class="text-title">2. Template Engine</text>
+  <text x="270" y="130" class="text-dim">Plantilla en Google Docs:</text>
+  <rect x="270" y="140" width="180" height="150" rx="4" fill="#15101a" stroke="#3d2645" stroke-width="1" />
+  <text x="280" y="160" class="text-doc">FACTURA REGLAMENTARIA</text>
+  <text x="280" y="180" class="text-doc">Nº: &lt;&lt;[ID_Pedido]&gt;&gt;</text>
+  <text x="280" y="200" class="text-doc">Cliente: &lt;&lt;[Cliente]&gt;&gt;</text>
+  <text x="280" y="225" class="text-doc">&lt;&lt;Start: [Lineas]&gt;&gt;</text>
+  <text x="280" y="245" class="text-doc">• &lt;&lt;[Item]&gt;&gt; | &lt;&lt;[PVP]&gt;&gt; €</text>
+  <text x="280" y="265" class="text-doc">&lt;&lt;End&gt;&gt;</text>
+  <text x="270" y="315" class="text-dim">Sustitución dinámica de tags</text>
+
+  <!-- Paso 3: Compilación y Almacenamiento -->
+  <rect x="495" y="75" width="180" height="280" class="box-step-active" />
+  <rect x="505" y="85" width="160" height="28" rx="4" fill="#102a45" />
+  <text x="515" y="104" class="text-title">3. PDF Compilation</text>
+  <text x="505" y="135" class="text-dim">Procesamiento Cloud:</text>
+  <rect x="505" y="145" width="160" height="70" rx="4" fill="#17181c" />
+  <text x="515" y="170" class="text-title" style="font-size: 13px; fill: #29b6f6;">PDF Render</text>
+  <text x="515" y="195" class="text-dim">Salida vectorial fija</text>
+  <text x="505" y="240" class="text-dim">Persistencia:</text>
+  <rect x="505" y="250" width="160" height="55" rx="4" fill="#17181c" />
+  <text x="515" y="270" class="text-code">Google Drive</text>
+  <text x="515" y="290" class="text-dim">/Facturas/2026/...</text>
+
+  <!-- Paso 4: Entrega y Notificación -->
+  <rect x="710" y="75" width="175" height="280" class="box-step" />
+  <rect x="720" y="85" width="155" height="28" rx="4" fill="#1b4d3e" />
+  <text x="730" y="104" class="text-title">4. Outbound Task</text>
+  <text x="720" y="135" class="text-dim">Envío Desatendido:</text>
+  <rect x="720" y="145" width="155" height="80" rx="4" fill="#17181c" />
+  <text x="730" y="170" class="text-title" style="font-size: 13px; fill: #81c784;">Email Dispatch</text>
+  <text x="730" y="190" class="text-dim">To: [Cliente].[Email]</text>
+  <text x="730" y="210" class="text-dim">Adjunto: factura.pdf</text>
+  <text x="720" y="250" class="text-dim">Integración Webhook:</text>
+  <rect x="720" y="260" width="155" height="45" rx="4" fill="#17181c" />
+  <text x="730" y="285" class="text-code">JSON a Slack/ERP</text>
+
+  <!-- Flechas de secuencia -->
+  <path d="M 225 180 L 260 180" class="arrow-flow" />
+  <path d="M 460 180 L 495 180" class="arrow-flow" />
+  <path d="M 675 180 L 710 180" class="arrow-flow" />
+</svg>
