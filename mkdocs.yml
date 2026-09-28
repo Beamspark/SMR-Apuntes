@@ -159,3 +159,33 @@ nav:
               - 🎯 Examen Global 2: smr/itinerario/test/examen-global-2.md
           - "📋 Pruebas de Evaluación (PAC)":
               - Índice de PAC: smr/itinerario/pac/index.md
+      - 🌐 Inglés Profesional:
+          - smr/ingles/index.md
+          - "📚 Temario Teórico":
+              - Tema 1 - Listening in Everyday Life: smr/ingles/tema-1.md
+              - Tema 2 - Following Instructions: smr/ingles/tema-2.md
+              - Tema 3 - Express Yourself: smr/ingles/tema-3.md
+              - Tema 4 - Get Your Message Across: smr/ingles/tema-4.md
+              - Tema 5 - Unlocking the Message: smr/ingles/tema-5.md
+              - Tema 6 - Make Sense of It: smr/ingles/tema-6.md
+              - Tema 7 - Write Your Way: smr/ingles/tema-7.md
+              - Tema 8 - Master Your Message: smr/ingles/tema-8.md
+              - Tema 9 - Exploring English-Speaking Countries: smr/ingles/tema-9.md
+              - Tema 10 - Chatting Across Cultures: smr/ingles/tema-10.md
+              - 📌 Repaso General de Conceptos Clave: smr/ingles/resumen-conceptos-clave.md
+          - "📝 Autoevaluación y Tests":
+              - Índice de Tests: smr/ingles/test/index.md
+              - Test 1 - Listening in Everyday Life: smr/ingles/test/test-tema-1.md
+              - Test 2 - Following Instructions: smr/ingles/test/test-tema-2.md
+              - Test 3 - Express Yourself: smr/ingles/test/test-tema-3.md
+              - Test 4 - Get Your Message Across: smr/ingles/test/test-tema-4.md
+              - Test 5 - Unlocking the Message: smr/ingles/test/test-tema-5.md
+              - Test 6 - Make Sense of It: smr/ingles/test/test-tema-6.md
+              - Test 7 - Write Your Way: smr/ingles/test/test-tema-7.md
+              - Test 8 - Master Your Message: smr/ingles/test/test-tema-8.md
+              - Test 9 - Exploring English-Speaking Countries: smr/ingles/test/test-tema-9.md
+              - Test 10 - Chatting Across Cultures: smr/ingles/test/test-tema-10.md
+              - 🎯 Examen Global 1: smr/ingles/test/examen-global-1.md
+              - 🎯 Examen Global 2: smr/ingles/test/examen-global-2.md
+          - "📋 Pruebas de Evaluación (PAC)":
+              - Índice de PAC: smr/ingles/pac/index.md
