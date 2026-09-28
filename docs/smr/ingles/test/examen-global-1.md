@@ -1,6 +1,6 @@
-# Examen Global de Evaluación: Batería N.º 1
+# Examen Global 1: Inglés profesional
 
-[← Volver al Índice de Inglés](../index.md)
+[← Volver al Índice de Tests](./index.md)
 
 ---
 
