@@ -1,4 +1,4 @@
-<h1 style="color: #ab47bc;">📝 Banco de Autoevaluación — Inglés Profesional</h1>
+<h1 style="color: #ab47bc;">📝 Activity Book — Inglés Profesional</h1>
 
 Bienvenido a la sección de autoevaluación interactiva de **Inglés Profesional**. Estos cuestionarios están diseñados para poner a prueba las competencias lingüísticas, gramaticales y comunicativas aplicadas al sector tecnológico mediante preguntas tipo test con corrección automática, justificación razonada y cálculo de nota en vivo.
 
