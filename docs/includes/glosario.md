@@ -545,3 +545,13 @@
 *[Autoridad de Certificación]: Entidad de confianza responsable de emitir, revocar y garantizar la validez legal de los certificados digitales criptográficos.
 *[Spam]: Correo basura o no solicitado enviado de forma masiva que satura los buzones y se desvía mediante filtros heurísticos.
 *[MUA]: Mail User Agent. Cliente de correo electrónico o aplicación de usuario encargada de redactar, enviar y consultar mensajes conectándose a los servidores.
+*[Soporte Técnico]: Servicio asistencial multicanal (remoto o presencial) encargado de diagnosticar, subsanar anomalías y guiar en el uso del equipamiento informático.
+*[Manual de Usuario]: Documento técnico integral que desglosa detalladamente las prestaciones, configuraciones, directivas de seguridad y resolución de fallos de un sistema.
+*[Guía Rápida]: Documentación técnica condensada, esquemática y multilingüe orientada a la instalación, conexión física y arranque inicial de un dispositivo o software.
+*[Software Malintencionado]: Malware. Código o programa ilícito diseñado para alterar el funcionamiento normal del equipo, comprometer la privacidad o consumir recursos sin autorización.
+*[Adware]: Tipo de software malintencionado enfocado en desplegar anuncios publicitarios masivos no autorizados (pop-ups) y redirigir el tráfico del navegador web.
+*[Incidencia Conocida]: Anomalía previamente registrada y diagnosticada en el histórico de soporte que cuenta con una solución técnica contrastada y documentada.
+*[Incidencia Desconocida]: Fallo inédito no tipificado en la base de conocimiento que requiere un proceso analítico de investigación previa para determinar la causa y su solución.
+*[Medidas Preventivas]: Conjunto de directivas proactivas (copias de seguridad periódicas y control de versiones) destinadas a evitar la pérdida de información antes de que acontezca un fallo.
+*[Medidas Correctivas]: Protocolos técnicos ejecutados tras una avería para reparar el sistema o recuperar datos mediante software de recuperación forense.
+*[Base de Conocimiento]: Repositorio centralizado de documentación técnica que compila soluciones a incidencias previas para agilizar el triaje y resolución en el CAU.
