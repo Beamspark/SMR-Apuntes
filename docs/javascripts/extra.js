@@ -185,7 +185,6 @@ const initQuizAndTooltips = () => {
           if (input) input.disabled = true;
           if (btn) btn.disabled = true;
 
-          // Se incrementa el contador de preguntas contestadas la primera vez
           if (!questionCounted) {
             questionCounted = true;
             answeredCount++;
@@ -238,66 +237,63 @@ const initQuizAndTooltips = () => {
     }
 
     // ----------------------------------------------------
-    // 3. TIPO MULTIRRESPUESTA (Seleccionar y Confirmar)
+    // 3. TIPO MULTIRRESPUESTA (Checkboxes nativos y Confirmar)
     // ----------------------------------------------------
     else if (q.type === "multi") {
       const container = q.element;
-      const options = container.querySelectorAll(".quiz-multi-option");
+      const checkboxes = container.querySelectorAll("input[type='checkbox']");
       const btn = container.querySelector(".quiz-btn-confirm");
 
-      // Listener en el contenedor para asegurar que cualquier clic en la opción o sus hijos funcione
-      container.addEventListener("click", (e) => {
-        const clickedOption = e.target.closest(".quiz-multi-option");
-        if (!clickedOption || container.dataset.answered === "true") return;
-        clickedOption.classList.toggle("selected");
-      });
-
-      // Validar al pulsar "Confirmar selección"
       if (btn) {
-        btn.addEventListener("click", (e) => {
-          e.stopPropagation();
+        btn.onclick = () => {
           if (container.dataset.answered === "true") return;
 
-          const selected = container.querySelectorAll(".quiz-multi-option.selected");
-          if (selected.length === 0) return;
+          const checkedBoxes = container.querySelectorAll("input[type='checkbox']:checked");
+          if (checkedBoxes.length === 0) {
+            alert("Por favor, selecciona al menos una opción.");
+            return;
+          }
 
           container.dataset.answered = "true";
           btn.disabled = true;
+          checkboxes.forEach((cb) => (cb.disabled = true));
           answeredCount++;
 
-          const totalExpectedCorrect = parseInt(container.dataset.expected || "2", 10);
+          const totalExpected = parseInt(container.dataset.expected || "2", 10);
           let correctSelected = 0;
           let incorrectSelected = 0;
 
-          selected.forEach((opt) => {
-            if (opt.classList.contains("correct")) {
-              correctSelected++;
-              opt.classList.add("user-selected-correct");
-            } else {
-              incorrectSelected++;
-              opt.classList.add("user-selected-incorrect");
+          checkboxes.forEach((cb) => {
+            const optionCard = cb.closest(".quiz-multi-option");
+            const fb = optionCard.querySelector(".feedback");
+            if (fb) fb.style.display = "block";
+
+            const isCorrectCard = optionCard.classList.contains("correct");
+            const isChecked = cb.checked;
+
+            if (isChecked) {
+              if (isCorrectCard) {
+                correctSelected++;
+                optionCard.style.borderColor = "var(--md-code-hl-string-color, #4caf50)";
+                optionCard.style.backgroundColor = "rgba(76, 175, 80, 0.12)";
+              } else {
+                incorrectSelected++;
+                optionCard.style.borderColor = "var(--md-code-hl-special-color, #ef5350)";
+                optionCard.style.backgroundColor = "rgba(244, 67, 54, 0.12)";
+              }
+            } else if (isCorrectCard) {
+              optionCard.style.borderColor = "#ff9800"; // Naranja si era correcta y no la marcó
             }
           });
 
-          // Puntuación proporcional: (+0.5 por acierto si eran 2 esperadas, -0.33 por error)
-          let points = (correctSelected / totalExpectedCorrect) * 1.0;
+          // Puntuación proporcional y penalización por errores
+          let points = (correctSelected / totalExpected) * 1.0;
           points -= incorrectSelected * 0.33;
           score += Math.max(0, points);
 
-          // Revelar feedbacks y colorear bordes finales
-          options.forEach((opt) => {
-            const fb = opt.querySelector(".feedback");
-            if (fb) fb.style.display = "block";
-            if (opt.classList.contains("correct")) {
-              opt.style.borderColor = "var(--md-code-hl-string-color, #4caf50)";
-            } else if (opt.classList.contains("selected")) {
-              opt.style.borderColor = "var(--md-code-hl-special-color, #ef5350)";
-            }
-          });
-
           cleanLatexInTests();
           updateScoreBoard();
-        });
+        };
       }
     }
   });
@@ -306,62 +302,4 @@ const initQuizAndTooltips = () => {
 document.addEventListener("DOMContentLoaded", initQuizAndTooltips);
 if (typeof document$ !== "undefined") {
   document$.subscribe(initQuizAndTooltips);
-}
-
-// ========================================================
-// 4. Lógica para Multirrespuesta con Checkboxes nativos
-// ========================================================
-function checkMultiChoiceCheckbox(btn) {
-  const container = btn.closest(".quiz-multi");
-  if (!container || container.dataset.answered === "true") return;
-
-  const checkboxes = container.querySelectorAll("input[type='checkbox']");
-  const checkedBoxes = container.querySelectorAll("input[type='checkbox']:checked");
-
-  if (checkedBoxes.length === 0) {
-    alert("Por favor, selecciona al menos una opción.");
-    return;
-  }
-
-  container.dataset.answered = "true";
-  btn.disabled = true;
-  checkboxes.forEach(cb => cb.disabled = true);
-
-  const totalExpected = parseInt(container.dataset.expected || "2", 10);
-  let correctSelected = 0;
-  let incorrectSelected = 0;
-
-  checkboxes.forEach((cb) => {
-    const optionCard = cb.closest(".quiz-multi-option");
-    const fb = optionCard.querySelector(".feedback");
-    if (fb) fb.style.display = "block";
-
-    const isCorrectCard = optionCard.classList.contains("correct");
-    const isChecked = cb.checked;
-
-    if (isChecked) {
-      if (isCorrectCard) {
-        correctSelected++;
-        optionCard.style.borderColor = "#4caf50";
-        optionCard.style.backgroundColor = "rgba(76, 175, 80, 0.12)";
-      } else {
-        incorrectSelected++;
-        optionCard.style.borderColor = "#ef5350";
-        optionCard.style.backgroundColor = "rgba(244, 67, 54, 0.12)";
-      }
-    } else if (isCorrectCard) {
-      // Si era correcta y el usuario no la marcó
-      optionCard.style.borderColor = "#ff9800";
-    }
-  });
-
-  // Cálculo de puntos proporcionales
-  let points = (correctSelected / totalExpected) * 1.0;
-  points -= incorrectSelected * 0.33;
-  
-  if (typeof score !== "undefined") {
-    score += Math.max(0, points);
-    answeredCount++;
-    if (typeof updateScoreBoard === "function") updateScoreBoard();
-  }
 }
