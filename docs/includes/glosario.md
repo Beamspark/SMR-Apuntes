@@ -497,3 +497,13 @@
 *[Serif]: Familia tipográfica caracterizada por terminaciones o remates ornamentales en los extremos de los trazos, óptima para lectura impresa continua.
 *[Sans Serif]: Familia tipográfica de palo seco sin remates ornamentales, diseñada para maximizar la legibilidad en pantallas digitales.
 *[Sangría francesa]: Sangría de párrafo que mantiene la primera línea contra el margen izquierdo y desplaza los renglones siguientes hacia la derecha.
+*[Presentaciones de Google]: Aplicación ofimática en la nube integrada en Google Workspace para la creación, maquetación y exposición colaborativa de diapositivas.
+*[Diapositiva]: Unidad o página individual dentro de una presentación multimedia donde se estructuran textos, gráficos y objetos audiovisuales.
+*[Diapositiva Maestra]: Patrón o plantilla estructural base que define colores, tipografías y posiciones de elementos globales en la presentación.
+*[Relación de Aspecto]: Proporción geométrica entre el ancho y la altura de una pantalla o diapositiva (ej. 16:9 panorámica o 4:3 estándar).
+*[Notas del Orador]: Área de anotaciones y guion técnico vinculada a una diapositiva, visible únicamente para el ponente en la Vista de Presentador.
+*[Vista de Presentador]: Modo de exposición en doble pantalla que proyecta las diapositivas limpias al público y muestra controles y notas en la pantalla del ponente.
+*[Transición]: Efecto cinemático visual aplicado al pasar de una diapositiva a la siguiente durante la proyección.
+*[Animación de Objeto]: Efecto dinámico de movimiento o aparición aplicado sobre un elemento gráfico o bloque de texto específico dentro de la diapositiva.
+*[Gráfico Vinculado]: Diagrama estadístico insertado desde una hoja de cálculo externa sincronizado dinámicamente con sus datos de origen.
+*[Saltar Diapositiva]: Función que oculta una diapositiva durante la exposición pública sin borrarla del archivo de trabajo.
