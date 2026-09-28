@@ -665,6 +665,27 @@ Software Setup Guide: ClientPro 3.0
 ### Pregunta 7
 Read the article on workplace culture and employee retention. Match each gap (1–5) with the correct sentence (a–g):
 
+!!! quote "📖 Reading: Retaining Top Talent: Strategies for Businesses"
+    In today’s competitive job market, retaining talented employees has become more crucial than ever. Businesses must implement effective strategies to prevent high turnover rates and maintain a motivated workforce. By addressing employees’ evolving needs, companies can create an environment where talent feels valued and engaged.
+    
+    One of the most impactful strategies is offering flexible work arrangements. Employees increasingly value the ability to balance their professional and personal lives. Allowing flexible timetables or implementing remote work policies enables workers to manage their responsibilities without sacrificing productivity.
+    
+    **(1) [ .............................................................. ]** Many employees seek more than just a paycheck—they want opportunities to grow and improve. Businesses that offer professional development programs, mentorship, and pathways for advancement demonstrate their commitment to their employees’ futures.
+    
+    Another critical factor is recognizing employees’ contributions. Simple gestures like celebrating achievements or providing constructive feedback can go a long way. When employees feel appreciated, they are more likely to remain loyal to the company.
+    
+    **(2) [ .............................................................. ]** For instance, offering a mix of remote and in-office days can enhance collaboration while still accommodating employees’ preferences for flexibility.
+    
+    Work-life balance is another key element in talent retention. Overworked employees are more likely to burn out and look for other opportunities. By fostering a culture that prioritizes well-being, businesses can create a more sustainable work environment.
+    
+    **(3) [ .............................................................. ]** This may include access to wellness programs, mental health support, or even gym memberships. Taking care of employees’ physical and mental health demonstrates genuine care and concern.
+    
+    Finally, communication plays a pivotal role. Regularly checking in with employees and actively listening to their concerns builds trust and ensures that issues are addressed before they escalate.
+    
+    **(4) [ .............................................................. ]** Transparent discussions about goals, challenges, and expectations foster mutual understanding and a sense of belonging within the company.
+    
+    **(5) [ .............................................................. ]** By prioritizing these strategies, companies can retain top talent, boost morale, and create a thriving workplace culture.
+
 *Options:*
 - **a)** Regular communication ensures employees feel heard and valued.
 - **b)** Overworked employees often experience burnout and leave their jobs.
@@ -682,7 +703,7 @@ Read the article on workplace culture and employee retention. Match each gap (1�
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>g</code>. El párrafo se centra en la formación continua y las oportunidades de crecimiento dentro de la organización (<em>Companies should invest in their employees’ professional development</em>).
+      <strong>Solución:</strong> <code>g</code> (<em>Companies should invest in their employees’ professional development</em>). El párrafo aborda las oportunidades de formación continua, programas de mentoría y crecimiento dentro de la empresa.
     </div>
   </div>
 </div>
@@ -695,7 +716,7 @@ Read the article on workplace culture and employee retention. Match each gap (1�
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>c</code>. El fragmento aborda la combinación de trabajo presencial y remoto (<em>Hybrid work models can offer the best of both worlds</em>).
+      <strong>Solución:</strong> <code>c</code> (<em>Hybrid work models can offer the best of both worlds</em>). Introduce el ejemplo de combinar días presenciales y teletrabajo para equilibrar colaboración y flexibilidad.
     </div>
   </div>
 </div>
@@ -708,7 +729,7 @@ Read the article on workplace culture and employee retention. Match each gap (1�
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>d</code>. Se relaciona directamente con las medidas de apoyo a la salud física y mental de los trabajadores (<em>Providing wellness benefits shows that businesses care about their teams</em>).
+      <strong>Solución:</strong> <code>d</code> (<em>Providing wellness benefits shows that businesses care about their teams</em>). Conecta directamente con las medidas de apoyo físico y psicológico (gimnasios, salud mental y bienestar).
     </div>
   </div>
 </div>
@@ -721,7 +742,7 @@ Read the article on workplace culture and employee retention. Match each gap (1�
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>a</code>. El texto destaca la importancia del diálogo constante y la transparencia entre los equipos y la dirección (<em>Regular communication ensures employees feel heard and valued</em>).
+      <strong>Solución:</strong> <code>a</code> (<em>Regular communication ensures employees feel heard and valued</em>). Desarrolla el papel fundamental del diálogo transparente y continuo entre la plantilla y la dirección.
     </div>
   </div>
 </div>
@@ -734,7 +755,7 @@ Read the article on workplace culture and employee retention. Match each gap (1�
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>e</code>. Actúa como conclusión y resumen final del artículo sobre la fidelización del talento (<em>Retaining top talent is a key factor in long-term business success</em>).
+      <strong>Solución:</strong> <code>e</code> (<em>Retaining top talent is a key factor in long-term business success</em>). Actúa como frase de apertura de la conclusión sobre la retención estratégica de profesionales.
     </div>
   </div>
 </div>
@@ -743,6 +764,29 @@ Read the article on workplace culture and employee retention. Match each gap (1�
 
 ### Pregunta 8
 Article Reading Comprehension: Workplace Culture and Employee Retention
+
+??? quote "📖 Haz clic aquí para desplegar el texto completo del artículo"
+    **Retaining Top Talent: Strategies for Businesses**
+    
+    In today’s competitive job market, retaining talented employees has become more crucial than ever. Businesses must implement effective strategies to prevent high turnover rates and maintain a motivated workforce. By addressing employees’ evolving needs, companies can create an environment where talent feels valued and engaged.
+    
+    One of the most impactful strategies is offering flexible work arrangements. Employees increasingly value the ability to balance their professional and personal lives. Allowing flexible timetables or implementing remote work policies enables workers to manage their responsibilities without sacrificing productivity.
+    
+    **Companies should invest in their employees’ professional development.** Many employees seek more than just a paycheck—they want opportunities to grow and improve. Businesses that offer professional development programs, mentorship, and pathways for advancement demonstrate their commitment to their employees’ futures.
+    
+    Another critical factor is recognizing employees’ contributions. Simple gestures like celebrating achievements or providing constructive feedback can go a long way. When employees feel appreciated, they are more likely to remain loyal to the company.
+    
+    **Hybrid work models can offer the best of both worlds.** For instance, offering a mix of remote and in-office days can enhance collaboration while still accommodating employees’ preferences for flexibility.
+    
+    Work-life balance is another key element in talent retention. Overworked employees are more likely to burn out and look for other opportunities. By fostering a culture that prioritizes well-being, businesses can create a more sustainable work environment.
+    
+    **Providing wellness benefits shows that businesses care about their teams.** This may include access to wellness programs, mental health support, or even gym memberships. Taking care of employees’ physical and mental health demonstrates genuine care and concern.
+    
+    Finally, communication plays a pivotal role. Regularly checking in with employees and actively listening to their concerns builds trust and ensures that issues are addressed before they escalate.
+    
+    **Regular communication ensures employees feel heard and valued.** Transparent discussions about goals, challenges, and expectations foster mutual understanding and a sense of belonging within the company.
+    
+    **Retaining top talent is a key factor in long-term business success.** By prioritizing these strategies, companies can retain top talent, boost morale, and create a thriving workplace culture.
 
 1. What is one of the main reasons employees leave their jobs, according to the article?
 
@@ -893,6 +937,13 @@ Article Reading Comprehension: Workplace Culture and Employee Retention
 </details>
 <details class="quiz-option incorrect">
   <summary>D) It eliminates the need for other retention strategies.</summary>
+  <div class="feedback">
+    <div class="feedback-title">✗ Incorrecto</div>
+    El crecimiento profesional debe coexistir con el resto de políticas de bienestar laboral.
+  </div>
+</details>
+
+---
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
     El crecimiento profesional debe coexistir con el resto de políticas de bienestar laboral.
