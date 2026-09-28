@@ -23,4 +23,8 @@ Bienvenido al módulo de **Digitalización Aplicada a los Sectores Productivos**
 
 ## 📝 [Ir al Banco de Tests](test/index.md)
 
+---
+
+## 📋 [Ir a Pruebas de Evaluación(PACs)](pac/index.md)
+
 --8<-- "docs/includes/glosario.md"
