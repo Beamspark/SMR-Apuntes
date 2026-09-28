@@ -89,6 +89,8 @@ nav:
               - Test 5 - Administración de sistemas operativos libres y propietarios: smr/sistemas/test/test-tema-5.md
               - 🎯 Examen Global 1: smr/sistemas/test/examen-global-1.md
               - 🎯 Examen Global 2: smr/sistemas/test/examen-global-2.md
+          - "📋 Pruebas de Evaluación (PAC)":
+              - Índice de PAC: smr/sistemas/pac/index.md
       - 📑 Aplicaciones Ofimáticas:
           - smr/ofimatica/index.md
           - "📚 Temario Teórico":
@@ -115,6 +117,8 @@ nav:
               - Test 9 - Soporte al usuario: smr/ofimatica/test/test-tema-9.md
               - 🎯 Examen Global 1: smr/ofimatica/test/examen-global-1.md
               - 🎯 Examen Global 2: smr/ofimatica/test/examen-global-2.md
+          - "📋 Pruebas de Evaluación (PAC)":
+              - Índice de PAC: smr/ofimatica/pac/index.md
       - ⚡ Digitalización Aplicada a los Sectores Productivos:
           - smr/digitalizacion/index.md
           - "📚 Temario Teórico":
@@ -133,6 +137,8 @@ nav:
               - Test 5 - Planes de transformación: smr/digitalizacion/test/test-tema-5.md
               - 🎯 Examen Global 1: smr/digitalizacion/test/examen-global-1.md
               - 🎯 Examen Global 2: smr/digitalizacion/test/examen-global-2.md
+          - "📋 Pruebas de Evaluación (PAC)":
+              - Índice de PAC: smr/digitalizacion/pac/index.md
       - 💼 Itinerario Personal para la Empleabilidad I (IPE I):
           - smr/itinerario/index.md
           - "📚 Temario Teórico":
@@ -151,3 +157,5 @@ nav:
               - Test 5 - Aprendizaje autónomo: smr/itinerario/test/test-tema-5.md
               - 🎯 Examen Global 1: smr/itinerario/test/examen-global-1.md
               - 🎯 Examen Global 2: smr/itinerario/test/examen-global-2.md
+          - "📋 Pruebas de Evaluación (PAC)":
+              - Índice de PAC: smr/itinerario/pac/index.md
