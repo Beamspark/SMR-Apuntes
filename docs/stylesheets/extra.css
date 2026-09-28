@@ -184,3 +184,92 @@ abbr.tooltip-active::before {
 .quiz-option[data-answered="true"] summary {
   cursor: default;
 }
+
+/* ========================================================
+   Preguntas de rellenar huecos (Fill-in-the-blank)
+   ======================================================== */
+
+.quiz-fill-inline {
+  margin: 1.2rem 0;
+  padding: 1rem 1.2rem;
+  background-color: var(--md-code-bg-color);
+  border: 1.5px solid var(--md-default-fg-color--lighter);
+  border-left: 4px solid #ab47bc;
+  border-radius: 8px;
+  transition: all 0.2s ease-in-out;
+}
+
+.quiz-fill-inline p {
+  margin: 0 0 0.5rem 0;
+  line-height: 2.2;
+}
+
+/* Campo de entrada de texto */
+.quiz-blank-input {
+  width: 160px;
+  padding: 4px 10px;
+  font-size: 0.95em;
+  font-family: inherit;
+  border: 1.5px solid var(--md-default-fg-color--lighter);
+  border-radius: 6px;
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  text-align: center;
+  transition: border-color 0.2s, background-color 0.2s, box-shadow 0.2s;
+}
+
+.quiz-blank-input:focus {
+  outline: none;
+  border-color: #ab47bc;
+  box-shadow: 0 0 0 2px rgba(171, 71, 188, 0.25);
+}
+
+.quiz-blank-input:disabled {
+  opacity: 0.9;
+  cursor: not-allowed;
+}
+
+/* Botón interactivo de validación */
+.quiz-btn-inline {
+  margin-left: 10px;
+  padding: 5px 14px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: inherit;
+  color: #ffffff;
+  background-color: #ab47bc;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+  transition: background-color 0.2s, transform 0.1s, opacity 0.2s;
+}
+
+.quiz-btn-inline:hover:not(:disabled) {
+  background-color: #ba68c8;
+}
+
+.quiz-btn-inline:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+.quiz-btn-inline:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Área de feedback y solución */
+.quiz-fill-inline .feedback {
+  margin-top: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  font-size: 0.9em;
+  line-height: 1.5;
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
+.quiz-fill-inline .feedback-title {
+  font-weight: bold;
+  margin-bottom: 0.35rem;
+}
