@@ -23,4 +23,8 @@ Bienvenido al módulo de **Itinerario Personal para la Empleabilidad I**. En est
 
 ## 📝 [Ir al Banco de Tests](test/index.md)
 
+---
+
+## 📋 [Ir a Pruebas de Evaluación(PACs)](pac/index.md)
+
 --8<-- "docs/includes/glosario.md"
