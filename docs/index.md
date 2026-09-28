@@ -8,7 +8,7 @@ Selecciona el ciclo formativo para acceder a su documentación y temarios:
 
 <h2 style="color: #29b6f6;">🎓 Ciclos Formativos</h2>
 
-### :material-lan: [CFGM Sistemas Microinformáticos y Redes (SMR)](smr/index.md)
+### 🖥️ [CFGM Sistemas Microinformáticos y Redes (SMR)](smr/index.md)
 Ciclo de Grado Medio orientado a la instalación, configuración y mantenimiento de sistemas microinformáticos, despliegue de software ofimático y corporativo, infraestructuras de redes locales y soporte técnico al usuario.
 
 * **Estado:** En curso / Activo.
