@@ -470,3 +470,30 @@
 *[RTF]: Rich Text Format. Formato estándar propietario desarrollado por Microsoft para facilitar el intercambio de texto con formato básico entre diferentes procesadores.
 *[EPUB]: Electronic Publication. Estándar libre y abierto para libros electrónicos con texto ajustable y adaptable al tamaño de pantalla.
 *[SLA]: Service Level Agreement. Acuerdo formal entre proveedor y cliente que define los estándares de calidad, disponibilidad y tiempos de respuesta exigibles al servicio técnico.
+*[Hoja de cálculo]: Aplicación informática estructurada en una cuadrícula bidimensional de filas y columnas para procesar, calcular y modelar datos numéricos y alfanuméricos.
+*[Google Sheets]: Plataforma de hojas de cálculo basada en la nube de Google Workspace orientada a la coedición concurrente y persistencia en Google Drive.
+*[Celda]: Unidad básica e indivisible de información en una hoja de cálculo, delimitada por la intersección de una columna y una fila.
+*[Celda activa]: Celda seleccionada en curso en la cuadrícula, señalizada por un borde resaltado y cuya referencia se muestra en el cuadro de nombres.
+*[Rango]: Conjunto de dos o más celdas dentro de una hoja de cálculo, clasificable como continuo (delimitado por dos puntos) o discontinuo (separado por puntos y comas).
+*[Rango con nombre]: Alias alfanumérico unívoco asignado a una celda o grupo de celdas para simplificar la lectura y mantenimiento de las fórmulas.
+*[Fórmula]: Expresión matemática o lógica definida por el usuario que comienza obligatoriamente con el carácter igual (=) para computar resultados dinámicos.
+*[Función]: Rutina de cálculo algorítmica predefinida en la hoja que toma argumentos entre paréntesis y devuelve uno o varios valores procesados.
+*[Referencia relativa]: Modo de direccionamiento por defecto que actualiza las coordenadas de fila y columna al arrastrar o replicar una fórmula.
+*[Referencia absoluta]: Modo de direccionamiento que bloquea de forma inmutable la fila y la columna ante arrastres mediante el prefijo de dólar ($A$1).
+*[Referencia mixta]: Modo de direccionamiento que inmoviliza exclusivamente la columna ($A1) o la fila (A$1) al propagar una fórmula.
+*[Controlador de relleno]: Elemento interactivo cuadrado situado en la esquina inferior derecha de la celda activa para extender series o propagar fórmulas.
+*[Pegado especial]: Operación de portapapeles que permite transferir de forma selectiva únicamente valores, formatos o fórmulas descartando el resto.
+*[Formato condicional]: Herramienta que aplica automáticamente reglas de estilo (color de celda, fuente o mapas de calor) según el valor evaluado.
+*[Mapa de calor]: Representación visual basada en escalas cromáticas graduales para detectar valores atípicos, desviaciones o tendencias en un rango.
+*[Tabla dinámica]: Módulo de agregación interactivo que permite pivotar, resumir, filtrar y agrupar grandes volúmenes de datos tabulares sin alterar el origen.
+*[QUERY]: Función avanzada de Google Sheets que ejecuta consultas analíticas sobre rangos de datos utilizando una sintaxis inspirada en SQL.
+*[ARRAYFORMULA]: Función matricial que expande el cálculo de una sola expresión a lo largo de un rango completo sin necesidad de arrastrar celdas.
+*[CSV]: Comma-Separated Values. Formato de archivo de texto plano estructurado que delimita campos mediante comas o puntos y comas para intercambio masivo de datos.
+*[TSV]: Tab-Separated Values. Formato de texto plano que estructura registros tabulares empleando tabulaciones como delimitador de columnas.
+*[XLSX]: Extensión y formato de archivo comprimido basado en el estándar OOXML de Microsoft Excel para libros de cálculo.
+*[Zebra striping]: Técnica de diseño que alterna colores de fondo en filas contiguas de una tabla para mejorar la legibilidad y el escaneo visual de datos.
+*[Integridad referencial]: Principio que asegura que las fórmulas apunten a celdas válidas y existentes, provocando un error #REF! si se vulnera.
+*[Error de motor]: Código alfanumérico devuelto por la hoja (#DIV/0!, #N/A, #REF!, #¡VALOR!) al fallar la resolución algorítmica o sintáctica de una expresión.
+*[Serif]: Familia tipográfica caracterizada por terminaciones o remates ornamentales en los extremos de los trazos, óptima para lectura impresa continua.
+*[Sans Serif]: Familia tipográfica de palo seco sin remates ornamentales, diseñada para maximizar la legibilidad en pantallas digitales.
+*[Sangría francesa]: Sangría de párrafo que mantiene la primera línea contra el margen izquierdo y desplaza los renglones siguientes hacia la derecha.
