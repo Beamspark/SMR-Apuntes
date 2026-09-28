@@ -167,8 +167,6 @@ Look at those children. _______ are in the garden.
 ---
 
 ### Pregunta 7
-The teacher is speaking to the students. She is helping _______.
-
 <div class="quiz-fill-inline" data-answer="them">
   <p>
     The teacher is speaking to the students. She is helping <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -185,8 +183,6 @@ The teacher is speaking to the students. She is helping _______.
 ---
 
 ### Pregunta 8
-I don’t know Peter. Do you know _______?
-
 <div class="quiz-fill-inline" data-answer="him">
   <p>
     I don’t know Peter. Do you know <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">?
@@ -203,8 +199,6 @@ I don’t know Peter. Do you know _______?
 ---
 
 ### Pregunta 9
-We are going to the cinema. Do you want to come with _______?
-
 <div class="quiz-fill-inline" data-answer="us">
   <p>
     We are going to the cinema. Do you want to come with <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">?
@@ -221,8 +215,6 @@ We are going to the cinema. Do you want to come with _______?
 ---
 
 ### Pregunta 10
-This exercise is difficult. I don’t understand _______.
-
 <div class="quiz-fill-inline" data-answer="it">
   <p>
     This exercise is difficult. I don’t understand <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -239,8 +231,6 @@ This exercise is difficult. I don’t understand _______.
 ---
 
 ### Pregunta 11
-My sister is angry with me. I want to talk to _______.
-
 <div class="quiz-fill-inline" data-answer="her">
   <p>
     My sister is angry with me. I want to talk to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -257,8 +247,6 @@ My sister is angry with me. I want to talk to _______.
 ---
 
 ### Pregunta 12
-Can you hear _______?
-
 <div class="quiz-fill-inline" data-answer="me">
   <p>
     Can you hear <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">?
@@ -275,8 +263,6 @@ Can you hear _______?
 ---
 
 ### Pregunta 13
-This is _______ favourite film. (you)
-
 <div class="quiz-fill-inline" data-answer="your">
   <p>
     This is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> favourite film. <strong>(you)</strong>
@@ -293,8 +279,6 @@ This is _______ favourite film. (you)
 ---
 
 ### Pregunta 14
-He is talking to _______ brother. (he)
-
 <div class="quiz-fill-inline" data-answer="his">
   <p>
     He is talking to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> brother. <strong>(he)</strong>
@@ -311,8 +295,6 @@ He is talking to _______ brother. (he)
 ---
 
 ### Pregunta 15
-The dog is eating _______ food. (it)
-
 <div class="quiz-fill-inline" data-answer="its">
   <p>
     The dog is eating <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> food. <strong>(it)</strong>
@@ -329,8 +311,6 @@ The dog is eating _______ food. (it)
 ---
 
 ### Pregunta 16
-Anna and I love _______ English class. (we)
-
 <div class="quiz-fill-inline" data-answer="our">
   <p>
     Anna and I love <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> English class. <strong>(we)</strong>
@@ -347,8 +327,6 @@ Anna and I love _______ English class. (we)
 ---
 
 ### Pregunta 17
-They are riding _______ bikes. (they)
-
 <div class="quiz-fill-inline" data-answer="their">
   <p>
     They are riding <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> bikes. <strong>(they)</strong>
@@ -365,8 +343,6 @@ They are riding _______ bikes. (they)
 ---
 
 ### Pregunta 18
-I can’t find _______ keys. (I)
-
 <div class="quiz-fill-inline" data-answer="my">
   <p>
     I can’t find <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> keys. <strong>(I)</strong>
@@ -383,8 +359,6 @@ I can’t find _______ keys. (I)
 ---
 
 ### Pregunta 19
-This is my jacket. → This jacket is _______.
-
 <div class="quiz-fill-inline" data-answer="mine">
   <p>
     This is my jacket. → This jacket is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -401,8 +375,6 @@ This is my jacket. → This jacket is _______.
 ---
 
 ### Pregunta 20
-That is your pen. → That pen is _______.
-
 <div class="quiz-fill-inline" data-answer="yours">
   <p>
     That is your pen. → That pen is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -419,8 +391,6 @@ That is your pen. → That pen is _______.
 ---
 
 ### Pregunta 21
-This is his laptop. → The laptop is _______.
-
 <div class="quiz-fill-inline" data-answer="his">
   <p>
     This is his laptop. → The laptop is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -437,8 +407,6 @@ This is his laptop. → The laptop is _______.
 ---
 
 ### Pregunta 22
-These shoes belong to Anna. → These shoes are _______.
-
 <div class="quiz-fill-inline" data-answer="hers">
   <p>
     These shoes belong to Anna. → These shoes are <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -455,8 +423,6 @@ These shoes belong to Anna. → These shoes are _______.
 ---
 
 ### Pregunta 23
-This house is our house. → This house is _______.
-
 <div class="quiz-fill-inline" data-answer="ours">
   <p>
     This house is our house. → This house is <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -473,8 +439,6 @@ This house is our house. → This house is _______.
 ---
 
 ### Pregunta 24
-Those footballs are the boys’ footballs. → Those footballs are _______.
-
 <div class="quiz-fill-inline" data-answer="theirs">
   <p>
     Those footballs are the boys’ footballs. → Those footballs are <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)">.
@@ -491,8 +455,6 @@ Those footballs are the boys’ footballs. → Those footballs are _______.
 ---
 
 ### Pregunta 25
-Emma _______ (cook) when her sister called.
-
 <div class="quiz-fill-inline" data-answer="was cooking">
   <p>
     Emma <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(cook)</strong> when her sister called.
@@ -509,8 +471,6 @@ Emma _______ (cook) when her sister called.
 ---
 
 ### Pregunta 26
-While I _______ (paint) the outside of the house, my sister _______ (read) a book.
-
 <div class="quiz-fill-inline" data-answer="was painting ... was reading,was painting,was reading">
   <p>
     While I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(paint)</strong> the outside of the house, my sister <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(read)</strong> a book.
@@ -527,8 +487,6 @@ While I _______ (paint) the outside of the house, my sister _______ (read) a boo
 ---
 
 ### Pregunta 27
-Last night at 8 pm I _______ (have) dinner.
-
 <div class="quiz-fill-inline" data-answer="was having">
   <p>
     Last night at 8 pm I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(have)</strong> dinner.
@@ -545,8 +503,6 @@ Last night at 8 pm I _______ (have) dinner.
 ---
 
 ### Pregunta 28
-They _______ (drink) coffee when I arrived.
-
 <div class="quiz-fill-inline" data-answer="were drinking">
   <p>
     They <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(drink)</strong> coffee when I arrived.
@@ -563,8 +519,6 @@ They _______ (drink) coffee when I arrived.
 ---
 
 ### Pregunta 29
-We _______ (go) to the cinema yesterday at this time.
-
 <div class="quiz-fill-inline" data-answer="were going">
   <p>
     We <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(go)</strong> to the cinema yesterday at this time.
@@ -581,8 +535,6 @@ We _______ (go) to the cinema yesterday at this time.
 ---
 
 ### Pregunta 30
-Mary _______ (not go) to the school when the rain started.
-
 <div class="quiz-fill-inline" data-answer="was not going,wasn't going,wasnt going">
   <p>
     Mary <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not go)</strong> to the school when the rain started.
@@ -599,8 +551,6 @@ Mary _______ (not go) to the school when the rain started.
 ---
 
 ### Pregunta 31
-_______ they _______ (talk) when the teacher arrived?
-
 <div class="quiz-fill-inline" data-answer="Were ... talking,Were talking">
   <p>
     <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(Were)</strong> they <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(talk)</strong> when the teacher arrived?
@@ -914,8 +864,6 @@ There is a coffee table _______ the television.
 ---
 
 ### Pregunta 43
-She always _______ _______ her younger siblings when their parents are at work.
-
 <div class="quiz-fill-inline" data-answer="looks after">
   <p>
     She always <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> her younger siblings when their parents are at work.
@@ -932,8 +880,6 @@ She always _______ _______ her younger siblings when their parents are at work.
 ---
 
 ### Pregunta 44
-I don’t _______ _______ violence in any situation.
-
 <div class="quiz-fill-inline" data-answer="approve of">
   <p>
     I don’t <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> violence in any situation.
@@ -950,8 +896,6 @@ I don’t _______ _______ violence in any situation.
 ---
 
 ### Pregunta 45
-We need to _______ _______ a colour for the new curtains.
-
 <div class="quiz-fill-inline" data-answer="decide on">
   <p>
     We need to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> a colour for the new curtains.
@@ -968,8 +912,6 @@ We need to _______ _______ a colour for the new curtains.
 ---
 
 ### Pregunta 46
-I don’t know where my keys are. I have been _______ _______ them for an hour!
-
 <div class="quiz-fill-inline" data-answer="looking for">
   <p>
     I don’t know where my keys are. I have been <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> them for an hour!
@@ -986,8 +928,6 @@ I don’t know where my keys are. I have been _______ _______ them for an hour!
 ---
 
 ### Pregunta 47
-I can’t make a decision right now; it _______ _______ my schedule next week.
-
 <div class="quiz-fill-inline" data-answer="depends on">
   <p>
     I can’t make a decision right now; it <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my schedule next week.
@@ -1004,8 +944,6 @@ I can’t make a decision right now; it _______ _______ my schedule next week.
 ---
 
 ### Pregunta 48
-He never _______ _______ ghosts or anything supernatural.
-
 <div class="quiz-fill-inline" data-answer="believes in">
   <p>
     He never <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> ghosts or anything supernatural.
@@ -1022,8 +960,6 @@ He never _______ _______ ghosts or anything supernatural.
 ---
 
 ### Pregunta 49
-Please _______ _______ this new proposal and tell me what you think.
-
 <div class="quiz-fill-inline" data-answer="think about">
   <p>
     Please <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> this new proposal and tell me what you think.
@@ -1040,8 +976,6 @@ Please _______ _______ this new proposal and tell me what you think.
 ---
 
 ### Pregunta 50
-The teacher asked us to _______ _______ the book and read the first paragraph.
-
 <div class="quiz-fill-inline" data-answer="look at">
   <p>
     The teacher asked us to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the book and read the first paragraph.
@@ -1058,8 +992,6 @@ The teacher asked us to _______ _______ the book and read the first paragraph.
 ---
 
 ### Pregunta 51
-The concert is about to start, so we should _______ _______ the bus now.
-
 <div class="quiz-fill-inline" data-answer="get on">
   <p>
     The concert is about to start, so we should <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the bus now.
@@ -1076,8 +1008,6 @@ The concert is about to start, so we should _______ _______ the bus now.
 ---
 
 ### Pregunta 52
-She wants to _______ _______ international law at university.
-
 <div class="quiz-fill-inline" data-answer="specialize in">
   <p>
     She wants to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> international law at university.
@@ -1094,11 +1024,9 @@ She wants to _______ _______ international law at university.
 ---
 
 ### Pregunta 53
-My grandmother looks after her plants every morning. (Reemplazar "take care of")
-
 <div class="quiz-fill-inline" data-answer="looks after">
   <p>
-    My grandmother <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> her plants every morning.
+    My grandmother <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> her plants every morning. <strong>(Reemplazar <em>take care of</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1112,11 +1040,9 @@ My grandmother looks after her plants every morning. (Reemplazar "take care of")
 ---
 
 ### Pregunta 54
-We are waiting at the bus stop until the bus arrives. (Reemplazar "wait for")
-
 <div class="quiz-fill-inline" data-answer="waiting for">
   <p>
-    We are <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the bus until it arrives.
+    We are <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the bus until it arrives. <strong>(Reemplazar <em>wait for</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1130,11 +1056,9 @@ We are waiting at the bus stop until the bus arrives. (Reemplazar "wait for")
 ---
 
 ### Pregunta 55
-Could you pay attention to this new song? It’s great! (Reemplazar "listen to")
-
 <div class="quiz-fill-inline" data-answer="listen to">
   <p>
-    Could you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> this song? It’s great!
+    Could you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> this song? It’s great! <strong>(Reemplazar <em>listen to</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1148,11 +1072,9 @@ Could you pay attention to this new song? It’s great! (Reemplazar "listen to")
 ---
 
 ### Pregunta 56
-I covered the cost of the tickets online. (Reemplazar "pay for")
-
 <div class="quiz-fill-inline" data-answer="paid for">
   <p>
-    I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the tickets online.
+    I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the tickets online. <strong>(Reemplazar <em>pay for</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1166,11 +1088,9 @@ I covered the cost of the tickets online. (Reemplazar "pay for")
 ---
 
 ### Pregunta 57
-The comedian’s jokes made the audience laugh. (Reemplazar "laugh at")
-
 <div class="quiz-fill-inline" data-answer="laughed at">
   <p>
-    The audience <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the comedian’s jokes.
+    The audience <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the comedian’s jokes. <strong>(Reemplazar <em>laugh at</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1184,11 +1104,9 @@ The comedian’s jokes made the audience laugh. (Reemplazar "laugh at")
 ---
 
 ### Pregunta 58
-They really wanted to go to that restaurant again, so they kept asking us. (Reemplazar "insist on")
-
 <div class="quiz-fill-inline" data-answer="insisted on">
   <p>
-    They <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> going to that restaurant again.
+    They <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> going to that restaurant again. <strong>(Reemplazar <em>insist on</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1202,11 +1120,9 @@ They really wanted to go to that restaurant again, so they kept asking us. (Reem
 ---
 
 ### Pregunta 59
-My father is employed by a multinational company. (Reemplazar "work for")
-
 <div class="quiz-fill-inline" data-answer="works for">
   <p>
-    My father <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> a multinational company.
+    My father <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> a multinational company. <strong>(Reemplazar <em>work for</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1220,11 +1136,9 @@ My father is employed by a multinational company. (Reemplazar "work for")
 ---
 
 ### Pregunta 60
-We must leave the train at the next station. (Reemplazar "get off")
-
 <div class="quiz-fill-inline" data-answer="get off">
   <p>
-    We must <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the train at the next station.
+    We must <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the train at the next station. <strong>(Reemplazar <em>get off</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1238,11 +1152,9 @@ We must leave the train at the next station. (Reemplazar "get off")
 ---
 
 ### Pregunta 61
-In today’s meeting, we will discuss several important topics. (Reemplazar "deal with")
-
 <div class="quiz-fill-inline" data-answer="deal with">
   <p>
-    In today’s meeting, we will <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> several important topics.
+    In today’s meeting, we will <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> several important topics. <strong>(Reemplazar <em>deal with</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1256,11 +1168,9 @@ In today’s meeting, we will discuss several important topics. (Reemplazar "dea
 ---
 
 ### Pregunta 62
-Can you consider my idea before making a decision? (Reemplazar "think about")
-
 <div class="quiz-fill-inline" data-answer="think about">
   <p>
-    Can you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my idea before making a decision?
+    Can you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my idea before making a decision? <strong>(Reemplazar <em>think about</em>)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1414,8 +1324,6 @@ Look for
 ---
 
 ### Pregunta 70
-My parents always _______ me no matter what.
-
 <div class="quiz-fill-inline" data-answer="believe in">
   <p>
     My parents always <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> me no matter what.
@@ -1432,8 +1340,6 @@ My parents always _______ me no matter what.
 ---
 
 ### Pregunta 71
-I _______ my sister’s decision to study abroad.
-
 <div class="quiz-fill-inline" data-answer="approve of">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my sister’s decision to study abroad.
@@ -1450,8 +1356,6 @@ I _______ my sister’s decision to study abroad.
 ---
 
 ### Pregunta 72
-We need to _______ the menu before ordering.
-
 <div class="quiz-fill-inline" data-answer="decide on">
   <p>
     We need to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the menu before ordering.
@@ -1468,8 +1372,6 @@ We need to _______ the menu before ordering.
 ---
 
 ### Pregunta 73
-She _______ her children while she works.
-
 <div class="quiz-fill-inline" data-answer="looks after">
   <p>
     She <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> her children while she works.
@@ -1486,8 +1388,6 @@ She _______ her children while she works.
 ---
 
 ### Pregunta 74
-Please, _______ me! I’ll be ready in 5 minutes.
-
 <div class="quiz-fill-inline" data-answer="wait for">
   <p>
     Please, <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> me! I’ll be ready in 5 minutes.
@@ -1504,11 +1404,10 @@ Please, _______ me! I’ll be ready in 5 minutes.
 ---
 
 ### Pregunta 75
-A: Hi, Sarah! What are you doing? B: Hi, Mark! I’m ______________________ (1. searching) my notebook.
-
 <div class="quiz-fill-inline" data-answer="looking for">
   <p>
-    A: Hi, Sarah! What are you doing? B: Hi, Mark! I’m <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my notebook.
+    A: Hi, Sarah! What are you doing?<br>
+    B: Hi, Mark! I’m <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my notebook. <strong>(1. searching)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1522,11 +1421,9 @@ A: Hi, Sarah! What are you doing? B: Hi, Mark! I’m ______________________ (1. 
 ---
 
 ### Pregunta 76
-Did you ______________________ (2. exit) the car with it?
-
 <div class="quiz-fill-inline" data-answer="get out of">
   <p>
-    Did you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the car with it?
+    Did you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the car with it? <strong>(2. exit)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1540,11 +1437,9 @@ Did you ______________________ (2. exit) the car with it?
 ---
 
 ### Pregunta 77
-I hope I don’t have to ______________________ (3. pay) another one!
-
 <div class="quiz-fill-inline" data-answer="pay for">
   <p>
-    I hope I don’t have to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> another one!
+    I hope I don’t have to <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> another one! <strong>(3. pay)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -1558,11 +1453,9 @@ I hope I don’t have to ______________________ (3. pay) another one!
 ---
 
 ### Pregunta 78
-I’ll ______________________ (4. stay and wait) you while you check.
-
 <div class="quiz-fill-inline" data-answer="wait for">
   <p>
-    I’ll <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> you while you check.
+    I’ll <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> you while you check. <strong>(4. stay and wait)</strong>
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
