@@ -1,3 +1,7 @@
+[← Volver al Índice de PACs](./index.md)
+
+---
+
 ### Pregunta 1
 ¿Cuál es la función principal de la CPU?
 
