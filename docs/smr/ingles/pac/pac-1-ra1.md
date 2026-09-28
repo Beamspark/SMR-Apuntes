@@ -588,7 +588,7 @@ The _______________ person in this company is Robert. *(Two options are correct)
 <div class="quiz-multi" data-expected="2">
   <div class="quiz-multi-options">
     <label class="quiz-multi-option correct">
-      <input type="checkbox" data-opt="A"> A) most clever
+      <span><input type="checkbox" data-opt="A"> A) most clever</span>
       <div class="feedback" style="display: none;">
         <div class="feedback-title">✓ ¡Correcta!</div>
         El adjetivo bisilábico <em>clever</em> admite de forma válida la construcción de superlativo con <strong>most</strong>.
@@ -596,7 +596,7 @@ The _______________ person in this company is Robert. *(Two options are correct)
     </label>
 
     <label class="quiz-multi-option correct">
-      <input type="checkbox" data-opt="B"> B) cleverest
+      <span><input type="checkbox" data-opt="B"> B) cleverest</span>
       <div class="feedback" style="display: none;">
         <div class="feedback-title">✓ ¡Correcta!</div>
         También admite la desinencia tradicional sintética de superlativo en <strong>-est</strong>.
@@ -604,15 +604,14 @@ The _______________ person in this company is Robert. *(Two options are correct)
     </label>
 
     <label class="quiz-multi-option incorrect">
-      <input type="checkbox" data-opt="C"> C) more clever
+      <span><input type="checkbox" data-opt="C"> C) more clever</span>
       <div class="feedback" style="display: none;">
         <div class="feedback-title">✗ Incorrecta</div>
         Es una forma comparativa de superioridad, incompatible con el artículo superlativo <em>The</em> que introduce la frase.
       </div>
     </label>
   </div>
-
-  <button type="button" class="quiz-btn-confirm" onclick="checkMultiChoiceCheckbox(this)">Comprobar selección</button>
+  <button type="button" class="quiz-btn-confirm">Comprobar selección</button>
 </div>
 
 ---
