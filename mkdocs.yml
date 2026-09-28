@@ -69,6 +69,8 @@ nav:
               - Test 11 - Instalación de software: smr/montaje/test/test-tema-11.md
               - 🎯 Examen Global 1: smr/montaje/test/examen-global-1.md
               - 🎯 Examen Global 2: smr/montaje/test/examen-global-2.md
+          - "📋 Pruebas de Evaluación (PAC)":
+              - Índice de PAC: smr/montaje/pac/index.md
       - 💻 Sistemas Operativos Monopuesto:
           - smr/sistemas/index.md
           - "📚 Temario Teórico":
