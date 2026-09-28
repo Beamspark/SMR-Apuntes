@@ -273,3 +273,60 @@ abbr.tooltip-active::before {
   font-weight: bold;
   margin-bottom: 0.35rem;
 }
+
+/* ========================================================
+   Tarjetas de Selección Múltiple (Multi-choice)
+   ======================================================== */
+.quiz-multi {
+  margin: 1.2rem 0;
+}
+
+.quiz-multi-option {
+  margin-bottom: 0.65rem;
+  padding: 0.75rem 1rem;
+  border: 1.5px solid var(--md-default-fg-color--lighter);
+  border-radius: 8px;
+  background-color: var(--md-code-bg-color);
+  cursor: pointer;
+  user-select: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.quiz-multi-option:hover {
+  background-color: var(--md-accent-fg-color--transparent);
+}
+
+/* Estado seleccionado antes de comprobar */
+.quiz-multi-option.selected {
+  border-color: #ab47bc;
+  background-color: rgba(171, 71, 188, 0.12);
+}
+
+.quiz-multi-option .feedback {
+  margin-top: 0.6rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  font-size: 0.9em;
+}
+
+.quiz-btn-confirm {
+  margin-top: 0.5rem;
+  padding: 8px 18px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #fff;
+  background-color: #ab47bc;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.quiz-btn-confirm:hover:not(:disabled) {
+  background-color: #ba68c8;
+}
+
+.quiz-btn-confirm:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
