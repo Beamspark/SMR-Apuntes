@@ -1,4 +1,4 @@
-<h1 style="color: #ab47bc;">🛠️ Unit 4 — Get Your Message Across</h1>
+<h1 style="color: #ab47bc;">📢 Unit 4 — Get Your Message Across</h1>
 
 La transmisión eficaz, clara y precisa de información técnica y profesional en lengua inglesa exige dominar las estrategias conversacionales de clarificación y confirmación de mensajes, la estructuración morfosintáctica completa de los grados del adjetivo y adverbio (comparativos, superlativos y equitativos), el uso riguroso de las preposiciones espaciales, temporales y de movimiento, la formulación de peticiones e instrucciones directas, y el manejo fluido de los *Phrasal Verbs* esenciales en el ámbito informático y empresarial.
 
