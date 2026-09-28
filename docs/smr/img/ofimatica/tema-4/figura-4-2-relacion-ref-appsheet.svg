@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 400" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg-panel { fill: #1e1e24; stroke: #263238; stroke-width: 1.5; rx: 8; }
+      .table-card { fill: #2a2b36; stroke: #37474f; stroke-width: 1.5; rx: 6; }
+      .header-box { rx: 4; }
+      .cell-row { fill: #17181c; stroke: #263238; stroke-width: 1; }
+      .cell-highlight { fill: #102a45; stroke: #29b6f6; stroke-width: 1.5; }
+      .text-title { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 15px; font-weight: bold; fill: #ffffff; }
+      .text-code { font-family: 'Consolas', 'Courier New', monospace; font-size: 12px; fill: #29b6f6; }
+      .text-body { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 12px; fill: #eceff1; }
+      .text-dim { font-family: 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #b0bec5; }
+      .ref-line { stroke: #ab47bc; stroke-width: 2.5; fill: none; marker-end: url(#ref-arrow); }
+    </style>
+    <marker id="ref-arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#ab47bc" />
+    </marker>
+  </defs>
+
+  <rect x="15" y="15" width="890" height="370" class="bg-panel" />
+  <text x="35" y="45" class="text-title" style="font-size: 17px; fill: #29b6f6;">INTEGRIDAD REFERENCIAL Y VÍNCULO REF EN APPSHEET</text>
+
+  <!-- Tabla Maestra: Clientes -->
+  <rect x="35" y="70" width="370" height="280" class="table-card" />
+  <rect x="45" y="80" width="350" height="35" class="header-box" fill="#1b3a4b" />
+  <text x="60" y="103" class="text-title">Tabla Maestra: TB_Clientes</text>
+
+  <!-- Columnas Maestra -->
+  <rect x="45" y="125" width="350" height="35" class="cell-highlight" />
+  <text x="55" y="147" class="text-code" style="font-weight: bold;">ID_Cliente (KEY)</text>
+  <text x="250" y="147" class="text-dim">Tipo: Text [=UNIQUEID()]</text>
+
+  <rect x="45" y="165" width="350" height="30" class="cell-row" />
+  <text x="55" y="185" class="text-body">Nombre_Fiscal (LABEL)</text>
+  <text x="250" y="185" class="text-dim">Tipo: Name</text>
+
+  <rect x="45" y="200" width="350" height="30" class="cell-row" />
+  <text x="55" y="220" class="text-body">Email_Contacto</text>
+  <text x="250" y="220" class="text-dim">Tipo: Email</text>
+
+  <rect x="45" y="235" width="350" height="30" class="cell-row" />
+  <text x="55" y="255" class="text-body">Telefono</text>
+  <text x="250" y="255" class="text-dim">Tipo: Phone</text>
+
+  <!-- Columna virtual inversa autogenerada -->
+  <rect x="45" y="275" width="350" height="55" rx="4" fill="#2d1b36" stroke="#ab47bc" stroke-width="1.2" />
+  <text x="55" y="295" class="text-title" style="font-size: 12px; fill: #ab47bc;">[Virtual Column Inversa Autogenerada]</text>
+  <text x="55" y="315" class="text-code">Related Incidencias (List of Ref)</text>
+
+  <!-- Tabla Subordinada: Incidencias -->
+  <rect x="515" y="70" width="370" height="280" class="table-card" />
+  <rect x="525" y="80" width="350" height="35" class="header-box" fill="#3d2645" />
+  <text x="540" y="103" class="text-title">Tabla Hija: TB_Incidencias</text>
+
+  <!-- Columnas Subordinada -->
+  <rect x="525" y="125" width="350" height="35" class="cell-row" />
+  <text x="535" y="147" class="text-code">ID_Ticket (KEY)</text>
+  <text x="730" y="147" class="text-dim">Tipo: Text [=UNIQUEID()]</text>
+
+  <rect x="525" y="165" width="350" height="40" class="cell-highlight" style="stroke: #ab47bc;" />
+  <text x="535" y="185" class="text-code" style="font-weight: bold; fill: #ab47bc;">ID_Cliente (Ref)</text>
+  <text x="730" y="185" class="text-dim">Source: TB_Clientes</text>
+  <text x="535" y="200" class="text-dim" style="font-size: 10px;">Despliega menú con Nombre_Fiscal</text>
+
+  <rect x="525" y="210" width="350" height="30" class="cell-row" />
+  <text x="535" y="230" class="text-body">Descripcion_Averia</text>
+  <text x="730" y="230" class="text-dim">Tipo: LongText</text>
+
+  <rect x="525" y="245" width="350" height="30" class="cell-row" />
+  <text x="535" y="265" class="text-body">Fecha_Apertura</text>
+  <text x="730" y="265" class="text-dim">Tipo: DateTime</text>
+
+  <rect x="525" y="280" width="350" height="30" class="cell-row" />
+  <text x="535" y="300" class="text-body">Estado</text>
+  <text x="730" y="300" class="text-dim">Tipo: Enum</text>
+
+  <!-- Flecha de relación Ref -->
+  <path d="M 525 185 C 440 185, 450 142, 403 142" class="ref-line" />
+</svg>
