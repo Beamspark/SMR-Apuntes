@@ -5,7 +5,7 @@
 # PAC 1 (RA1): Present, Past tenses and Comparatives & Superlatives
 
 ### Pregunta 1
-Past Simple. Complete the sentences with the correct form of the verbs in brackets (WITHOUT CONTRACTIONS):
+Past Simple. Write the answers WITHOUT CONTRACTIONS:
 
 <div class="quiz-fill-inline" data-answer="did not play">
   <p>
@@ -15,7 +15,7 @@ Past Simple. Complete the sentences with the correct form of the verbs in bracke
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>did not play</code>. En Past Simple, la forma negativa regular sin contracción se forma con el auxiliar <strong>did not</strong> seguido del verbo principal en infinitivo sin «to».
+      <strong>Solución:</strong> <code>did not play</code>. En Past Simple, la forma negativa regular sin contracción requiere el auxiliar <strong>did not</strong> seguido del verbo principal en infinitivo sin «to».
     </div>
   </div>
 </div>
@@ -28,7 +28,7 @@ Past Simple. Complete the sentences with the correct form of the verbs in bracke
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>did you go</code>. Las oraciones interrogativas en Past Simple con partículas interrogativas (Wh- words) siguen la estructura: <em>Wh- + did + sujeto + verbo base</em>.
+      <strong>Solución:</strong> <code>did you go</code>. En oraciones interrogativas con partícula en Past Simple se sigue la estructura: <em>Wh- + did + sujeto + verbo base</em>.
     </div>
   </div>
 </div>
@@ -41,7 +41,7 @@ Past Simple. Complete the sentences with the correct form of the verbs in bracke
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>did not help</code>. La estructura negativa sin contracción requiere el auxiliar en pasado <strong>did not</strong> + el verbo en su forma base (infinitivo sin «to»).
+      <strong>Solución:</strong> <code>did not help</code>. La estructura negativa sin contracción se forma con el auxiliar <strong>did not</strong> más el verbo en forma base (infinitivo sin «to»).
     </div>
   </div>
 </div>
@@ -55,62 +55,34 @@ In Present Simple, the third person singular of the verb "wish" is "wishes".
   <summary>A) Verdadero</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    Los verbos terminados en <em>-sh</em>, <em>-ch</em>, <em>-s</em>, <em>-x</em> o <em>-z</em> forman la tercera persona del singular (he/she/it) en Present Simple añadiendo la terminación <strong>-es</strong> (wish → wishes).
+    Los verbos terminados en sonido sibilante como <em>-sh</em>, <em>-ch</em>, <em>-s</em>, <em>-x</em> o <em>-z</em> forman la tercera persona del singular (he/she/it) en Present Simple añadiendo la terminación <strong>-es</strong> (wish → wishes).
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>B) Falso</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    Es verdadero. Los verbos que finalizan en sonido sibilante como <em>-sh</em> requieren obligatoriamente la desinencia <strong>-es</strong> para facilitar su pronunciación.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>C) Solo es correcto en estilo formal</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    Es una regla ortográfica y gramatical obligatoria en cualquier registro lingüístico del inglés.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) Únicamente en oraciones negativas</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    En oraciones negativas se utiliza el auxiliar <em>does not wish</em>, por lo que el verbo principal vuelve a su forma base.
+    Es verdadero. Los verbos con terminación en <em>-sh</em> añaden obligatoriamente <strong>-es</strong> para permitir su pronunciación.
   </div>
 </details>
 
 ---
 
 ### Pregunta 3
-"Paul was writing a letter to his mother last night": is it correct?
+Paul was writing a letter to his mother last night: is it correct?
 
 <details class="quiz-option correct">
   <summary>A) Verdadero</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    La oración es gramaticalmente correcta. Emplea <strong>Past Continuous</strong> con el auxiliar en pasado <em>was</em> (adecuado para tercera persona singular: Paul) + gerundio <em>writing</em> para describir una acción en progreso durante un momento del pasado.
+    La oración es gramaticalmente correcta. Emplea <strong>Past Continuous</strong> con el auxiliar en pasado <em>was</em> (adecuado para tercera persona del singular: Paul) + gerundio <em>writing</em> para describir una acción en progreso durante la noche anterior.
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>B) Falso</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    La oración no contiene errores: la concordancia sujeto-verbo (Paul was) y la ortografía del gerundio (writing sin «e») son correctas.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>C) Es incorrecto porque debe usarse "were writing"</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    <em>Were</em> se utiliza con los sujetos <em>you, we, they</em>. Para la tercera persona singular (he/Paul) el auxiliar correcto es <em>was</em>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) Es incorrecto porque falta la preposición "at"</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    La expresión temporal <em>last night</em> no requiere preposición.
+    Es verdadero. Tanto la concordancia sujeto-verbo (Paul was) como la ortografía del gerundio (writing) y el uso temporal (last night) son correctos.
   </div>
 </details>
 
@@ -123,28 +95,21 @@ After work, I _____________ go to have a beer with my workmates. I love this pla
   <summary>A) usually</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    El adverbio de frecuencia <strong>usually</strong> encaja perfectamente con el contexto ("I love this plan!"), indicando un hábito o actividad frecuente. Además, se posiciona antes del verbo principal (go).
+    El adverbio de frecuencia <strong>usually</strong> indica un hábito recurrente que concuerda con el entusiasmo expresado a continuación ("I love this plan!").
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>B) never</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    <em>Never</em> entra en contradicción directa con la frase siguiente ("I love this plan!"), ya que indicaría que jamás va.
+    <em>Never</em> entra en contradicción con "I love this plan!", ya que indicaría que nunca participa en ese plan.
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>C) already</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    <em>Already</em> se utiliza típicamente con tiempos perfectos para indicar que una acción ya ha ocurrido antes de lo esperado, no como adverbio de frecuencia habitual.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) ever</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    <em>Ever</em> se emplea principalmente en oraciones interrogativas ("Have you ever...?") o condicionales, no en afirmaciones de presente simple.
+    <em>Already</em> se utiliza típicamente con tiempos perfectos para señalar que una acción ha tenido lugar antes de lo esperado, no como adverbio de frecuencia en Present Simple.
   </div>
 </details>
 
@@ -164,28 +129,21 @@ My workmate ______________ back from Australia. He's really liked it.
   <summary>B) has just come</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    Se utiliza <strong>Present Perfect Simple</strong> con el adverbio <strong>just</strong> para expresar una acción completada muy recientemente cuyos efectos o vivencias siguen vigentes en el presente.
+    Se utiliza <strong>Present Perfect Simple</strong> con el adverbio <strong>just</strong> para expresar una acción completada hace muy poco tiempo cuyas consecuencias o recuerdos siguen vigentes en el presente.
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>C) will come</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    <em>Will come</em> expresa una acción futura, lo cual contradice la segunda oración en pasado ("He's really liked it").
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) was come</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    Estructura gramaticalmente incorrecta; no corresponde a ningún tiempo activo en inglés.
+    <em>Will come</em> expresa una acción futura, lo cual es incompatible con la segunda oración en pasado ("He's really liked it").
   </div>
 </details>
 
 ---
 
 ### Pregunta 6
-Present perfect simple or Past Simple? Complete the gaps with the correct verb form (WITHOUT CONTRACTIONS):
+Present perfect simple or Past Simple? Write the answers WITHOUT CONTRACTIONS:
 
 <div class="quiz-fill-inline" data-answer="have lost">
   <p>
@@ -195,7 +153,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>have lost</code>. Se utiliza <em>Present Perfect</em> porque la acción pasada tiene una consecuencia directa en el momento presente (no tiene las llaves ahora y pide ayuda para buscarlas).
+      <strong>Solución:</strong> <code>have lost</code>. Se utiliza <em>Present Perfect</em> porque la pérdida de las llaves tiene una consecuencia directa en el momento presente (no las tiene y pide ayuda para buscarlas).
     </div>
   </div>
 </div>
@@ -208,7 +166,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>studied</code>. La expresión temporal concreta y finalizada <em>Last year</em> exige el uso de <em>Past Simple</em> (los verbos acabados en consonante + y cambian a <em>-ied</em>).
+      <strong>Solución:</strong> <code>studied</code>. La expresión temporal concreta y finalizada <em>Last year</em> exige el uso de <em>Past Simple</em> (los verbos regulares acabados en consonante + «y» forman el pasado en <em>-ied</em>).
     </div>
   </div>
 </div>
@@ -221,7 +179,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>has visited</code>. Se emplea <em>Present Perfect</em> para referirse a experiencias acumuladas a lo largo de un periodo de tiempo no cerrado (tercera persona singular: <em>has</em> + participio regular).
+      <strong>Solución:</strong> <code>has visited</code>. Se emplea <em>Present Perfect</em> para referirse al número de veces que se ha acumulado una experiencia dentro de un periodo de vida que sigue abierto (tercera persona singular: <em>has</em> + participio regular).
     </div>
   </div>
 </div>
@@ -234,7 +192,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>have known</code>. Al ser una acción que comenzó en el pasado y continúa en el presente junto a la preposición <em>for</em>, se utiliza <em>Present Perfect</em>. El participio irregular de <em>know</em> es <em>known</em>.
+      <strong>Solución:</strong> <code>have known</code>. Al ser una situación que comenzó en el pasado y perdura en la actualidad acompañada de la preposición de duración <em>for</em>, se utiliza <em>Present Perfect</em> con el participio irregular <strong>known</strong> (know - knew - known).
     </div>
   </div>
 </div>
@@ -247,7 +205,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>went</code>. El marcador temporal finalizado <em>Last summer</em> exige <em>Past Simple</em>. La forma de pasado del verbo irregular <em>go</em> es <em>went</em>.
+      <strong>Solución:</strong> <code>went</code>. El marcador temporal totalmente cerrado <em>Last summer</em> exige <em>Past Simple</em>. La forma en pasado del verbo irregular <em>go</em> es <strong>went</strong>.
     </div>
   </div>
 </div>
@@ -255,7 +213,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
 ---
 
 ### Pregunta 7
-Past perfect simple. Complete the sentences with the correct form of the verbs in brackets (WITHOUT CONTRACTIONS):
+Past perfect simple. Write the answers WITHOUT CONTRACTIONS:
 
 <div class="quiz-fill-inline" data-answer="had not arrived">
   <p>
@@ -265,7 +223,7 @@ Past perfect simple. Complete the sentences with the correct form of the verbs i
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>had not arrived</code>. El <em>Past Perfect Simple</em> negativo se forma con el auxiliar <strong>had not</strong> seguido del participio pasado del verbo (arrived).
+      <strong>Solución:</strong> <code>had not arrived</code>. El <em>Past Perfect Simple</em> negativo se forma con el auxiliar <strong>had not</strong> seguido del participio pasado del verbo regular (arrived).
     </div>
   </div>
 </div>
@@ -278,7 +236,7 @@ Past perfect simple. Complete the sentences with the correct form of the verbs i
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>had been</code>. Se utiliza <em>Past Perfect Simple</em> (had + participio pasado <em>been</em>) para indicar la causa o acción que ocurrió con anterioridad a otro evento en pasado simple (<em>were dead</em>).
+      <strong>Solución:</strong> <code>had been</code>. Se utiliza <em>Past Perfect Simple</em> (had + participio pasado <em>been</em>) para designar el estado o causa anterior que motivó que las flores estuvieran muertas (<em>were dead</em>).
     </div>
   </div>
 </div>
@@ -286,13 +244,14 @@ Past perfect simple. Complete the sentences with the correct form of the verbs i
 ---
 
 ### Pregunta 8
-Choose the correct answer: In this picture, I ___________ (study) for my next webinar. I _______________ (try) to learn the steps I will take. I ______________ (prepare) a list of words I want to use in order to seem more professional. My workmate _____________ (help) me.
+Choose the correct answer:  
+In this picture, I ___________ (study) for my next webinar. I _______________ (try) to learn the steps I will take. I ______________ (prepare) a list of words I want to use in order to seem more professional. My workmate _____________ (help) me.
 
 <details class="quiz-option correct">
   <summary>A) am studying - am trying - am preparing - is helping</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    Al describir una imagen o fotografía en inglés se utiliza el <strong>Present Continuous</strong>. El sujeto <em>I</em> concuerda con <em>am</em> (am studying, am trying, am preparing), y <em>My workmate</em> (tercera persona singular) concuerda con <em>is</em> (is helping).
+    Para describir una imagen o fotografía en inglés se utiliza <strong>Present Continuous</strong>. El sujeto <em>I</em> concuerda con <em>am</em> (am studying, am trying, am preparing) y el sujeto <em>My workmate</em> (tercera persona singular) concuerda con <em>is</em> (is helping).
   </div>
 </details>
 <details class="quiz-option incorrect">
@@ -306,14 +265,7 @@ Choose the correct answer: In this picture, I ___________ (study) for my next we
   <summary>C) am studying - are trying - am preparing - are helping</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    Contiene errores de concordancia: <em>I</em> no puede llevar <em>are trying</em> y <em>My workmate</em> (singular) no puede llevar <em>are helping</em>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) study - try - prepare - helps</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    Para describir acciones que se están desarrollando en una imagen o fotografía se requiere <em>Present Continuous</em>, no <em>Present Simple</em>.
+    Presenta errores de concordancia verbal: <em>I</em> no puede llevar <em>are trying</em> y <em>My workmate</em> (singular) no puede llevar <em>are helping</em>.
   </div>
 </details>
 
@@ -333,28 +285,14 @@ The past simple of the verb "to leave" is "leaved".
   <summary>B) Falso</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    Es falso. El pasado simple y el participio del verbo irregular <em>to leave</em> es <strong>left</strong> (leave - left - left).
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>C) Solo es correcto en inglés británico</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    Tanto en inglés británico como americano la forma correcta es únicamente <em>left</em>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) Depende de si actúa como transitivo o intransitivo</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    La irregularidad del verbo es absoluta e independiente de su transitividad gramatical.
+    Es falso. El pasado simple y participio del verbo irregular <em>to leave</em> es <strong>left</strong> (leave - left - left).
   </div>
 </details>
 
 ---
 
 ### Pregunta 10
-Past simple or Past continuous? Complete the sentences with the correct verb form (WITHOUT CONTRACTIONS):
+Past simple or Past continuous? Write the answers WITHOUT CONTRACTIONS:
 
 <div class="quiz-fill-inline" data-answer="was doing">
   <p>
@@ -364,7 +302,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>was doing</code>. Al especificarse una hora exacta en el pasado (<em>Yesterday at 5.30pm</em>), la acción se encontraba en progreso, requiriendo <em>Past Continuous</em> (was + doing).
+      <strong>Solución:</strong> <code>was doing</code>. Al señalar una hora concreta en el pasado (<em>Yesterday at 5.30pm</em>), la acción se encontraba en pleno desarrollo, por lo que exige <em>Past Continuous</em> (was + doing).
     </div>
   </div>
 </div>
@@ -377,7 +315,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>went</code>. Acción puntual y completada en el pasado señalada por <em>Last Saturday night</em> (Past Simple de <em>go</em>: <em>went</em>).
+      <strong>Solución:</strong> <code>went</code>. Acción puntual concluida en el pasado delimitada por <em>Last Saturday night</em> (Past Simple irregular de <em>go</em>: <strong>went</strong>).
     </div>
   </div>
 </div>
@@ -390,7 +328,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>received</code>. Se trata de un suceso puntual completado en el pasado (Past Simple del verbo regular <em>receive</em>).
+      <strong>Solución:</strong> <code>received</code>. Se trata de un acontecimiento puntual completado en el pasado (Past Simple del verbo regular <em>receive</em>).
     </div>
   </div>
 </div>
@@ -403,7 +341,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>was sending</code>. Se utiliza <em>Past Continuous</em> para la acción prolongada que estaba en desarrollo en el momento en que otra acción puntual la interrumpió en pasado simple (<em>when the laptop switched off</em>).
+      <strong>Solución:</strong> <code>was sending</code>. Se emplea <em>Past Continuous</em> para la acción que estaba en progreso cuando una segunda acción puntual la interrumpió en pasado simple (<em>when the laptop switched off</em>).
     </div>
   </div>
 </div>
@@ -416,7 +354,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>happened</code>. Los accidentes y hechos puntuales concluidos se narran en <em>Past Simple</em> (verbo regular: <em>happened</em>).
+      <strong>Solución:</strong> <code>happened</code>. Hecho puntual y completado en el pasado; los verbos regulares forman el pasado simple con la terminación <strong>-ed</strong>.
     </div>
   </div>
 </div>
@@ -430,28 +368,21 @@ Before coming here, I ____________ in three different cities.
   <summary>A) lives</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    <em>Lives</em> es una forma de Present Simple incompatible con el sujeto <em>I</em> y con una acción cronológicamente anterior a un suceso pasado.
+    <em>Lives</em> es una forma de Present Simple incompatible con el pronombre <em>I</em> y con una acción cronológicamente previa en el pasado.
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>B) am living</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    <em>Am living</em> expresa una acción temporal en desarrollo en el presente.
+    <em>Am living</em> expresa una acción temporal que tiene lugar en el presente.
   </div>
 </details>
 <details class="quiz-option correct">
   <summary>C) had lived</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    Se utiliza <strong>Past Perfect Simple</strong> (had + participio) para expresar una acción o estado que ocurrió con anterioridad a otro punto de referencia en el pasado ("Before coming here").
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) have lived</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    El marcador temporal <em>Before coming here</em> sitúa el periodo como totalmente concluido en el pasado antes de la llegada, requiriendo <em>Past Perfect</em>.
+    Se utiliza <strong>Past Perfect Simple</strong> (had + participio pasado) para expresar una acción o periodo concluido con anterioridad a otro punto de referencia en el pasado ("Before coming here").
   </div>
 </details>
 
@@ -464,28 +395,21 @@ _____ our CEO _________ a new store?
   <summary>A) did / buy</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    La estructura interrogativa en Past Simple requiere el auxiliar <strong>did</strong> al inicio y el verbo principal en su forma base (infinitivo sin «to»): <strong>buy</strong>.
+    En Past Simple la interrogativa se construye anteponiendo el auxiliar <strong>did</strong> al sujeto y dejando el verbo principal en su forma base (infinitivo sin «to»): <strong>buy</strong>.
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>B) did / bought</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    No se puede duplicar el pasado utilizando el auxiliar <em>did</em> junto al verbo en forma de pasado (<em>bought</em>).
+    No se debe duplicar el pasado: al utilizar el auxiliar <em>did</em>, el verbo léxico debe ir en infinitivo (<em>buy</em>, nunca <em>bought</em>).
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>C) - / bought</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    En inglés las preguntas en pasado simple con verbos léxicos exigen obligatoriamente el auxiliar <em>did</em> delante del sujeto.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) does / bought</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    Mezcla incorrectamente un auxiliar de presente (<em>does</em>) con un verbo en pasado (<em>bought</em>).
+    En inglés las preguntas directas en pasado simple con verbos léxicos requieren obligatoriamente el auxiliar <em>did</em>.
   </div>
 </details>
 
@@ -499,35 +423,28 @@ _____ our CEO _________ a new store?
   <summary>A) are / living</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    Aunque gramaticalmente posible para una situación temporal, la respuesta ("I live in Seville") responde en Present Simple formulando una situación permanente o hecho habitual.
+    La respuesta ("I live in Seville") formula un hecho permanente en Present Simple, por lo que la pregunta debe formularse en el mismo tiempo gramatical.
   </div>
 </details>
 <details class="quiz-option correct">
   <summary>B) do / live</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    La pregunta formula un hábito o estado permanente en Present Simple, por lo que para el sujeto <em>you</em> se emplea el auxiliar <strong>do</strong> seguido del infinitivo <strong>live</strong>.
+    Para preguntar por situaciones habituales o permanentes en Present Simple con el sujeto <em>you</em> se utiliza el auxiliar <strong>do</strong> seguido del infinitivo <strong>live</strong>.
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>C) does / live</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    El auxiliar <em>does</em> se utiliza únicamente con la tercera persona del singular (he, she, it), no con <em>you</em>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) did / live</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    <em>Did</em> formularía la pregunta en pasado, lo cual no concuerda con la respuesta en presente simple.
+    El auxiliar <em>does</em> se reserva exclusivamente para la tercera persona del singular (he, she, it).
   </div>
 </details>
 
 ---
 
 ### Pregunta 14
-Present perfect simple or continuous? Complete the gaps with the correct verb form (WITHOUT CONTRACTIONS):
+Present perfect simple or continuous? Write the answers WITHOUT CONTRACTIONS:
 
 <div class="quiz-fill-inline" data-answer="has run">
   <p>
@@ -537,7 +454,7 @@ Present perfect simple or continuous? Complete the gaps with the correct verb fo
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>has run</code>. Cuando se especifica la cantidad o distancia completada (300 metros), se utiliza <em>Present Perfect Simple</em>, no continuo. El participio irregular de <em>run</em> es <em>run</em> (run - ran - run).
+      <strong>Solución:</strong> <code>has run</code>. Cuando se cuantifica una distancia o cantidad numérica alcanzada (300 metros), se utiliza <em>Present Perfect Simple</em>, no continuo. El participio irregular de <em>run</em> es <strong>run</strong> (run - ran - run).
     </div>
   </div>
 </div>
@@ -550,7 +467,7 @@ Present perfect simple or continuous? Complete the gaps with the correct verb fo
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>have been cleaning</code>. Se utiliza <em>Present Perfect Continuous</em> (have been + gerundio) para enfatizar la duración de una actividad ininterrumpida (<em>all morning</em>) con efectos visibles de fatiga en el presente.
+      <strong>Solución:</strong> <code>have been cleaning</code>. Se utiliza <em>Present Perfect Continuous</em> (have been + gerundio) para resaltar la duración y persistencia de una actividad continuada (<em>all morning</em>) cuyos efectos de cansancio son visibles en el presente.
     </div>
   </div>
 </div>
@@ -563,7 +480,7 @@ Present perfect simple or continuous? Complete the gaps with the correct verb fo
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>have you known</code>. <em>To know</em> es un verbo de estado (stative verb) que no admite formas continuas; para preguntar por la duración de una relación que sigue vigente se utiliza la estructura interrogativa de <em>Present Perfect Simple</em>: <em>have + sujeto + participio</em>.
+      <strong>Solución:</strong> <code>have you known</code>. <em>To know</em> es un verbo de estado (stative verb) que no suele admitir formas continuas; al preguntar por la duración de una relación que continúa en el presente se formula en <em>Present Perfect Simple</em>: <em>have + sujeto + participio (known)</em>.
     </div>
   </div>
 </div>
@@ -576,7 +493,7 @@ Present perfect simple or continuous? Complete the gaps with the correct verb fo
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>has been making</code>. Se utiliza <em>Present Perfect Continuous</em> (has been + making) para destacar la actividad prolongada (<em>all afternoon</em>) que explica el desorden o suciedad actual. Tercera persona: <em>has</em>.
+      <strong>Solución:</strong> <code>has been making</code>. Se utiliza <em>Present Perfect Continuous</em> (has been + gerundio) para explicar una situación presente evidente (la suciedad) a través de una actividad prolongada reciente. Para <em>My father</em> (he) el auxiliar es <strong>has</strong>.
     </div>
   </div>
 </div>
@@ -584,7 +501,7 @@ Present perfect simple or continuous? Complete the gaps with the correct verb fo
 ---
 
 ### Pregunta 15
-Complete the gaps with the correct comparative form. Remember: Add THAN after the adjective/adverb:
+Complete the gaps with the correct comparative form. Remember: Add THAN detrás del adjetivo/adverbio:
 
 <div class="quiz-fill-inline" data-answer="better than">
   <p>
@@ -594,7 +511,7 @@ Complete the gaps with the correct comparative form. Remember: Add THAN after th
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>better than</code>. El comparativo de superioridad del adjetivo/adverbio irregular <em>good/well</em> es <strong>better</strong>, seguido de la partícula comparativa <strong>than</strong>.
+      <strong>Solución:</strong> <code>better than</code>. El comparativo de superioridad del adjetivo/adverbio irregular <em>good/well</em> es <strong>better</strong>, seguido obligatoriamente de la partícula comparativa <strong>than</strong>.
     </div>
   </div>
 </div>
@@ -607,7 +524,7 @@ Complete the gaps with the correct comparative form. Remember: Add THAN after th
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>quicker than</code>. Los adjetivos o adverbios cortos de una sílaba forman el comparativo añadiendo la terminación <strong>-er</strong> seguida de <strong>than</strong>.
+      <strong>Solución:</strong> <code>quicker than</code>. Las palabras cortas de una sílaba forman su grado comparativo añadiendo el sufijo <strong>-er</strong> seguido de <strong>than</strong>.
     </div>
   </div>
 </div>
@@ -620,7 +537,7 @@ Complete the gaps with the correct comparative form. Remember: Add THAN after th
   <div class="feedback" style="display: none;">
     <div class="feedback-title"></div>
     <div class="feedback-text">
-      <strong>Solución:</strong> <code>more often than</code>. El adverbio de dos sílabas <em>often</em> forma el comparativo de superioridad anteponiendo <strong>more</strong> y cerrando con <strong>than</strong>.
+      <strong>Solución:</strong> <code>more often than</code>. El adverbio de dos sílabas <em>often</em> forma el comparativo analítico anteponiendo <strong>more</strong> y cerrando con la partícula <strong>than</strong>.
     </div>
   </div>
 </div>
@@ -634,28 +551,14 @@ Is it correct?: "Seville is hoter than Coruña"
   <summary>A) Verdadero</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    Contiene una falta ortográfica en el comparativo: al ser un adjetivo monosilábico terminado en consonante-vocal-consonante (h-o-t), debe doblar la consonante final (hotter).
+    Contiene un error ortográfico en el adjetivo comparativo: debe duplicar la consonante final al ser monosílabo (hotter).
   </div>
 </details>
 <details class="quiz-option correct">
   <summary>B) Falso</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    Es falso. La regla ortográfica estipula que los adjetivos de una sílaba con estructura <em>consonante + vocal simple + consonante</em> duplican la última consonante al formar el comparativo: <strong>hotter than</strong>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>C) Solo es correcto si se omite "than"</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    La partícula <em>than</em> es obligatoria para introducir el segundo término de la comparación.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) Es correcto porque añade -er directamente</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    No se puede añadir simplemente <em>-er</em> sin respetar la regla de duplicación de consonante final.
+    Es falso. Los adjetivos monosilábicos con estructura consonante-vocal-consonante (h-o-t) duplican la última consonante al formar el comparativo: <strong>hotter than</strong>.
   </div>
 </details>
 
@@ -668,51 +571,37 @@ The superlative form of thirsty is "the thirstilier".
   <summary>A) Verdadero</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    La forma <em>the thirstilier</em> no existe gramaticalmente; mezcla sufijos comparativos y adverbiales de forma incorrecta.
+    La forma <em>the thirstilier</em> no existe gramaticalmente; mezcla sufijos de forma errónea.
   </div>
 </details>
 <details class="quiz-option correct">
   <summary>B) Falso</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    Es falso. Los adjetivos de dos sílabas terminados en <em>-y</em> (como thirsty) forman el superlativo sustituyendo la «y» por una «i» y añadiendo <strong>-est</strong>: <strong>the thirstiest</strong>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>C) Es correcto si funciona como adverbio</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    El adverbio sería <em>thirstily</em>, pero no forma un superlativo terminado en <em>-lier</em>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) Requiere el uso de "the most thirsty"</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    La forma estándar y prescrita por las normas gramaticales en inglés es <em>the thirstiest</em>.
+    Es falso. Los adjetivos de dos sílabas terminados en consonante + «y» sustituyen la «y» por una «i» y añaden <strong>-est</strong>: <strong>the thirstiest</strong>.
   </div>
 </details>
 
 ---
 
 ### Pregunta 18
-Which form can correctly complete the sentence: "The _______________ person in this company is Robert"? *(Selecciona las 2 opciones correctas)*
+The _______________ person in this company is Robert. *(Two options are correct)*
 
 <div class="quiz-multi" data-expected="2">
   <div class="quiz-multi-options">
     <div class="quiz-multi-option correct" data-opt="A">
-      <span class="opt-label"><strong>A) cleverest</strong></span>
+      <span class="opt-label"><strong>A) most clever</strong></span>
       <div class="feedback" style="display: none;">
         <div class="feedback-title">✓ ¡Correcta!</div>
-        El adjetivo bisilábico <em>clever</em> admite la terminación sintética tradicional en <strong>-est</strong>.
+        El adjetivo bisilábico <em>clever</em> admite de forma válida la construcción de superlativo con <strong>most</strong>.
       </div>
     </div>
 
     <div class="quiz-multi-option correct" data-opt="B">
-      <span class="opt-label"><strong>B) most clever</strong></span>
+      <span class="opt-label"><strong>B) cleverest</strong></span>
       <div class="feedback" style="display: none;">
         <div class="feedback-title">✓ ¡Correcta!</div>
-        Al ser un caso bisilábico especial, también admite de forma válida la construcción analítica con <strong>most</strong>.
+        También admite la desinencia tradicional sintética de superlativo en <strong>-est</strong>.
       </div>
     </div>
 
@@ -720,15 +609,7 @@ Which form can correctly complete the sentence: "The _______________ person in t
       <span class="opt-label"><strong>C) more clever</strong></span>
       <div class="feedback" style="display: none;">
         <div class="feedback-title">✗ Incorrecta</div>
-        Es un comparativo de superioridad, incompatible con el artículo determinado superlativo <em>the</em>.
-      </div>
-    </div>
-
-    <div class="quiz-multi-option incorrect" data-opt="D">
-      <span class="opt-label"><strong>D) cleverer</strong></span>
-      <div class="feedback" style="display: none;">
-        <div class="feedback-title">✗ Incorrecta</div>
-        Es la forma del grado comparativo sintético ("más listo que"), no superlativo.
+        Es una forma comparativa de superioridad, incompatible con el artículo superlativo <em>The</em> que introduce la frase.
       </div>
     </div>
   </div>
@@ -745,61 +626,40 @@ Pasapalabra is ________________ Grand Prix.
   <summary>A) more boring</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    Falta la partícula <em>than</em> para enlazar con el segundo elemento de la comparación (Grand Prix).
+    Falta la partícula obligatoria <em>than</em> para conectar con el segundo término de la comparación.
   </div>
 </details>
 <details class="quiz-option correct">
   <summary>B) more boring than</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    El adjetivo <em>boring</em> tiene dos sílabas y termina en <em>-ing</em>, por lo que forma el comparativo de superioridad anteponiendo <strong>more</strong> y seguido de <strong>than</strong>.
+    Al ser un adjetivo bisilábico terminado en <em>-ing</em>, forma el comparativo anteponiendo <strong>more</strong> y cerrando con <strong>than</strong>.
   </div>
 </details>
 <details class="quiz-option incorrect">
   <summary>C) boringer than</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    Los adjetivos participiales terminados en <em>-ing</em> nunca forman el comparativo con la terminación <em>-er</em>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) as boring than</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    La estructura de igualdad exige <em>as ... as</em>, nunca mezclada con <em>than</em>.
+    Los adjetivos participiales terminados en <em>-ing</em> nunca admiten la terminación en <em>-er</em>.
   </div>
 </details>
 
 ---
 
 ### Pregunta 20
-The superlative of "happy" is "the most happy".
+The superlative of happy is the most happy.
 
 <details class="quiz-option incorrect">
   <summary>A) Verdadero</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
-    Los adjetivos de dos sílabas terminados en consonante + «y» no forman el superlativo habitual con <em>the most</em>.
+    Los adjetivos bisilábicos terminados en «-y» no forman el superlativo estándar con <em>the most</em>.
   </div>
 </details>
 <details class="quiz-option correct">
   <summary>B) Falso</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    Es falso. Al terminar en consonante + «y», la regla ortográfica exige cambiar la «y» por «i» y añadir la terminación <strong>-est</strong>, resultando en <strong>the happiest</strong>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>C) Solo es correcto en poesía o lenguaje arcaico</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    En el uso general y académico del idioma, la forma requerida y correcta es exclusivamente <em>the happiest</em>.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) Admite ambas formas indistintamente</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    A diferencia de adjetivos como <em>clever</em> o <em>narrow</em>, <em>happy</em> solo sigue de forma estricta la regla morfológica de <em>the happiest</em>.
+    Es falso. Al terminar en consonante + «y», la regla exige sustituir la «y» por «i» y añadir la terminación <strong>-est</strong>: <strong>the happiest</strong>.
   </div>
 </details>
