@@ -2,45 +2,31 @@
 // 1. Limpieza de sintaxis matemática exclusiva de los tests
 // ========================================================
 function cleanLatexInTests() {
-  // Solo busca dentro de las tarjetas de los tests (.quiz-option)
   const targets = document.querySelectorAll(
-    ".quiz-option summary, .quiz-option .feedback, .quiz-option p"
+    ".quiz-option summary, .quiz-option .feedback, .quiz-option p, .quiz-fill-inline .feedback"
   );
 
   targets.forEach((el) => {
     if (el.innerHTML.includes("$") || el.innerHTML.includes("\\text")) {
       let txt = el.innerHTML;
-
-      // 1. Extrae el texto plano de \text{...}
       txt = txt.replace(/\\text\{([^}]+)\}/g, "$1");
-
-      // 2. Convierte \cdot en el punto medio de multiplicar ·
       txt = txt.replace(/\\cdot/g, "·");
-
-      // 3. Convierte potencias compuestas ^{...} y simples ^... en <sup>...</sup>
       txt = txt.replace(/\^\{([^}]+)\}/g, "<sup>$1</sup>");
       txt = txt.replace(/\^(-?\d+)/g, "<sup>$1</sup>");
-
-      // 4. Elimina los símbolos de dólar $
       txt = txt.replace(/\$/g, "");
-
       el.innerHTML = txt;
     }
   });
 }
 
 // ========================================================
-// 2. Motor interactivo de Tests, Tooltips y Marcador
+// 2. Motor interactivo de Tests, Huecos y Marcador
 // ========================================================
 const initQuizAndTooltips = () => {
-  // Limpia cualquier fórmula presente en las tarjetas antes de interactuar
   cleanLatexInTests();
 
-  // ========================================================
-  // Manejo táctil / clic para abreviaturas (<abbr>)
-  // ========================================================
+  // Tooltips para abreviaturas (<abbr>)
   const abbrElements = document.querySelectorAll("abbr");
-
   const closeAllTooltips = () => {
     abbrElements.forEach((el) => el.classList.remove("tooltip-active"));
   };
@@ -49,10 +35,8 @@ const initQuizAndTooltips = () => {
     abbr.addEventListener("click", (e) => {
       e.preventDefault();
       e.stopPropagation();
-
       const isActive = abbr.classList.contains("tooltip-active");
       closeAllTooltips();
-
       if (!isActive) {
         abbr.classList.add("tooltip-active");
       }
@@ -65,48 +49,51 @@ const initQuizAndTooltips = () => {
     }
   });
 
-  // ========================================================
-  // Motor interactivo de Tests y Exámenes (NotebookLM style)
-  // ========================================================
-  // Localiza cada pregunta a partir de sus encabezados ### Pregunta X
+  // Localiza cada pregunta a partir de ### Pregunta X
   const questionHeaders = Array.from(
     document.querySelectorAll("article h3, .md-content h3")
   ).filter((h3) => h3.textContent.trim().toLowerCase().startsWith("pregunta"));
 
   if (!questionHeaders.length) return;
 
-  // Evita duplicar el marcador al navegar con Material for MkDocs (instant loading)
   const oldScoreboard = document.querySelector(".quiz-scoreboard");
   if (oldScoreboard) oldScoreboard.remove();
 
-  // Agrupa de forma aislada las opciones que pertenecen a cada pregunta
-  const questionGroups = [];
+  // Estructura para almacenar preguntas (tanto tipo test como de rellenar hueco)
+  const questions = [];
 
   questionHeaders.forEach((h3) => {
-    const group = [];
     let sibling = h3.nextElementSibling;
+    const options = [];
+    let fillContainer = null;
 
     while (sibling && sibling.tagName !== "H3") {
       if (sibling.classList && sibling.classList.contains("quiz-option")) {
-        group.push(sibling);
+        options.push(sibling);
+      } else if (sibling.classList && sibling.classList.contains("quiz-fill-inline")) {
+        fillContainer = sibling;
       } else {
         const nestedOptions = sibling.querySelectorAll(".quiz-option");
-        nestedOptions.forEach((opt) => group.push(opt));
+        nestedOptions.forEach((opt) => options.push(opt));
+        const nestedFill = sibling.querySelector(".quiz-fill-inline");
+        if (nestedFill) fillContainer = nestedFill;
       }
       sibling = sibling.nextElementSibling;
     }
 
-    if (group.length > 0) {
-      questionGroups.push(group);
+    if (options.length > 0) {
+      questions.push({ type: "choice", elements: options });
+    } else if (fillContainer) {
+      questions.push({ type: "fill", element: fillContainer });
     }
   });
 
-  if (!questionGroups.length) return;
+  if (!questions.length) return;
 
-  // Marcador flotante dinámico (se adapta al número real de preguntas del test)
+  // Marcador flotante dinámico unificado
   let score = 0;
   let answeredCount = 0;
-  const totalQuestions = questionGroups.length;
+  const totalQuestions = questions.length;
 
   const scoreBoard = document.createElement("div");
   scoreBoard.className = "quiz-scoreboard";
@@ -130,46 +117,101 @@ const initQuizAndTooltips = () => {
     }
   };
 
-  // Asigna el evento exclusivamente a su grupo de 4 opciones
-  questionGroups.forEach((group) => {
-    group.forEach((opt) => {
-      const summary = opt.querySelector("summary");
-      if (!summary) return;
+  // Asignación de lógica interactiva por tipo de pregunta
+  questions.forEach((q) => {
+    if (q.type === "choice") {
+      const group = q.elements;
+      group.forEach((opt) => {
+        const summary = opt.querySelector("summary");
+        if (!summary) return;
 
-      summary.addEventListener("click", (e) => {
-        // Bloquea cambios si esta pregunta concreta ya se respondió
-        if (group[0].dataset.answered === "true") {
-          e.preventDefault();
-          return;
-        }
+        summary.addEventListener("click", (e) => {
+          if (group[0].dataset.answered === "true") {
+            e.preventDefault();
+            return;
+          }
 
-        group.forEach((o) => (o.dataset.answered = "true"));
+          group.forEach((o) => (o.dataset.answered = "true"));
+          answeredCount++;
+
+          const isCorrect = opt.classList.contains("correct");
+          if (isCorrect) {
+            score += 1.0;
+            opt.classList.add("user-selected-correct");
+          } else {
+            score -= 0.33;
+            opt.classList.add("user-selected-incorrect");
+          }
+
+          setTimeout(() => {
+            group.forEach((o) => o.setAttribute("open", ""));
+            cleanLatexInTests();
+            updateScoreBoard();
+          }, 50);
+        });
+      });
+    } else if (q.type === "fill") {
+      const container = q.element;
+      const input = container.querySelector(".quiz-blank-input");
+      const btn = container.querySelector(".quiz-btn-inline");
+      const feedback = container.querySelector(".feedback");
+      const feedbackTitle = feedback ? feedback.querySelector(".feedback-title") : null;
+
+      const validateFill = () => {
+        if (container.dataset.answered === "true") return;
+
+        const val = input.value.trim().toLowerCase();
+        if (!val) return;
+
+        container.dataset.answered = "true";
+        input.disabled = true;
+        if (btn) btn.disabled = true;
         answeredCount++;
 
-        const isCorrect = opt.classList.contains("correct");
+        const validAnswers = (container.dataset.answer || "")
+          .split(",")
+          .map((s) => s.trim().toLowerCase());
+
+        const isCorrect = validAnswers.includes(val);
+
+        if (feedback) feedback.style.display = "block";
+
         if (isCorrect) {
           score += 1.0;
-          opt.classList.add("user-selected-correct");
+          input.style.borderColor = "var(--md-code-hl-string-color, #4caf50)";
+          input.style.backgroundColor = "rgba(76, 175, 80, 0.12)";
+          if (feedbackTitle) {
+            feedbackTitle.innerHTML = "✓ ¡Exacto!";
+            feedbackTitle.style.color = "var(--md-code-hl-string-color, #4caf50)";
+          }
         } else {
           score -= 0.33;
-          opt.classList.add("user-selected-incorrect");
+          input.style.borderColor = "var(--md-code-hl-special-color, #f44336)";
+          input.style.backgroundColor = "rgba(244, 67, 54, 0.12)";
+          if (feedbackTitle) {
+            feedbackTitle.innerHTML = "✗ Incorrecto";
+            feedbackTitle.style.color = "var(--md-code-hl-special-color, #f44336)";
+          }
         }
 
-        // Abre y revela únicamente las opciones de esta pregunta
-        setTimeout(() => {
-          group.forEach((o) => {
-            o.setAttribute("open", "");
-          });
-          // Limpia por si las explicaciones dentro del feedback tenían fórmulas
-          cleanLatexInTests();
-          updateScoreBoard();
-        }, 50);
-      });
-    });
+        cleanLatexInTests();
+        updateScoreBoard();
+      };
+
+      if (btn) {
+        btn.addEventListener("click", validateFill);
+      }
+      if (input) {
+        input.addEventListener("keydown", (e) => {
+          if (e.key === "Enter") {
+            validateFill();
+          }
+        });
+      }
+    }
   });
 };
 
-// Carga tanto en carga normal como en la navegación instantánea de Material for MkDocs
 document.addEventListener("DOMContentLoaded", initQuizAndTooltips);
 if (typeof document$ !== "undefined") {
   document$.subscribe(initQuizAndTooltips);
