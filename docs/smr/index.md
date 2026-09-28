@@ -53,5 +53,14 @@ Este espacio está concebido como una base de conocimiento estructurada, con esq
 
 ---
 
+### 🌐 Inglés Profesional
+* **Descripción:** Comunicación técnica oral y escrita en lengua inglesa aplicada a entornos IT, comprensión e interpretación de manuales de hardware/software, redacción de informes de incidencias, tickets de soporte y atención al cliente internacional.
+* **Accesos rápidos:**
+    * [📖 Temario Teórico](ingles/index.md)
+    * [📝 Banco de Tests y Exámenes Globales](ingles/test/index.md)
+    * [📋 Pruebas de Evaluación (PAC)](ingles/pac/index.md)
+
+---
+
 !!! tip "Metodología de Estudio y Evaluación"
     Cada módulo cuenta con un desglose técnico detallado acompañado de esquemas y tablas comparativas. Tras completar la lectura de cada unidad, accede a la sección de **Autoevaluación** para validar tus conocimientos con preguntas comentadas y simulacros de examen global.
