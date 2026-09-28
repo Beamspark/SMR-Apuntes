@@ -228,15 +228,11 @@ const initQuizAndTooltips = () => {
           updateScoreBoard();
         };
 
-        if (btn) {
-          btn.addEventListener("click", validateSingleFill);
-        }
+        if (btn) btn.onclick = validateSingleFill;
         if (input) {
-          input.addEventListener("keydown", (e) => {
-            if (e.key === "Enter") {
-              validateSingleFill();
-            }
-          });
+          input.onkeydown = (e) => {
+            if (e.key === "Enter") validateSingleFill();
+          };
         }
       });
     }
@@ -249,17 +245,17 @@ const initQuizAndTooltips = () => {
       const options = container.querySelectorAll(".quiz-multi-option");
       const btn = container.querySelector(".quiz-btn-confirm");
 
-      // Clic para alternar selección usando currentTarget para que no falle al pulsar sobre el texto
-      options.forEach((opt) => {
-        opt.addEventListener("click", (e) => {
-          if (container.dataset.answered === "true") return;
-          e.currentTarget.classList.toggle("selected");
-        });
+      // Listener en el contenedor para asegurar que cualquier clic en la opción o sus hijos funcione
+      container.addEventListener("click", (e) => {
+        const clickedOption = e.target.closest(".quiz-multi-option");
+        if (!clickedOption || container.dataset.answered === "true") return;
+        clickedOption.classList.toggle("selected");
       });
 
       // Validar al pulsar "Confirmar selección"
       if (btn) {
-        btn.addEventListener("click", () => {
+        btn.addEventListener("click", (e) => {
+          e.stopPropagation();
           if (container.dataset.answered === "true") return;
 
           const selected = container.querySelectorAll(".quiz-multi-option.selected");
@@ -283,12 +279,12 @@ const initQuizAndTooltips = () => {
             }
           });
 
-          // Puntuación proporcional: +0.5 por acierto (si eran 2), -0.33 por error
+          // Puntuación proporcional: (+0.5 por acierto si eran 2 esperadas, -0.33 por error)
           let points = (correctSelected / totalExpectedCorrect) * 1.0;
           points -= incorrectSelected * 0.33;
           score += Math.max(0, points);
 
-          // Revelar feedbacks y marcar bordes
+          // Revelar feedbacks y colorear bordes finales
           options.forEach((opt) => {
             const fb = opt.querySelector(".feedback");
             if (fb) fb.style.display = "block";
