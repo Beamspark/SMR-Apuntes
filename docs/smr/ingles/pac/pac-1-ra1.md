@@ -9,7 +9,7 @@ Past Simple. Complete the sentences with the correct form of the verbs in bracke
 
 <div class="quiz-fill-inline" data-answer="did not play">
   <p>
-    1. They <input type="text" class="quiz-blank-input" placeholder="(not / play)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> very well last Saturday. They lost the match.
+    1. They <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not / play)</strong> very well last Saturday. They lost the match.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -22,7 +22,7 @@ Past Simple. Complete the sentences with the correct form of the verbs in bracke
 
 <div class="quiz-fill-inline" data-answer="did you go">
   <p>
-    2. How <input type="text" class="quiz-blank-input" placeholder="(you / go)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> to work yesterday?
+    2. How <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(you / go)</strong> to work yesterday?
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -35,7 +35,7 @@ Past Simple. Complete the sentences with the correct form of the verbs in bracke
 
 <div class="quiz-fill-inline" data-answer="did not help">
   <p>
-    3. My friends <input type="text" class="quiz-blank-input" placeholder="(not / help)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> me with Maths.
+    3. My friends <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not / help)</strong> me with Maths.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -189,7 +189,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
 
 <div class="quiz-fill-inline" data-answer="have lost">
   <p>
-    1. I <input type="text" class="quiz-blank-input" placeholder="(lose)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my keys. Can you help me find them?
+    1. I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(lose)</strong> my keys. Can you help me find them?
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -202,7 +202,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
 
 <div class="quiz-fill-inline" data-answer="studied">
   <p>
-    2. Last year, my cousin <input type="text" class="quiz-blank-input" placeholder="(study)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> in Manchester.
+    2. Last year, my cousin <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(study)</strong> in Manchester.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -215,7 +215,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
 
 <div class="quiz-fill-inline" data-answer="has visited">
   <p>
-    3. My boss <input type="text" class="quiz-blank-input" placeholder="(visit)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> Berlin four times.
+    3. My boss <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(visit)</strong> Berlin four times.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -228,7 +228,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
 
 <div class="quiz-fill-inline" data-answer="have known">
   <p>
-    4. They <input type="text" class="quiz-blank-input" placeholder="(know)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> Mary for 5 years. They still meet once a week.
+    4. They <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(know)</strong> Mary for 5 years. They still meet once a week.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -241,7 +241,7 @@ Present perfect simple or Past Simple? Complete the gaps with the correct verb f
 
 <div class="quiz-fill-inline" data-answer="went">
   <p>
-    5. Last summer, I <input type="text" class="quiz-blank-input" placeholder="(go)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> to the Caribbean Sea.
+    5. Last summer, I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(go)</strong> to the Caribbean Sea.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -259,7 +259,7 @@ Past perfect simple. Complete the sentences with the correct form of the verbs i
 
 <div class="quiz-fill-inline" data-answer="had not arrived">
   <p>
-    1. My neighbour <input type="text" class="quiz-blank-input" placeholder="(not / arrive)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> to the airport when she received the news.
+    1. My neighbour <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not / arrive)</strong> to the airport when she received the news.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -272,7 +272,7 @@ Past perfect simple. Complete the sentences with the correct form of the verbs i
 
 <div class="quiz-fill-inline" data-answer="had been">
   <p>
-    2. The flowers were dead because they <input type="text" class="quiz-blank-input" placeholder="(be)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> dry all summer.
+    2. The flowers were dead because they <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(be)</strong> dry all summer.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -358,7 +358,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
 
 <div class="quiz-fill-inline" data-answer="was doing">
   <p>
-    1. Yesterday at 5.30pm, Helen <input type="text" class="quiz-blank-input" placeholder="(do)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> her weekly shopping.
+    1. Yesterday at 5.30pm, Helen <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(do)</strong> her weekly shopping.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -371,7 +371,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
 
 <div class="quiz-fill-inline" data-answer="went">
   <p>
-    2. Last Saturday night, Claire and Stephen <input type="text" class="quiz-blank-input" placeholder="(go)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> to the cinema.
+    2. Last Saturday night, Claire and Stephen <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(go)</strong> to the cinema.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -384,7 +384,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
 
 <div class="quiz-fill-inline" data-answer="received">
   <p>
-    3. Yesterday night, the Emergency Department <input type="text" class="quiz-blank-input" placeholder="(receive)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> an important call.
+    3. Yesterday night, the Emergency Department <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(receive)</strong> an important call.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -397,7 +397,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
 
 <div class="quiz-fill-inline" data-answer="was sending">
   <p>
-    4. She <input type="text" class="quiz-blank-input" placeholder="(send)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> an email when the laptop switched off.
+    4. She <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(send)</strong> an email when the laptop switched off.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -410,7 +410,7 @@ Past simple or Past continuous? Complete the sentences with the correct verb for
 
 <div class="quiz-fill-inline" data-answer="happened">
   <p>
-    5. The accident <input type="text" class="quiz-blank-input" placeholder="(happen)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> close to your house.
+    5. The accident <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(happen)</strong> close to your house.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -531,7 +531,7 @@ Present perfect simple or continuous? Complete the gaps with the correct verb fo
 
 <div class="quiz-fill-inline" data-answer="has run">
   <p>
-    1. Martha <input type="text" class="quiz-blank-input" placeholder="(run)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> 300 meters today.
+    1. Martha <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(run)</strong> 300 meters today.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -544,7 +544,7 @@ Present perfect simple or continuous? Complete the gaps with the correct verb fo
 
 <div class="quiz-fill-inline" data-answer="have been cleaning">
   <p>
-    2. I <input type="text" class="quiz-blank-input" placeholder="(clean)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my house all morning. I'm really tired!
+    2. I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(clean)</strong> my house all morning. I'm really tired!
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -557,7 +557,7 @@ Present perfect simple or continuous? Complete the gaps with the correct verb fo
 
 <div class="quiz-fill-inline" data-answer="have you known">
   <p>
-    3. How long <input type="text" class="quiz-blank-input" placeholder="(know / you)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> Peter?
+    3. How long <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(know / you)</strong> Peter?
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -570,7 +570,7 @@ Present perfect simple or continuous? Complete the gaps with the correct verb fo
 
 <div class="quiz-fill-inline" data-answer="has been making">
   <p>
-    4. Everything is dirty. My father <input type="text" class="quiz-blank-input" placeholder="(make)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> a cake all afternoon.
+    4. Everything is dirty. My father <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(make)</strong> a cake all afternoon.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -588,7 +588,7 @@ Complete the gaps with the correct comparative form. Remember: Add THAN after th
 
 <div class="quiz-fill-inline" data-answer="better than">
   <p>
-    1. My new microwave works a lot <input type="text" class="quiz-blank-input" placeholder="(good)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my old one.
+    1. My new microwave works a lot <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(good)</strong> my old one.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -601,7 +601,7 @@ Complete the gaps with the correct comparative form. Remember: Add THAN after th
 
 <div class="quiz-fill-inline" data-answer="quicker than">
   <p>
-    2. It heats up much <input type="text" class="quiz-blank-input" placeholder="(quick)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> the other one.
+    2. It heats up much <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(quick)</strong> the other one.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -614,7 +614,7 @@ Complete the gaps with the correct comparative form. Remember: Add THAN after th
 
 <div class="quiz-fill-inline" data-answer="more often than">
   <p>
-    3. But it also burns all food <input type="text" class="quiz-blank-input" placeholder="(often)" onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> my old one!
+    3. But it also burns all food <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(often)</strong> my old one!
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
   </p>
   <div class="feedback" style="display: none;">
@@ -696,36 +696,45 @@ The superlative form of thirsty is "the thirstilier".
 ---
 
 ### Pregunta 18
-Which form can correctly complete the sentence: "The _______________ person in this company is Robert"?
+Which form can correctly complete the sentence: "The _______________ person in this company is Robert"? *(Selecciona las 2 opciones correctas)*
 
-<details class="quiz-option correct">
-  <summary>A) cleverest</summary>
-  <div class="feedback">
-    <div class="feedback-title">✓ ¡Exacto!</div>
-    El adjetivo <em>clever</em> es un caso especial bisilábico que admite válidamente las dos formas de superlativo: <strong>the cleverest</strong> (forma sintética) y <strong>the most clever</strong> (forma analítica).
+<div class="quiz-multi" data-expected="2">
+  <div class="quiz-multi-options">
+    <div class="quiz-multi-option correct" data-opt="A">
+      <span class="opt-label"><strong>A) cleverest</strong></span>
+      <div class="feedback" style="display: none;">
+        <div class="feedback-title">✓ ¡Correcta!</div>
+        El adjetivo bisilábico <em>clever</em> admite la terminación sintética tradicional en <strong>-est</strong>.
+      </div>
+    </div>
+
+    <div class="quiz-multi-option correct" data-opt="B">
+      <span class="opt-label"><strong>B) most clever</strong></span>
+      <div class="feedback" style="display: none;">
+        <div class="feedback-title">✓ ¡Correcta!</div>
+        Al ser un caso bisilábico especial, también admite de forma válida la construcción analítica con <strong>most</strong>.
+      </div>
+    </div>
+
+    <div class="quiz-multi-option incorrect" data-opt="C">
+      <span class="opt-label"><strong>C) more clever</strong></span>
+      <div class="feedback" style="display: none;">
+        <div class="feedback-title">✗ Incorrecta</div>
+        Es un comparativo de superioridad, incompatible con el artículo determinado superlativo <em>the</em>.
+      </div>
+    </div>
+
+    <div class="quiz-multi-option incorrect" data-opt="D">
+      <span class="opt-label"><strong>D) cleverer</strong></span>
+      <div class="feedback" style="display: none;">
+        <div class="feedback-title">✗ Incorrecta</div>
+        Es la forma del grado comparativo sintético ("más listo que"), no superlativo.
+      </div>
+    </div>
   </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>B) more clever</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    <em>More clever</em> es una forma comparativa, incompatible con el artículo determinado superlativo <em>the</em> que encabeza la frase.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>C) cleverer</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    <em>Cleverer</em> es la forma de grado comparativo de superioridad, no superlativo.
-  </div>
-</details>
-<details class="quiz-option incorrect">
-  <summary>D) cleverliest</summary>
-  <div class="feedback">
-    <div class="feedback-title">✗ Incorrecto</div>
-    Estructura inexistente formada sobre una derivación adverbial errónea.
-  </div>
-</details>
+
+  <button type="button" class="quiz-btn-confirm">Confirmar selección</button>
+</div>
 
 ---
 
