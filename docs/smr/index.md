@@ -46,6 +46,7 @@ Este espacio está concebido como una base de conocimiento estructurada, con esq
 * **Accesos rápidos:**
     * [📖 Temario Teórico (Temas 1 al 5)](itinerario/index.md)
     * [📝 Banco de Tests y Exámenes Globales](itinerario/test/index.md)
+    * [📋 Pruebas de Evaluación (PAC)](itinerario/pac/index.md)
 
 ---
 
