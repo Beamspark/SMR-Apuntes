@@ -1,3 +1,7 @@
+[← Volver al Índice de PACs](./index.md)
+
+---
+
 ### Pregunta 1
 ¿Qué es la arquitectura de un sistema microinformático?
 
