@@ -1,4 +1,4 @@
-<h1 style="color: #ab47bc;" markdown="span">:material-lan: Cuaderno Técnico — CFGM Sistemas Microinformáticos y Redes</h1>
+<h1 style="color: #ab47bc;">🖥️ Cuaderno Técnico — CFGM Sistemas Microinformáticos y Redes</h1>
 
 Bienvenido al repositorio central de apuntes, documentación técnica y baterías de autoevaluación del **Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes (SMR)**.
 
