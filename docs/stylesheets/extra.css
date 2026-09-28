@@ -275,19 +275,32 @@ abbr.tooltip-active::before {
 }
 
 /* ========================================================
-   Tarjetas de Selección Múltiple (Multi-choice)
+   Tarjetas de Selección Múltiple (Multi-choice con Checkbox)
    ======================================================== */
 
 .quiz-multi {
   margin: 1.2rem 0;
+  padding: 1rem 1.2rem;
+  background-color: var(--md-code-bg-color);
+  border: 1.5px solid var(--md-default-fg-color--lighter);
+  border-radius: 8px;
+}
+
+.quiz-multi-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  margin-bottom: 0.75rem;
 }
 
 .quiz-multi-option {
-  margin-bottom: 0.65rem;
+  display: flex;
+  flex-direction: column;
   padding: 0.85rem 1.1rem;
   border: 1.5px solid var(--md-default-fg-color--lighter);
-  border-radius: 8px;
-  background-color: var(--md-code-bg-color);
+  border-radius: 6px;
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
   cursor: pointer;
   user-select: none;
   transition: all 0.2s ease-in-out;
@@ -297,21 +310,11 @@ abbr.tooltip-active::before {
   background-color: var(--md-accent-fg-color--transparent);
 }
 
-/* Estado seleccionado antes de comprobar */
-.quiz-multi-option.selected {
-  border-color: #ab47bc !important;
-  background-color: rgba(171, 71, 188, 0.15) !important;
-}
-
-/* Indicador de acierto / error tras confirmar */
-.quiz-multi-option.user-selected-correct {
-  outline: 3px solid #4caf50;
-  outline-offset: 1px;
-}
-
-.quiz-multi-option.user-selected-incorrect {
-  outline: 3px solid #ef5350;
-  outline-offset: 1px;
+.quiz-multi-option input[type="checkbox"] {
+  margin-right: 8px;
+  accent-color: #ab47bc;
+  transform: scale(1.1);
+  cursor: pointer;
 }
 
 .quiz-multi-option .feedback {
@@ -322,8 +325,12 @@ abbr.tooltip-active::before {
   line-height: 1.5;
 }
 
+.quiz-multi-option .feedback-title {
+  font-weight: bold;
+  margin-bottom: 0.35rem;
+}
+
 .quiz-btn-confirm {
-  margin-top: 0.6rem;
   padding: 8px 18px;
   font-size: 0.9rem;
   font-weight: 600;
