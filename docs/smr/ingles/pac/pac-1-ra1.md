@@ -2,8 +2,6 @@
 
 ---
 
-# PAC 1 (RA1): Present, Past tenses and Comparatives & Superlatives
-
 ### Pregunta 1
 Past Simple. Write the answers WITHOUT CONTRACTIONS:
 
