@@ -507,3 +507,41 @@
 *[Animación de Objeto]: Efecto dinámico de movimiento o aparición aplicado sobre un elemento gráfico o bloque de texto específico dentro de la diapositiva.
 *[Gráfico Vinculado]: Diagrama estadístico insertado desde una hoja de cálculo externa sincronizado dinámicamente con sus datos de origen.
 *[Saltar Diapositiva]: Función que oculta una diapositiva durante la exposición pública sin borrarla del archivo de trabajo.
+*[AppSheet]: Plataforma de desarrollo no-code de Google Workspace orientada a la creación de aplicaciones móviles y web conectadas a orígenes de datos.
+*[Ref]: Tipo de dato relacional en AppSheet que establece una clave externa vinculando una tabla secundaria con una tabla maestra.
+*[Slice]: Vista filtrada o subconjunto de una tabla en AppSheet evaluada en el cliente local mediante una expresión condicional booleana.
+*[Security Filter]: Filtro de seguridad en AppSheet evaluado en el servidor antes de transferir los datos al dispositivo, asegurando el cumplimiento de privacidad.
+*[Bot]: Mecanismo de automatización asíncrono en AppSheet gobernado por eventos que ejecuta tareas en cascada como correos, notificaciones o generación de PDFs.
+*[UNIQUEID]: Función de AppSheet que genera una cadena aleatoria única de 8 caracteres alfanuméricos para asignar claves primarias sin colisiones.
+*[GIMP]: GNU Image Manipulation Program. Software libre y gratuito de edición de gráficos de mapa de bits (ráster) bajo licencia GNU/GPL.
+*[Mapa de Bits]: Ráster. Estructura de datos gráfica compuesta por una matriz bidimensional de puntos de color discretos denominados píxeles.
+*[Máscara de Capa]: Mapa acoplado a una capa que modula la visibilidad de los píxeles de forma no destructiva (el blanco muestra y el negro oculta).
+*[XCF]: Formato de archivo nativo de GIMP que conserva capas, canales, máscaras y trazados vectoriales sin compresión destructiva.
+*[Canal Alfa]: Componente cromático adicional de 8 bits que determina el grado de transparencia u opacidad de los píxeles en una imagen digital.
+*[PPP]: Píxeles Por Pulgada (PPI). Medida de densidad espacial que expresa la resolución y nitidez de una imagen digital en pantalla o sensor.
+*[DPI]: Puntos Por Pulgada. Densidad métrica de puntos físicos de tinta proyectados por pulgada en un soporte de impresión.
+*[Códec]: Compresor / Descompresor. Algoritmo informático encargado de comprimir y descomprimir flujos de datos audiovisuales a tiempo real.
+*[Contenedor Multimedia]: Formato de archivo envoltorio que empaqueta en una única estructura pistas de vídeo, audios multicanal, subtítulos y metadatos.
+*[Línea de Tiempo]: Timeline. Eje horizontal graduado cronológicamente en el editor de vídeo sobre el que se estructuran, solapan y recortan los clips.
+*[Edición No Destructiva]: Principio de montaje donde el software preserva los archivos fuente originales y trabaja únicamente con referencias lógicas en el proyecto.
+*[OpenShot]: Editor de vídeo no destructivo de código abierto y software libre para montaje multipista sobre la línea de tiempo.
+*[OBS Studio]: Open Broadcaster Software. Suite de software libre y código abierto orientada a la captura de pantalla, grabación y emisión de vídeo en directo.
+*[H.264]: AVC (Advanced Video Coding). Estándar y códec de compresión de vídeo de alta eficiencia ampliamente extendido en streaming y contenedores MP4.
+*[MKV]: Matroska. Formato contenedor multimedia libre de código abierto capaz de albergar flujos ilimitados de vídeo, audio y subtítulos.
+*[WebM]: Estándar de vídeo abierto y libre promovido por Google para HTML5 que combina contenedor MKV con códecs de vídeo VP8/VP9 y audio Vorbis/Opus.
+*[OGG Vorbis]: Formato y códec de audio comprimido de código abierto y libre de patentes con calidad equivalente o superior a MP3 y AAC.
+*[Foleys]: Efectos de sonido de sala recreados o grabados en estudio de forma sincronizada con la acción visual para la banda de efectos independiente.
+*[Ley de los 180°]: Regla del lenguaje audiovisual que fija una línea imaginaria de acción obligando a situar las cámaras en el mismo semicírculo para evitar el salto de eje.
+*[Ley de los 30°]: Principio que exige variar el ángulo de cámara más de 30 grados entre dos planos seguidos del mismo sujeto para evitar un salto visual brusco.
+*[POP3]: Post Office Protocol 3. Protocolo de red de nivel de aplicación para la recepción de correo entrante que descarga los mensajes en el equipo local y los elimina habitualmente del servidor.
+*[IMAP]: Internet Message Access Protocol. Protocolo de correo electrónico entrante que mantiene los mensajes sincronizados y centralizados en el servidor para acceso concurrente multidispositivo.
+*[SMTP]: Simple Mail Transfer Protocol. Protocolo de transporte estándar de la familia TCP/IP encargado exclusivamente del envío y retransmisión de correo electrónico en la red.
+*[Registro MX]: Mail Exchange Record. Tipo de registro en los servidores DNS que especifica el servidor de correo responsable de recibir mensajes para un nombre de dominio determinado.
+*[CCO]: Copia de Carbón Oculta (BCC). Campo de cabecera de correo que envía copias del mensaje a destinatarios ocultando sus direcciones al resto de receptores.
+*[CC]: Copia de Carbón. Campo de cabecera que remite una copia informativa del mensaje visible para todos los integrantes del hilo.
+*[RSS]: Really Simple Syndication. Formato basado en XML diseñado para la suscripción y distribución automatizada de contenidos y noticias web hacia agregadores de lectura.
+*[PDA]: Personal Digital Assistant. Asistente Digital Personal; dispositivo móvil compacto precursor del smartphone orientado a la gestión de contactos, agendas y tareas.
+*[Certificado Digital]: Archivo criptográfico emitido por una Autoridad de Certificación que acredita de forma fehaciente la identidad digital de una persona, equipo o servicio.
+*[Autoridad de Certificación]: Entidad de confianza responsable de emitir, revocar y garantizar la validez legal de los certificados digitales criptográficos.
+*[Spam]: Correo basura o no solicitado enviado de forma masiva que satura los buzones y se desvía mediante filtros heurísticos.
+*[MUA]: Mail User Agent. Cliente de correo electrónico o aplicación de usuario encargada de redactar, enviar y consultar mensajes conectándose a los servidores.
