@@ -770,12 +770,6 @@ She _______ science at a local secondary school.
 
 ---
 
-# Test de Autoevaluación: Tema 1
-
-[← Volver al Tema 1: Listening in Everyday Life](../tema-1.md)
-
----
-
 ### Pregunta 38
 He normally _______ by train, but today he’s driving.
 
