@@ -113,8 +113,6 @@ I _______ like pop music.
 ---
 
 ### Pregunta 5
-She ________ (go) to the gym four times a week.
-
 <div class="quiz-fill-inline" data-answer="goes">
   <p>
     She <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(go)</strong> to the gym four times a week.
@@ -131,8 +129,6 @@ She ________ (go) to the gym four times a week.
 ---
 
 ### Pregunta 6
-________ you usually ________ (get up) late?
-
 <div class="quiz-fill-inline" data-answer="Do ... get up,Do...get up,Do get up">
   <p>
     <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(Do)</strong> you usually <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(get up)</strong> late?
@@ -149,8 +145,6 @@ ________ you usually ________ (get up) late?
 ---
 
 ### Pregunta 7
-They ________ usually ________ (not have) a big meal in the evening.
-
 <div class="quiz-fill-inline" data-answer="don't have,do not have,dont have">
   <p>
     They <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> usually <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not have)</strong> a big meal in the evening.
@@ -167,8 +161,6 @@ They ________ usually ________ (not have) a big meal in the evening.
 ---
 
 ### Pregunta 8
-I ________ (love) going out to restaurants.
-
 <div class="quiz-fill-inline" data-answer="love">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(love)</strong> going out to restaurants.
@@ -185,8 +177,6 @@ I ________ (love) going out to restaurants.
 ---
 
 ### Pregunta 9
-She ________ (not buy) low fat products very often.
-
 <div class="quiz-fill-inline" data-answer="doesn't buy,does not buy,doesnt buy">
   <p>
     She <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not buy)</strong> low fat products very often.
@@ -203,8 +193,6 @@ She ________ (not buy) low fat products very often.
 ---
 
 ### Pregunta 10
-I ________ (feel) guilty when I don’t do my report.
-
 <div class="quiz-fill-inline" data-answer="feel">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(feel)</strong> guilty when I don’t do my report.
@@ -221,8 +209,6 @@ I ________ (feel) guilty when I don’t do my report.
 ---
 
 ### Pregunta 11
-He ________ (read) every night before going to bed.
-
 <div class="quiz-fill-inline" data-answer="reads">
   <p>
     He <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(read)</strong> every night before going to bed.
@@ -242,7 +228,7 @@ He ________ (read) every night before going to bed.
 He doesn’t have the car for this weekend.
 
 <details class="quiz-option correct">
-  <summary>A) Correcta (✔️)</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
     La oración es completamente gramatical. Expresa posesión/disponibilidad en Present Simple negativo con 3ª persona singular (doesn't have).
@@ -272,7 +258,7 @@ I am loving eating out but it’s very expensive.
   <summary>B) I love eating out but it’s very expensive.</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
-    El verbo love actúa como un State Verb (verbo de estado que expresa gusto/preference) y no debe utilizarse en tiempo continuo (am loving) en contextos normativos de examen. Se debe corregir a Present Simple: love.
+    El verbo love actúa como un State Verb (verbo de estado que expresa gusto/preferencia) y no debe utilizarse en tiempo continuo (am loving) en contextos normativos de examen. Se debe corregir a Present Simple: love.
   </div>
 </details>
 
@@ -282,14 +268,14 @@ I am loving eating out but it’s very expensive.
 Do you recognize the man in that photo? It’s our old maths teacher.
 
 <details class="quiz-option correct">
-  <summary>A) Correcta (✔️)</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
     Recognize es un State Verb de proceso mental empleado correctamente en Present Simple interrogativo (Do you recognize...?).
   </div>
 </details>
 <details class="quiz-option incorrect">
-  <summary>B) Incorrecta</label>
+  <summary>B) Incorrecta</summary>
   <div class="feedback">
     <div class="feedback-title">✗ Incorrecto</div>
     La frase es perfectamente gramatical al tratarse de un verbo de estado.
@@ -302,7 +288,7 @@ Do you recognize the man in that photo? It’s our old maths teacher.
 Nowadays people don’t mind paying more for healthy food.
 
 <details class="quiz-option correct">
-  <summary>A) Correcta (✔️)</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
     Mind (importar/molestar) funciona como verbo de estado y va correctamente en Present Simple negativo (don't mind) seguido de gerundio.
@@ -322,7 +308,7 @@ Nowadays people don’t mind paying more for healthy food.
 I’m sorry, I don’t understand. What does this word mean?
 
 <details class="quiz-option correct">
-  <summary>A) Correcta (✔️)</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
     Tanto understand como mean son State Verbs puros (comprensión y significado) empleados de forma impecable en Present Simple.
@@ -362,7 +348,7 @@ I’m not sure if we’re going skiing this weekend. It’s depending on the wea
 I think that people today eat too much unhealthy food.
 
 <details class="quiz-option correct">
-  <summary>A) Correcta (✔️)</summary>
+  <summary>A) Correcta</summary>
   <div class="feedback">
     <div class="feedback-title">✓ ¡Exacto!</div>
     Think se utiliza para expresar una opinión/creencia general, por lo que actúa como State Verb y debe ir en Present Simple (think).
@@ -487,8 +473,6 @@ Adam _______ you.
 ---
 
 ### Pregunta 23
-Emma ________ (play) the guitar at this moment, try to call her later, please.
-
 <div class="quiz-fill-inline" data-answer="is playing">
   <p>
     Emma <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(play)</strong> the guitar at this moment, try to call her later, please.
@@ -505,8 +489,6 @@ Emma ________ (play) the guitar at this moment, try to call her later, please.
 ---
 
 ### Pregunta 24
-I ________ (think) about going out tonight. What do you think?
-
 <div class="quiz-fill-inline" data-answer="am thinking">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(think)</strong> about going out tonight. What do you think?
@@ -523,8 +505,6 @@ I ________ (think) about going out tonight. What do you think?
 ---
 
 ### Pregunta 25
-She ________ (read) a really good book.
-
 <div class="quiz-fill-inline" data-answer="is reading">
   <p>
     She <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(read)</strong> a really good book.
@@ -541,8 +521,6 @@ She ________ (read) a really good book.
 ---
 
 ### Pregunta 26
-Lots of students ________ (try) to postpone the exam date.
-
 <div class="quiz-fill-inline" data-answer="are trying">
   <p>
     Lots of students <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(try)</strong> to postpone the exam date.
@@ -559,8 +537,6 @@ Lots of students ________ (try) to postpone the exam date.
 ---
 
 ### Pregunta 27
-Our boss ________ (have) a meeting right now.
-
 <div class="quiz-fill-inline" data-answer="is having">
   <p>
     Our boss <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(have)</strong> a meeting right now.
@@ -577,8 +553,6 @@ Our boss ________ (have) a meeting right now.
 ---
 
 ### Pregunta 28
-I ________ (write) my report. Please, don’t be noisy.
-
 <div class="quiz-fill-inline" data-answer="am writing">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(write)</strong> my report. Please, don’t be noisy.
@@ -595,8 +569,6 @@ I ________ (write) my report. Please, don’t be noisy.
 ---
 
 ### Pregunta 29
-He ________ (sing) my favourite song.
-
 <div class="quiz-fill-inline" data-answer="is singing">
   <p>
     He <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(sing)</strong> my favourite song.
@@ -813,8 +785,6 @@ We _______ at a small hotel near the beach this summer.
 ---
 
 ### Pregunta 40
-This cake __________ (taste) delicious!
-
 <div class="quiz-fill-inline" data-answer="taste,tastes">
   <p>
     This cake <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(taste)</strong> delicious!
@@ -831,8 +801,6 @@ This cake __________ (taste) delicious!
 ---
 
 ### Pregunta 41
-I __________ (not understand) what you mean.
-
 <div class="quiz-fill-inline" data-answer="don't understand,do not understand,dont understand">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not understand)</strong> what you mean.
@@ -849,8 +817,6 @@ I __________ (not understand) what you mean.
 ---
 
 ### Pregunta 42
-He __________ (have) a shower right now.
-
 <div class="quiz-fill-inline" data-answer="is having">
   <p>
     He <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(have)</strong> a shower right now.
@@ -867,9 +833,7 @@ He __________ (have) a shower right now.
 ---
 
 ### Pregunta 43
-The bag __________ (weigh) about 10 kilos.
-
-<div class="quiz-fill-inline" data-answer="weigh">
+<div class="quiz-fill-inline" data-answer="weigh,weighs">
   <p>
     The bag <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(weigh)</strong> about 10 kilos.
     <button type="button" class="quiz-btn-inline" onclick="checkInlineBlank(this)">Comprobar</button>
@@ -885,8 +849,6 @@ The bag __________ (weigh) about 10 kilos.
 ---
 
 ### Pregunta 44
-My head __________ (hurt). I think I need a break.
-
 <div class="quiz-fill-inline" data-answer="hurt,hurts,is hurting">
   <p>
     My head <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(hurt)</strong>. I think I need a break.
@@ -903,8 +865,6 @@ My head __________ (hurt). I think I need a break.
 ---
 
 ### Pregunta 45
-I __________ (think) you’re right about this.
-
 <div class="quiz-fill-inline" data-answer="think">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(think)</strong> you’re right about this.
@@ -921,8 +881,6 @@ I __________ (think) you’re right about this.
 ---
 
 ### Pregunta 46
-What __________ (you / think) about doing later?
-
 <div class="quiz-fill-inline" data-answer="are you thinking">
   <p>
     What <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(you / think)</strong> about doing later?
@@ -939,8 +897,6 @@ What __________ (you / think) about doing later?
 ---
 
 ### Pregunta 47
-I __________ (have) a lot of work to do today.
-
 <div class="quiz-fill-inline" data-answer="have">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(have)</strong> a lot of work to do today.
@@ -957,8 +913,6 @@ I __________ (have) a lot of work to do today.
 ---
 
 ### Pregunta 48
-He __________ (have) dinner with his boss right now.
-
 <div class="quiz-fill-inline" data-answer="is having">
   <p>
     He <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(have)</strong> dinner with his boss right now.
@@ -975,8 +929,6 @@ He __________ (have) dinner with his boss right now.
 ---
 
 ### Pregunta 49
-I __________ (see) your point, but I __________ (see) my dentist at 5.
-
 <div class="quiz-fill-inline" data-answer="see ... am seeing,see,am seeing">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(see)</strong> your point, but I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(see)</strong> my dentist at 5.
@@ -1101,8 +1053,6 @@ Miranda _______ that novel.
 ---
 
 ### Pregunta 54
-I _______________________ (never / try) sushi before.
-
 <div class="quiz-fill-inline" data-answer="have never tried">
   <p>
     I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(never / try)</strong> sushi before.
@@ -1119,8 +1069,6 @@ I _______________________ (never / try) sushi before.
 ---
 
 ### Pregunta 55
-She _______________________ (visit) London three times.
-
 <div class="quiz-fill-inline" data-answer="has visited">
   <p>
     She <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(visit)</strong> London three times.
@@ -1137,8 +1085,6 @@ She _______________________ (visit) London three times.
 ---
 
 ### Pregunta 56
-We _______________________ (not / finish) our homework yet.
-
 <div class="quiz-fill-inline" data-answer="have not finished,haven't finished,havent finished">
   <p>
     We <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not / finish)</strong> our homework yet.
@@ -1155,8 +1101,6 @@ We _______________________ (not / finish) our homework yet.
 ---
 
 ### Pregunta 57
-My brother _______________________ (lose) his keys again!
-
 <div class="quiz-fill-inline" data-answer="has lost">
   <p>
     My brother <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(lose)</strong> his keys again!
@@ -1173,8 +1117,6 @@ My brother _______________________ (lose) his keys again!
 ---
 
 ### Pregunta 58
-_______________________ you ever _______________________ (be) to Spain?
-
 <div class="quiz-fill-inline" data-answer="Have ... been,Have been">
   <p>
     <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(Have)</strong> you ever <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(be)</strong> to Spain?
@@ -1191,8 +1133,6 @@ _______________________ you ever _______________________ (be) to Spain?
 ---
 
 ### Pregunta 59
-They _______________________ (just / buy) a new car.
-
 <div class="quiz-fill-inline" data-answer="have just bought">
   <p>
     They <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(just / buy)</strong> a new car.
@@ -1209,8 +1149,6 @@ They _______________________ (just / buy) a new car.
 ---
 
 ### Pregunta 60
-John _______________________ (not / call) me this week.
-
 <div class="quiz-fill-inline" data-answer="has not called,hasn't called,hasnt called">
   <p>
     John <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not / call)</strong> me this week.
@@ -1227,8 +1165,6 @@ John _______________________ (not / call) me this week.
 ---
 
 ### Pregunta 61
-How many books _______________________ you _______________________ (read) this year?
-
 <div class="quiz-fill-inline" data-answer="have ... read,have read">
   <p>
     How many books <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> you <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(read)</strong> this year?
@@ -1245,8 +1181,6 @@ How many books _______________________ you _______________________ (read) this y
 ---
 
 ### Pregunta 62
-The children _______________________ (eat) all the cake.
-
 <div class="quiz-fill-inline" data-answer="have eaten">
   <p>
     The children <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(eat)</strong> all the cake.
@@ -1263,8 +1197,6 @@ The children _______________________ (eat) all the cake.
 ---
 
 ### Pregunta 63
-_______________________ she ever _______________________ (see) a dolphin in the wild?
-
 <div class="quiz-fill-inline" data-answer="Has ... seen,Has seen">
   <p>
     <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(Has)</strong> she ever <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(see)</strong> a dolphin in the wild?
@@ -1389,8 +1321,6 @@ I _______ for an hour.
 ---
 
 ### Pregunta 68
-Our friends ________________________ (not exercise) much lately.
-
 <div class="quiz-fill-inline" data-answer="haven't been exercising,have not been exercising,havent been exercising">
   <p>
     Our friends <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not exercise)</strong> much lately.
@@ -1407,8 +1337,6 @@ Our friends ________________________ (not exercise) much lately.
 ---
 
 ### Pregunta 69
-She ________________________ (not study) this last month.
-
 <div class="quiz-fill-inline" data-answer="hasn't been studying,has not been studying,hasnt been studying">
   <p>
     She <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not study)</strong> this last month.
@@ -1425,8 +1353,6 @@ She ________________________ (not study) this last month.
 ---
 
 ### Pregunta 70
-My cut ________________________ (bleed) on and off all afternoon.
-
 <div class="quiz-fill-inline" data-answer="has been bleeding">
   <p>
     My cut <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(bleed)</strong> on and off all afternoon.
@@ -1443,8 +1369,6 @@ My cut ________________________ (bleed) on and off all afternoon.
 ---
 
 ### Pregunta 71
-My brother and I have the flu. We ________________________ (not work) all week.
-
 <div class="quiz-fill-inline" data-answer="haven't been working,have not been working,havent been working">
   <p>
     My brother and I have the flu. We <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not work)</strong> all week.
@@ -1461,8 +1385,6 @@ My brother and I have the flu. We ________________________ (not work) all week.
 ---
 
 ### Pregunta 72
-Since the doctor told me to take lots of fluids, I ________________________ (drink) tea every hour.
-
 <div class="quiz-fill-inline" data-answer="have been drinking">
   <p>
     Since the doctor told me to take lots of fluids, I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(drink)</strong> tea every hour.
@@ -1479,8 +1401,6 @@ Since the doctor told me to take lots of fluids, I ________________________ (dri
 ---
 
 ### Pregunta 73
-Sam and James ________________________ (not watch) TV all day.
-
 <div class="quiz-fill-inline" data-answer="haven't been watching,have not been watching,havent been watching">
   <p>
     Sam and James <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(not watch)</strong> TV all day.
@@ -1497,8 +1417,6 @@ Sam and James ________________________ (not watch) TV all day.
 ---
 
 ### Pregunta 74
-For three years, Charles ________________________ (suffer) from allergies.
-
 <div class="quiz-fill-inline" data-answer="has been suffering">
   <p>
     For three years, Charles <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(suffer)</strong> from allergies.
@@ -1515,8 +1433,6 @@ For three years, Charles ________________________ (suffer) from allergies.
 ---
 
 ### Pregunta 75
-My sister and I ________________________ (practice) alternative medicine for a few years.
-
 <div class="quiz-fill-inline" data-answer="have been practicing">
   <p>
     My sister and I <input type="text" class="quiz-blank-input" placeholder="..." onkeydown="if(event.key==='Enter') checkInlineBlank(this)"> <strong>(practice)</strong> alternative medicine for a few years.
