@@ -689,64 +689,66 @@ Relaciona cada tipología de responsabilidad en prevención de riesgos laborales
 ---
 
 ### Pregunta 9
-Conocer los derechos de los trabajadores comporta saber las obligaciones que los empresarios deben conocer y cumplir. Selecciona en la siguiente lista aquellos enunciados que sean derechos de los trabajadores en materia preventiva *(Four options are correct)*:
+Conocer los derechos de los trabajadores comporta saber las obligaciones que los empresarios deben conocer y cumplir. Los trabajadores pueden exigirlos y en caso de no cumplimiento pueden generarse sanciones importantes.
+
+Selecciona en la siguiente lista aquellos enunciados que sean derechos de los trabajadores en materia preventiva *(Four options are correct)*:
 
 <div class="quiz-multi" data-expected="4">
 <div class="quiz-multi-options">
 <label class="quiz-multi-option correct">
-<span><input type="checkbox" data-opt="A"> A) Vigilancia de la salud mediante reconocimientos médicos periódicos</span>
+<span><input type="checkbox" data-opt="A"> A) Vigilancia de la salud mediante reconocimientos médicos.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✓ ¡Correcta!</div>
-Es un derecho básico regulado en el art. 22 LPRL, que garantiza reconocimientos médicos adaptados al puesto y con carácter voluntario (salvo excepciones tasadas).
+Es un derecho fundamental regulado en el artículo 22 de la Ley de Prevención de Riesgos Laborales (LPRL), garantizando reconocimientos periódicos voluntarios y ajustados a los riesgos del puesto.
 </div>
 </label>
 <label class="quiz-multi-option incorrect">
-<span><input type="checkbox" data-opt="B"> B) No desactivar los dispositivos de seguridad y usarlos correctamente</span>
+<span><input type="checkbox" data-opt="B"> B) No desactivar los dispositivos de seguridad y usarlos correctamente.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✗ Incorrecta</div>
-Es una obligación o deber fundamental del trabajador recogido en el art. 29 LPRL, no un derecho.
+Constituye una obligación legal directa del trabajador contemplada en el artículo 29.2.c de la LPRL, no un derecho exigible al empresario.
 </div>
 </label>
 <label class="quiz-multi-option incorrect">
-<span><input type="checkbox" data-opt="C"> C) Asumir el coste de las medidas de seguridad y salud</span>
+<span><input type="checkbox" data-opt="C"> C) Asumir el coste de las medidas de seguridad y salud.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✗ Incorrecta</div>
-El artículo 14.5 LPRL prohíbe taxativamente que las medidas relativas a la seguridad y salud supongan carga financiera alguna para el trabajador.
+El artículo 14.5 de la LPRL prohíbe expresamente que el coste de las medidas relativas a la seguridad y salud en el trabajo recaiga de cualquier forma sobre los trabajadores.
 </div>
 </label>
 <label class="quiz-multi-option correct">
-<span><input type="checkbox" data-opt="D"> D) Recibir información y formación teórica y práctica en materia preventiva</span>
+<span><input type="checkbox" data-opt="D"> D) Recibir información y formación sobre prevención de riesgos laborales.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✓ ¡Correcta!</div>
-Derecho recogido en los arts. 18 y 19 LPRL: la empresa debe impartir formación suficiente en el momento de la contratación y ante cualquier modificación técnica.
+Derecho recogido en los artículos 18 y 19 de la LPRL, donde el empresario debe garantizar una formación teórica y práctica centrada en el puesto de trabajo.
 </div>
 </label>
 <label class="quiz-multi-option correct">
-<span><input type="checkbox" data-opt="E"> E) Interrumpir su actividad laboral y abandonar el lugar de trabajo en caso de riesgo grave e inminente</span>
+<span><input type="checkbox" data-opt="E"> E) Interrumpir su actividad laboral en caso de riesgo grave e inminente.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✓ ¡Correcta!</div>
-Derecho regulado en el art. 21 LPRL para situaciones en que el trabajador considere que la actividad entraña un riesgo inminente e inevitable para su integridad.
+Amparado por el artículo 21 de la LPRL, facultando al trabajador a paralizar su actividad y abandonar el centro sin ser objeto de sanción cuando la labor entrañe peligro inminente para su vida.
 </div>
 </label>
 <label class="quiz-multi-option correct">
-<span><input type="checkbox" data-opt="F"> F) A que le suministren gratuitamente los equipos de protección individual (EPI) necesarios y adecuados</span>
+<span><input type="checkbox" data-opt="F"> F) A que le suministren los equipos de protección individual (EPI) necesarios y adecuados para el normal desarrollo de su actividad.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✓ ¡Correcta!</div>
-Es un derecho directo del trabajador y una obligación imperativa del empresario según el art. 17 LPRL y el RD 773/1997.
+Es un derecho básico garantizado por el artículo 17 de la LPRL y el Real Decreto 773/1997, siendo obligación exclusiva de la empresa suministrar gratuitamente los EPI pertinentes.
 </div>
 </label>
 <label class="quiz-multi-option incorrect">
-<span><input type="checkbox" data-opt="G"> G) Elaborar el plan de prevención de riesgos laborales</span>
+<span><input type="checkbox" data-opt="G"> G) Elaborar el plan de prevención.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✗ Incorrecta</div>
-La elaboración y aprobación del plan de prevención es una obligación indelegable del empresario (art. 16 LPRL).
+La elaboración e implantación del plan de prevención es una obligación legal indelegable del empresario (artículo 16 de la LPRL).
 </div>
 </label>
 <label class="quiz-multi-option incorrect">
-<span><input type="checkbox" data-opt="H"> H) Planificar la acción preventiva y la evaluación de riesgos laborales</span>
+<span><input type="checkbox" data-opt="H"> H) Planificar la acción preventiva y la evaluación de riesgos laborales.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✗ Incorrecta</div>
-Corresponde a la dirección empresarial y al servicio de prevención correspondiente, constituyendo una obligación legal.
+Es una responsabilidad técnico-organizativa atribuida por ley a la dirección empresarial y al servicio de prevención correspondiente.
 </div>
 </label>
 </div>
