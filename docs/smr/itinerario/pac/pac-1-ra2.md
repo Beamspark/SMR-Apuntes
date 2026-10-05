@@ -691,7 +691,7 @@ Relaciona cada tipología de responsabilidad en prevención de riesgos laborales
 ### Pregunta 9
 Conocer los derechos de los trabajadores comporta saber las obligaciones que los empresarios deben conocer y cumplir. Los trabajadores pueden exigirlos y en caso de no cumplimiento pueden generarse sanciones importantes.
 
-Selecciona en la siguiente lista aquellos enunciados que sean derechos de los trabajadores en materia preventiva *(Four options are correct)*:
+Selecciona en la siguiente lista aquellos enunciados que sean derechos de los trabajadores en materia preventiva. *(Four options are correct)*
 
 <div class="quiz-multi" data-expected="4">
 <div class="quiz-multi-options">
@@ -699,56 +699,56 @@ Selecciona en la siguiente lista aquellos enunciados que sean derechos de los tr
 <span><input type="checkbox" data-opt="A"> A) Vigilancia de la salud mediante reconocimientos médicos.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✓ ¡Correcta!</div>
-Es un derecho fundamental regulado en el artículo 22 de la Ley de Prevención de Riesgos Laborales (LPRL), garantizando reconocimientos periódicos voluntarios y ajustados a los riesgos del puesto.
+Es un derecho fundamental del trabajador reconocido en el artículo 22 de la Ley de Prevención de Riesgos Laborales (LPRL), garantizando reconocimientos periódicos adecuados a los riesgos y con carácter habitualmente voluntario.
 </div>
 </label>
 <label class="quiz-multi-option incorrect">
 <span><input type="checkbox" data-opt="B"> B) No desactivar los dispositivos de seguridad y usarlos correctamente.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✗ Incorrecta</div>
-Constituye una obligación legal directa del trabajador contemplada en el artículo 29.2.c de la LPRL, no un derecho exigible al empresario.
+Constituye una obligación o deber expreso del trabajador según el artículo 29.2.c de la LPRL, no un derecho.
 </div>
 </label>
 <label class="quiz-multi-option incorrect">
 <span><input type="checkbox" data-opt="C"> C) Asumir el coste de las medidas de seguridad y salud.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✗ Incorrecta</div>
-El artículo 14.5 de la LPRL prohíbe expresamente que el coste de las medidas relativas a la seguridad y salud en el trabajo recaiga de cualquier forma sobre los trabajadores.
+El artículo 14.5 de la LPRL establece con total claridad que las medidas de seguridad y salud no deberán implicar en ningún caso un coste económico para los trabajadores.
 </div>
 </label>
 <label class="quiz-multi-option correct">
 <span><input type="checkbox" data-opt="D"> D) Recibir información y formación sobre prevención de riesgos laborales.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✓ ¡Correcta!</div>
-Derecho recogido en los artículos 18 y 19 de la LPRL, donde el empresario debe garantizar una formación teórica y práctica centrada en el puesto de trabajo.
+Regulado en los artículos 18 y 19 de la LPRL como un derecho irrenunciable: el empresario debe garantizar una formación teórica y práctica centrada en el puesto de trabajo.
 </div>
 </label>
 <label class="quiz-multi-option correct">
 <span><input type="checkbox" data-opt="E"> E) Interrumpir su actividad laboral en caso de riesgo grave e inminente.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✓ ¡Correcta!</div>
-Amparado por el artículo 21 de la LPRL, facultando al trabajador a paralizar su actividad y abandonar el centro sin ser objeto de sanción cuando la labor entrañe peligro inminente para su vida.
+Amparado por el artículo 21 de la LPRL, facultando al trabajador a interrumpir su labor e incluso abandonar el centro de trabajo sin sufrir represalia alguna si concurre un riesgo inminente para su vida o salud.
 </div>
 </label>
 <label class="quiz-multi-option correct">
 <span><input type="checkbox" data-opt="F"> F) A que le suministren los equipos de protección individual (EPI) necesarios y adecuados para el normal desarrollo de su actividad.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✓ ¡Correcta!</div>
-Es un derecho básico garantizado por el artículo 17 de la LPRL y el Real Decreto 773/1997, siendo obligación exclusiva de la empresa suministrar gratuitamente los EPI pertinentes.
+Es un derecho directo derivado de la obligación patronal (artículo 17 de la LPRL y Real Decreto 773/1997) de proporcionar gratuitamente los EPI necesarios para el puesto.
 </div>
 </label>
 <label class="quiz-multi-option incorrect">
 <span><input type="checkbox" data-opt="G"> G) Elaborar el plan de prevención.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✗ Incorrecta</div>
-La elaboración e implantación del plan de prevención es una obligación legal indelegable del empresario (artículo 16 de la LPRL).
+La elaboración e implantación del plan de prevención es una obligación indelegable del empresario (artículo 16 de la LPRL).
 </div>
 </label>
 <label class="quiz-multi-option incorrect">
 <span><input type="checkbox" data-opt="H"> H) Planificar la acción preventiva y la evaluación de riesgos laborales.</span>
 <div class="feedback" style="display: none;">
 <div class="feedback-title">✗ Incorrecta</div>
-Es una responsabilidad técnico-organizativa atribuida por ley a la dirección empresarial y al servicio de prevención correspondiente.
+Es una obligación técnica atribuida por ley a la dirección empresarial y al servicio de prevención correspondiente.
 </div>
 </label>
 </div>
