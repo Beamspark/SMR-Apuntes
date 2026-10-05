@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="100%" max-width="760" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <rect width="760" height="300" fill="#f8fafc" rx="8" stroke="#cbd5e1" stroke-width="1"/>
+  <!-- Cabecera Consecuencias -->
+  <rect x="240" y="20" width="500" height="40" fill="#00838f" rx="4"/>
+  <text x="490" y="45" fill="#ffffff" font-size="16" font-weight="bold" text-anchor="middle">Consecuencias</text>
+  <!-- Subcabeceras Consecuencias -->
+  <rect x="240" y="65" width="160" height="45" fill="#26a69a" rx="3"/>
+  <text x="320" y="93" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">Ligeramente perjudicial</text>
+  <rect x="410" y="65" width="160" height="45" fill="#26a69a" rx="3"/>
+  <text x="490" y="93" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">Perjudicial</text>
+  <rect x="580" y="65" width="160" height="45" fill="#26a69a" rx="3"/>
+  <text x="660" y="85" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">Extremadamente</text>
+  <text x="660" y="101" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">perjudicial</text>
+  <!-- Cabecera Probabilidad lateral -->
+  <rect x="20" y="115" width="110" height="165" fill="#00838f" rx="4"/>
+  <text x="75" y="202" fill="#ffffff" font-size="16" font-weight="bold" text-anchor="middle">Probabilidad</text>
+  <!-- Filas Probabilidad -->
+  <rect x="140" y="115" width="90" height="50" fill="#e0f2f1" stroke="#80cbc4" rx="3"/>
+  <text x="185" y="145" fill="#004d40" font-size="14" font-weight="bold" text-anchor="middle">Baja</text>
+  <rect x="140" y="172" width="90" height="50" fill="#e0f2f1" stroke="#80cbc4" rx="3"/>
+  <text x="185" y="202" fill="#004d40" font-size="14" font-weight="bold" text-anchor="middle">Media</text>
+  <rect x="140" y="230" width="90" height="50" fill="#e0f2f1" stroke="#80cbc4" rx="3"/>
+  <text x="185" y="260" fill="#004d40" font-size="14" font-weight="bold" text-anchor="middle">Alta</text>
+  <!-- Celdas Fila 1 (Baja) -->
+  <rect x="240" y="115" width="160" height="50" fill="#fff9c4" stroke="#fbc02d" stroke-width="2" stroke-dasharray="5 3" rx="3"/>
+  <text x="320" y="145" fill="#e65100" font-size="14" font-weight="bold" text-anchor="middle">Celda 1</text>
+  <rect x="410" y="115" width="160" height="50" fill="#f1f5f9" stroke="#cbd5e1" rx="3"/>
+  <text x="490" y="145" fill="#334155" font-size="13" font-weight="500" text-anchor="middle">Riesgo tolerable</text>
+  <rect x="580" y="115" width="160" height="50" fill="#f1f5f9" stroke="#cbd5e1" rx="3"/>
+  <text x="660" y="145" fill="#334155" font-size="13" font-weight="500" text-anchor="middle">Riesgo moderado</text>
+  <!-- Celdas Fila 2 (Media) -->
+  <rect x="240" y="172" width="160" height="50" fill="#f1f5f9" stroke="#cbd5e1" rx="3"/>
+  <text x="320" y="202" fill="#334155" font-size="13" font-weight="500" text-anchor="middle">Riesgo tolerable</text>
+  <rect x="410" y="172" width="160" height="50" fill="#f1f5f9" stroke="#cbd5e1" rx="3"/>
+  <text x="490" y="202" fill="#334155" font-size="13" font-weight="500" text-anchor="middle">Riesgo moderado</text>
+  <rect x="580" y="172" width="160" height="50" fill="#f1f5f9" stroke="#cbd5e1" rx="3"/>
+  <text x="660" y="202" fill="#334155" font-size="13" font-weight="500" text-anchor="middle">Riesgo importante</text>
+  <!-- Celdas Fila 3 (Alta) -->
+  <rect x="240" y="230" width="160" height="50" fill="#f1f5f9" stroke="#cbd5e1" rx="3"/>
+  <text x="320" y="260" fill="#334155" font-size="13" font-weight="500" text-anchor="middle">Riesgo moderado</text>
+  <rect x="410" y="230" width="160" height="50" fill="#fff9c4" stroke="#fbc02d" stroke-width="2" stroke-dasharray="5 3" rx="3"/>
+  <text x="490" y="260" fill="#e65100" font-size="14" font-weight="bold" text-anchor="middle">Celda 2</text>
+  <rect x="580" y="230" width="160" height="50" fill="#fff9c4" stroke="#fbc02d" stroke-width="2" stroke-dasharray="5 3" rx="3"/>
+  <text x="660" y="260" fill="#c62828" font-size="14" font-weight="bold" text-anchor="middle">Celda 3</text>
+</svg>
