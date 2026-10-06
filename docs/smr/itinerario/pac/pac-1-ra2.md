@@ -691,7 +691,7 @@ Relaciona cada tipología de responsabilidad en prevención de riesgos laborales
 ### Pregunta 9
 Conocer los derechos de los trabajadores comporta saber las obligaciones que los empresarios deben conocer y cumplir. Los trabajadores pueden exigirlos y en caso de no cumplimiento pueden generarse sanciones importantes.
 
-Selecciona en la siguiente lista aquellos enunciados que sean derechos de los trabajadores en materia preventiva. *(Four options are correct)*
+Selecciona en la siguiente lista aquellos enunciados que sean derechos de los trabajadores en materia preventiva.
 
 <div class="quiz-multi" data-expected="4">
 <div class="quiz-multi-options">
