@@ -108,10 +108,16 @@ nav:
               - 🎯 Examen Global 2: smr/sistemas/test/examen-global-2.md
           - "📋 Pruebas de Evaluación (PAC)":
               - Índice de PAC: smr/sistemas/pac/index.md
-              - PAC 1 (RA1) - Caracterización de sistemas operativos: smr/sistemas/pac/pac-1-ra1.md
+              - PAC 1 (RA1) - Caracterización de los sistemas operativos, tipos y aplicaciones: smr/sistemas/pac/pac-1-ra1.md
               - PAC 2 (RA1) - Sistemas de numeración: smr/sistemas/pac/pac-2-ra1.md
-              - PAC 1 (RA5) - Virtualización y arquitecturas: smr/sistemas/pac/pac-1-ra5.md
-              - PAC 2 (RA5) - Instalación en máquinas virtuales: smr/sistemas/pac/pac-2-ra5.md
+              - PAC 1 (RA2) - Instalación de sistemas operativos: smr/sistemas/pac/pac-1-ra2.md
+              - PAC 2 (RA2) - Instalación y despliegue de sistemas operativos (D): smr/sistemas/pac/pac-2-ra2.md
+              - PAC 1 (RA3) - Tareas básicas de configuración y mantenimiento: smr/sistemas/pac/pac-1-ra3.md
+              - PAC 2 (RA3) - Configuración y mantenimiento del sistema (D): smr/sistemas/pac/pac-2-ra3.md
+              - PAC 1 (RA4) - Administración de sistemas operativos propietarios: smr/sistemas/pac/pac-1-ra4.md
+              - PAC 2 (RA4) - Administración de sistemas operativos libres: smr/sistemas/pac/pac-2-ra4.md
+              - PAC 1 (RA5) - Virtualización: smr/sistemas/pac/pac-1-ra5.md
+              - PAC 2 (RA5) - Instalación de SO en máquinas virtuales: smr/sistemas/pac/pac-2-ra5.md
 
       - 📑 Aplicaciones Ofimáticas:
           - smr/ofimatica/index.md
