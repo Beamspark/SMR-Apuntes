@@ -4,7 +4,7 @@
 
 <figure markdown="span" style="margin: 1.5em 0; text-align: center;">
   <audio controls preload="metadata" style="width: 100%; max-width: 550px;">
-    <source src="../../audio/ingles/listening-1.mp3" type="audio/mpeg">
+    <source src="../../../audio/ingles/listening-1.mp3" type="audio/mpeg">
     Tu navegador no soporta el elemento de audio.
   </audio>
   <figcaption>Audio 1: Listening comprehension</figcaption>
