@@ -18,9 +18,9 @@ Este espacio recopila los cuestionarios técnicos tipo test y las entregas prác
 | **PAC 1 (RA2)** | RA2: Procesadores de texto I | Test | [Acceder a PAC 1 (RA2)](pac-1-ra2.md) |
 | **PAC 2 (RA2)** | RA2: Procesadores de texto II | Test | [Acceder a PAC 2 (RA2)](pac-2-ra2.md) |
 | **PAC 1 (RA3)** | RA3: Hojas de Cálculo I | Test | [Acceder a PAC 1 (RA3)](pac-1-ra3.md) |
-| **PAC 2 (RA3)** | RA3: Hojas de cálculo y plantillas financieras | Desarrollo (D) | [Acceder a PAC 2 (RA3)](pac-2-ra3-desarrollo.md) |
+| **PAC 2 (RA3)** | RA3: Hojas de cálculo y plantillas financieras | Desarrollo (D) | [Acceder a PAC 2 (RA3)](pac-2-ra3.md) |
 | **PAC 1 (RA4)** | RA4: Bases de datos I | Test | [Acceder a PAC 1 (RA4)](pac-1-ra4.md) |
-| **PAC 2 (RA4)** | RA4: Bases de datos y aplicaciones no-code | Desarrollo (D) | [Acceder a PAC 2 (RA4)](pac-2-ra4-desarrollo.md) |
+| **PAC 2 (RA4)** | RA4: Bases de datos y aplicaciones no-code | Desarrollo (D) | [Acceder a PAC 2 (RA4)](pac-2-ra4.md) |
 | **PAC 1 (RA5)** | RA5: Edición de Imagen I | Test | [Acceder a PAC 1 (RA5)](pac-1-ra5.md) |
 | **PAC 2 (RA5)** | RA5: Edición de Imagen II | Test | [Acceder a PAC 2 (RA5)](pac-2-ra5.md) |
 | **PAC 1 (RA6)** | RA6: Edición de Vídeo I | Test | [Acceder a PAC 1 (RA6)](pac-1-ra6.md) |
