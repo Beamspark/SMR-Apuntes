@@ -16,10 +16,10 @@ Este espacio reúne los bancos de preguntas tipo test, justificaciones del marco
 | **PAC 1 (RA1)** | RA1: Oportunidades de empleo e inserción laboral | Test | [Acceder a PAC 1 (RA1)](pac-1-ra1.md) |
 | **PAC 2 (RA1)** | RA1: Actitudes y aptitudes | Test | [Acceder a PAC 2 (RA1)](pac-2-ra1.md) |
 | **PAC 1 (RA2)** | RA2: El trabajo y la salud | Test | [Acceder a PAC 1 (RA2)](pac-1-ra2.md) |
-| **PAC 2 (RA2)** | RA2: Prevención de riesgos laborales | Desarrollo (D) | [Acceder a PAC 2 (RA2)](pac-2-ra2-desarrollo.md) |
+| **PAC 2 (RA2)** | RA2: Prevención de riesgos laborales | Desarrollo (D) | [Acceder a PAC 2 (RA2)](pac-2-ra2.md) |
 | **PAC 3 (RA2)** | RA2: Prevención de riesgos laborales | Test | [Acceder a PAC 3 (RA2)](pac-3-ra2.md) |
 | **PAC 1 (RA3)** | RA3: El derecho laboral | Test | [Acceder a PAC 1 (RA3)](pac-1-ra3.md) |
-| **PAC 2 (RA3)** | RA3: Condiciones y derechos laborales | Desarrollo (D) | [Acceder a PAC 2 (RA3)](pac-2-ra3-desarrollo.md) |
+| **PAC 2 (RA3)** | RA3: Condiciones y derechos laborales | Desarrollo (D) | [Acceder a PAC 2 (RA3)](pac-2-ra3.md) |
 | **PAC 1 (RA4)** | RA4: Autoorientación y planificación laboral I | Test | [Acceder a PAC 1 (RA4)](pac-1-ra4.md) |
 | **PAC 2 (RA4)** | RA4: Autoorientación y planificación laboral II | Test | [Acceder a PAC 2 (RA4)](pac-2-ra4.md) |
 | **PAC 1 (RA5)** | RA5: Estrategias de aprendizaje autónomo | Test | [Acceder a PAC 1 (RA5)](pac-1-ra5.md) |
