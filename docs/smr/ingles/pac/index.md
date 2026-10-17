@@ -18,9 +18,9 @@ Este espacio recopila los cuestionarios técnicos de gramática y vocabulario ap
 | **PAC 1 (RA2)** | RA2: Relative clauses, Question tags and Passive voice | Test | [Acceder a PAC 1 (RA2)](pac-1-ra2.md) |
 | **PAC 2 (RA2)** | RA2: Reading Comprehension | Lectura / Test | [Acceder a PAC 2 (RA2)](pac-2-ra2.md) |
 | **PAC 1 (RA3)** | RA3: Conditionals, Connectors and Prepositions | Test | [Acceder a PAC 1 (RA3)](pac-1-ra3.md) |
-| **PAC 2 (RA3)** | RA3: Speaking Task | Expresión Oral (D) | [Acceder a PAC 2 (RA3)](pac-2-ra3-desarrollo.md) |
+| **PAC 2 (RA3)** | RA3: Speaking Task | Expresión Oral (D) | [Acceder a PAC 2 (RA3)](pac-2-ra3.md) |
 | **PAC 1 (RA4)** | RA4: Future tense, Modal verbs and Intensifiers | Test | [Acceder a PAC 1 (RA4)](pac-1-ra4.md) |
-| **PAC 2 (RA4)** | RA4: Technical Writing Task | Redacción (D) | [Acceder a PAC 2 (RA4)](pac-2-ra4-desarrollo.md) |
+| **PAC 2 (RA4)** | RA4: Technical Writing Task | Redacción (D) | [Acceder a PAC 2 (RA4)](pac-2-ra4.md) |
 | **PAC 1 (RA5)** | RA5: Reported speech | Test | [Acceder a PAC 1 (RA5)](pac-1-ra5.md) |
 | **PAC 2 (RA5)** | RA5: Cultural and Business Etiquette | Test | [Acceder a PAC 2 (RA5)](pac-2-ra5.md) |
 
