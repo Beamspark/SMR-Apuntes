@@ -76,7 +76,7 @@ nav:
               - PAC 1 (RA2) - Montaje e Instalación I: smr/montaje/pac/pac-1-ra2.md
               - PAC 2 (RA2) - Montaje e Instalación II: smr/montaje/pac/pac-2-ra2-desarrollo.md
               - PAC 1 (RA3) - Medición de parámetros eléctricos (Test): smr/montaje/pac/pac-1-ra3.md
-              - PAC 2 (RA3) - Medición de parámetros eléctricos (Desarrollo): smr/montaje/pac/pac-2-ra3-desarrollo.md
+              - PAC 2 (RA3) - Medición de parámetros eléctricos (Desarrollo): smr/montaje/pac/pac-2-ra3.md
               - PAC 1 (RA4) - Mantenimiento de equipos I: smr/montaje/pac/pac-1-ra4.md
               - PAC 2 (RA4) - Mantenimiento de equipos II: smr/montaje/pac/pac-2-ra4.md
               - PAC 1 (RA5) - Instalaciones I: smr/montaje/pac/pac-1-ra5.md
@@ -146,9 +146,9 @@ nav:
               - PAC 1 (RA2) - Procesadores de texto I: smr/ofimatica/pac/pac-1-ra2.md
               - PAC 2 (RA2) - Procesadores de texto II: smr/ofimatica/pac/pac-2-ra2.md
               - PAC 1 (RA3) - Hojas de Cálculo I: smr/ofimatica/pac/pac-1-ra3.md
-              - PAC 2 (RA3) - Hojas de cálculo y plantillas: smr/ofimatica/pac/pac-2-ra3-desarrollo.md
+              - PAC 2 (RA3) - Hojas de cálculo y plantillas: smr/ofimatica/pac/pac-2-ra3.md
               - PAC 1 (RA4) - Bases de datos I: smr/ofimatica/pac/pac-1-ra4.md
-              - PAC 2 (RA4) - Bases de datos y no-code: smr/ofimatica/pac/pac-2-ra4-desarrollo.md
+              - PAC 2 (RA4) - Bases de datos y no-code: smr/ofimatica/pac/pac-2-ra4.md
               - PAC 1 (RA5) - Edición de Imagen I: smr/ofimatica/pac/pac-1-ra5.md
               - PAC 2 (RA5) - Edición de Imagen II: smr/ofimatica/pac/pac-2-ra5.md
               - PAC 1 (RA6) - Edición de Vídeo I: smr/ofimatica/pac/pac-1-ra6.md
@@ -183,10 +183,10 @@ nav:
               - PAC 1 (RA1) - Economía Lineal vs. Circular I: smr/digitalizacion/pac/pac-1-ra1.md
               - PAC 2 (RA1) - Economía Lineal vs. Circular II: smr/digitalizacion/pac/pac-2-ra1.md
               - PAC 1 (RA2) - Cuarta Rev. Ind. (Clientes y Empresa I): smr/digitalizacion/pac/pac-1-ra2.md
-              - PAC 2 (RA2) - Cuarta Rev. Ind. (Industria 4.0): smr/digitalizacion/pac/pac-2-ra2-desarrollo.md
+              - PAC 2 (RA2) - Cuarta Rev. Ind. (Industria 4.0): smr/digitalizacion/pac/pac-2-ra2.md
               - PAC 1 (RA3) - Cloud y sistemas conectados I: smr/digitalizacion/pac/pac-1-ra3.md
               - PAC 2 (RA3) - Cloud y sistemas conectados II: smr/digitalizacion/pac/pac-2-ra3.md
-              - PAC 1 (RA4) - Sistemas productivos I: smr/digitalizacion/pac/pac-1-ra4-desarrollo.md
+              - PAC 1 (RA4) - Sistemas productivos I: smr/digitalizacion/pac/pac-1-ra4.md
               - PAC 2 (RA4) - Sistemas productivos II: smr/digitalizacion/pac/pac-2-ra4.md
               - PAC 1 (RA5) - Planes de transformación digital I: smr/digitalizacion/pac/pac-1-ra5.md
               - PAC 2 (RA5) - Planes de transformación digital II: smr/digitalizacion/pac/pac-2-ra5.md
@@ -214,10 +214,10 @@ nav:
               - PAC 1 (RA1) - Oportunidades e inserción: smr/itinerario/pac/pac-1-ra1.md
               - PAC 2 (RA1) - Actitudes y aptitudes: smr/itinerario/pac/pac-2-ra1.md
               - PAC 1 (RA2) - El trabajo y la salud: smr/itinerario/pac/pac-1-ra2.md
-              - PAC 2 (RA2) - Prevención de riesgos laborales (D): smr/itinerario/pac/pac-2-ra2-desarrollo.md
+              - PAC 2 (RA2) - Prevención de riesgos laborales (D): smr/itinerario/pac/pac-2-ra2.md
               - PAC 3 (RA2) - Prevención de riesgos laborales: smr/itinerario/pac/pac-3-ra2.md
               - PAC 1 (RA3) - El derecho laboral: smr/itinerario/pac/pac-1-ra3.md
-              - PAC 2 (RA3) - Condiciones y derechos laborales: smr/itinerario/pac/pac-2-ra3-desarrollo.md
+              - PAC 2 (RA3) - Condiciones y derechos laborales: smr/itinerario/pac/pac-2-ra3.md
               - PAC 1 (RA4) - Autoorientación y planificación I: smr/itinerario/pac/pac-1-ra4.md
               - PAC 2 (RA4) - Autoorientación y planificación II: smr/itinerario/pac/pac-2-ra4.md
               - PAC 1 (RA5) - Estrategias de aprendizaje autónomo: smr/itinerario/pac/pac-1-ra5.md
@@ -258,8 +258,8 @@ nav:
               - PAC 1 (RA2) - Relative clauses & Passive voice: smr/ingles/pac/pac-1-ra2.md
               - PAC 2 (RA2) - Reading Comprehension: smr/ingles/pac/pac-2-ra2.md
               - PAC 1 (RA3) - Conditionals & Prepositions: smr/ingles/pac/pac-1-ra3.md
-              - PAC 2 (RA3) - Speaking Task: smr/ingles/pac/pac-2-ra3-desarrollo.md
+              - PAC 2 (RA3) - Speaking Task: smr/ingles/pac/pac-2-ra3.md
               - PAC 1 (RA4) - Future tense & Modal verbs: smr/ingles/pac/pac-1-ra4.md
-              - PAC 2 (RA4) - Technical Writing Task: smr/ingles/pac/pac-2-ra4-desarrollo.md
+              - PAC 2 (RA4) - Technical Writing Task: smr/ingles/pac/pac-2-ra4.md
               - PAC 1 (RA5) - Reported speech: smr/ingles/pac/pac-1-ra5.md
               - PAC 2 (RA5) - Cultural & Business Etiquette: smr/ingles/pac/pac-2-ra5.md
