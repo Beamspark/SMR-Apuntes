@@ -6,7 +6,7 @@
 Utiliza la siguiente hoja de cálculo de calificaciones y parámetros de la asignatura de Matemáticas para responder a las preguntas de esta actividad:
 
 <figure markdown="span" style="margin: 1.5em 0; text-align: center;">
-  <img src="../../../img/ofimatica/pac/pac-excel.png" alt="Hoja de cálculo de calificaciones - Matemáticas" style="width: 100%; max-width: 950px; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+  ![Hoja de cálculo de calificaciones - Matemáticas](../../img/ofimatica/pac/pac-excel.png){ style="width: 100%; max-width: 950px; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" }
   <figcaption>Registro de calificaciones, ponderaciones y funciones de búsqueda</figcaption>
 </figure>
 
