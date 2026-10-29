@@ -1,0 +1,41 @@
+<svg viewBox="0 0 520 220" width="520" height="220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo para modo oscuro/claro -->
+  <rect width="100%" height="100%" fill="#1e1e24" rx="8" />
+  
+  <!-- Cableado principal -->
+  <line x1="60" y1="50" x2="430" y2="50" stroke="#4fc3f7" stroke-width="2" />
+  <line x1="60" y1="170" x2="430" y2="170" stroke="#4fc3f7" stroke-width="2" />
+  <line x1="60" y1="50" x2="60" y2="95" stroke="#4fc3f7" stroke-width="2" />
+  <line x1="60" y1="125" x2="60" y2="170" stroke="#4fc3f7" stroke-width="2" />
+  
+  <!-- Fuente DC (1) -->
+  <line x1="45" y1="95" x2="75" y2="95" stroke="#ffffff" stroke-width="3" />
+  <line x1="52" y1="105" x2="68" y2="105" stroke="#ffffff" stroke-width="2" />
+  <line x1="45" y1="115" x2="75" y2="115" stroke="#ffffff" stroke-width="3" />
+  <line x1="52" y1="125" x2="68" y2="125" stroke="#ffffff" stroke-width="2" />
+  <text x="30" y="90" fill="#ef5350" font-size="14" font-weight="bold" font-family="sans-serif">+</text>
+  <text x="32" y="135" fill="#4fc3f7" font-size="16" font-weight="bold" font-family="sans-serif">-</text>
+  <text x="12" y="115" fill="#ffffff" font-size="12" font-family="sans-serif">V=12V</text>
+  <circle cx="85" cy="85" r="9" fill="#ab47bc" />
+  <text x="82" y="89" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif">1</text>
+
+  <!-- Rama 1: Resistencia R1 (2) -->
+  <line x1="260" y1="50" x2="260" y2="85" stroke="#4fc3f7" stroke-width="2" />
+  <rect x="248" y="85" width="24" height="50" fill="#2a2b36" stroke="#ffa726" stroke-width="2" />
+  <line x1="260" y1="135" x2="260" y2="170" stroke="#4fc3f7" stroke-width="2" />
+  <text x="280" y="115" fill="#ffa726" font-size="13" font-family="sans-serif">R₁ = 60 Ω</text>
+  <circle cx="282" cy="92" r="9" fill="#ab47bc" />
+  <text x="279" y="96" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif">2</text>
+
+  <!-- Rama 2: Resistencia R2 (3) -->
+  <line x1="430" y1="50" x2="430" y2="85" stroke="#4fc3f7" stroke-width="2" />
+  <rect x="418" y="85" width="24" height="50" fill="#2a2b36" stroke="#ffa726" stroke-width="2" />
+  <line x1="430" y1="135" x2="430" y2="170" stroke="#4fc3f7" stroke-width="2" />
+  <text x="340" y="115" fill="#ffa726" font-size="13" font-family="sans-serif">R₂ = 120 Ω</text>
+  <circle cx="450" cy="92" r="9" fill="#ab47bc" />
+  <text x="447" y="96" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif">3</text>
+  
+  <!-- Nodos -->
+  <circle cx="260" cy="50" r="3.5" fill="#4fc3f7" />
+  <circle cx="260" cy="170" r="3.5" fill="#4fc3f7" />
+</svg>
