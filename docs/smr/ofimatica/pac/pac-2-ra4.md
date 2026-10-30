@@ -5,7 +5,7 @@
 # PAC 2 (RA4) - Gestión de Alumnos y Calificaciones con AppSheet
 **PAC de desarrollo (D) | Aplicaciones Ofimáticas**
 
-[:octicons-file-pdf-24: Descargar Memoria Oficial en PDF](./assets/GonzalezMartinez_LuisAlejandro_Practica_AppSheet.pdf){ .md-button .md-button--primary target="_blank" }
+[:octicons-file-pdf-24: Descargar Memoria Oficial en PDF](./GonzalezMartinez_LuisAlejandro_Practica_AppSheet.pdf){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -26,4 +26,4 @@
 
 ### Memoria completa en PDF
 
-<iframe src="./assets/GonzalezMartinez_LuisAlejandro_Practica_AppSheet.pdf" width="100%" height="900px" style="border: 1px solid #444; border-radius: 6px;"></iframe>
+<iframe src="./GonzalezMartinez_LuisAlejandro_Practica_AppSheet.pdf" width="100%" height="900px" style="border: 1px solid #444; border-radius: 6px;"></iframe>
