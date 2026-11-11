@@ -19,14 +19,15 @@ Sistema integral de gestión de incidencias de Servicio Técnico (SAT) multidepa
 
 ---
 
-### [Price Comparison Agent](https://github.com/Beamspark/price-comparison-agent)
-Agente automatizado para monitorización continua y comparación de precios en distribuidores comerciales locales del sector de herramientas y suministros.
+### [Price Comparison Agent & AI Surveillance Engine](https://github.com/Beamspark/price-comparison-agent)
+Motor autónomo de vigilancia de precios y análisis de competitividad en tiempo real entre distribuidores del sector técnico y construcción (Obramat Murcia-Churra, Leroy Merlin Murcia Sur, Bauhaus Alfafar).
 
 * **Arquitectura y funcionamiento:**
-    * Navegación emulada mediante navegador headless/controlado para interactuar con interfaces complejas.
-    * Extracción, saneamiento y estructuración de tarifas en tiempo real.
-    * Generación de históricos comparativos para optimizar la toma de decisiones comerciales.
-* **Stack tecnológico:** Python, Playwright / CDP, automatización web.
+    * **Evasión perimetral de WAF (CDP):** Conexión de Playwright mediante Chrome DevTools Protocol (`--remote-debugging-port=9222`) sobre una instancia nativa de Chrome. Hereda huella de hardware real, perfiles locales y geolocalización de almacén, eliminando bloqueos por Cloudflare o DataDome.
+    * **Homologación semántica con Google Gemini API:** Normalización cognitiva de fichas técnicas para resolver asimetrías comerciales de catálogo (`HOMOLOGADO_DIRECTO`, `HOMOLOGADO_CON_DIFERENCIAS` o descarte inmediato) según motorización, litrajes y accesorios.
+    * **Integridad de datos (Zero-Fallback):** Política estricta de cero datos fósiles (sin arrastre de precios antiguos ante roturas de stock) y selectores defensivos contra precios tachados en contenedores ADEO (*ZONE_OFFRE*) y tipografías Tailwind con superíndices.
+    * **Reporting ejecutivo:** Cálculo de desviaciones frente al precio suelo del almacén y despacho de alertas automáticas maquetadas en HTML dirigidas a Jefatura de Sector.
+* **Stack tecnológico:** Python, Playwright (CDP over Chrome Local), Google Gemini API, Regex, HTML/CSS.
 * **Código fuente:** [Ver repositorio en GitHub ➔](https://github.com/Beamspark/price-comparison-agent)
 
 ---
