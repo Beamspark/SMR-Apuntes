@@ -51,6 +51,7 @@ Herramientas, scripts de automatización y agentes desarrollados para resolver c
 - **Price Comparison Agent:** Agente automatizado en Python con navegador controlado para comparar precios de herramientas en distribuidores locales. [Ver repositorio ➔](https://github.com/Beamspark/price-comparison-agent)
 
 - **Java Programming Exercises:** Soluciones y notas de algoritmia y POO del MOOC de la Universidad de Helsinki. [Ver repositorio ➔](https://github.com/Beamspark/java-programming-mooc)
+
 ---
 
 !!! tip "Navegación del sitio"
