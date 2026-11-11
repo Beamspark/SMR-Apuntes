@@ -273,7 +273,7 @@ nav:
               - PAC 2 (RA5) - Cultural & Business Etiquette: smr/ingles/pac/pac-2-ra5.md
 
   # Pestaña 2: Autoaprendizaje y Fundamentos de Programación
-  - ☕ Autoaprendizaje (Java):
+  - ☕ Autoaprendizaje:
       - "Ruta Java (Helsinki MOOC)": autoaprendizaje/java.md
       - "Código en GitHub": https://github.com/Beamspark/java-programming-mooc
 
