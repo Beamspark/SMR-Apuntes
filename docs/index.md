@@ -46,9 +46,11 @@ Ruta técnica autodidacta sobre fundamentos de programación y Programación Ori
 ### 🛠️ [Portfolio de Proyectos Prácticos](proyectos/index.md)
 Herramientas, scripts de automatización y agentes desarrollados para resolver casos de uso reales:
 
-- **Price Comparison Agent:** Agente automatizado en Python con navegador controlado para comparar precios de herramientas en distribuidores locales. [Ver repositorio ➔](https://github.com/Beamspark/price-comparison-agent)
-- **Java Programming Exercises:** Soluciones y notas de algoritmia y POO del MOOC de Helsinki. [Ver repositorio ➔](https://github.com/Beamspark/java-programming-mooc)
+- **SAT Workflow Automation:** Sistema integral en Apps Script y JavaScript/HTML5 para la gestión, enrutado multidepartamental, trazabilidad de estados y notificaciones automáticas de partes SAT en retail. [Ver repositorio ➔](https://github.com/Beamspark/sat-workflow-automation)
 
+- **Price Comparison Agent:** Agente automatizado en Python con navegador controlado para comparar precios de herramientas en distribuidores locales. [Ver repositorio ➔](https://github.com/Beamspark/price-comparison-agent)
+
+- **Java Programming Exercises:** Soluciones y notas de algoritmia y POO del MOOC de la Universidad de Helsinki. [Ver repositorio ➔](https://github.com/Beamspark/java-programming-mooc)
 ---
 
 !!! tip "Navegación del sitio"
