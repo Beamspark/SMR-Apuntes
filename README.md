@@ -1,2 +1,2 @@
-# CFGM SMR-Apuntes
-Apuntes y documentación técnica del ciclo formativo de grado medio de Sistemas Microinformáticos y Redes (SMR).
+# Cuaderno técnico.
+Base de conocimiento y documentación técnica: FP Informática (SMR, DAM), desarrollo de software y proyectos.
