@@ -272,12 +272,8 @@ nav:
               - PAC 1 (RA5) - Reported speech: smr/ingles/pac/pac-1-ra5.md
               - PAC 2 (RA5) - Cultural & Business Etiquette: smr/ingles/pac/pac-2-ra5.md
 
-  # Pestaña 2: Autoaprendizaje y Fundamentos de Programación
-  - ☕ Autoaprendizaje:
-      - "Ruta Java (Helsinki MOOC)": autoaprendizaje/java.md
-      - "Código en GitHub": https://github.com/Beamspark/java-programming-mooc
+ # Pestaña 2: Autoaprendizaje
+  - ☕ Autoaprendizaje: autoaprendizaje/java.md
 
-  # Pestaña 3: Portfolio de Proyectos
-  - 🚀 Proyectos:
-      - "Índice de Proyectos": proyectos/index.md
-      - "Price Comparison Agent": https://github.com/Beamspark/price-comparison-agent
+  # Pestaña 3: Catálogo de proyectos (un solo archivo)
+  - 🚀 Proyectos: proyectos/index.md
