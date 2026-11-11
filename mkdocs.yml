@@ -38,7 +38,7 @@ extra_javascript:
 nav:
   - 💻 Inicio: index.md
 
-  # Pestaña 1: Grado Medio SMR (Tu bloque actual completo sin modificaciones)
+  # Pestaña 1: Ciclo Formativo de Grado Medio (SMR)
   - 🖥️ CFGM Sistemas Microinformáticos y Redes:
       - smr/index.md
       - 🛠️ Montaje y Mantenimiento de Equipos:
@@ -272,8 +272,8 @@ nav:
               - PAC 1 (RA5) - Reported speech: smr/ingles/pac/pac-1-ra5.md
               - PAC 2 (RA5) - Cultural & Business Etiquette: smr/ingles/pac/pac-2-ra5.md
 
- # Pestaña 2: Autoaprendizaje
+  # Pestaña 2: Autoaprendizaje (Apunta directamente a su ficha técnica)
   - ☕ Autoaprendizaje: autoaprendizaje/java.md
 
-  # Pestaña 3: Catálogo de proyectos (un solo archivo)
+  # Pestaña 3: Catálogo de proyectos (Centralizado en su índice)
   - 🚀 Proyectos: proyectos/index.md
