@@ -1,5 +1,5 @@
-site_name: Cuaderno Técnico CFGM SMR - Luis
-site_description: Apuntes y documentación técnica del Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes.
+site_name: Cuaderno Técnico | SMR · DAM · Dev - Luis
+site_description: Base de conocimiento y documentación técnica de FP Informática (SMR, DAM), desarrollo de software y proyectos.
 site_author: Luis
 
 theme:
@@ -37,6 +37,8 @@ extra_javascript:
 
 nav:
   - 💻 Inicio: index.md
+
+  # Pestaña 1: Grado Medio SMR (Tu bloque actual completo sin modificaciones)
   - 🖥️ CFGM Sistemas Microinformáticos y Redes:
       - smr/index.md
       - 🛠️ Montaje y Mantenimiento de Equipos:
@@ -269,3 +271,13 @@ nav:
               - PAC 2 (RA4) - Technical Writing Task: smr/ingles/pac/pac-2-ra4.md
               - PAC 1 (RA5) - Reported speech: smr/ingles/pac/pac-1-ra5.md
               - PAC 2 (RA5) - Cultural & Business Etiquette: smr/ingles/pac/pac-2-ra5.md
+
+  # Pestaña 2: Autoaprendizaje y Fundamentos de Programación
+  - ☕ Autoaprendizaje (Java):
+      - "Ruta Java (Helsinki MOOC)": autoaprendizaje/java.md
+      - "Código en GitHub": https://github.com/Beamspark/java-programming-mooc
+
+  # Pestaña 3: Portfolio de Proyectos
+  - 🚀 Proyectos:
+      - "Índice de Proyectos": proyectos/index.md
+      - "Price Comparison Agent": https://github.com/Beamspark/price-comparison-agent
